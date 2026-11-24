@@ -1,75 +1,117 @@
 // Arma el HTML de cada pantalla. Todo texto que viene de los datos pasa por esc().
-import { conNovedad, diasHasta, fechaRelativa } from "./logica.js";
+import {
+  agruparPorAnio, conNovedad, conteos, diasHasta, esAutorDelBloque, fechaRelativa, resumenCoautores,
+} from "./logica.js";
 
 export const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+export const idArchivo = (numero) => numero.replaceAll("/", "-");
 
-const TIPO = { ley: "Ley", resolucion: "Resolución", declaracion: "Declaración", otros: "Otro" };
+const TIPO = { ley: "LEY", resolucion: "RESOLUCIÓN", declaracion: "DECLARACIÓN", otros: "OTRO" };
+const TIPO_TEXTO = { ley: "Ley", resolucion: "Resolución", declaracion: "Declaración", otros: "Otro" };
 const RESULTADO = { aprobado: "Aprobado", caduco: "Caducó", archivado: "Archivado", rechazado: "No aprobado" };
 const ESTACIONES = ["Presentado", "En comisión", "Con dictamen"];
-const fechaLarga = (iso) => new Intl.DateTimeFormat("es-AR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
-  .format(new Date(`${iso.slice(0, 10)}T12:00:00Z`));
-export const idArchivo = (numero) => numero.replaceAll("/", "-");
+const MUERTOS = new Set(["caduco", "archivado", "rechazado"]);
+
+const fecha = (iso, opciones = { day: "numeric", month: "long", year: "numeric" }) =>
+  new Intl.DateTimeFormat("es-AR", { ...opciones, timeZone: "UTC" }).format(new Date(`${iso.slice(0, 10)}T12:00:00Z`));
+const fechaCorta = (iso) => fecha(iso, { day: "numeric", month: "short", year: "numeric" });
+const plural = (n, uno, varios) => `${n} ${n === 1 ? uno : varios}`;
+
+// --- piezas ------------------------------------------------------------------
+
+export function avatar(leg, tam = "m") {
+  if (!leg) return "";
+  if (leg.foto) return `<img class="avatar ${tam}" src="${esc(leg.foto)}" alt="" loading="lazy">`;
+  const ini = leg.nombre.split(" ").filter(Boolean);
+  const letras = (ini[0][0] + (ini.at(-1)[0] || "")).toUpperCase();
+  return `<span class="avatar ${tam}" aria-hidden="true">${esc(letras)}</span>`;
+}
 
 export function que(glosario, clave) {
   const g = glosario[clave];
-  if (!g) return "";
-  return `<details class="que"><summary>¿Qué significa?</summary><p>${esc(g.texto)}</p></details>`;
+  return g ? `<details class="que"><summary>¿Qué significa?</summary><p>${esc(g.texto)}</p></details>` : "";
 }
 
-function claseRuta(e, hoy, aj) {
-  const r = e.estado.resultado;
-  if (r === "aprobado") return "aprobado";
-  if (r) return "muerto";
-  const c = e.estado.caduca_el;
-  if (c && diasHasta(c, hoy) <= aj.dias_por_caducar) return "urgente";
-  return "";
+function claseResultado(r) {
+  return r === "aprobado" ? "aprobado" : MUERTOS.has(r) ? "muerto" : "";
 }
 
-export function ruta(e, hoy, aj) {
+function nombresEstaciones(e) {
+  return [...ESTACIONES, RESULTADO[e.estado.resultado] ?? "Votación"];
+}
+
+function ruta(e, { grande = false } = {}) {
   const etapa = e.estado.etapa;
-  const final = RESULTADO[e.estado.resultado] ?? "Votación";
-  const nombres = [...ESTACIONES, final];
+  const nombres = nombresEstaciones(e);
   const items = nombres.map((n, i) => {
     const paso = i + 1;
     const clase = paso < etapa ? "hecho" : paso === etapa ? "actual" : "";
-    const actual = paso === etapa ? ' aria-current="step"' : "";
-    return `<li class="${clase}"${actual}>${esc(n)}</li>`;
+    let extra = "";
+    if (grande && paso === 1 && e.estado.ingreso) extra = `<small>${esc(fechaCorta(e.estado.ingreso))}</small>`;
+    if (grande && paso === etapa && paso === 4 && e.estado.fecha_resultado) extra = `<small>${esc(fechaCorta(e.estado.fecha_resultado))}</small>`;
+    return `<li class="${clase}"${paso === etapa ? ' aria-current="step"' : ""}>${esc(n)}${extra}</li>`;
   }).join("");
-  const resumen = `Etapa ${etapa} de 4: ${etapa === 4 ? final : ESTACIONES[etapa - 1]}`;
-  return `<ol class="ruta ${claseRuta(e, hoy, aj)}" aria-label="${esc(resumen)}">${items}</ol>`;
+  const etiqueta = `Etapa ${etapa} de 4: ${nombres[etapa - 1]}`;
+  return `<ol class="ruta ${grande ? "grande" : "compacta"} ${claseResultado(e.estado.resultado)}" aria-label="${esc(etiqueta)}">${items}</ol>`;
 }
 
-function lineaCaducidad(e, hoy, aj) {
+function estadoFila(e) {
+  const etapa = e.estado.etapa;
+  return `<div class="estado-fila ${claseResultado(e.estado.resultado)}">${esc(nombresEstaciones(e)[etapa - 1])}<span>paso ${etapa} de 4</span></div>`;
+}
+
+function lineaVence(e, hoy, aj) {
   const c = e.estado.caduca_el;
   if (!c || e.estado.resultado) return "";
   const d = diasHasta(c, hoy);
-  if (d < 0) return `<p class="movimiento">Debería haber caducado el ${esc(fechaLarga(c))}; el portal todavía no lo registra.</p>`;
-  if (d <= aj.dias_por_caducar) return `<p class="caduca">Caduca en ${d} ${d === 1 ? "día" : "días"} (aprox. ${esc(fechaLarga(c))})</p>`;
-  return `<p class="movimiento">Caduca aprox. el ${esc(fechaLarga(c))}</p>`;
+  if (d < 0) return `<div class="vence tranqui">El plazo venció el ${esc(fechaCorta(c))}; el portal todavía no lo registra</div>`;
+  if (d <= aj.dias_por_caducar) return `<div class="vence">Caduca en ${plural(d, "día", "días")}</div>`;
+  return `<div class="vence tranqui">Caduca aprox. el ${esc(fecha(c))}</div>`;
+}
+
+function coautores(e, ctx) {
+  const r = resumenCoautores(e.autores_bloque, ctx.propio, e.n_autores ?? e.autores_bloque.length);
+  if (!r.caras.length && !r.otros) return "";
+  const caras = r.caras.map((s) => avatar(ctx.legs[s], "s")).join("");
+  const conBloque = r.caras.length + r.masBloque;
+  const partes = [];
+  if (conBloque) partes.push(`${conBloque} del bloque`);
+  if (r.otros) partes.push(`${r.otros} ${r.otros === 1 ? "autor" : "autores"} ${conBloque ? "más" : "de otros bloques"}`);
+  const texto = `${ctx.propio ? "Con " : ""}${partes.join(" y ")}`;
+  return `<div class="avatares">${caras}<span>${esc(texto.charAt(0).toUpperCase() + texto.slice(1))}</span></div>`;
 }
 
 export function filaProyecto(e, ctx) {
-  const { hoy, aj, novedades, nombres, mostrarAutores } = ctx;
-  const nov = conNovedad(novedades, hoy).has(e.numero);
+  const nov = ctx.nov.has(e.numero);
   const um = e.estado.ultimo_movimiento;
-  const autores = mostrarAutores ? `<span>${esc(e.autores_bloque.map((s) => nombres[s] ?? s).join(", "))}</span>` : "";
+  const comision = e.comisiones?.[0];
   return `<li class="proyecto"><a href="#/exp/${esc(idArchivo(e.numero))}">
-    <span class="cabeza"><span class="tipo">${TIPO[e.tipo]}</span><span>${esc(e.numero)}</span>${autores}${nov ? '<span class="nuevo">Con novedades</span>' : ""}</span>
-    <span class="titulo">${esc(e.titulo)}</span>
-    ${ruta(e, hoy, aj)}
-    ${um ? `<p class="movimiento">Último movimiento ${esc(fechaRelativa(um.fecha, hoy))}: ${esc(um.texto)}</p>` : ""}
-    ${lineaCaducidad(e, hoy, aj)}
+    <div>
+      <div class="meta"><span class="tipo ${esc(e.tipo)}">${TIPO[e.tipo]}</span><span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}${nov ? '<span class="nuevo">● Novedad</span>' : ""}</div>
+      <div class="titulo">${esc(e.titulo)}</div>
+      ${um ? `<div class="ultimo">${esc(um.texto)}, ${esc(fechaRelativa(um.fecha, ctx.hoy))}</div>` : ""}
+    </div>
+    <div class="lado">${estadoFila(e)}${ruta(e)}${lineaVence(e, ctx.hoy, ctx.aj)}${coautores(e, ctx)}</div>
   </a></li>`;
 }
 
-export function botonesResumen(r, activa) {
-  const b = (clave, n, texto, urgente = false) =>
-    `<button type="button" data-tarjeta="${clave}" aria-pressed="${activa === clave}" class="${urgente && n ? "urgente" : ""}">
+export function lista(exps, ctx, limite) {
+  if (!exps.length) return '<p class="vacio">No hay proyectos que coincidan. Probá con otra pestaña o borrá la búsqueda.</p>';
+  const resto = exps.length - limite;
+  return `<ul class="lista">${exps.slice(0, limite).map((e) => filaProyecto(e, ctx)).join("")}</ul>${resto > 0
+    ? `<p class="mas"><button type="button" class="boton sec" data-mas>Mostrar ${Math.min(resto, 30)} más (quedan ${resto})</button></p>` : ""}`;
+}
+
+// --- indicadores, pestañas y filtros -------------------------------------------
+
+export function indicadores(r, activa) {
+  const b = (clave, n, texto, rojo = false) =>
+    `<button type="button" class="ind ${rojo && n ? "rojo" : ""}" data-tarjeta="${clave}" aria-pressed="${activa === clave}">
       <span class="n">${n}</span><span class="t">${texto}</span></button>`;
-  return `<div class="resumen" role="group" aria-label="Filtrar por situación">
+  return `<div class="indicadores" role="group" aria-label="Filtrar por situación">
     ${b("novedades", r.novedades, "con novedades esta semana")}
-    ${b("porCaducar", r.porCaducar, "por caducar en 60 días", true)}
+    ${b("porCaducar", r.porCaducar, `caducan en los próximos ${r.dias} días`, true)}
     ${b("enComision", r.enComision, "en estudio en comisión")}
     ${b("aprobados", r.aprobadosAnio, "aprobados este año")}
   </div>`;
@@ -77,97 +119,196 @@ export function botonesResumen(r, activa) {
 
 const NOMBRE_TARJETA = {
   novedades: "con novedades en los últimos 7 días",
-  porCaducar: "que caducan en los próximos 60 días",
+  porCaducar: "que caducan pronto, los que vencen antes primero",
   enComision: "en estudio en comisión",
   aprobados: "aprobados este año",
-  caducados: "caducados o archivados",
 };
 
-export function controles(estado, cuenta) {
-  const tab = (clave, texto) =>
-    `<button type="button" role="tab" data-pestania="${clave}" aria-selected="${!estado.tarjeta && estado.pestania === clave}">${texto}</button>`;
-  const filtro = estado.tarjeta
-    ? `<div class="filtro-activo"><span>Mostrando ${cuenta} ${cuenta === 1 ? "proyecto" : "proyectos"} ${NOMBRE_TARJETA[estado.tarjeta]}.</span><button type="button" data-quitar>Ver todos</button></div>`
+export function herramientas(vista, exps, cuenta, glosario) {
+  const c = conteos(exps);
+  const tab = (clave, texto) => `<button type="button" role="tab" data-pestania="${clave}" aria-selected="${!vista.tarjeta && vista.pestania === clave}">${texto}<span class="c">${c[clave]}</span></button>`;
+  const filtro = vista.tarjeta
+    ? `<div class="filtro-activo"><span>${plural(cuenta, "proyecto", "proyectos")} ${NOMBRE_TARJETA[vista.tarjeta]}.</span><button type="button" class="enlace" data-quitar>Ver todos</button></div>`
     : "";
-  return `<div class="controles">
-    <div class="pestanias" role="tablist" aria-label="Tipo de proyecto">
-      ${tab("fondo", "Leyes y resoluciones")}${tab("declaraciones", "Declaraciones")}${tab("otros", "Otros")}
+  const explica = !vista.tarjeta && vista.pestania === "caducados"
+    ? `<p class="explica">${esc(glosario.caducidad?.texto)} ${esc(glosario.rehabilitacion?.texto)}</p>` : "";
+  return `<div class="herr">
+    <div class="tabs" role="tablist" aria-label="Tipo de proyecto">
+      ${tab("fondo", "Leyes y resoluciones")}${tab("declaraciones", "Declaraciones")}${tab("otros", "Otros")}${tab("caducados", "Caducados y archivados")}
     </div>
-    <label class="buscar"><span class="saltar">Buscar</span>
-      <input type="search" placeholder="Buscar por tema o número" value="${esc(estado.texto)}" data-buscar></label>
-  </div>${filtro}`;
+    <div class="buscar">
+      <label class="oculto" for="buscar">Buscar</label>
+      <input id="buscar" class="campo" type="search" placeholder="Buscar por tema o número" value="${esc(vista.texto)}" data-buscar>
+      <label class="oculto" for="orden">Orden</label>
+      <select id="orden" class="campo" data-orden>
+        <option value="recientes"${vista.orden === "recientes" ? " selected" : ""}>Más recientes</option>
+        <option value="vencen"${vista.orden === "vencen" ? " selected" : ""}>Vencen antes</option>
+      </select>
+    </div>
+  </div>${filtro}${explica}`;
 }
 
-export function explicaCaducados(glosario) {
-  return `<p class="explica">${esc(glosario.caducidad.texto)} ${esc(glosario.rehabilitacion.texto)}</p>`;
+// --- pantallas ------------------------------------------------------------------
+
+export function elegir(legisladores, statsPorSlug, texto) {
+  const q = texto.trim().toLowerCase();
+  const tarjetas = legisladores
+    .filter((l) => !q || l.nombre.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
+      .includes(q.normalize("NFKD").replace(/[̀-ͯ]/g, "")))
+    .map((l) => {
+      const s = statsPorSlug[l.slug];
+      return `<li><a class="tarjeta-leg" href="#/leg/${esc(l.slug)}">${avatar(l, "l")}<b>${esc(l.nombre)}</b>
+        <small>${l.departamental ? "Legislador/a departamental" : "Distrito único"}</small>
+        <small>${plural(s.total, "proyecto", "proyectos")}</small>
+        ${s.porCaducar ? `<span class="alertita">${plural(s.porCaducar, "caduca pronto", "caducan pronto")}</span>` : ""}</a></li>`;
+    }).join("");
+  return tarjetas ? `<ul class="grilla">${tarjetas}</ul>` : '<p class="vacio">No hay ningún legislador del bloque con ese nombre.</p>';
 }
 
-export function lista(exps, ctx, limite) {
-  if (!exps.length) return '<p class="vacio">No hay proyectos que coincidan. Probá con otra pestaña o borrá la búsqueda.</p>';
-  const filas = exps.slice(0, limite).map((e) => filaProyecto(e, ctx)).join("");
-  const resto = exps.length - limite;
-  return `<ul class="lista">${filas}</ul>${resto > 0
-    ? `<p class="mas"><button type="button" data-mas>Mostrar ${Math.min(resto, 30)} más (quedan ${resto})</button></p>` : ""}`;
+export function bandaElegir(texto) {
+  return `<div class="banda"><div class="cont">
+    <h1>¿De quién querés ver los proyectos?</h1>
+    <p class="bajada">Elegí un legislador o legisladora del bloque. Desde este dispositivo vas a entrar directo a su panel la próxima vez.</p>
+    <div style="margin-top:20px"><label class="oculto" for="buscar-leg">Buscar por nombre</label>
+      <input id="buscar-leg" class="campo" type="search" placeholder="Buscar por nombre" value="${esc(texto)}" data-buscar-leg></div>
+  </div></div>`;
 }
 
-export function elegir(legisladores) {
-  const items = [...legisladores].sort((a, b) => a.nombre.split(" ").at(-1).localeCompare(b.nombre.split(" ").at(-1), "es"))
-    .map((l) => `<li><a href="#/leg/${esc(l.slug)}"><span class="nomina-nombre">${esc(l.nombre)}${l.departamental ? '<span class="depto">Legislador/a departamental</span>' : ""}</span>
-      <span class="nomina-cant">${l.expedientes.length} proyectos</span></a></li>`).join("");
-  return `<h1>¿De quién querés ver los proyectos?</h1>
-    <p class="intro">Elegí un legislador o legisladora del bloque. La próxima vez que entres desde este dispositivo vas a ir directo a sus proyectos.</p>
-    <ul class="nomina">${items}</ul>`;
-}
-
-export function titular(leg, cantidad) {
-  return `<div class="titular"><a class="volver" href="#/elegir">Cambiar de legislador</a>
+export function bandaLegislador(leg, total) {
+  return `<div class="perfil">${avatar(leg, "xl")}<div>
+    ${leg.cargo ? `<span class="etiqueta">${esc(leg.cargo)}</span>` : ""}
     <h1>${esc(leg.nombre)}</h1>
-    <p class="titular-sub">Firmó ${cantidad} ${cantidad === 1 ? "proyecto" : "proyectos"} en este mandato, como autor o coautor.</p></div>`;
+    <p class="bajada">${total
+      ? `Firmó <b>${plural(total, "proyecto", "proyectos")}</b> en este mandato, como autor/a o coautor/a.`
+      : "Todavía no hay proyectos cargados. Si la carga inicial está en curso, van a aparecer en las próximas actualizaciones."}</p>
+  </div></div>`;
+}
+
+export function paraAtender(caducan, novedades, expPorNumero, hoy) {
+  if (!caducan.length && !novedades.length) return "";
+  const alerta = (e) => `<a class="alerta" href="#/exp/${esc(idArchivo(e.numero))}">
+      <div class="cuenta"><b>${diasHasta(e.estado.caduca_el, hoy)}</b><small>días</small></div>
+      <div><div class="tt">${esc(e.titulo)}</div><div class="mm">${TIPO_TEXTO[e.tipo]} · ${esc(e.numero)}${e.comisiones?.[0] ? ` · ${esc(e.comisiones[0])}` : ""}</div></div></a>`;
+  const nov = (n) => {
+    const e = expPorNumero[n.numero];
+    return `<a class="nov" href="#/exp/${esc(idArchivo(n.numero))}"><span class="qq">${esc(fechaRelativa(n.fecha, hoy).replace(/^./, (c) => c.toUpperCase()))} · ${esc(n.texto)}</span>
+      <span class="tt">${esc(e?.titulo ?? n.numero)}</span></a>`;
+  };
+  return `<section class="seccion" aria-labelledby="t-atender"><div class="titulo-sec"><h2 id="t-atender">Para atender</h2></div>
+    <div class="atender">
+      <div class="caja"><div class="caja-cab"><span class="punto" style="background:var(--rojo)"></span>Caducan pronto si no se tratan</div>
+        ${caducan.length ? caducan.slice(0, 5).map(alerta).join("") : '<p class="nada">Ningún proyecto caduca en los próximos 60 días.</p>'}
+        ${caducan.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="porCaducar">Ver los ${caducan.length}</button></div>` : ""}
+      </div>
+      <div class="caja"><div class="caja-cab"><span class="punto" style="background:var(--azul)"></span>Novedades de la semana</div>
+        ${novedades.length ? novedades.slice(0, 5).map(nov).join("") : '<p class="nada">Esta semana no hubo movimientos.</p>'}
+        ${novedades.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="novedades">Ver las ${novedades.length}</button></div>` : ""}
+      </div>
+    </div></section>`;
+}
+
+export function tablaBloque(filas) {
+  const celda = (n, rojo = false) => `<td class="n ${n ? (rojo ? "rojo" : "") : "nulo"}">${n || "—"}</td>`;
+  const cuerpo = filas.map((f) => {
+    const vivos = f.enComision, aprob = f.aprobadosAnio, muertos = f.caducados;
+    const tot = Math.max(1, f.total);
+    return `<tr data-leg="${esc(f.slug)}"><td><a class="quien2" href="#/leg/${esc(f.slug)}">${avatar(f, "m")}${esc(f.nombre)}</a></td>
+      <td class="n">${f.total}</td>${celda(vivos)}${celda(f.porCaducar, true)}${celda(aprob)}
+      <td><span class="mini" aria-hidden="true"><i style="width:${vivos / tot * 100}%;background:var(--rojo)"></i><i style="width:${aprob / tot * 100}%;background:var(--verde)"></i><i style="width:${muertos / tot * 100}%;background:var(--gris-claro)"></i></span></td></tr>`;
+  }).join("");
+  return `<div class="tabla-cont"><table class="tabla"><thead><tr><th>Legislador</th><th class="n">Proyectos</th><th class="n">En comisión</th><th class="n">Por caducar</th><th class="n">Aprobados este año</th><th>Cómo están</th></tr></thead>
+    <tbody>${cuerpo}</tbody></table></div>
+    <div class="leyenda"><span style="--c:var(--rojo)">En comisión</span><span style="--c:var(--verde)">Aprobados este año</span><span style="--c:var(--gris-claro)">Caducados o archivados</span></div>`;
 }
 
 export function ficha(d, ctx) {
-  const { hoy, aj, glosario, propios } = ctx;
-  const e = { ...d, estado: d.estado };
+  const { hoy, aj, glosario, legsLista, legs, volver, volverNombre } = ctx;
+  const e = d;
   const r = d.estado.resultado;
-  const etiqueta = r ? `<span class="resultado ${r === "aprobado" ? "aprobado" : "muerto"}">${RESULTADO[r]}</span>` : "";
-  // "Sigue el trámite normal" no le dice nada nuevo a quien lee: se omite del recorrido.
+  const deBloque = [], otros = [];
+  for (const a of d.autores) {
+    const slug = esAutorDelBloque(a, legsLista);
+    if (slug) deBloque.push(slug); else otros.push(a);
+  }
+
   const pasos = d.linea_tiempo.filter((t) => t.texto !== "Sigue el trámite normal");
-  const cuando = (t) => [t.fecha && fechaLarga(t.fecha), t.detalle].filter(Boolean).join(", ");
-  const tiempo = pasos.map((t) => `<li>${cuando(t) ? `<span class="cuando">${esc(cuando(t))}</span><br>` : ""}${esc(t.texto)}</li>`).join("");
-  const autores = d.autores.map((a) => `<li class="${propios(a) ? "propio" : ""}">${esc(a)}</li>`).join("");
+  if (d.estado.caduca_el && !r) {
+    pasos.push({ fecha: d.estado.caduca_el, texto: "Vence el plazo de 12 meses", detalle: "Si no se trata antes, caduca. Puede pedirse su rehabilitación.", futuro: true });
+  }
+  const tiempo = agruparPorAnio(pasos).map((g) => `<div class="anio">${esc(g.anio)}</div><ol class="tiempo">${g.pasos.map((p) =>
+    `<li class="paso ${p.futuro ? "futuro" : "hecho"}"><span class="f">${p.fecha ? esc(fecha(p.fecha, { day: "numeric", month: "long" })) : ""}</span><span class="p"><i></i></span>
+      <span class="x"><b>${esc(p.texto)}</b>${p.detalle ? `<small>${esc(p.detalle)}</small>` : ""}</span></li>`).join("")}</ol>`).join("");
+
+  let estadoLateral = "";
+  if (d.estado.caduca_el && !r) {
+    const dias = diasHasta(d.estado.caduca_el, hoy);
+    const usado = Math.min(100, Math.max(0, (365 - dias) / 365 * 100));
+    const urgente = dias <= aj.dias_por_caducar;
+    estadoLateral = `<div class="bloque-l reloj ${urgente ? "" : "tranqui"}"><h3>Tiempo para tratarlo</h3>
+      <div class="grande">${dias >= 0 ? plural(dias, "día", "días") : "Vencido"}</div>
+      <p>${dias >= 0 ? `Caduca aprox. el ${esc(fecha(d.estado.caduca_el))} si no se trata.` : "El plazo ya venció; el portal todavía no registró la caducidad."} ${que(glosario, "caducidad")}</p>
+      <div class="barra" aria-hidden="true"><i style="width:${usado}%"></i></div></div>`;
+  } else if (r) {
+    estadoLateral = `<div class="bloque-l resultado-l ${claseResultado(r)}"><h3>Resultado</h3><div class="grande">${RESULTADO[r]}</div>
+      ${d.estado.fecha_resultado ? `<p class="mm">El ${esc(fecha(d.estado.fecha_resultado))}</p>` : ""}</div>`;
+  }
+
   const comisiones = d.comisiones.length
-    ? `<ul class="personas">${d.comisiones.map((c, i) => `<li${i === 0 ? ' class="propio"' : ""}>${esc(c)}${i === 0 && d.comisiones.length > 1 ? " (principal)" : ""}</li>`).join("")}</ul>`
-    : "<p>Todavía no se giró a ninguna comisión.</p>";
+    ? d.comisiones.map((c, i) => `<div class="com"><span>${esc(c)}</span>${i === 0 && d.comisiones.length > 1 ? "<small>PRINCIPAL</small>" : ""}</div>`).join("")
+    : '<p class="otros">Todavía no se giró a ninguna comisión.</p>';
   const docs = d.documentos.length
-    ? `<ul>${d.documentos.map((x) => `<li>${esc(x.seccion)}: ${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.nombre)}</a>` : `${esc(x.nombre)} (se ve en el portal oficial)`}</li>`).join("")}</ul>`
-    : "<p>Todavía no hay despachos, actas ni texto aprobado.</p>";
+    ? `<ul class="docs">${d.documentos.map((x) => `<li>${esc(x.seccion)}: ${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.nombre)}</a>` : `${esc(x.nombre)} <span class="mm">(se ve en el portal oficial)</span>`}</li>`).join("")}</ul>`
+    : '<p class="otros">Todavía no hay despachos, actas ni texto aprobado.</p>';
   const tipoGlosario = { ley: "ley", resolucion: "resolucion", declaracion: "declaracion" }[d.tipo];
-  return `<article class="ficha">
-    <div class="titular"><a class="volver" href="${esc(ctx.volver)}" data-volver>Volver a la lista</a>
-      <p class="cabeza"><span class="tipo">${TIPO[d.tipo]}</span><span>${esc(d.numero)}</span>${tipoGlosario ? que(glosario, tipoGlosario) : ""}</p>
-      <p class="extracto">${esc(d.extracto)}</p>
-      <div>${etiqueta}</div>
-      ${ruta(e, hoy, aj)}
-      ${lineaCaducidad(e, hoy, aj)}
-      ${d.estado.sobre_tablas ? `<p class="movimiento">Se trató sobre tablas. ${que(glosario, "sobre-tablas")}</p>` : ""}
-    </div>
-    <section class="seccion"><h2>Recorrido</h2><ol class="tiempo">${tiempo || "<li>El portal todavía no muestra movimientos.</li>"}</ol></section>
-    <section class="seccion"><h2>Comisiones ${que(glosario, "comision")}</h2>${comisiones}</section>
-    <section class="seccion"><h2>Autores</h2><ul class="personas">${autores}</ul></section>
-    <section class="seccion"><h2>Documentos ${que(glosario, "despacho")}</h2>${docs}
-      <p><a href="${esc(d.url_portal)}" target="_blank" rel="noopener">Ver este expediente en el portal oficial</a></p></section>
-  </article>`;
+
+  return `<div class="banda"><div class="cont">
+      <div class="miga"><a href="${esc(volver)}">${esc(volverNombre)}</a> › ${esc(d.numero)}</div>
+      <div class="meta"><span class="tipo ${esc(d.tipo)}">${TIPO[d.tipo]}</span><span>${esc(d.numero)}</span>
+        ${d.estado.ingreso ? `<span>Presentado el ${esc(fecha(d.estado.ingreso))}</span>` : ""}${tipoGlosario ? que(glosario, tipoGlosario) : ""}</div>
+      <h1 class="ficha-titulo">${esc(d.tema || d.extracto)}</h1>
+      ${d.tema && d.tema !== d.extracto ? `<p class="extracto-completo">${esc(d.extracto)}</p>` : ""}
+      <div class="estado-ficha"><span class="pill ${claseResultado(r)}">● ${esc(nombresEstaciones(e)[e.estado.etapa - 1])}</span>
+        ${d.estado.sobre_tablas ? `<span>Se trató sobre tablas ${que(glosario, "sobre-tablas")}</span>` : ""}</div>
+      ${ruta(e, { grande: true })}
+    </div></div>
+    <div class="cont dos">
+      <div>
+        <section aria-labelledby="t-rec"><div class="titulo-sec"><h2 id="t-rec">Recorrido</h2></div>
+          ${tiempo || '<p class="otros">El portal todavía no muestra movimientos.</p>'}</section>
+        <section aria-labelledby="t-doc" style="margin-top:28px"><div class="titulo-sec"><h2 id="t-doc">Documentos</h2>${que(glosario, "despacho")}</div>${docs}</section>
+      </div>
+      <aside class="lateral" aria-label="Datos del proyecto">
+        ${estadoLateral}
+        <div class="bloque-l"><h3>Comisiones ${que(glosario, "comision")}</h3>${comisiones}</div>
+        <div class="bloque-l"><h3>Autores del bloque (${deBloque.length})</h3>
+          ${deBloque.map((s) => `<a class="persona" href="#/leg/${esc(s)}">${avatar(legs[s], "m")}${esc(legs[s].nombre)}</a>`).join("") || '<p class="otros">Ninguno.</p>'}
+          ${otros.length ? `<h3 style="margin-top:14px">Otros autores (${otros.length})</h3><p class="otros">${otros.map(esc).join(" · ")}</p>` : ""}
+        </div>
+        <a class="boton sec" href="${esc(d.url_portal)}" target="_blank" rel="noopener">Ver en el portal oficial ↗</a>
+      </aside>
+    </div>`;
 }
 
-export function comoFunciona(glosario) {
+export function comoFunciona(glosario, aj) {
   const def = Object.values(glosario).map((g) => `<div><dt>${esc(g.termino)}</dt><dd>${esc(g.texto)}</dd></div>`).join("");
-  return `<h1>¿Cómo avanza un proyecto?</h1>
-    <p class="intro">Todo proyecto recorre hasta cuatro etapas. Este sitio las muestra como una línea con cuatro paradas.</p>
-    <ol class="etapas">
-      <li><strong>Presentado</strong><p>Se ingresa y se informa en una sesión: toma estado parlamentario.</p></li>
-      <li><strong>En comisión</strong><p>Se gira a una o varias comisiones para que lo estudien. Desde ese momento corre un plazo de 12 meses: si no se trata, caduca.</p></li>
-      <li><strong>Con dictamen</strong><p>La comisión emite su despacho y el proyecto queda listo para votarse en el recinto.</p></li>
-      <li><strong>Resultado</strong><p>Se aprueba o no en una sesión. Si pasó el plazo sin tratarse, caduca, y puede rehabilitarse o archivarse.</p></li>
-    </ol>
-    <section class="seccion" style="margin-top:2.5rem"><h2>Palabras que aparecen en el sitio</h2><dl class="glosario">${def}</dl></section>`;
+  const ultimos = Math.max(1, Math.round(aj.dias_por_caducar / 30));
+  return `<div class="banda"><div class="cont">
+      <h1>Cómo avanza un proyecto</h1>
+      <p class="bajada">Todo proyecto en la Legislatura de Córdoba recorre hasta cuatro etapas. En este sitio las vas a ver como una línea con cuatro paradas.</p>
+    </div></div>
+    <div class="cont seccion">
+      <ol class="etapas4">
+        <li class="et"><span class="num">1</span><h3>Presentado</h3><p>Se ingresa y se informa en una sesión: toma estado parlamentario y existe oficialmente.</p></li>
+        <li class="et"><span class="num">2</span><h3>En comisión</h3><p>Se gira a una o varias comisiones que lo estudian. La primera es la principal.</p></li>
+        <li class="et"><span class="num">3</span><h3>Con dictamen</h3><p>La comisión emite su despacho y el proyecto queda listo para votarse.</p></li>
+        <li class="et"><span class="num">4</span><h3>Resultado</h3><p>Se aprueba o no en el recinto. Una ley aprobada después se promulga o se veta.</p></li>
+      </ol>
+      <div class="plazo">
+        <h3>El plazo de 12 meses</h3>
+        <p>Desde que toma estado parlamentario, un proyecto tiene 12 meses para tratarse. Si no, caduca. Se puede pedir su rehabilitación y vuelve a comisión con un plazo nuevo; si no, se archiva.</p>
+        <div class="linea12" aria-hidden="true">${Array.from({ length: 12 }, (_, i) => `<i class="${i >= 12 - ultimos ? "u" : ""}"></i>`).join("")}</div>
+        <div class="linea12-txt"><span>Mes 1: estado parlamentario</span><b>Últimos ${aj.dias_por_caducar} días: aparece en "Caducan pronto"</b><span>Mes 12: caduca</span></div>
+      </div>
+      <section style="margin-top:44px" aria-labelledby="t-glos"><div class="titulo-sec"><h2 id="t-glos">Palabras que vas a ver</h2></div><dl class="gloss">${def}</dl></section>
+    </div>`;
 }

@@ -4,7 +4,7 @@ import pytest
 
 from conftest import RAIZ, fx
 from recolector.config import cargar_config
-from recolector.etapas import calcular_estado, linea_tiempo, tipo_de
+from recolector.etapas import calcular_estado, linea_tiempo, tema_de, tipo_de
 from recolector.parse import Documento, Evento, Ruta, parse_ruta
 
 M = cargar_config(RAIZ).etapas
@@ -122,3 +122,17 @@ def test_fecha_resultado_se_borra_al_rehabilitar():
     assert calcular_estado(ruta, M).fecha_resultado is None
     ruta.eventos.append(E("Caducado", date(2026, 3, 5)))
     assert calcular_estado(ruta, M).fecha_resultado == date(2026, 3, 5)
+
+
+@pytest.mark.parametrize("extracto,tema", [
+    ("Proyecto de Ley, iniciado por los Legisladores Carignano, Gvozdenovich, Szpanin y Grich, disponiendo la creación del registro provincial.",
+     "Disponiendo la creación del registro provincial."),
+    ("Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art.102 C.P.) sobre la obra.",
+     "Solicitando al Poder Ejecutivo informe (art.102 C.P.) sobre la obra."),
+    ("Proyecto de Declaración, iniciado por el Bloque Unión Cívica Radical, repudiando la condena.", "Repudiando la condena."),
+    ("Proyecto de Ley, iniciado por el Legislador Nigro, que modifica la Ley N° 9086.", "Que modifica la Ley N° 9086."),
+    ("ADHIRIENDO AL 91º ANIVERSARIO DE FUNDACIÓN.", "ADHIRIENDO AL 91º ANIVERSARIO DE FUNDACIÓN."),
+    ("Nota de los Legisladores Ferrero y Tamis, solicitando se incluyan expedientes.", "Solicitando se incluyan expedientes."),
+])
+def test_tema_del_extracto(extracto, tema):
+    assert tema_de(extracto) == tema

@@ -6,7 +6,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from .config import Legislador
-from .etapas import calcular_estado, linea_tiempo, texto_evento, tipo_de
+from .etapas import calcular_estado, linea_tiempo, tema_de, texto_evento, tipo_de
 from .parse import Documento, Evento, Ruta
 from .portal import url_busqueda
 
@@ -63,6 +63,7 @@ def _armar(numero, extracto, autores, comisiones, ruta: Ruta, recolectado: str, 
         "numero": numero,
         "tipo": tipo_de(numero),
         "extracto": extracto,
+        "tema": tema_de(extracto),
         "autores": autores,
         "comisiones": comisiones,
         "estado": {k: _iso(v) for k, v in asdict(estado).items() if k != "desconocidos"},
@@ -131,7 +132,7 @@ def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: d
         bloque = sorted(l.slug for l in legisladores if any(l.es_autor(a) for a in d["autores"]))
         if not bloque:
             continue
-        expedientes[d["numero"]] = {"tipo": d["tipo"], "titulo": recortar(d["extracto"], 140),
+        expedientes[d["numero"]] = {"tipo": d["tipo"], "titulo": recortar(d.get("tema") or d["extracto"], 140),
                                     "autores_bloque": bloque, "comisiones": d["comisiones"],
                                     "n_autores": len(d["autores"]),
                                     "estado": d["estado"]}

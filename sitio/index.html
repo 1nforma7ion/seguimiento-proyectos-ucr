@@ -4,28 +4,36 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
-  <title>Proyectos del bloque UCR</title>
+  <title>Seguimiento legislativo · Bloque UCR</title>
   <meta name="description" content="Estado de los proyectos presentados por los legisladores del bloque UCR en la Legislatura de Córdoba.">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23C3122F'/%3E%3C/svg%3E">
+  <link rel="icon" href="logo-ucr.svg" type="image/svg+xml">
+  <link rel="preload" href="fuentes/public-sans-latin-400-normal.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="fuentes/public-sans-latin-700-normal.woff" as="font" type="font/woff" crossorigin>
   <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
   <a class="saltar" href="#app">Ir al contenido</a>
-  <div id="aviso" class="aviso" role="status" hidden></div>
+  <div id="aviso" class="aviso" role="status" hidden><div class="cont" id="aviso-texto"></div></div>
   <header class="cabecera">
-    <a class="marca" href="#/">
-      <svg class="marca-ruta" viewBox="0 0 40 10" aria-hidden="true"><line x1="4" y1="5" x2="36" y2="5"/><circle cx="4" cy="5" r="3"/><circle cx="15" cy="5" r="3"/><circle cx="26" cy="5" r="3"/><circle cx="36" cy="5" r="3"/></svg>
-      <span>Proyectos del bloque UCR</span>
-    </a>
-    <nav class="menu" aria-label="Secciones">
-      <a href="#/bloque">Todo el bloque</a>
-      <a href="#/como-funciona">¿Cómo avanza un proyecto?</a>
-    </nav>
+    <div class="cont">
+      <a class="marca" href="#/">
+        <img src="logo-ucr.svg" alt="UCR" width="34" height="34">
+        <span class="marca-texto"><small>Bloque UCR · Legislatura de Córdoba</small><b>Seguimiento legislativo</b></span>
+      </a>
+      <nav class="menu" aria-label="Secciones">
+        <a href="#/" data-menu="mios">Mis proyectos</a>
+        <a href="#/bloque" data-menu="bloque">Todo el bloque</a>
+        <a href="#/como-funciona" data-menu="como">Cómo avanza un proyecto</a>
+      </nav>
+      <a class="quien" id="quien" href="#/elegir" hidden></a>
+    </div>
   </header>
-  <main id="app" tabindex="-1"><p class="cargando">Cargando datos…</p></main>
+  <main id="app" tabindex="-1"><div class="cont"><p class="cargando">Cargando datos…</p></div></main>
   <footer class="pie">
-    <p id="pie-datos"></p>
-    <p>Fuente: Legislatura de la Provincia de Córdoba, sistema de Gestión Legislativa Digital. Este sitio no es oficial de la Legislatura.</p>
+    <div class="cont">
+      <span><b>Seguimiento legislativo · Bloque UCR</b><br><span id="pie-datos"></span></span>
+      <span>Fuente: Legislatura de la Provincia de Córdoba (Gestión Legislativa Digital).<br>Este sitio no es oficial de la Legislatura.</span>
+    </div>
   </footer>
   <script type="module" src="js/app.js"></script>
 </body>

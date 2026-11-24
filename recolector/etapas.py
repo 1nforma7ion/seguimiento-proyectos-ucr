@@ -1,11 +1,33 @@
 """Traduce el recorrido de un expediente a 4 etapas en lenguaje simple."""
 import calendar
+import re
 from dataclasses import dataclass, field
 from datetime import date
 
 from .parse import Evento, Ruta
 
 TIPOS = {"L": "ley", "R": "resolucion", "D": "declaracion"}
+
+
+RE_AUTORES = re.compile(r"(iniciado por|de los legisladores|de la legisladora|del legislador)\b", re.I)
+RE_TEMA = re.compile(r",\s+(?=(?:[a-záéíóúñ]+(?:ando|endo|iendo)|que|para|por el cual|por la cual|mediante|sobre)\b)")
+
+
+def tema_de(extracto: str) -> str:
+    """El tema del proyecto, sin el encabezado "Proyecto de X, iniciado por …, ".
+
+    Los extractos del portal empiezan con el tipo y la lista de autores; el tema arranca
+    en el primer verbo ("disponiendo", "solicitando", "que modifica"…). Si no se reconoce
+    el formato, se devuelve el extracto tal cual.
+    """
+    autores = RE_AUTORES.search(extracto)
+    if not autores:
+        return extracto
+    tema = RE_TEMA.search(extracto, autores.end())
+    if not tema:
+        return extracto
+    resto = extracto[tema.end():].strip()
+    return resto[:1].upper() + resto[1:] if resto else extracto
 
 
 def tipo_de(numero: str) -> str:

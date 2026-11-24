@@ -145,3 +145,10 @@ def test_indice_n_autores(tmp_path):
     guardar_expediente(tmp_path, exp(autores=("Ferrero, Alejandra", "Otro, Ajeno", "Juez, Daniel")), M)
     idx = construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)
     assert idx["expedientes"]["48498/L/26"]["n_autores"] == 3
+
+
+def test_titulo_del_indice_es_el_tema(tmp_path):
+    guardar_expediente(tmp_path, exp(), M)
+    idx = construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)
+    assert idx["expedientes"]["48498/L/26"]["titulo"] == "Creando la Comisión…"
+    assert leer(tmp_path / "expedientes" / "48498-L-26.json")["tema"] == "Creando la Comisión…"
