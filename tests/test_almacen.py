@@ -1,0 +1,99 @@
+import json
+from datetime import date, datetime, timedelta, timezone
+
+from conftest import RAIZ
+from recolector.almacen import (Expediente, agregar_novedades, cargar_expediente, construir_indice,
+                                escribir_estado, guardar_expediente, id_archivo, recortar)
+from recolector.config import cargar_config
+from recolector.parse import Evento, Ruta
+
+CFG = cargar_config(RAIZ)
+M = CFG.etapas
+HOY = date(2026, 11, 24)
+AR = timezone(timedelta(hours=-3))
+AHORA = datetime(2026, 11, 24, 7, 10, tzinfo=AR)
+
+
+def exp(numero="48498/L/26", eventos=None, autores=("Ferrero, Alejandra",)):
+    eventos = eventos or [Evento("Estado", "Ingresado", "Sesión Ordinaria 18 del Período 148", 148, date(2026, 10, 29)),
+                          Evento("Estado", "En Comisión", "Sesión Ordinaria 18 del Período 148", 148, date(2026, 10, 29))]
+    return Expediente(numero, "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando la Comisión…",
+                      list(autores), ["Legislación General"], Ruta(eventos), AHORA)
+
+
+def leer(p):
+    return json.loads(p.read_text(encoding="utf-8"))
+
+
+def test_id_archivo():
+    assert id_archivo("48498/L/26") == "48498-L-26"
+
+
+def test_guardar_nuevo_devuelve_nuevo(tmp_path):
+    assert guardar_expediente(tmp_path, exp(), M) == ["Nuevo proyecto en seguimiento"]
+    d = leer(tmp_path / "expedientes" / "48498-L-26.json")
+    assert d["tipo"] == "ley"
+    assert d["estado"]["etapa"] == 2 and d["estado"]["caduca_el"] == "2027-10-29"
+    assert d["linea_tiempo"][0]["texto"] == "Se presentó el proyecto"
+    assert d["url_portal"] == "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48498%2FL%2F26"
+    assert d["recolectado"] == "2026-11-24T07:10:00-03:00"
+
+
+def test_guardar_detecta_evento_nuevo(tmp_path):
+    guardar_expediente(tmp_path, exp(), M)
+    e2 = exp()
+    e2.ruta.eventos.append(Evento("Estado", "Caducado", None, None, date(2027, 10, 29)))
+    assert guardar_expediente(tmp_path, e2, M) == ["Caducó: pasaron 12 meses sin tratarse"]
+
+
+def test_guardar_sin_cambios_devuelve_vacio(tmp_path):
+    guardar_expediente(tmp_path, exp(), M)
+    assert guardar_expediente(tmp_path, exp(), M) == []
+
+
+def test_cargar_expediente(tmp_path):
+    assert cargar_expediente(tmp_path, "48498/L/26") is None
+    guardar_expediente(tmp_path, exp(), M)
+    assert cargar_expediente(tmp_path, "48498/L/26")["numero"] == "48498/L/26"
+
+
+def test_novedades_poda_30_dias(tmp_path):
+    agregar_novedades(tmp_path, "1/L/26", ["vieja"], HOY - timedelta(days=31), 30)
+    agregar_novedades(tmp_path, "2/L/26", ["nueva"], HOY, 30)
+    assert leer(tmp_path / "novedades.json") == [{"numero": "2/L/26", "fecha": "2026-11-24", "texto": "nueva"}]
+
+
+def test_indice_expediente_en_dos_legisladores(tmp_path):
+    guardar_expediente(tmp_path, exp(autores=("Ferrero, Alejandra", "Bria, Jose Alberto", "Otro, Ajeno")), M)
+    idx = construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)
+    por_slug = {l["slug"]: l for l in idx["legisladores"]}
+    assert por_slug["ferrero"]["expedientes"] == ["48498/L/26"]
+    assert por_slug["bria"]["expedientes"] == ["48498/L/26"]
+    assert por_slug["austin"]["expedientes"] == []
+    assert list(idx["expedientes"]) == ["48498/L/26"]
+    assert idx["expedientes"]["48498/L/26"]["autores_bloque"] == ["bria", "ferrero"]
+    assert idx["ajustes"]["dias_por_caducar"] == 60
+    assert por_slug["bria"]["nombre"] == "José Alberto Bría" and por_slug["valiente"]["departamental"] is True
+    assert leer(tmp_path / "indice.json") == idx
+
+
+def test_titulo_recortado_140():
+    largo = "palabra " * 40
+    t = recortar(largo, 140)
+    assert len(t) <= 141 and t.endswith("…") and not t[:-1].endswith(" ")
+    assert recortar("corto", 140) == "corto"
+
+
+def test_estado_fallido_conserva_ultima_ok(tmp_path):
+    t2 = AHORA + timedelta(days=1)
+    escribir_estado(tmp_path, True, [], AHORA)
+    escribir_estado(tmp_path, False, ["x"], t2)
+    d = leer(tmp_path / "estado.json")
+    assert d["ultima_actualizacion_ok"] == AHORA.isoformat()
+    assert d["ultima_corrida"] == t2.isoformat()
+    assert d["ok"] is False and d["advertencias"] == ["x"]
+
+
+def test_json_utf8_sin_escapar(tmp_path):
+    guardar_expediente(tmp_path, exp(), M)
+    assert "Comisión" in (tmp_path / "expedientes" / "48498-L-26.json").read_text(encoding="utf-8")
