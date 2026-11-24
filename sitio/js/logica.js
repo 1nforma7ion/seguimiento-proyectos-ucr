@@ -97,3 +97,70 @@ export function estaDesactualizado(estado, hoy, diasHabiles) {
   }
   return habiles > diasHabiles;
 }
+
+// --- Rediseño -----------------------------------------------------------------
+
+export function esAutorDelBloque(nombre, legs) {
+  const n = normalizar(nombre);
+  const l = legs.find((x) => [x.nombre_portal, ...(x.alias || [])].some((a) => normalizar(a) === n));
+  return l ? l.slug : null;
+}
+
+export function proximosACaducar(exps, hoy, aj) {
+  return exps.filter((e) => porCaducar(e, hoy, aj))
+    .sort((a, b) => a.estado.caduca_el.localeCompare(b.estado.caduca_el));
+}
+
+export function novedadesRecientes(novedades, hoy, dias = 7) {
+  const ultima = new Map();
+  for (const n of novedades) {
+    if (-diasHasta(n.fecha, hoy) > dias) continue;
+    const prev = ultima.get(n.numero);
+    if (!prev || n.fecha >= prev.fecha) ultima.set(n.numero, n);
+  }
+  return [...ultima.values()].sort((a, b) => b.fecha.localeCompare(a.fecha) || a.numero.localeCompare(b.numero));
+}
+
+export function conteos(exps) {
+  const c = { fondo: 0, declaraciones: 0, otros: 0, caducados: 0 };
+  for (const e of exps) {
+    if (MUERTOS.has(e.estado.resultado)) c.caducados += 1;
+    else for (const [p, tipos] of Object.entries(PESTANIAS)) if (tipos.has(e.tipo)) c[p] += 1;
+  }
+  return c;
+}
+
+export function ordenarPor(exps, criterio, novedades, hoy) {
+  if (criterio !== "vencen") return ordenar(exps, novedades, hoy);
+  const v = (e) => e.estado.caduca_el ?? "9999";
+  return [...exps].sort((a, b) => v(a).localeCompare(v(b)) || a.numero.localeCompare(b.numero));
+}
+
+export function resumenCoautores(slugsBloque, propio, nAutores) {
+  const otrosBloque = slugsBloque.filter((s) => s !== propio);
+  const caras = otrosBloque.slice(0, 4);
+  return { caras, masBloque: otrosBloque.length - caras.length, otros: Math.max(0, nAutores - slugsBloque.length) };
+}
+
+export function porLegislador(indice, hoy, aj) {
+  return indice.legisladores.map((l) => {
+    const exps = l.expedientes.map((n) => indice.expedientes[n]).filter(Boolean);
+    return {
+      slug: l.slug, nombre: l.nombre, foto: l.foto ?? null, total: exps.length,
+      enComision: exps.filter(enComision).length,
+      porCaducar: exps.filter((e) => porCaducar(e, hoy, aj)).length,
+      aprobadosAnio: exps.filter((e) => aprobadoEsteAnio(e, hoy)).length,
+      caducados: exps.filter((e) => MUERTOS.has(e.estado.resultado)).length,
+    };
+  }).sort((a, b) => b.total - a.total || a.nombre.localeCompare(b.nombre, "es"));
+}
+
+export function agruparPorAnio(lineaTiempo) {
+  const grupos = [];
+  for (const paso of lineaTiempo) {
+    const anio = paso.fecha ? paso.fecha.slice(0, 4) : "Sin fecha";
+    if (grupos.at(-1)?.anio === anio) grupos.at(-1).pasos.push(paso);
+    else grupos.push({ anio, pasos: [paso] });
+  }
+  return grupos;
+}
