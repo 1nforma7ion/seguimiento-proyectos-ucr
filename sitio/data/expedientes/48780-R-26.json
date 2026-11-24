@@ -1,0 +1,79 @@
+{
+ "numero": "48780/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe, a través de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, sobre los efectos de la aplicación de la denominada Ley de Equidad, aprobada por esta Legislatura a fines de 2025.",
+ "autores": [
+  "Austin, Brenda Lis"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-11-18",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-18",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-11-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48780%2FR%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

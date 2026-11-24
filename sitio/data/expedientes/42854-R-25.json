@@ -1,0 +1,116 @@
+{
+ "numero": "42854/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría y Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el retiro de lotes de fentanilo contaminado en centros de salud provinciales, así como capacitación de personal en la materia.",
+ "autores": [
+  "Bria, Jose Alberto",
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-06-11",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-30",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-06-11",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-11",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 147"
+  },
+  {
+   "fecha": "2025-06-11",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 147"
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató con debate",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-11"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Con Debate",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42854%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

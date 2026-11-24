@@ -1,0 +1,129 @@
+{
+ "numero": "41903/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Frías, Szpanin, Bisotto y los Bloques Hacemos Unidos por Córdoba y UCR, instituyendo la Semana de la Concientización sobre las Enfermedades poco Frecuentes, correspondiendo su conmemoración al último día del mes de febrero de cada año.",
+ "autores": [
+  "Frias, Cristian Adrian",
+  "Szpanin, Ariela Yanina",
+  "Bloque HACEMOS UNIDOS POR CORDOBA",
+  "Bisotto, Graciela Maria",
+  "Bloque UCR"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-03-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-11-12",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 24",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 25",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (10/29/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11073",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=OaBONjYYciI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41903%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,116 @@
+{
+ "numero": "41604/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre las razones de remoción de la cúpula de Fuerza Policial Antinarcotráfico, la designación de nuevos jefes y el plan antinarcotráfico para el año 2025.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Seguridad",
+  "Adicciones y Culto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-02-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-30",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató con debate",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Con Debate",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41604%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

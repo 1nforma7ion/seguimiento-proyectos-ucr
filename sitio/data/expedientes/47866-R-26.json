@@ -1,0 +1,110 @@
+{
+ "numero": "47866/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agost Carreño y Carignano, instruyendo a los Senadores (art. 104 inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba a no acompañar disposiciones del Presupuesto Nacional 2027 que impliquen regresión de derechos, prestaciones y coberturas para personas con discapacidad.",
+ "autores": [
+  "Agost Carreño, Oscar",
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-09-22",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 4338",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=X_Ec2IA86aU="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47866%2FR%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

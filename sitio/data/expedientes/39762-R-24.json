@@ -1,0 +1,118 @@
+{
+ "numero": "39762/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Gispert, Gloria Pereyra, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Nicolás, Luna, Saliba, Bría, Molina, Contrera, Carignano y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al haber mínimo de jubilación en la provincia.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Peirone, Juan Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2024-09-18",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39762%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

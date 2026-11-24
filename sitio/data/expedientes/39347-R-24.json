@@ -1,0 +1,120 @@
+{
+ "numero": "39347/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bottasso, Bisotto, Peirone, Valiente, Nigro, Jaimes, Szpanin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Saliba, Grich, Briner, Bría, Molina, Contrera, Carignano, Nostrala, Hernández Maqueda, Navarro Alegre, Bruno y Tamis, requiriendo a los Diputados e instruyendo a los Senadores Nacionales por Córdoba para que gestionen el relanzamiento del proyecto de la Autovía 158 que une las ciudades de San Francisco y Río Cuarto.",
+ "autores": [
+  "Bottasso, Gustavo Armando",
+  "Bisotto, Graciela Maria",
+  "Peirone, Juan Pablo",
+  "Valiente, Lucas German",
+  "Nigro, Alfredo Mariano",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Nostrala, Walter Norberto",
+  "Hernandez Maqueda, Gregorio",
+  "Navarro Alegre, Veronica Fatima",
+  "Bruno, Karina Gabriela",
+  "Tamis, Oscar Humberto"
+ ],
+ "comisiones": [
+  "Obras Públicas y Vivienda",
+  "Relaciones Internacionales, Mercosur y Comercio Exterior"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 3923",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=JAMO_8yZFDA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39347%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,113 @@
+{
+ "numero": "42927/N/25",
+ "tipo": "otros",
+ "extracto": "Nota de los Legisladores Sala, Botta, Tamis, Gvozdenovich, Ferrero, Austin, Nostrala, Almada, Gispert, Juez, Martoccia, Peirone y Gloria Pereyra, solicitando que se convoque para la Sesión Especial del 10 de junio, a los Rectores de las Universidades Nacionales con sede en la provincia.",
+ "autores": [
+  "Sala, Ignacio Antonio",
+  "Botta, Patricia Isabel",
+  "Tamis, Oscar Humberto",
+  "Gvozdenovich, Matias Pablo",
+  "Ferrero, Alejandra",
+  "Austin, Brenda Lis",
+  "Nostrala, Walter Norberto",
+  "Almada, Nancy Edith",
+  "Gispert, Walter Oscar",
+  "Juez, Daniel Alejandro",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Peirone, Juan Pablo",
+  "Pereyra, Carmen Gloria"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-06-10",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-11",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-06-10",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Especial 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-10",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Especial 3 del Período 147"
+  },
+  {
+   "fecha": "2025-06-10",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-11",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-11",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Especial 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-10"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Especial 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-10"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-06-10"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-11"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42927%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

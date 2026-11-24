@@ -1,0 +1,98 @@
+{
+ "numero": "39442/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Colonia San Pedro, Dpto. San Justo, a celebrarse el día 29 de junio en honor a san Pedro Apóstol.",
+ "autores": [
+  "Tevez, Gustavo Alejandro",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Asuntos Municipales y Comunales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-06-05",
+  "ultimo_movimiento": {
+   "fecha": "2024-06-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 146"
+  },
+  {
+   "fecha": "2024-06-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 7 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 7 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28099",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=aDuJWb2LIw0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39442%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

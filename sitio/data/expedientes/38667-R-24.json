@@ -1,0 +1,129 @@
+{
+ "numero": "38667/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Gvozdenovich, Szpanin, Austin, Nicolás, Jaimes, Ferrero, Contrera, Briner, Valiente, Nigro, Bisotto, Luna, Gudiño, Saliba, Bottasso, Grich, Molina, Siciliano y Frías, ratificando la autonomía de la provincia en la regulación del ejercicio profesional farmacéutico y la dispensa de medicamentos regulados por la Ley provincial Nº 8302, rechazando el DNU Nº 70 del Poder Ejecutivo Nacional que pretende avanzar en la regulación de la actividad.",
+ "autores": [
+  "Bria, Jose Alberto",
+  "Gvozdenovich, Matias Pablo",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Nicolas, Miguel Osvaldo",
+  "Jaimes, Mauricio Sebastian",
+  "Ferrero, Alejandra",
+  "Contrera, Ines Mercedes",
+  "Briner, Carlos Edgardo",
+  "Valiente, Lucas German",
+  "Nigro, Alfredo Mariano",
+  "Bisotto, Graciela Maria",
+  "Luna, Fernando Javier",
+  "Gudiño, Daniela Soledad",
+  "Saliba, Oscar Elias Mario",
+  "Bottasso, Gustavo Armando",
+  "Grich, Ariel Denis",
+  "Molina, Victor Eduardo",
+  "Siciliano, Miguel Angel",
+  "Frias, Cristian Adrian"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-02-28",
+  "ultimo_movimiento": {
+   "fecha": "2024-03-13",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 3897",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=RlvAzOSQTcE="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38667%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,162 @@
+{
+ "numero": "39061/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Echevarría, Hernández Maqueda, Rossi, Ferrero, Nostrala, Botta y Gvozdenovich, ordenando el cese del cobro de peaje en las casillas ubicadas en el límite entre las ciudades de Córdoba y La Calera, garantizando la continuidad laboral del personal, excepto el jerárquico.",
+ "autores": [
+  "Agrelo, Rodrigo Maria",
+  "Echevarria, Luciana Gabriela",
+  "Hernandez Maqueda, Gregorio",
+  "Rossi, Dante Valentin",
+  "Ferrero, Alejandra",
+  "Nostrala, Walter Norberto",
+  "Botta, Patricia Isabel",
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Infraestructura y Servicios Públicos",
+  "Legislación del Trabajo, Previsión y Seguridad Social"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-17",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-02",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Por rechazo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Rechazo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 5",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 9",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 11",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 13",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión en Mayoría (10/2/2024)",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39061%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,110 @@
+{
+ "numero": "42524/N/25",
+ "tipo": "otros",
+ "extracto": "Nota de los Bloques UCR, PRO, Mejor Futuro, Encuentro Vecinal Córdoba, Construyendo Córdoba, Juntos por el Interior y MST en el FITU, solicitando la convocatoria de una Sesión Especial para el día 14 de mayo, articulo 26 del R.I., a fin de dar tratamiento a los expedientes 42436/R/25, 42347/R/25, 42343/R/25, 42417/L/25, 42385/R/25, 42344/R/25, 40798/L/24, 41410/R/24, 42366/R/24 y 40486/L/24.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Valiente, Lucas German",
+  "Szpanin, Ariela Yanina",
+  "Nigro, Alfredo Mariano",
+  "Austin, Brenda Lis",
+  "Gvozdenovich, Matias Pablo",
+  "Nicolas, Miguel Osvaldo",
+  "Gudiño, Daniela Soledad",
+  "Jaimes, Mauricio Sebastian",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Nostrala, Walter Norberto",
+  "Juez, Daniel Alejandro",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Almada, Nancy Edith",
+  "Gispert, Walter Oscar",
+  "Peirone, Juan Pablo",
+  "Pereyra, Carmen Gloria",
+  "Tamis, Oscar Humberto",
+  "Sala, Ignacio Antonio",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Peralta, Sebastián Amadeo",
+  "Agrelo, Rodrigo Maria",
+  "Echevarria, Luciana Gabriela",
+  "Hernandez Maqueda, Gregorio",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-05-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-05-13",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-05-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42524%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

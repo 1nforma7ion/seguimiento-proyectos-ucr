@@ -1,0 +1,118 @@
+{
+ "numero": "44965/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Frías, Fernández, Acuña y Contrera, declarando Mes de la Vacunación en todo el territorio provincial a agosto de cada año, en concordancia con la Ley Nacional Nº 27491, de Control de Enfermedades Prevenibles por Vacunación.",
+ "autores": [
+  "Frias, Cristian Adrian",
+  "Acuña, Karen Belen",
+  "Fernandez, Nadia Vanesa",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-12-11",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-29",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho Compatibilizado (12/29/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11093",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=tXQaGhokikE="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44965%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

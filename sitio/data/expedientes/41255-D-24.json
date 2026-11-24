@@ -1,0 +1,116 @@
+{
+ "numero": "41255/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Gloria Pereyra, Almada, Szpanin, Briner, Bria, Molina y Contrera, declarando de Interés Legislativo al primer Campamento Espacial de la República Argentina, desarrollado del 21 al 23 de noviembre en la ciudad de Santa María de Punilla.",
+ "autores": [
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Szpanin, Ariela Yanina",
+  "Briner, Carlos Edgardo",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Tecnología, Innovación y Economía del Conocimiento"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-11-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-12",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29073",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=M_4jQSrD5OI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41255%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

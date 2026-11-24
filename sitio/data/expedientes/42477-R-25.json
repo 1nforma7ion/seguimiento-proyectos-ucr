@@ -1,0 +1,105 @@
+{
+ "numero": "42477/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Almada y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al nuevo Plan Integral de Seguridad y Justicia.",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Seguridad",
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2025-05-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-01",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-05-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42477%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

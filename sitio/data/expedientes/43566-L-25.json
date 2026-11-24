@@ -1,0 +1,178 @@
+{
+ "numero": "43566/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por las Legisladoras Almada, Contrera y Bloques del Frente Cívico de Córdoba, de la UCR, del Pro, de Encuentro Vecinal Córdoba, de Construyendo Córdoba, de Juntos por el Interior, de Valores Republicanos, de Partido demócrata y MST en el FITU Unidad, estableciendo la Ley \"Fede\", de formación obligatoria, concientización y abordaje integral del Trastorno del Espectro Autista (TEA).",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Contrera, Ines Mercedes",
+  "Bloque FRENTE CIVICO DE CORDOBA"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad",
+  "Legislación General",
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-08-20",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-26",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-08-26"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2026-08-20",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-20",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 28",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 30",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43566%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

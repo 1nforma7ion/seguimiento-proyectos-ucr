@@ -1,0 +1,108 @@
+{
+ "numero": "38856/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Gloria Pereyra, Almada, Bisotto, Ferrero, Gvozdenovich, Nigro, Valiente, Saliba, Briner, Bottasso, Bría, Molina, Contrera, Botta, Sala, Rossi, y Hernández Maqueda, solicitando a Caminos de las Sierras, el desmalezamiento, limpieza y mantenimiento de las Rutas nacionales 20, 38, 9 Sur y Norte, 36 y 19, Autopista Pilar/Córdoba, Rutas provinciales 5, E-53,E-55 y de la Av. de Circunvalación de la ciudad de Córdoba.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Bisotto, Graciela Maria",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Saliba, Oscar Elias Mario",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Botta, Patricia Isabel",
+  "Sala, Ignacio Antonio",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2025-04-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-04-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38856%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

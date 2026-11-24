@@ -1,0 +1,77 @@
+{
+ "numero": "45022/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Briner, solicitando la rehabilitación del Proyecto Nº 41358/L/24 conforme el art. 111 del R.I.",
+ "autores": [
+  "Briner, Carlos Edgardo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-17",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-17",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-17",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": "2025-12-17",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-12-17"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45022%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

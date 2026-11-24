@@ -1,0 +1,88 @@
+{
+ "numero": "48334/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Ferrero, Nicolás y Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre presuntas irregularidades denunciadas en la administración de recursos destinados a las cooperativas de reciclado vinculadas al Ente Córdoba Obras y Servicios.",
+ "autores": [
+  "Gispert, Walter Oscar",
+  "Juez, Daniel Alejandro",
+  "Nostrala, Walter Norberto",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Peirone, Juan Pablo",
+  "Ferrero, Alejandra",
+  "Nicolas, Miguel Osvaldo",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Economía Social, Cooperativas y Mutuales"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-10-29",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-10-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48334%2FR%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

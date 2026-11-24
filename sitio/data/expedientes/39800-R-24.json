@@ -1,0 +1,156 @@
+{
+ "numero": "39800/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Bloques del Frente Cívico de Córdoba, UCR, Construyendo Córdoba, Mejor Futuro y Encuentro Vecinal Córdoba, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobres aspectos vinculados a la transformación digital denominada Agencia Modelo de la Lotería de Córdoba S.E.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Bloque UCR",
+  "Bloque CONSTRUYENDO CORDOBA",
+  "Bloque MEJOR FUTURO",
+  "Bloque ENCUENTRO VECINAL CÓRDOBA"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-29",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2025-07-24",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39800%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

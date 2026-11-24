@@ -1,0 +1,95 @@
+{
+ "numero": "45746/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos de la implementación del Programa TransFORMAR@Cba, creado por Resolución del Ministerio de Educación Nº 452/23 y de la Resolución Nº 333/25.",
+ "autores": [
+  "Austin, Brenda Lis"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-03-18",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-18",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-03-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-03-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  },
+  {
+   "fecha": "2026-03-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 29",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 33",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 34",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45746%2FR%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

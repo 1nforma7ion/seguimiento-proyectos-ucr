@@ -1,0 +1,111 @@
+{
+ "numero": "48208/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Grosso y los bloques de la UCR, el Frente Cívico de Córdoba, el Pro, Construyendo Córdoba, MST en el Fitu-Unidad, Partido Demócrata y Valores Republicanos, ordenando el cese del cobro de peaje en la Avda. Ejército Argentino de la ciudad de Córdoba en el límite con la ciudad de La Calera, Dpto. Colón.",
+ "autores": [
+  "Grosso, Gerardo Jose",
+  "Austin, Brenda Lis",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Carignano, Carlos Atilio",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Jaimes, Mauricio Sebastian",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German",
+  "Nostrala, Walter Norberto",
+  "Almada, Nancy Edith",
+  "Gispert, Walter Oscar",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Peirone, Juan Pablo",
+  "Pereyra, Carmen Gloria",
+  "Bottasso, Gustavo Armando",
+  "Sala, Ignacio Antonio",
+  "Agost Carreño, Oscar",
+  "Botta, Patricia Isabel",
+  "Peralta, Sebastián Amadeo",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio",
+  "Aguero, Noelia Beatriz",
+  "Juez, Daniel Alejandro",
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-10-29",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-10-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48208%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

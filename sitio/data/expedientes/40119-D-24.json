@@ -1,0 +1,114 @@
+{
+ "numero": "40119/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Luna, Saliba, Bottasso, Bría y Contrera, expresando preocupación por el nuevo aumento del boleto de pasajeros de transporte público de la ciudad de Córdoba, registrando un incremento del 180% en lo que va del año en curso, manteniendo una de las tarifas más caras del país.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Transporte y Comunicaciones"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2024-08-21",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-20",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-11-20",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  },
+  {
+   "fecha": "2024-11-20",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40119%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

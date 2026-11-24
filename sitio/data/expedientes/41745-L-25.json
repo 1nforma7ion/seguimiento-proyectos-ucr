@@ -1,0 +1,169 @@
+{
+ "numero": "41745/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Bottasso, Gvozdenovich, Nicolás, Molina, Carignano, Nigro, Bría, Almada, Botta y los Bloques Construyendo Córdoba, Mejor Futuro, Creo en Córdoba y Encuentro Vecinal Córdoba, creando salas de estimulación multisensorial en los niveles inicial, primario y secundario de todas las escuelas de educación especial y común, de gestión pública y privada, capacitando a los docentes en contención emocional.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Bottasso, Gustavo Armando",
+  "Gvozdenovich, Matias Pablo",
+  "Nicolas, Miguel Osvaldo",
+  "Molina, Victor Eduardo",
+  "Carignano, Carlos Atilio",
+  "Nigro, Alfredo Mariano",
+  "Almada, Nancy Edith",
+  "Botta, Patricia Isabel",
+  "Hernandez Maqueda, Gregorio",
+  "Peralta, Sebastián Amadeo",
+  "Rossi, Dante Valentin",
+  "Alesandri, Carlos Federico",
+  "Agrelo, Rodrigo Maria",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Educación",
+  "Promoción de Derechos de Personas con Discapacidad",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-02-19",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-05",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-03-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2026-02-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41745%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

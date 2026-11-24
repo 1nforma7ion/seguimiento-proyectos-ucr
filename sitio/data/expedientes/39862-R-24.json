@@ -1,0 +1,116 @@
+{
+ "numero": "39862/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Bottasso, Contrera, Ferrero, Jaimes, Molina, Nicolás y Szpanin, citando al Sr. Ministro de Economía y Gestión Pública, (Art. 101 C.P.) para que informe detalladamente sobre aspectos referidos al aumento del Impuesto sobre los Ingresos Brutos en las categorías del Régimen Simplificado para Pequeños contribuyentes, Monotributo.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Bottasso, Gustavo Armando",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Jaimes, Mauricio Sebastian",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2024-08-07",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-30",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-08-07",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-07",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": "2024-08-07",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Economia y Presupuesto · 10",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39862%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

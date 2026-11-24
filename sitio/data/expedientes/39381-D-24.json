@@ -1,0 +1,102 @@
+{
+ "numero": "39381/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Bisotto, Szpanin, Nigro, Saliba y Contrera, expresando beneplácito por las elecciones realizadas en la Universidad Nacional de Córdoba los días 15 y 16 de mayo, renovando la integración de los órganos de gobierno de los Consejos Directivos de cada una de las facultades y del Consejo Superior, designado nuevos representantes en los Centros de Estudiantes.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Nigro, Alfredo Mariano",
+  "Saliba, Oscar Elias Mario",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28083",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=PzvN6gXBKNk="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39381%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

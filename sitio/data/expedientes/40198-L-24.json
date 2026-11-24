@@ -1,0 +1,163 @@
+{
+ "numero": "40198/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Nigro, Briner, Bottasso, Bría, Contrera, Ferrero, Jaimes, Luna, Molina, Nicolás y Szpanin, modificando al 1.75% la alícuota establecida por las leyes Nros. 10929 y 10928 (6006 T.O) para el Impuesto a los Ingresos Brutos para distintas actividades rurales.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Jaimes, Mauricio Sebastian",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto",
+  "Agricultura y Ganaderia",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-09-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-10-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2025-09-04",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40198%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

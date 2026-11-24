@@ -1,0 +1,191 @@
+{
+ "numero": "39768/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Almada, Ferrero, Grich, Carignano, Luna, Bisotto, Bottasso, Valiente, Saliba, Molina, Gispert, Gvozdenovich, Bría y Agrelo, modificando la Ley Nº 9571, Código Electoral de la provincia, en lo referido a derechos de participación de personas con discapacidad en los procesos electorales.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Almada, Nancy Edith",
+  "Ferrero, Alejandra",
+  "Grich, Ariel Denis",
+  "Carignano, Carlos Atilio",
+  "Luna, Fernando Javier",
+  "Bisotto, Graciela Maria",
+  "Bottasso, Gustavo Armando",
+  "Valiente, Lucas German",
+  "Saliba, Oscar Elias Mario",
+  "Molina, Victor Eduardo",
+  "Gispert, Walter Oscar",
+  "Agrelo, Rodrigo Maria",
+  "Bria, Jose Alberto",
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39768%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,98 @@
+{
+ "numero": "40045/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando beneplácito por el 130º aniversario de la localidad de Camilo Aldao, Dpto. Marcos Juárez, a celebrarse el día 5 de septiembre.",
+ "autores": [
+  "Carignano, Carlos Atilio",
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Asuntos Municipales y Comunales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-08-21",
+  "ultimo_movimiento": {
+   "fecha": "2024-08-21",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28378",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=hk07Hm6RiFI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40045%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

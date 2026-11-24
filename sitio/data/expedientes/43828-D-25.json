@@ -1,0 +1,109 @@
+{
+ "numero": "43828/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Internacional de la Preservación de la Capa de Ozono, que se celebra cada 16 de septiembre.",
+ "autores": [
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Ambiente y Recursos Renovables"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-09-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-09-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-09-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 147"
+  },
+  {
+   "fecha": "2025-09-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 147"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-09-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-09-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-09-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30190",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=JCD95OydE3g="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43828%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

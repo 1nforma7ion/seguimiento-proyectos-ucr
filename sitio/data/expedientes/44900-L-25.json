@@ -1,0 +1,101 @@
+{
+ "numero": "44900/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Nigro, Carignano, Luna, Bottasso, Gvozdenovich, Bría, Jaimes, Valiente, Nicolás, Saliba, Molina, Botta, Hernández Maqueda, Almada, Martoccia, Gloria Pereyra, Peirone, Bisotto y Echevarría, adhiriendo a la Ley Nacional Nº 27552, que declara de Interés Nacional la atención integral de la fibrosis quística de páncreas o mucoviscidosis, garantizando la plena y permanente cobertura de las prestaciones necesarias para el tratamiento de la mencionada enfermedad.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Nigro, Alfredo Mariano",
+  "Carignano, Carlos Atilio",
+  "Luna, Fernando Javier",
+  "Bottasso, Gustavo Armando",
+  "Gvozdenovich, Matias Pablo",
+  "Bria, Jose Alberto",
+  "Jaimes, Mauricio Sebastian",
+  "Valiente, Lucas German",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario",
+  "Molina, Victor Eduardo",
+  "Botta, Patricia Isabel",
+  "Hernandez Maqueda, Gregorio",
+  "Almada, Nancy Edith",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria",
+  "Peirone, Juan Pablo",
+  "Bisotto, Graciela Maria",
+  "Echevarria, Luciana Gabriela"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-03"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44900%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

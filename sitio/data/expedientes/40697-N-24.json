@@ -1,0 +1,77 @@
+{
+ "numero": "40697/N/24",
+ "tipo": "otros",
+ "extracto": "Nota del Legislador Gvozdenovich, solicitando a la Presidencia de la Legislatura el cumplimiento del acuerdo realizado con todos los Bloques Legislativos, de sesionar los días miércoles desde las 14:30 horas y que la Comisión de Labor Parlamentaria se reúna el mismo día por la mañana.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-16",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-16",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40697%2FN%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

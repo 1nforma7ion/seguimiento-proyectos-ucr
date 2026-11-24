@@ -1,0 +1,93 @@
+{
+ "numero": "39425/N/24",
+ "tipo": "otros",
+ "extracto": "Nota remitida por los Legisladores Ferrero, Nostrala, Gvozdenovich, Rossi y Botta, presentando Recursos de Reconsideración a la denegación al pedido de Sesión Especial para el día martes 21 de mayo de 2024, que tenía por objeto dar tratamiento a pliegos despachados por la comisión a la que fueron girados y al proyecto de Ley N° 37933/L/23.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Nostrala, Walter Norberto",
+  "Gvozdenovich, Matias Pablo",
+  "Rossi, Dante Valentin",
+  "Botta, Patricia Isabel"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-06-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-06-05",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 146"
+  },
+  {
+   "fecha": "2024-06-05",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-05",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-06-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-06-05"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39425%2FN%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

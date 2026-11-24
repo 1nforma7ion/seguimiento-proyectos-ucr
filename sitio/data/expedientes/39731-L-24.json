@@ -1,0 +1,182 @@
+{
+ "numero": "39731/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Bisotto, Contrera, Szpanin, Carignano, Botta, Bría y Gloria Pereyra, creando el Régimen de Integración Laboral para Personas con Discapacidad en el ámbito provincial.",
+ "autores": [
+  "Agrelo, Rodrigo Maria",
+  "Bisotto, Graciela Maria",
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Carignano, Carlos Atilio",
+  "Botta, Patricia Isabel",
+  "Bria, Jose Alberto",
+  "Pereyra, Carmen Gloria"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad",
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-11"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2025-07-24",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 8",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 9",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 10",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 14",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39731%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,122 @@
+{
+ "numero": "40933/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, regulando la designación de funcionarios públicos.",
+ "autores": [
+  "Austin, Brenda Lis"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-03",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-03",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-03"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11031",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=_F0Nbjz5UwY="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40933%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

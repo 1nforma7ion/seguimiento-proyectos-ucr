@@ -1,0 +1,112 @@
+{
+ "numero": "38941/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Luna, Saliba, Grich, Bottasso, Bría, Molina, Contrera y Carignano, expresando beneplácito por el 40° aniversario del Paicor, celebrado el pasado 31 de marzo y creado por el Gobernador Eduardo César Angeloz, quien tuvo una visión social en tiempos de crisis y cuyo programa permanece hasta el presente.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Desarrollo Social"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2024-04-03",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27917",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=kSg8tNHyvUw="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38941%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

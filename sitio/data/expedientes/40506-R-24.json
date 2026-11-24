@@ -1,0 +1,110 @@
+{
+ "numero": "40506/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Peirone, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Grich, Bottasso, Bría, Contrera, Carignano, Rossi, Sebastián Peralta, Hernández Maqueda y Bisotto, solicitando al Poder Ejecutivo que requiera el apoyo del Sistema Nacional de Manejo del Fuego, conforme el artículo 27 de la Ley Nacional N° 26815; instruyendo a los Senadores Nacionales por Córdoba, (Art. 104 inc. 5 C.P.) e instando a los Diputados Nacionales por Córdoba para que soliciten la declaración de Zona de Desastre y de Emergencia Nacional Ambiental, Económica, Social y Productiva en las áreas y localidades afectadas por los recientes incendios.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Peirone, Juan Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Grich, Ariel Denis",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Rossi, Dante Valentin",
+  "Peralta, Sebastián Amadeo",
+  "Hernandez Maqueda, Gregorio",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Ambiente y Recursos Renovables"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-02",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-02",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2025-10-02",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-02"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40506%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

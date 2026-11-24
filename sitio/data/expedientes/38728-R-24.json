@@ -1,0 +1,111 @@
+{
+ "numero": "38728/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Jaimes, Bisotto, Szpanin, Ferrero, Nicolás, Briner, Contrera y Carignano, citando al Sr. Ministro de Infraestructura y Servicios Públicos para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la construcción del Centro de Desarrollo Infantil en la localidad de Isla Verde, Dpto. Marcos Juárez.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Nicolas, Miguel Osvaldo",
+  "Briner, Carlos Edgardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos",
+  "Desarrollo Social"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-03-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-03-13"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 3",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 10",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38728%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

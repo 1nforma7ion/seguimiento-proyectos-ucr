@@ -1,0 +1,114 @@
+{
+ "numero": "40631/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Gvozdenovich, Luna, Grich, Ferrero, Saliba, Gudiño, Carignano, Nicolás, Molina, Contrera, Szpanin, Jaimes y Bloque UCR, expresando preocupación por la grave situación que atraviesan los trabajadores del sistema universitario público argentino, exhortando al Poder Ejecutivo Nacional a garantizar la Ley de Financiamiento de Universitario sancionada el pasado 13 de septiembre por el H. Congreso Nacional, y adhiriendo a la Segunda Marcha Federal Universitaria convocada para el 2 de octubre.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Gvozdenovich, Matias Pablo",
+  "Luna, Fernando Javier",
+  "Grich, Ariel Denis",
+  "Ferrero, Alejandra",
+  "Saliba, Oscar Elias Mario",
+  "Gudiño, Daniela Soledad",
+  "Carignano, Carlos Atilio",
+  "Nicolas, Miguel Osvaldo",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Jaimes, Mauricio Sebastian",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Bria, Jose Alberto",
+  "Bottasso, Gustavo Armando",
+  "Briner, Carlos Edgardo"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-02",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-02",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28670",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=r3dNEd-zTBA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40631%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

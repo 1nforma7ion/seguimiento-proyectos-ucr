@@ -1,0 +1,81 @@
+{
+ "numero": "44853/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, suspendiendo la vigencia de la Ley Nº 10647 en el territorio del Departamento Marcos Juárez, disponiendo la exención por 10 años del impuesto inmobiliario rural a los productores del mencionado Departamento.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Agricultura y Ganaderia",
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-03"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44853%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

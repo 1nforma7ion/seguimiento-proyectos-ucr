@@ -1,0 +1,97 @@
+{
+ "numero": "40630/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Szpanin, Gvozdenovich, Molina, Contrera y Carignano, instruyendo a los Senadores e instando a los Diputados nacionales por Córdoba para que impulsen el tratamiento de iniciativas tendientes a tipificar delitos ambientales en el Código Penal de la Nación, fortaleciendo sanciones penales para quienes provoquen daños en el ambiente.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Gvozdenovich, Matias Pablo",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-02",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-02",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2025-10-02",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-02"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40630%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

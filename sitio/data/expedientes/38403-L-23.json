@@ -1,0 +1,86 @@
+{
+ "numero": "38403/L/23",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Agrelo y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Coalición Cívica ARI, derogando la Ley N° 10930, que establece las reglas de funcionamiento necesarias para Tribunal de Cuentas de la provincia, ratificando la vigencia de la Ley N° 7630.",
+ "autores": [
+  "Agrelo, Rodrigo Maria",
+  "Bloque UCR",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Peralta, Sebastián Amadeo",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2023-12-13",
+  "ultimo_movimiento": {
+   "fecha": "2023-12-13",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 39 del Período 145"
+  },
+  {
+   "fecha": "2023-12-13",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 39 del Período 145"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 39 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 39 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-13"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38403%2FL%2F23",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

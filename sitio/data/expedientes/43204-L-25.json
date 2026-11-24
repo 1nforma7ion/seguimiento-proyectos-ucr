@@ -1,0 +1,132 @@
+{
+ "numero": "43204/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Programa de Asistencia a Víctimas de Delitos, PAVID, con el objetivo de brindar contención, asesoramiento y acompañamiento a personas que hayan sido víctimas de hechos delictivos.",
+ "autores": [
+  "Ferrero, Alejandra"
+ ],
+ "comisiones": [
+  "Seguridad",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-07-23",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-29",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-29",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-05-29"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Seguridad · 31",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Seguridad · 32",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11122",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Fy4ogjsv2c0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43204%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

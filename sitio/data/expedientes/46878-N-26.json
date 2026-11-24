@@ -1,0 +1,91 @@
+{
+ "numero": "46878/N/26",
+ "tipo": "otros",
+ "extracto": "Nota de los Legisladores Hernández Maqueda, Gvozdenovich, Saliba, Ferrero, Nostrala, Martoccia, Carmen Pereyra, Rossi, Grosso, Juez, Gispert, Botta, Austin, Nicolás y Almada, solicitando Sesión Especial el día 25 de junio a fin de tratar asuntos relacionados al caso Agustina Vega.",
+ "autores": [
+  "Hernandez Maqueda, Gregorio",
+  "Gvozdenovich, Matias Pablo",
+  "Saliba, Oscar Elias Mario",
+  "Ferrero, Alejandra",
+  "Nostrala, Walter Norberto",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria",
+  "Rossi, Dante Valentin",
+  "Grosso, Gerardo Jose",
+  "Juez, Daniel Alejandro",
+  "Gispert, Walter Oscar",
+  "Botta, Patricia Isabel",
+  "Austin, Brenda Lis",
+  "Nicolas, Miguel Osvaldo",
+  "Almada, Nancy Edith"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-07-08",
+  "ultimo_movimiento": {
+   "fecha": "2026-07-08",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-08"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46878%2FN%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

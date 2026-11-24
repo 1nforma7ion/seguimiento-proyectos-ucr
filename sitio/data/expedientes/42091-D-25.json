@@ -1,0 +1,120 @@
+{
+ "numero": "42091/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Bisotto y Contrera, adhiriendo al Día de Memoria, Verdad y Justicia, que se conmemora cada 24 de marzo.",
+ "autores": [
+  "Bisotto, Graciela Maria",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-03-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-26",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-26",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Especial 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Especial 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Derechos Humanos · 7",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión por Art. 101 (3/26/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29376",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=VvqSLdmf2qQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42091%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

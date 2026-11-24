@@ -1,0 +1,187 @@
+{
+ "numero": "42195/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Contrera, Carignano, Jaimes, Ovejeros y los Bloques Frente Cívico de Córdoba, UCR y Mejor Futuro, estableciendo el Régimen de Familias de Acogimiento para Niños, Niñas y Adolescentes, y creando el Registro Provincial de Familias de Acogimiento.",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Carignano, Carlos Atilio",
+  "Contrera, Ines Mercedes",
+  "Jaimes, Mauricio Sebastian",
+  "Ovejeros, Pablo Cesar",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Bloque UCR",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-04-09",
+  "ultimo_movimiento": {
+   "fecha": "2026-04-20",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-04-20"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-04-09",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 5 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-04-09",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 147"
+  },
+  {
+   "fecha": "2025-04-09",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 5 del Período 147"
+  },
+  {
+   "fecha": "2026-04-09",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-09",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 5 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-09"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-09"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 5 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-09"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-04-09"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-04-09"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 13",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 14",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 18",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42195%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

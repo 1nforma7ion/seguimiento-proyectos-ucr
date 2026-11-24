@@ -1,0 +1,138 @@
+{
+ "numero": "38412/L/23",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Gvozdenovich, Szpanin, Bisotto, Gudiño, Rossi y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba, Coalición Cívica ARI y Juntos por el Interior, modificando los artículos 6, 9, 46, 49, 51, 58 y 59 de la Ley N° 8024, Régimen de Jubilaciones, Pensiones y Retiros de la provincia; y derogando los artículos 29, 32, 33 y 35 de la Ley N° 10694, de Fortalecimiento del Sistema Previsional, y el artículo 63 de la Ley N° 10928, Código Tributario 2024.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Szpanin, Ariela Yanina",
+  "Bisotto, Graciela Maria",
+  "Gudiño, Daniela Soledad",
+  "Rossi, Dante Valentin"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Legislación General",
+  "Economia y Presupuesto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2023-12-20",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-18",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2023-12-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación del Trabajo, Previsión y Seguridad Social · 6",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación del Trabajo, Previsión y Seguridad Social · 7",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación del Trabajo, Previsión y Seguridad Social · 9",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38412%2FL%2F23",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

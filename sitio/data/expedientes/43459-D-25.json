@@ -1,0 +1,100 @@
+{
+ "numero": "43459/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Almada y Ovejeros, adhiriendo al Día Nacional de la Educación Especial, a conmemorarse el día 9 de agosto.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Almada, Nancy Edith",
+  "Ovejeros, Pablo Cesar"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-07-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-30",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29985",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=RMPpTETYhgI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43459%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

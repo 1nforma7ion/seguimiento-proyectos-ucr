@@ -1,0 +1,116 @@
+{
+ "numero": "43955/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por los Legisladores Hernández Maqueda, Ferrero, Agrelo, Briner, Juez, Rossi, Bottasso, Contrera, Echevarría, Jaimes, Sebastián Peralta, Nostrala, Szpanin, Austin, Córdoba Acosta y Nicolás, solicitando se convoque una Sesión Especial para el día 15 de septiembre a las 11 hs., (art. 26 R.I.) para que comparezca en el recinto el Sr. Ministro de Infraestructura y Servicios Públicos a informar sobre los incrementos en la tarifa del servicio de agua y las aprobaciones del ERSeP, Resolución Nº 4130/25.",
+ "autores": [
+  "Hernandez Maqueda, Gregorio",
+  "Ferrero, Alejandra",
+  "Agrelo, Rodrigo Maria",
+  "Briner, Carlos Edgardo",
+  "Juez, Daniel Alejandro",
+  "Rossi, Dante Valentin",
+  "Bottasso, Gustavo Armando",
+  "Contrera, Ines Mercedes",
+  "Echevarria, Luciana Gabriela",
+  "Jaimes, Mauricio Sebastian",
+  "Peralta, Sebastián Amadeo",
+  "Nostrala, Walter Norberto",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Cordoba Acosta, Maria Constanza",
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-10-01",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-01",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-01",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-01",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-01"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43955%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

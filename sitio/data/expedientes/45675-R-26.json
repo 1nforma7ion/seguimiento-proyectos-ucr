@@ -1,0 +1,116 @@
+{
+ "numero": "45675/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Szpanin, Bría, Molina, Contrera, Carignano, Gispert, Gloria Pereyra, Limia y el Bloque UCR, solicitando al Poder Ejecutivo que declare de Interés Provincial la 11º Maratón Héroes de Malvinas, a desarrollarse el 12 de abril en la ciudad de Córdoba.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo",
+  "Szpanin, Ariela Yanina",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria"
+ ],
+ "comisiones": [
+  "Deportes"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-03-18",
+  "ultimo_movimiento": {
+   "fecha": "2026-04-08",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-03-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  },
+  {
+   "fecha": "2026-03-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  },
+  {
+   "fecha": "2026-04-08",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31067",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=yqqS9wBzVfk="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45675%2FR%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

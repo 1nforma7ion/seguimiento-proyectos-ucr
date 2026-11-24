@@ -1,0 +1,97 @@
+{
+ "numero": "44205/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, adhiriendo al 112º aniversario de la localidad de Tancacha, Dpto. Tercero Arriba, y a sus fiestas patronales, a celebrarse el día 15 de octubre en honor a Santa Teresa de Jesús.",
+ "autores": [
+  "Bottasso, Gustavo Armando"
+ ],
+ "comisiones": [
+  "Asuntos Municipales y Comunales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-10-01",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30369",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=16XP29hqXSk="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44205%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

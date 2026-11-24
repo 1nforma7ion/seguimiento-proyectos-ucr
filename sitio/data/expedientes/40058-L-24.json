@@ -1,0 +1,106 @@
+{
+ "numero": "40058/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna, Szpanin, Austin, Ferrero, Gvozdenovich, Valiente, Nicolás, Briner, Bottasso, Molina, Contrera, Carignano, Gispert y Gloria Pereyra, creando el programa Incentivo a la Educación Permanente de Jóvenes y Adultos.",
+ "autores": [
+  "Luna, Fernando Javier",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Valiente, Lucas German",
+  "Nicolas, Miguel Osvaldo",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria"
+ ],
+ "comisiones": [
+  "Desarrollo Social",
+  "Educación",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-08-21",
+  "ultimo_movimiento": {
+   "fecha": "2025-08-21",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2025-08-21",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-08-21"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40058%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

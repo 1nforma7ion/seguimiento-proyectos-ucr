@@ -1,0 +1,99 @@
+{
+ "numero": "45984/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, Llamosas y Grich, reconociendo la labor educativa, social y productiva desarrollada por el IPEA N° 1 “Ingeniero Agrónomo Luciano Almirón”, de la localidad de Malena, Dpto. Río Cuarto.",
+ "autores": [
+  "Soardo, Leonor Jorgelina",
+  "Llamosas, Juan Manuel",
+  "Grich, Ariel Denis"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-04-08",
+  "ultimo_movimiento": {
+   "fecha": "2026-04-08",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-04-08",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-08",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": "2026-04-08",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31053",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=uPKmYGN8UCY="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45984%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

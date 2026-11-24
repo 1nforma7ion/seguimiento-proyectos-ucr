@@ -1,0 +1,105 @@
+{
+ "numero": "46353/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Martoccia, Szpanin, Saliba, Suárez, Austin, Lorenzo, Bisotto y Almada, expresando homenaje a las 17 víctimas del terrorismo de Estado cuyos restos fueron hallados e identificados en la zona de “Loma del Torito” del ex centro clandestino de detención La Perla.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Szpanin, Ariela Yanina",
+  "Saliba, Oscar Elias Mario",
+  "Suarez, Carmen Esther",
+  "Austin, Brenda Lis",
+  "Bisotto, Graciela Maria",
+  "Lorenzo, Carlos Mariano",
+  "Almada, Nancy Edith"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-28",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31182",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=X_kDEZLji9s="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46353%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

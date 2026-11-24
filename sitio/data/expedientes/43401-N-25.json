@@ -1,0 +1,115 @@
+{
+ "numero": "43401/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por los Legisladores Gvozdenovich, Szpanin, Ferrero, Nigro, Grich, Briner, Carignano, Bottasso, Contrera, Bría, Jaimes, Nicolás, Saliba, Valiente y Molina, solicitando se convoque a Sesión Especial (art. 26 del R.I.) para el 29 de julio con el objetivo de tratar distintos proyectos que proponen aliviar la carga tributaria, promover la inversión y la competitividad, y equilibrar el esfuerzo fiscal de varios sectores de la sociedad cordobesa.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Nigro, Alfredo Mariano",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Carignano, Carlos Atilio",
+  "Bottasso, Gustavo Armando",
+  "Contrera, Ines Mercedes",
+  "Bria, Jose Alberto",
+  "Jaimes, Mauricio Sebastian",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario",
+  "Valiente, Lucas German",
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-07-30",
+  "ultimo_movimiento": {
+   "fecha": "2026-07-30",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-30",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-30",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-30"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43401%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

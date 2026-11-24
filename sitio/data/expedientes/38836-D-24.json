@@ -1,0 +1,105 @@
+{
+ "numero": "38836/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Bloques UCR, Coalición Cívica ARI y los Legisladores Gispert, Gloria Pereyra y Rossi, manifestando desagrado por la actitud de la Sra. Vicegobernadora de la provincia, por cercenar la libertad de expresión en el debate de la sesión próximo pasada a los Legisladores de la oposición.",
+ "autores": [
+  "Bloque UCR",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio",
+  "Nicolas, Miguel Osvaldo",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-03-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-03-13"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38836%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

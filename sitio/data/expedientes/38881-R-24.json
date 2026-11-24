@@ -1,0 +1,105 @@
+{
+ "numero": "38881/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Jaimes, Austin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Luna, Saliba, Briner, Bottasso, Bría, Contrera y Carignano, instando al Poder Ejecutivo a realizar una auditoría externa para dilucidar la situación financiera de la Apross de los años 2021, 2022 y 2023, a través de una comisión técnica e independiente.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Jaimes, Mauricio Sebastian",
+  "Austin, Brenda Lis",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Salud",
+  "Economia y Presupuesto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2025-04-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-04-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38881%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

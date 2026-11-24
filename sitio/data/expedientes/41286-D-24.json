@@ -1,0 +1,111 @@
+{
+ "numero": "41286/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Almada, Agrelo, Saliba, Szpanin, Valiente, Knipscheer, Acuña, Bría, Botta, Stella Peralta, Cristina Pereyra, Suárez y Bisotto, adhiriendo al Día Internacional de las Personas con Discapacidad y al Día Nacional de las Personas con Discapacidad, que se conmemoran cada 3 de diciembre.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Almada, Nancy Edith",
+  "Agrelo, Rodrigo Maria",
+  "Saliba, Oscar Elias Mario",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Acuña, Karen Belen",
+  "Suarez, Carmen Esther",
+  "Pereyra, Cristina Alicia",
+  "Peralta, Stella Maris",
+  "Bria, Jose Alberto",
+  "Botta, Patricia Isabel",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-11-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-27",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29050",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=p97Lxt77qgI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41286%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

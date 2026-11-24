@@ -1,0 +1,93 @@
+{
+ "numero": "40841/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Bloques UCR y Frente Cívico de Córdoba, adhiriendo la provincia al Régimen de Incentivo para Grandes Inversiones (RIGI) previsto en el Título VII de la Ley N° 27742 y su marco regulatorio.",
+ "autores": [
+  "Bloque UCR",
+  "Bloque FRENTE CIVICO DE CORDOBA"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-16",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-16",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40841%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

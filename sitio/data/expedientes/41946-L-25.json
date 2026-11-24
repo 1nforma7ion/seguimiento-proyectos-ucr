@@ -1,0 +1,119 @@
+{
+ "numero": "41946/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Szpanin, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera, Carignano y Bisotto, autorizando un aporte provincial mensual del 1% de los fondos correspondientes a la coparticipación, para ser destinado a la creación de un Fondo de Refuerzo al sistema de salud provincial (Fofindes) para municipios y comunas.",
+ "autores": [
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Asuntos Municipales y Comunales",
+  "Salud",
+  "Economia y Presupuesto",
+  "Promoción y Desarrollo de las Comunidades Regionales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-03-19",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2026-03-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-03-19"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41946%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

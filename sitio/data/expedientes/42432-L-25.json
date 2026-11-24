@@ -1,0 +1,139 @@
+{
+ "numero": "42432/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Szpanin, Ferrero, Gvozdenovich, Valiente, Saliba, Grich, Bría, Molina, Contrera, Romero, Cristina Pereyra, Suárez, Botta y Sala, estableciendo la obligatoriedad para que todo comercio gastronómico de atención al público disponga de cartas de menú impresas en Sistema Braile y en escritura Macrotipo.",
+ "autores": [
+  "Carignano, Carlos Atilio",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Valiente, Lucas German",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Romero, Delia Dolores",
+  "Suarez, Carmen Esther",
+  "Botta, Patricia Isabel",
+  "Sala, Ignacio Antonio",
+  "Pereyra, Cristina Alicia"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Promoción de Derechos de Personas con Discapacidad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-04-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-11-12",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 20",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 23",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (11/12/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11077",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=-pFWt0PygiA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42432%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

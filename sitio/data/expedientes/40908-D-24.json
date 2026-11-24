@@ -1,0 +1,103 @@
+{
+ "numero": "40908/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Szpanin, Bría, Briner, Knipscheer y los Bloques Frente Cívico de Córdoba y Encuentro Vecinal Córdoba, reconociendo la trayectoria del Dr. Sfaello Zenón Milciades, quien dedicó su vida al estudio de la Neurología.",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Szpanin, Ariela Yanina",
+  "Bria, Jose Alberto",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Agrelo, Rodrigo Maria",
+  "Briner, Carlos Edgardo",
+  "Knipscheer Reyna, Carlos Bernardo"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-30",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-30",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28862",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=fXseiInqW7U="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40908%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

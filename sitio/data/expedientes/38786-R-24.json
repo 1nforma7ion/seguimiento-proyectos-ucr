@@ -1,0 +1,116 @@
+{
+ "numero": "38786/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Jaimes, Bisotto, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bría, Contrera, Botta, Rossi y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al procedimiento de traslado de detenidos a las sedes de tribunales por parte de la policía de Córdoba.",
+ "autores": [
+  "Gispert, Walter Oscar",
+  "Nostrala, Walter Norberto",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Peirone, Juan Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-03-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-03-13"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38786%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

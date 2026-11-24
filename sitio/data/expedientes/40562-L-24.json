@@ -1,0 +1,145 @@
+{
+ "numero": "40562/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Torres Lima, Bría y los Bloques Hacemos Unidos por Córdoba y Juntos por el Interior, adhiriendo la provincia a la Ley Nacional Nº 27568, del ejercicio profesional de la Fonaudiología, modificando e incorporando en virtud de ello diversos artículos de la Ley Nº 8068.",
+ "autores": [
+  "Torres Lima, Facundo",
+  "Bisotto, Graciela Maria",
+  "Bria, Jose Alberto",
+  "Bloque HACEMOS UNIDOS POR CORDOBA"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-02",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-03",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-03",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-03"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 33",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación del Trabajo, Previsión y Seguridad Social · 12",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación del Trabajo, Previsión y Seguridad Social · 13",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (7/1/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11053",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=622hZszUNlc="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40562%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

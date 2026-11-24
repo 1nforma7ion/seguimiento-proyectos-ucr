@@ -1,0 +1,224 @@
+{
+ "numero": "37694/L/23",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por las Legisladoras Brizuela (mc), Fernández, María Eslava (mc), Bría, Frías y Peirone, promoviendo los derechos de las personas gestantes, regulando la actuación de los profesionales y establecimientos de salud en los casos de defunción fetal.",
+ "autores": [
+  "Brizuela, Maria Noelia",
+  "Fernandez, Nadia Vanesa",
+  "Eslava, Maria Emilia",
+  "Bria, Jose Alberto",
+  "Frias, Cristian Adrian",
+  "Peirone, Juan Pablo"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2023-08-23",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-22",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2023-08-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 24 del Período 145"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-08-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 24 del Período 145"
+  },
+  {
+   "fecha": "2023-08-23",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 24 del Período 145"
+  },
+  {
+   "fecha": "2024-08-23",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": "2024-11-20",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-22",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 24 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-08-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 24 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-08-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 24 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-08-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-08-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-11-22"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 14",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 16",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación General · 28",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación General · 30",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (11/20/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11008",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=7SO6TQn3KQ8="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=37694%2FL%2F23",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

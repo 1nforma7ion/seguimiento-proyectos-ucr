@@ -1,0 +1,183 @@
+{
+ "numero": "39590/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Gvozdenovich, Carignano, Valiente, Bottasso y Almada, modificando los artículos 1°, 2°, 3° y 4° y el título a la Ley N° 8944. -de Promoción y protección integral de los derechos de las niñas, niños y adolescentes-, que quedará redactado: Eximición del pago de peaje en el territorio provincial a personas con discapacidad y sus transportistas.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Gvozdenovich, Matias Pablo",
+  "Carignano, Carlos Atilio",
+  "Valiente, Lucas German",
+  "Bottasso, Gustavo Armando",
+  "Almada, Nancy Edith"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad",
+  "Infraestructura y Servicios Públicos",
+  "Transporte y Comunicaciones",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-06-19",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-18",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-06-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2025-06-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2026-06-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-18",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39590%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

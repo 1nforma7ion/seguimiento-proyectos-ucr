@@ -1,0 +1,107 @@
+{
+ "numero": "38975/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Hernández Maqueda, Ferrero, Nostrala, Botta y Rossi, promoviendo ante la Sala Acusadora de la Legislatura la apertura del procedimiento de Juicio Político al Sr. Ministro de Cooperativas y Mutuales (Art. 112 C.P.), a efectos de proceder a su remoción del cargo, constituyendo las Salas Acusadora y de Juzgamiento conforme el artículo 114 de la C.P.",
+ "autores": [
+  "Hernandez Maqueda, Gregorio",
+  "Ferrero, Alejandra",
+  "Nostrala, Walter Norberto",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2024-09-18",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38975%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

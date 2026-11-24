@@ -1,0 +1,98 @@
+{
+ "numero": "41616/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Szpanin y Contrera, reconociendo Melina Quiña y Nadia Vaudagna, estudiantes de UNC, por su trabajo de audioguía denominado “Relatos sonoros que habitan el paisaje”, implementado en la ciudad de Jesús María.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Tecnología, Innovación y Economía del Conocimiento"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-02-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29199",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=FHPTAG0kEY0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41616%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,87 @@
+{
+ "numero": "47281/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin y Galo, prohibiendo la fabricación, comercialización y uso de jaulas tramperas y cualquier otro dispositivo cuyo destino sea la captura ilegal y/o cautiverio de fauna silvestre.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Galo, Abraham"
+ ],
+ "comisiones": [
+  "Ambiente y Recursos Renovables",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-08-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-08-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Ambiente y Recursos Renovables · 18",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47281%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

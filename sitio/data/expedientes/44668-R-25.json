@@ -1,0 +1,135 @@
+{
+ "numero": "44668/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero y Jaimes, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los motivos por los cuáles el beneficio de transporte no se encuentra incluido dentro del Certificado Único de Discapacidad para personas diagnosticadas con Trastorno del Desarrollo del Lenguaje.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Transporte y Comunicaciones",
+  "Promoción de Derechos de Personas con Discapacidad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-11-12",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-12",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-11-12",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-11-12",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-12",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-12"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 27",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44668%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

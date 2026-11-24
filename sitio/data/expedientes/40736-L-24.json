@@ -1,0 +1,193 @@
+{
+ "numero": "40736/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Gvozdenovich, Carignano, Bottasso, Bría, Jaimes, Saliba, Valiente, Almada, Agrelo y Botta, sustituyendo, modificando, incorporando y derogando artículos de la Ley Nº 9775, que garantiza a toda persona con discapacidad a la asistencia de un perro guía y el derecho a acceder junto con él a cualquier lugar público o privado de acceso público.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Gvozdenovich, Matias Pablo",
+  "Carignano, Carlos Atilio",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Jaimes, Mauricio Sebastian",
+  "Saliba, Oscar Elias Mario",
+  "Valiente, Lucas German",
+  "Almada, Nancy Edith",
+  "Agrelo, Rodrigo Maria",
+  "Botta, Patricia Isabel"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-16",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2025-10-16",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-29",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": "2025-10-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": "2025-10-29",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-29"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción de Derechos de Personas con Discapacidad · 25",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40736%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

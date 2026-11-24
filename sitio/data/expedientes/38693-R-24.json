@@ -1,0 +1,192 @@
+{
+ "numero": "38693/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Almada, Juez, Nostrala, Gispert, Gloria Pereyra, Hernández Maqueda, Jaimes, Bisotto, Szpanin, Austin, Nigro, Gudiño, Nicolás, Saliba, Grich, Briner, Bottasso y Sala, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre los vuelos de la flota provincial desde el 10 de diciembre de 2023 , costos de los mismos y las razones por las que el Sr, Gobernador no utiliza vuelos comerciales.",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Juez, Daniel Alejandro",
+  "Nostrala, Walter Norberto",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Hernandez Maqueda, Gregorio",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Nigro, Alfredo Mariano",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Sala, Ignacio Antonio"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-02-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-12",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2025-02-28",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": "2025-11-12",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 19 del Período 147"
+  },
+  {
+   "fecha": "2026-11-12",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-12",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 19 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-12"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38693%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

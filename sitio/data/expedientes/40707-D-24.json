@@ -1,0 +1,126 @@
+{
+ "numero": "40707/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Gvozdenovich, Szpanin y los Bloques UCR, Frente Cívico de Córdoba, PRO, Mejor Futuro y Córdoba, repudiando las amenazas contra la Fiscal de Instrucción de Segundo Turno de los Tribunales de la ciudad de Villa María y expresando solidaridad con la funcionaria judicial ante lo sucedido.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Gvozdenovich, Matias Pablo",
+  "Szpanin, Ariela Yanina",
+  "Almada, Nancy Edith",
+  "Austin, Brenda Lis",
+  "Botta, Patricia Isabel",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Bruno, Karina Gabriela",
+  "Carignano, Carlos Atilio",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Gispert, Walter Oscar",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Hernandez Maqueda, Gregorio",
+  "Jaimes, Mauricio Sebastian",
+  "Juez, Daniel Alejandro",
+  "Luna, Fernando Javier",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Nostrala, Walter Norberto",
+  "Peirone, Juan Pablo",
+  "Pereyra, Carmen Gloria",
+  "Sala, Ignacio Antonio",
+  "Saliba, Oscar Elias Mario",
+  "Tamis, Oscar Humberto",
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-16",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-16",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28744",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=d4Vacgh79kY="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40707%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

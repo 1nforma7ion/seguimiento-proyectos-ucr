@@ -1,0 +1,115 @@
+{
+ "numero": "39718/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Bisotto y el Bloque UCR, reconociendo al Partido de la Unión Cívica Radical en su 133° aniversario, que se celebra día 26 de junio y a los gobiernos radicales en Córdoba por su visión social, igualitaria, solidaria y equitativa.",
+ "autores": [
+  "Bisotto, Graciela Maria",
+  "Austin, Brenda Lis",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Carignano, Carlos Atilio",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Gvozdenovich, Matias Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Saliba, Oscar Elias Mario",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-06-26",
+  "ultimo_movimiento": {
+   "fecha": "2024-06-26",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28227",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=eWXLs8MVtbo="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39718%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

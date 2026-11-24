@@ -1,0 +1,104 @@
+{
+ "numero": "42344/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Briner, citando a los Sres. Ministros de Salud y de Seguridad (art. 101 C.P.) para que informen sobre actos administrativos e investigaciones relacionados a delitos de defraudación en perjuicio de la APROSS, si existe inventario de los archivos, y respecto de medidas de seguridad en el edificio central de dicha institución.",
+ "autores": [
+  "Briner, Carlos Edgardo"
+ ],
+ "comisiones": [
+  "Salud",
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2025-04-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-05-13",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42344%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

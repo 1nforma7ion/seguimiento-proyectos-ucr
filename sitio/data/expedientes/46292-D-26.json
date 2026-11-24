@@ -1,0 +1,98 @@
+{
+ "numero": "46292/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Szpanin, adhiriendo a la Semana Mundial de la Seguridad Vial, a desarrollarse del 18 al 21 de mayo, sumándose al Mayo Amarillo 2026.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-28",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31168",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=BroeiCbtTv8="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46292%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,137 @@
+{
+ "numero": "39624/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, incorporando el artículo 49 bis a la Ley N° 9571, -Código electoral provincial- referido a la ficha limpia y el artículo 11 bis a la Ley N° 9572, -Régimen jurídico de los partidos políticos-, haciendo extensivas las disposiciones del artículo 49 bis para los candidatos a cargos partidarios.",
+ "autores": [
+  "Austin, Brenda Lis"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-06-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-03",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-03",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-03"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación General · 16",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación General · 25",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (12/27/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11031",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=_F0Nbjz5UwY="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39624%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

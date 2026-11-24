@@ -1,0 +1,109 @@
+{
+ "numero": "41578/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Fernández, Siciliano, Torres Lima, Presas, Rufeil, Stella Peralta, Figueroa, Heredia, Limia, Sala, Botta, Almada, Tèvez y Contrera, declarando de Interés Legislativo la organización y promoción de los festivales, fiestas, eventos y espectáculos que se desarrollan en el territorio provincial, destacando su importancia cultural, social y económica e instando a los distintos niveles de gobierno a coordinar acciones para garantizar su realización, seguridad integral y sostenibilidad.",
+ "autores": [
+  "Fernandez, Nadia Vanesa",
+  "Almada, Nancy Edith",
+  "Siciliano, Miguel Angel",
+  "Presas, Luciana Maria",
+  "Sala, Ignacio Antonio",
+  "Botta, Patricia Isabel",
+  "Torres Lima, Facundo",
+  "Tevez, Gustavo Alejandro",
+  "Limia, Luis Leonardo",
+  "Contrera, Ines Mercedes",
+  "Figueroa, Raul Alberto",
+  "Peralta, Stella Maris",
+  "Heredia, Jorge Edberto"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-12-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29186",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=sXpIfpw6je4="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41578%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,118 @@
+{
+ "numero": "40885/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Gvozdenovich, Carignano, Rinaldi y el Bloque Frente Cívico de Córdoba, declarando Fiesta Provincial a la Fiesta del Corazón Productivo del País, que se celebra anualmente en la ciudad de Marcos Juárez coincidiendo con el aniversario de su fundación.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo",
+  "Carignano, Carlos Atilio",
+  "Rinaldi, Julieta",
+  "Bloque FRENTE CIVICO DE CORDOBA"
+ ],
+ "comisiones": [
+  "Turismo",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (10/1/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11063",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=zsPSKBuAPtQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40885%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

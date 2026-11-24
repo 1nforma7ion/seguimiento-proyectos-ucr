@@ -1,0 +1,133 @@
+{
+ "numero": "40818/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Gloria Pereyra, Presas, Suárez, Frias, Acevedo, Tévez, Quaglino, Blangino, Torres Lima, Heredia, Rébora, Romero, Russo, Acuña, Jurich, Stella Peralta, Jaimes, Szpanin, Ferrero, Valiente, Gudiño, Nicolás, Saliba, Briner, Molina, Bría, Contrera, Carignano, Botta, Sala, Rossi, Alesandri, Bruno, Hernández Maqueda y Bisotto, reconociendo a la Fundación Amazonas por su labor con mujeres operadas de cáncer de mama.",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Presas, Luciana Maria",
+  "Suarez, Carmen Esther",
+  "Frias, Cristian Adrian",
+  "Acevedo, Maria Del Rosario",
+  "Tevez, Gustavo Alejandro",
+  "Quaglino, Ileana",
+  "Blangino, Juan Jose",
+  "Torres Lima, Facundo",
+  "Heredia, Jorge Edberto",
+  "Rebora, Enrique Rodolfo",
+  "Romero, Delia Dolores",
+  "Russo, Antonio Edgardo",
+  "Acuña, Karen Belen",
+  "Jurich, Silvina Dolores",
+  "Peralta, Stella Maris",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Valiente, Lucas German",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario",
+  "Briner, Carlos Edgardo",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Botta, Patricia Isabel",
+  "Sala, Ignacio Antonio",
+  "Rossi, Dante Valentin",
+  "Alesandri, Carlos Federico",
+  "Bruno, Karina Gabriela",
+  "Hernandez Maqueda, Gregorio",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-16",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-16",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28814",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=t0BYO_LGjV8="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40818%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

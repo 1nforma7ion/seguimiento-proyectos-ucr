@@ -1,0 +1,141 @@
+{
+ "numero": "39610/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, y todos los Legisladores de la Cámara, reconociendo al grupo musical Chébere, que marcó una huella imborrable en la historia del cuarteto de Córdoba, en el marco de su 50° aniversario que se celebra el día 19 de junio.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Acevedo, Maria Del Rosario",
+  "Acuña, Karen Belen",
+  "Agrelo, Rodrigo Maria",
+  "Alesandri, Carlos Federico",
+  "Blangino, Juan Jose",
+  "Bloque PRO",
+  "Bruno, Karina Gabriela",
+  "Busso, Maria Victoria",
+  "Chamorro, Matias Ezequiel",
+  "Ceballos Recalde, Mariano",
+  "Echevarria, Luciana Gabriela",
+  "Eslava, Marcelo Alejandro Jose",
+  "Fernandez, Nadia Vanesa",
+  "Figueroa, Raul Alberto",
+  "Flores, Ernesto Ramon",
+  "Frias, Cristian Adrian",
+  "Galo, Abraham",
+  "Bloque UCR",
+  "Heredia, Jorge Edberto",
+  "Hernandez Maqueda, Gregorio",
+  "Jurich, Silvina Dolores",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Limia, Luis Leonardo",
+  "Lorenzo, Carlos Mariano",
+  "Mansilla, Doris Fatima",
+  "Navarro Alegre, Veronica Fatima",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Ovejeros, Pablo Cesar",
+  "Peralta, Stella Maris",
+  "Peralta, Sebastián Amadeo",
+  "Pereyra, Cristina Alicia",
+  "Presas, Luciana Maria",
+  "Quaglino, Ileana",
+  "Rebora, Enrique Rodolfo",
+  "Romero, Delia Dolores",
+  "Rossi, Dante Valentin",
+  "Rufeil, Rodrigo Miguel",
+  "Russo, Antonio Edgardo",
+  "Siciliano, Miguel Angel",
+  "Sosa, Ricardo Roberto",
+  "Spaccesi, Agustin Alejandro",
+  "Suarez, Carmen Esther",
+  "Tevez, Gustavo Alejandro",
+  "Torres Lima, Facundo"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-06-19",
+  "ultimo_movimiento": {
+   "fecha": "2024-06-19",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28160",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Nlc72X64S20="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39610%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

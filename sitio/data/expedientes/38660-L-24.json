@@ -1,0 +1,135 @@
+{
+ "numero": "38660/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Jaimes, Bisotto, Szpanin, Austin, Gvozdenovich, Nicolás, Luna, Molina, Contrera, Carignano, Nostrala, Gloria Pereyra, Peirone, Botta, Rossi y Hernández Maqueda, modificando los artículos 14, 20 y 21 e incorporando el artículo 20 bis a la Ley N° 10793, que regula el juego en línea.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Gvozdenovich, Matias Pablo",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Nostrala, Walter Norberto",
+  "Pereyra, Carmen Gloria",
+  "Peirone, Juan Pablo",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Adicciones y Culto",
+  "Legislación General",
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-02-28",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-28",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2025-02-28",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-28"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Adicciones y Culto · 2",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 3",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Adicciones y Culto · 3",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 5",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Adicciones y Culto · 5",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38660%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

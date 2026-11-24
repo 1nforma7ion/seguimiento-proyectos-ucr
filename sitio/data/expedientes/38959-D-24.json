@@ -1,0 +1,132 @@
+{
+ "numero": "38959/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Briner, Bría, Contrera, Carignano, Hernández Maqueda y Limia, reconociendo al Ingeniero Mecánico Tomas Liendro por su desempeño, premiado por la NASA, en el certamen mundial “International Space Apps Challenge” de tecnología avanzada.",
+ "autores": [
+  "Gispert, Walter Oscar",
+  "Juez, Daniel Alejandro",
+  "Nostrala, Walter Norberto",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Peirone, Juan Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Briner, Carlos Edgardo",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Hernandez Maqueda, Gregorio",
+  "Limia, Luis Leonardo"
+ ],
+ "comisiones": [
+  "Tecnología, Innovación y Economía del Conocimiento"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2024-08-07",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-08-07",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28282",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=ffWMlsURIPA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38959%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

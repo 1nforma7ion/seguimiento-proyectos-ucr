@@ -1,0 +1,190 @@
+{
+ "numero": "41955/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ovejeros y toda la Cámara, estableciendo la realización de una jornada de “Educación en Derechos Humanos y en Democracia”, en todos los niveles de los establecimientos educativos, de gestión pública y privada.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Ovejeros, Pablo Cesar",
+  "Bloque HACEMOS UNIDOS POR CORDOBA",
+  "Bloque ENCUENTRO VECINAL CÓRDOBA",
+  "Bloque MEJOR FUTURO",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Presas, Luciana Maria",
+  "Suarez, Carmen Esther",
+  "Frias, Cristian Adrian",
+  "Navarro Alegre, Veronica Fatima",
+  "Figueroa, Raul Alberto",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Eslava, Marcelo Alejandro Jose",
+  "Flores, Ernesto Ramon",
+  "Tevez, Gustavo Alejandro",
+  "Quaglino, Ileana",
+  "Rinaldi, Julieta",
+  "Busso, Maria Victoria",
+  "Galo, Abraham",
+  "Austin, Brenda Lis",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Torres Lima, Facundo",
+  "Fernandez, Nadia Vanesa",
+  "Limia, Luis Leonardo",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Peralta, Sebastián Amadeo",
+  "Alesandri, Carlos Federico",
+  "Sosa, Ricardo Roberto",
+  "Heredia, Jorge Edberto",
+  "Nigro, Alfredo Mariano",
+  "Bloque MST-NUEVA IZQUIERDA",
+  "Bloque CORDOBA",
+  "Bloque LA LIBERTAD AVANZA",
+  "Valiente, Lucas German",
+  "Gudiño, Daniela Soledad",
+  "Grich, Ariel Denis",
+  "Rebora, Enrique Rodolfo",
+  "Nicolas, Miguel Osvaldo",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Luna, Fernando Javier",
+  "Romero, Delia Dolores",
+  "Carignano, Carlos Atilio",
+  "Ceballos Recalde, Mariano",
+  "Molina, Victor Eduardo",
+  "Russo, Antonio Edgardo",
+  "Tamis, Oscar Humberto",
+  "Pereyra, Cristina Alicia",
+  "Acuña, Karen Belen",
+  "Rufeil, Rodrigo Miguel",
+  "Jurich, Silvina Dolores",
+  "Lorenzo, Carlos Mariano",
+  "Peralta, Stella Maris",
+  "Chamorro, Matias Ezequiel",
+  "Acevedo, Maria Del Rosario",
+  "Sala, Ignacio Antonio",
+  "--Legislador--, -- Migracion--",
+  "Pérez Mígueles, Milena",
+  "Mansilla, Gabriela Ruth"
+ ],
+ "comisiones": [
+  "Educación",
+  "Derechos Humanos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-03-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-26",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-26",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Especial 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Especial 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 15",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Derechos Humanos · 7",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (3/26/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11040",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=5I_eEln5aAU="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41955%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

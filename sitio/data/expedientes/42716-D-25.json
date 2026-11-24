@@ -1,0 +1,98 @@
+{
+ "numero": "42716/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Austin y Rinaldi, expresando beneplácito por la asunción de la Dra. Marcela Aspell como Presidenta de la Academia Nacional de Derecho y Ciencias Sociales de Córdoba.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Rinaldi, Julieta"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2025-05-28",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29645",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=iuvZKlsmaLM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42716%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

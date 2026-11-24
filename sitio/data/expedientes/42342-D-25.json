@@ -1,0 +1,98 @@
+{
+ "numero": "42342/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso y Saliba, adhiriendo al 30º aniversario de la Cooperativa de Provisión y Comercialización de Servicios Comunitarios -COLSECOR-, a celebrarse el día 5 de mayo.",
+ "autores": [
+  "Bottasso, Gustavo Armando",
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Economía Social, Cooperativas y Mutuales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-04-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-30",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29463",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=jPM0I42KsUA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42342%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

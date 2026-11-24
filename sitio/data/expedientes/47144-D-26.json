@@ -1,0 +1,98 @@
+{
+ "numero": "47144/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Chamorro, adhiriendo al Día Provincial de la Lucha contra la Impunidad de los Delitos de Lesa Humanidad, que se conmemora cada 25 de agosto.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Chamorro, Matias Ezequiel"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-08-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31485",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=lpz0fEMCjPY="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47144%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

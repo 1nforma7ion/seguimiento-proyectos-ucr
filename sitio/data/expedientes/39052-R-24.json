@@ -1,0 +1,124 @@
+{
+ "numero": "39052/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Gvozdenovich, Briner, Bisotto, Bottasso, Bría, Carignano, Ferrero, Grich, Gudiño, Molina, Nicolás, Nigro, Szpanin, Valiente y Saliba, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con lo establecido en el artículo 3 del Decreto 1447/2009, reglamentario de la Ley N° 9666, -Cuenta especial del Ministerio de Salud- Fondo T – Diversas patologías – Cuenta Corriente -900-2997/9-.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Gvozdenovich, Matias Pablo",
+  "Briner, Carlos Edgardo",
+  "Bisotto, Graciela Maria",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Carignano, Carlos Atilio",
+  "Ferrero, Alejandra",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German",
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-17",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-19",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-04-17",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Normal",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 4021",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=ZHOrr0Q_qmQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39052%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

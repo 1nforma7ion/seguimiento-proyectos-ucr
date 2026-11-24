@@ -1,0 +1,98 @@
+{
+ "numero": "43118/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Colonia Las Pichanas, Dpto. San Justo, a celebrarse el día 16 de julio en honor a la Virgen del Carmen.",
+ "autores": [
+  "Tevez, Gustavo Alejandro",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Adicciones y Culto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-07-01",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-01",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29834",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=N_fQpRHsz0k="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43118%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

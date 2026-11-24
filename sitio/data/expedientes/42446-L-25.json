@@ -1,0 +1,137 @@
+{
+ "numero": "42446/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Flores y los Bloques Hacemos Unidos por Córdoba, UCR y Frente Cívico de Córdoba, declarando Fiesta Provincial a la Fiesta de los Trabajadores, que se desarrolla anualmente en la localidad de Santa Elena, Dpto. Río Seco.",
+ "autores": [
+  "Flores, Ernesto Ramon",
+  "Bloque HACEMOS UNIDOS POR CORDOBA",
+  "Bloque UCR",
+  "Bloque FRENTE CIVICO DE CORDOBA"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-04-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-28",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": "2025-05-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 8 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho de la Cámara en comisión",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-28",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-28",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 8 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas Con Despacho Cámara En Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ley Sancionada, Promulgada Y Publicada En B.O",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-28"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11048",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=r4jYprUJfTM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42446%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

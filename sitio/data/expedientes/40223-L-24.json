@@ -1,0 +1,126 @@
+{
+ "numero": "40223/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Bisotto, Jaimes, Szpanin, Saliba, Molina, Contrera, Carignano, Rossi, Sebastián Peralta, Agrelo y Hernández Maqueda, declarando Fiesta Provincial al Festival Gastronómico Sabores del Maní, que anualmente se realiza en la ciudad de General Cabrera, Dpto. Juárez Celman.",
+ "autores": [
+  "Bisotto, Graciela Maria",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Saliba, Oscar Elias Mario",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Rossi, Dante Valentin",
+  "Peralta, Sebastián Amadeo",
+  "Agrelo, Rodrigo Maria",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Promoción y Desarrollo de las Comunidades Regionales",
+  "Legislación General",
+  "Turismo"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-09-04",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-02",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho de la Cámara en comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas Con Despacho Cámara En Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Desarrollo de las Comunidades Regionales · 5",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 10993",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=p6i1gNZV2Xk="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40223%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

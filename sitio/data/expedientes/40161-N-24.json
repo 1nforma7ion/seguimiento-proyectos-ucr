@@ -1,0 +1,89 @@
+{
+ "numero": "40161/N/24",
+ "tipo": "otros",
+ "extracto": "Nota remitida por la Legisladora Gudiño, solicitando la rehabilitación del Proyecto N° 30581/L/20 conforme el Art. 111 del R.I.",
+ "autores": [
+  "Gudiño, Daniela Soledad"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-09-04",
+  "ultimo_movimiento": {
+   "fecha": "2024-09-04",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40161%2FN%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

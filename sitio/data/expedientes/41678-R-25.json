@@ -1,0 +1,99 @@
+{
+ "numero": "41678/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Contrera y Bría. solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados al corte de energía eléctrica del pasado 3 de febrero, respecto de inversiones en mantenimiento, sistemas de monitoreo y estrategias de la EPEC para el uso eficiente y prevención de estas contingencias.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2025-02-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-05",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2026-02-05",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-02-05"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 18",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41678%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,107 @@
+{
+ "numero": "42735/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por los Bloques Encuentro Vecinal Córdoba, Frente Cívico de Córdoba, Mejor Futuro y los Legisladores Ferrero, Gvozdenovich, Saliba, Szpanin, Contrera, Luna, Nigro, Austin, Bría y Bottasso, solicitando se agreguen al temario concertado para la Sesión Especial convocada para el día 28 de mayo, Proyectos de Ley y de Resolución relacionados a la temática a tratar; caso contrario se cite a Sesión Especial para el mismo día en horario inmediatamente posterior, conforme el art. 26 del R.I.",
+ "autores": [
+  "Agrelo, Rodrigo Maria",
+  "Juez, Daniel Alejandro",
+  "Nostrala, Walter Norberto",
+  "Gispert, Walter Oscar",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Peirone, Juan Pablo",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Hernandez Maqueda, Gregorio",
+  "Saliba, Oscar Elias Mario",
+  "Szpanin, Ariela Yanina",
+  "Contrera, Ines Mercedes",
+  "Luna, Fernando Javier",
+  "Nigro, Alfredo Mariano",
+  "Austin, Brenda Lis",
+  "Bria, Jose Alberto",
+  "Bottasso, Gustavo Armando"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2025-05-28",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42735%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

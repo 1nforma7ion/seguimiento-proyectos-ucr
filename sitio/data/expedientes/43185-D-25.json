@@ -1,0 +1,97 @@
+{
+ "numero": "43185/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito a Diego Topa por la presentación del espectáculo \"Topa, es Tiempo de Jugar\", destacando su valioso aporte a la inclusión cultural.",
+ "autores": [
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-07-01",
+  "ultimo_movimiento": {
+   "fecha": "2025-07-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-01",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": "2025-07-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 12 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 12 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29864",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=4USaCeOb6gM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43185%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

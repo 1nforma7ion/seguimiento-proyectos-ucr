@@ -1,0 +1,100 @@
+{
+ "numero": "43608/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Galo y Bisotto, instituyendo el 22 de agosto de cada año como Día del Guardaparque de la provincia de Córdoba.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Galo, Abraham",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Ambiente y Recursos Renovables",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-08-20",
+  "ultimo_movimiento": {
+   "fecha": "2025-08-20",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11057",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=FQnPDLqtvdM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43608%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

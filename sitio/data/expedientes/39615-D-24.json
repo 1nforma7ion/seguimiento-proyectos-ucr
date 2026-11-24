@@ -1,0 +1,178 @@
+{
+ "numero": "39615/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Bruno, reconociendo al Director Técnico de Básquetbol Rubén Magnano, por su trayectoria nacional e internacional y su aporte al deporte de la provincia.",
+ "autores": [
+  "Bruno, Karina Gabriela",
+  "Agrelo, Rodrigo Maria",
+  "Alesandri, Carlos Federico",
+  "Bisotto, Graciela Maria",
+  "Botta, Patricia Isabel",
+  "Echevarria, Luciana Gabriela",
+  "Gvozdenovich, Matias Pablo",
+  "Hernandez Maqueda, Gregorio",
+  "Nostrala, Walter Norberto",
+  "Rossi, Dante Valentin",
+  "Siciliano, Miguel Angel",
+  "Spaccesi, Agustin Alejandro",
+  "Acevedo, Maria Del Rosario",
+  "Acuña, Karen Belen",
+  "Almada, Nancy Edith",
+  "Austin, Brenda Lis",
+  "Blangino, Juan Jose",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Brizuela, Maria Noelia",
+  "Busso, Maria Victoria",
+  "Carignano, Carlos Atilio",
+  "Ceballos Recalde, Mariano",
+  "Chamorro, Matias Ezequiel",
+  "Contrera, Ines Mercedes",
+  "Eslava, Marcelo Alejandro Jose",
+  "Fernandez, Nadia Vanesa",
+  "Ferrero, Alejandra",
+  "Figueroa, Raul Alberto",
+  "Flores, Ernesto Ramon",
+  "Frias, Cristian Adrian",
+  "Galo, Abraham",
+  "Gispert, Walter Oscar",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Heredia, Jorge Edberto",
+  "Jaimes, Mauricio Sebastian",
+  "Juez, Daniel Alejandro",
+  "Jurich, Silvina Dolores",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Limia, Luis Leonardo",
+  "Lorenzo, Carlos Mariano",
+  "Luna, Fernando Javier",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Molina, Victor Eduardo",
+  "Navarro Alegre, Veronica Fatima",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Ovejeros, Pablo Cesar",
+  "Peirone, Juan Pablo",
+  "Peralta, Sebastián Amadeo",
+  "Peralta, Stella Maris",
+  "Pereyra, Carmen Gloria",
+  "Pereyra, Cristina Alicia",
+  "Presas, Luciana Maria",
+  "Quaglino, Ileana",
+  "Rinaldi, Julieta",
+  "Romero, Delia Dolores",
+  "Rufeil, Rodrigo Miguel",
+  "Russo, Antonio Edgardo",
+  "Sala, Ignacio Antonio",
+  "Saliba, Oscar Elias Mario",
+  "Sosa, Ricardo Roberto",
+  "Suarez, Carmen Esther",
+  "Szpanin, Ariela Yanina",
+  "Tamis, Oscar Humberto",
+  "Tevez, Gustavo Alejandro",
+  "Torres Lima, Facundo",
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Deportes"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-06-19",
+  "ultimo_movimiento": {
+   "fecha": "2024-08-21",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28352",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=XKszSTD1ZXA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39615%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

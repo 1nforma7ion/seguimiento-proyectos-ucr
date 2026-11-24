@@ -1,0 +1,99 @@
+{
+ "numero": "43628/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Quaglino, Szpanin y Contrera, expresando beneplácito por el centenario de la Colectividad Armenia de Córdoba, celebrado el pasado 3 de agosto.",
+ "autores": [
+  "Quaglino, Ileana",
+  "Szpanin, Ariela Yanina",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-08-20",
+  "ultimo_movimiento": {
+   "fecha": "2025-08-20",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30049",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=5vxVOxu2zY0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43628%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

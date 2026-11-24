@@ -1,0 +1,112 @@
+{
+ "numero": "41839/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Szpanin, Gvozdenovich, Nigro, Saliba, Grich, Contrera, Gispert, Martoccia y Gloria Pereyra, solicitando al Sr. Fiscal General de la provincia se suspenda la decisión de instalar un Centro de Recepción de Procedimientos con Personas Aprehendidas en la ex Comisaría de la Seccional 13 de la ciudad de Córdoba.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo",
+  "Szpanin, Ariela Yanina",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Contrera, Ines Mercedes",
+  "Gispert, Walter Oscar",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Pereyra, Carmen Gloria"
+ ],
+ "comisiones": [
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2025-03-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-09",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-04-09",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 5 del Período 147"
+  },
+  {
+   "fecha": "2025-04-09",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 5 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 5 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-09"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 5 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-09"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41839%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

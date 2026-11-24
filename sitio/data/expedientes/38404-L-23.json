@@ -1,0 +1,123 @@
+{
+ "numero": "38404/L/23",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Coalición Cívica ARI, incorporando el artículo 49 bis a la Ley N° 9571, Código Electoral Provincial, y el artículo 11 bis a la Ley N° 9572, Régimen jurídico de los particos políticos, referidos a la ficha limpia.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Almada, Nancy Edith",
+  "Gispert, Walter Oscar",
+  "Juez, Daniel Alejandro",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Nostrala, Walter Norberto",
+  "Pereyra, Carmen Gloria",
+  "Peirone, Juan Pablo",
+  "Botta, Patricia Isabel",
+  "Peralta, Sebastián Amadeo",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio",
+  "Bisotto, Graciela Maria",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Carignano, Carlos Atilio",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Gvozdenovich, Matias Pablo",
+  "Jaimes, Mauricio Sebastian",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Saliba, Oscar Elias Mario",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German",
+  "Tamis, Oscar Humberto",
+  "Sala, Ignacio Antonio"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2023-12-13",
+  "ultimo_movimiento": {
+   "fecha": "2023-12-20",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 39 del Período 145"
+  },
+  {
+   "fecha": "2023-12-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 39 del Período 145"
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 39 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 39 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38404%2FL%2F23",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

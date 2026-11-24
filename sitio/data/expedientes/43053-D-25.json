@@ -1,0 +1,105 @@
+{
+ "numero": "43053/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero y los Bloques, Frente Cívico de Córdoba, UCR, Mejor Futuro, Encuentro Vecinal Córdoba, Construyendo Córdoba y PRO, expresando preocupación por el alegato del Fiscal Ruiz Moreno en el pedido de condena contra el ex Ministro Diego Cardozo en el juicio por las muertes de bebes en el Hospital Neonatal, solidarizándonos con las familias de las víctimas, exigiendo acceso a la verdad y justicia.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Bloque UCR"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-06-18",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-18",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2026-06-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-18",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43053%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

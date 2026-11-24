@@ -1,0 +1,97 @@
+{
+ "numero": "47360/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando preocupación por el estado de conservación y mantenimiento de la Autopista Nacional Nº 9, en el tramo Córdoba - Rosario, y de la Ruta Nacional Nº 9 en su antigua traza, solicitando a los Legisladores Nacionales por Córdoba gestionen su reparación.",
+ "autores": [
+  "Carignano, Carlos Atilio"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-08-12",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-12",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-12",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-12",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 148"
+  },
+  {
+   "fecha": "2026-08-12",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 13 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 13 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31599",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=HJOqlUqt6_A="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47360%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,148 @@
+{
+ "numero": "39012/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Jaimes, Bisotto, Ferrero, Nigro, Gudiño, Luna, Saliba, Bottasso, Molina, Contrera, Carignano, Botta, Rossi, Gispert, Gloria Pereyra, Hernández Maqueda, Echevarría y Agrelo, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre el estado de construcción, el costo presupuestario y nómina de empresas constructoras a cargo de las escuelas PROA provinciales.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Ferrero, Alejandra",
+  "Nigro, Alfredo Mariano",
+  "Gudiño, Daniela Soledad",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Bottasso, Gustavo Armando",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Hernandez Maqueda, Gregorio",
+  "Echevarria, Luciana Gabriela",
+  "Agrelo, Rodrigo Maria"
+ ],
+ "comisiones": [
+  "Educación",
+  "Obras Públicas y Vivienda"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-17",
+  "ultimo_movimiento": {
+   "fecha": "2024-07-24",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por acuerdo de los bloques",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Acuerdo De Los Bloques",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 3",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 4",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 5",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Obras Públicas y Vivienda · 3",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Educación · 7",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39012%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

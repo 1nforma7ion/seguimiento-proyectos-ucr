@@ -1,0 +1,139 @@
+{
+ "numero": "39001/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba, Encuentro Vecinal Córdoba, MST en el FITU, Creo en Córdoba y Coalición Cívica ARI, modificando el artículo 19 de la Ley N° 8024- de Jubilaciones, Pensiones y Retiros- incorporando al personal que se desempeña en los jardines municipales dependientes del sistema educativo de la ciudad de Córdoba.",
+ "autores": [
+  "Ferrero, Alejandra",
+  "Hernandez Maqueda, Gregorio",
+  "Austin, Brenda Lis",
+  "Gvozdenovich, Matias Pablo",
+  "Botta, Patricia Isabel",
+  "Rossi, Dante Valentin",
+  "Agrelo, Rodrigo Maria",
+  "Alesandri, Carlos Federico",
+  "Echevarria, Luciana Gabriela",
+  "Bisotto, Graciela Maria",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Carignano, Carlos Atilio",
+  "Briner, Carlos Edgardo",
+  "Contrera, Ines Mercedes",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Jaimes, Mauricio Sebastian",
+  "Luna, Fernando Javier",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Peralta, Sebastián Amadeo",
+  "Saliba, Oscar Elias Mario",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Tamis, Oscar Humberto",
+  "Sala, Ignacio Antonio"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-04-17",
+  "ultimo_movimiento": {
+   "fecha": "2024-04-19",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho de la Cámara en comisión",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-19",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas Con Despacho Cámara En Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-04-19"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 10965",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=uky7ABSF0AE="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39001%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

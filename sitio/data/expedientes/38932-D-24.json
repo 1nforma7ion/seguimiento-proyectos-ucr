@@ -1,0 +1,129 @@
+{
+ "numero": "38932/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Rinaldi, Gudiño, Bruno y el Bloque Hacemos Unidos por Córdoba, rechazando la propuesta de nombramiento de miembros de la Corte Suprema de Justicia de la Nación formulada por el Presidente de la Nación, que no incluye magistradas mujeres.",
+ "autores": [
+  "Rinaldi, Julieta",
+  "Bruno, Karina Gabriela",
+  "Gudiño, Daniela Soledad",
+  "Siciliano, Miguel Angel",
+  "Acevedo, Maria Del Rosario",
+  "Blangino, Juan Jose",
+  "Busso, Maria Victoria",
+  "Ceballos Recalde, Mariano",
+  "Chamorro, Matias Ezequiel",
+  "Eslava, Marcelo Alejandro Jose",
+  "Fernandez, Nadia Vanesa",
+  "Figueroa, Raul Alberto",
+  "Flores, Ernesto Ramon",
+  "Frias, Cristian Adrian",
+  "Galo, Abraham",
+  "Heredia, Jorge Edberto",
+  "Jurich, Silvina Dolores",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Limia, Luis Leonardo",
+  "Lorenzo, Carlos Mariano",
+  "Navarro Alegre, Veronica Fatima",
+  "Ovejeros, Pablo Cesar",
+  "Pereyra, Cristina Alicia",
+  "Presas, Luciana Maria",
+  "Quaglino, Ileana",
+  "Quiñonez, Natalia Soledad",
+  "Rebora, Enrique Rodolfo",
+  "Romero, Delia Dolores",
+  "Rufeil, Rodrigo Miguel",
+  "Russo, Antonio Edgardo",
+  "Sosa, Ricardo Roberto",
+  "Tevez, Gustavo Alejandro",
+  "Torres Lima, Facundo"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2024-04-03",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 3900",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=L71_a_idosE="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38932%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

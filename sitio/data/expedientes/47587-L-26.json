@@ -1,0 +1,88 @@
+{
+ "numero": "47587/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna y Contrera, creando el Régimen de Provisión del Boleto Héroes de Malvinas para ser utilizado en el servicio público provincial de transporte de pasajeros interurbano.",
+ "autores": [
+  "Luna, Fernando Javier",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Transporte y Comunicaciones",
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-09-02",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-02",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-09-02"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-09-02",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-02",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 148"
+  },
+  {
+   "fecha": "2026-09-02",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-02"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-02"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Transporte y Comunicaciones · 18",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47587%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

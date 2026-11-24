@@ -1,0 +1,95 @@
+{
+ "numero": "47422/N/26",
+ "tipo": "otros",
+ "extracto": "Nota remitida por la Legisladora Ferrero, solicitando licencia en su cargo desde el 24 de agosto hasta el 24 de septiembre de 2026, conforme al art. 15 del R.I.",
+ "autores": [
+  "Ferrero, Alejandra"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-08-26",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-26",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 4298",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=UrlEwQjhOhI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47422%2FN%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,102 @@
+{
+ "numero": "38950/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Chamorro, Acuña, Jurich, Contrera, Szpanin y Suárez, repudiando el atentado sufrido por una militante de la agrupación H.I.J.O.S. Rosario el pasado 23 de marzo, en vísperas del Día de la Memoria por la Verdad y la Justicia, por su carácter de violencia política, simbólica, física y de género.",
+ "autores": [
+  "Chamorro, Matias Ezequiel",
+  "Acuña, Karen Belen",
+  "Jurich, Silvina Dolores",
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Suarez, Carmen Esther"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-03-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-03-27",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Especial 1 del Período 146"
+  },
+  {
+   "fecha": "2024-03-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Especial 1 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Especial 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Especial 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27892",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=8oCp8H21n_4="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38950%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,89 @@
+{
+ "numero": "46021/N/26",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Briner, solicitando la rehabilitación del Proyecto N° 42129/L/25, conforme el art. 111 del R.I.",
+ "autores": [
+  "Briner, Carlos Edgardo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2026-04-20",
+  "ultimo_movimiento": {
+   "fecha": "2026-04-20",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por nota",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Nota",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46021%2FN%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,114 @@
+{
+ "numero": "38746/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Gvozdenovich, Ferrero, Bottasso, Gudiño, Austin, Nicolás, Valiente, Luna, Molina, Jaimes, Bisotto, Saliba, Nigro, Szpanin, Grich, Briner y Contrera, solicitando al Poder Ejecutivo la reparación y puesta en condiciones de la Ruta provincial N° 17, en el tramo que une la intersección de calles Urquiza y Mar Chiquita de la localidad de Balnearia hasta el cruce con la Ruta provincial N° 3.",
+ "autores": [
+  "Bria, Jose Alberto",
+  "Gvozdenovich, Matias Pablo",
+  "Ferrero, Alejandra",
+  "Bottasso, Gustavo Armando",
+  "Gudiño, Daniela Soledad",
+  "Austin, Brenda Lis",
+  "Nicolas, Miguel Osvaldo",
+  "Valiente, Lucas German",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Saliba, Oscar Elias Mario",
+  "Nigro, Alfredo Mariano",
+  "Szpanin, Ariela Yanina",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-03-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2025-03-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-03-13"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 3",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38746%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

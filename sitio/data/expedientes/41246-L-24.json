@@ -1,0 +1,103 @@
+{
+ "numero": "41246/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Juez, Peirone, Almada, Bría, Gispert y Gloria Pereyra, adhiriendo la provincia a la Ley Nacional Nº 27159, Sistema de Prevención Integral de Eventos por Muerte Súbita en Espacios Públicos y Privados de Acceso Público y sus normas complementarias.",
+ "autores": [
+  "Juez, Daniel Alejandro",
+  "Peirone, Juan Pablo",
+  "Bria, Jose Alberto",
+  "Almada, Nancy Edith",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-11-27",
+  "ultimo_movimiento": {
+   "fecha": "2025-11-27",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2025-11-27",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-11-27"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 35",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41246%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

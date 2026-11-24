@@ -1,0 +1,112 @@
+{
+ "numero": "41367/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Gvozdenovich, Ferrero, Nigro, Luna, Bottasso, Bría, Nicolás y Saliba, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre características y particularidades del fondo permanente \"F\", Fondo de Inclusión Social de Personas con Discapacidad.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Gvozdenovich, Matias Pablo",
+  "Ferrero, Alejandra",
+  "Nigro, Alfredo Mariano",
+  "Luna, Fernando Javier",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2024-12-12",
+  "ultimo_movimiento": {
+   "fecha": "2025-06-18",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-12",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41367%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

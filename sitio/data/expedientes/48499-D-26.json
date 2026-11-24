@@ -1,0 +1,110 @@
+{
+ "numero": "48499/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Bloques Hacemos Unidos por Córodba, Unión Civica Radical, Frente Cívico Córdoba, PRO, Construyendo Córdoba, Córdoba, La Libertad Avanza, Encuentro Vecinal Córdoba, Mejor Futuro, Juntos por el Interior y Valores Republicanos, declarando Visitante Ilustre y Huésped de Honor a Su Santidad el Papa León XIV, en ocasión de su visita oficial a la provincia el día 10 de noviembre.",
+ "autores": [
+  "Bisotto, Graciela Maria",
+  "Agost Carreño, Oscar",
+  "Rinaldi, Julieta",
+  "Llamosas, Juan Manuel",
+  "Almada, Nancy Edith",
+  "Bloque HACEMOS UNIDOS POR CORDOBA",
+  "Bloque UCR",
+  "Nostrala, Walter Norberto",
+  "Bloque VALORES REPUBLICANOS",
+  "Spaccesi, Agustin Alejandro",
+  "Bloque JUNTOS UCR",
+  "Bloque CORDOBA",
+  "Bloque ENCUENTRO VECINAL CÓRDOBA",
+  "Bloque MEJOR FUTURO"
+ ],
+ "comisiones": [
+  "Adicciones y Culto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-10-29",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 32138",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=cIiRJR-Cr9o="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48499%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

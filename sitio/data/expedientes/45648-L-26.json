@@ -1,0 +1,100 @@
+{
+ "numero": "45648/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Llamosas, Grich y Soardo, declarando Fiesta Provincial al Festival Otoño Polifónico que se desarrolla anualmente en la ciudad de Río Cuarto.",
+ "autores": [
+  "Llamosas, Juan Manuel",
+  "Grich, Ariel Denis",
+  "Soardo, Leonor Jorgelina"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-03-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho de la Cámara en comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas Con Despacho Cámara En Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11106",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=4FMd4kNqWbo="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45648%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

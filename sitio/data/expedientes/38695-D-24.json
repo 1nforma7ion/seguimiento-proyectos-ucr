@@ -1,0 +1,113 @@
+{
+ "numero": "38695/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Nigro, Gvozdenovich, Austin, Briner, Bisotto, Bottasso, Bría, Carignano, Contrera, Ferrero, Grich, Gudiño, Jaimes, Molina, Nicolás, Szpanin y Valiente, reconociendo la memoria del exgobernador de la provincia, Dr. Amadeo Sabattini, al conmemorarse el 64º aniversario de su fallecimiento el 29 de febrero.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Gvozdenovich, Matias Pablo",
+  "Austin, Brenda Lis",
+  "Briner, Carlos Edgardo",
+  "Bisotto, Graciela Maria",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Carignano, Carlos Atilio",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Grich, Ariel Denis",
+  "Gudiño, Daniela Soledad",
+  "Jaimes, Mauricio Sebastian",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-02-28",
+  "ultimo_movimiento": {
+   "fecha": "2024-02-28",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27832",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=uglAvaUgiSY="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38695%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

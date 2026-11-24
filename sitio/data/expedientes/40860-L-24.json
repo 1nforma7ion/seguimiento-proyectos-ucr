@@ -1,0 +1,105 @@
+{
+ "numero": "40860/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Gudiño, Bría, Briner, Contrera, Ferrero, Luna, Molina, Nicolás, Saliba, Szpanin, Gispert, Gloria Pereyra y Hernández Maqueda, otorgando a las personas mayores de 60 años la posibilidad de elección del medio en la tramitación, sea digital y/o formato papel, y la manera que se recibe la información de la Administración Pública.",
+ "autores": [
+  "Gudiño, Daniela Soledad",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Contrera, Ines Mercedes",
+  "Ferrero, Alejandra",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Nicolas, Miguel Osvaldo",
+  "Saliba, Oscar Elias Mario",
+  "Szpanin, Ariela Yanina",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Tecnología, Innovación y Economía del Conocimiento",
+  "Derechos Humanos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-30",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2025-10-30",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-30"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40860%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

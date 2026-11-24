@@ -1,0 +1,136 @@
+{
+ "numero": "47297/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Rinaldi, Stella Peralta, Presas, Jaimes, Austin, Mansilla y Chamorro, modificando y derogando artículos de la Ley Nº 11035, Procesal Penal Juvenil, adecuándola a la Ley Nacional Nº 27801, Régimen Penal Juvenil, garantizando un sistema especializado; estableciendo la redacción de un Texto Ordenado.",
+ "autores": [
+  "Rinaldi, Julieta",
+  "Presas, Luciana Maria",
+  "Mansilla, Doris Fatima",
+  "Peralta, Stella Maris",
+  "Chamorro, Matias Ezequiel",
+  "Austin, Brenda Lis",
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia",
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-08-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-02",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-09-02",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 15 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 15 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 20",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 21",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho Compatibilizado (9/2/2026)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11136",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=wlWS9_S_8oo="
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11136",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=fyJzJYfZN6w="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47297%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

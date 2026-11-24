@@ -1,0 +1,88 @@
+{
+ "numero": "47373/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Peirone, Bría, Briner y el Bloque Frente Cívico, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados a casos notificados, políticas públicas, programas y acciones referidas a contagios por sífilis.",
+ "autores": [
+  "Peirone, Juan Pablo",
+  "Bria, Jose Alberto",
+  "Briner, Carlos Edgardo",
+  "Bloque FRENTE CIVICO DE CORDOBA"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-08-26",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-26",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-08-26"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 52",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47373%2FR%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

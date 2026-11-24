@@ -1,0 +1,123 @@
+{
+ "numero": "44834/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Molina, Almada, Acuña, Blangino, Jurich, Stella Peralta, Rufeil, Rossi, Figueroa, Eslava, Acevedo, Presas y los Bloque UCR y Juntos por el Interior, propiciando la construcción de un mástil en el Monumento erigido a las víctimas de la Masacre de Barranca Yaco, en carácter de reparación histórica al Dr. José Santos Ortiz, asesinado junto a Juan Facundo Quiroga el 16 de febrero de 1835,",
+ "autores": [
+  "Molina, Victor Eduardo",
+  "Bloque UCR",
+  "Almada, Nancy Edith",
+  "Acuña, Karen Belen",
+  "Blangino, Juan Jose",
+  "Jurich, Silvina Dolores",
+  "Peralta, Stella Maris",
+  "Rufeil, Rodrigo Miguel",
+  "Rossi, Dante Valentin",
+  "Figueroa, Raul Alberto",
+  "Acevedo, Maria Del Rosario",
+  "Bisotto, Graciela Maria",
+  "Eslava, Marcelo Alejandro Jose",
+  "Presas, Luciana Maria",
+  "Peralta, Sebastián Amadeo"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-12-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-03",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30712",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=JawtUiQLoV4="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44834%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,99 @@
+{
+ "numero": "42322/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Bisotto y Bría, reconociendo al equipo cordobés que participó del primer trasplante renal con máquinas de perfusión hipotérmicas que permiten preservar y optimizar los riñones antes del trasplante.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Bisotto, Graciela Maria",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-04-14",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-14",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-04-14",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 6 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-04-14",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 147"
+  },
+  {
+   "fecha": "2025-04-14",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 6 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-14"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-14"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29448",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=biu2U4fQysQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42322%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

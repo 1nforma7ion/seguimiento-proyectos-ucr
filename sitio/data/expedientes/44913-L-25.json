@@ -1,0 +1,81 @@
+{
+ "numero": "44913/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, estableciendo que la existencia de deuda alimentaria firme, líquida y exigible, ya sea por sentencia judicial, auto o resolución judicial y/u homologación entre las partes, producirá la exclusión automática del acceso o mantenimiento de bonificaciones, exenciones, descuentos, reducciones, incentivos o cualquier tratamiento preferencial en tributos provinciales.",
+ "autores": [
+  "Ferrero, Alejandra"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto",
+  "Legislación General",
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-11",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-11"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44913%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

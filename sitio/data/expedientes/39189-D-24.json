@@ -1,0 +1,135 @@
+{
+ "numero": "39189/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Martoccia, Agrelo, Juez, Nostrala, Gispert, Pereyra Carmen, Almada, Suárez, Navarro Alegre, Chamorro, Frías, Figueroa, Tévez, Blangino, Galo, Heredia, Rébora, Ceballos Recalde, Cristina Pereyra, Lorenzo, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Bría, Contrera, Carignano, Botta, Sala, Bruno, y Hernández Maqueda, expresando beneplácito por el 23º aniversario de creación de la Casa de la Bondad en la ciudad de Córdoba, destacando su tarea de albergar enfermos terminales en situación de vulnerabilidad, brindándoles asistencia, amparo y contención.",
+ "autores": [
+  "Martoccia, Viviana Raquel Del Valle",
+  "Agrelo, Rodrigo Maria",
+  "Juez, Daniel Alejandro",
+  "Nostrala, Walter Norberto",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Almada, Nancy Edith",
+  "Suarez, Carmen Esther",
+  "Navarro Alegre, Veronica Fatima",
+  "Chamorro, Matias Ezequiel",
+  "Frias, Cristian Adrian",
+  "Figueroa, Raul Alberto",
+  "Tevez, Gustavo Alejandro",
+  "Blangino, Juan Jose",
+  "Galo, Abraham",
+  "Heredia, Jorge Edberto",
+  "Rebora, Enrique Rodolfo",
+  "Ceballos Recalde, Mariano",
+  "Pereyra, Cristina Alicia",
+  "Lorenzo, Carlos Mariano",
+  "Jaimes, Mauricio Sebastian",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Valiente, Lucas German",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Botta, Patricia Isabel",
+  "Sala, Ignacio Antonio",
+  "Peralta, Sebastián Amadeo",
+  "Bruno, Karina Gabriela",
+  "Hernandez Maqueda, Gregorio"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28004",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=SomgayaXumU="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39189%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

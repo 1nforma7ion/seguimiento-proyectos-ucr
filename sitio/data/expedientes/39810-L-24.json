@@ -1,0 +1,145 @@
+{
+ "numero": "39810/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Bloque Frente Cívico de Córdoba, creando el Programa de Lucha contra la Ludopatía online.",
+ "autores": [
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Hernandez Maqueda, Gregorio",
+  "Bisotto, Graciela Maria",
+  "Sala, Ignacio Antonio",
+  "Botta, Patricia Isabel",
+  "Bloque UCR"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General",
+  "Adicciones y Culto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-23",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató con despacho de comisión",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-23",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-23",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Normal Con Despacho Cámara Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-10-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ley Sancionada, Promulgada Y Publicada En B.O",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-10-23"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Adicciones y Culto · 5",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 10987",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=A63MATkFX-I="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39810%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,83 @@
+{
+ "numero": "38462/R/23",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Nostrala, Rossi, Hernández Maqueda y Botta, modificando el artículo 59 del Reglamento Interno de la Legislatura, estableciendo que los Presidentes de los Interbloques que se hubieren conformado integrarán la Comisión de Labor Parlamentaria.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo",
+  "Nostrala, Walter Norberto",
+  "Rossi, Dante Valentin",
+  "Hernandez Maqueda, Gregorio",
+  "Botta, Patricia Isabel"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2023-12-20",
+  "ultimo_movimiento": {
+   "fecha": "2023-12-20",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38462%2FR%2F23",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

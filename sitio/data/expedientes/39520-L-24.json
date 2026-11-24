@@ -1,0 +1,190 @@
+{
+ "numero": "39520/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Carignano, Almada, Gvozdenovich, Szpanin, Bottasso, Bría, Jaimes, Molina, Valiente y Agrelo, modificando la Ley N° 8560, de Tránsito, incorporando términos adecuados para personas con discapacidad, integrando las áreas prioritarias a ser utilizadas por los diferentes usuarios.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Almada, Nancy Edith",
+  "Gvozdenovich, Matias Pablo",
+  "Szpanin, Ariela Yanina",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Jaimes, Mauricio Sebastian",
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [
+  "Promoción de Derechos de Personas con Discapacidad",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-06-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-29",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2024-06-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 146"
+  },
+  {
+   "fecha": "2025-06-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-06-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 147"
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-06-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 11 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-06-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11096",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=HIv-29EMe4o="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39520%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

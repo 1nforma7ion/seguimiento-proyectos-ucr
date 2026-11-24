@@ -1,0 +1,85 @@
+{
+ "numero": "44808/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Ferrero, Nicolás, Szpanin, Bría, Contrera y Saliba, solicitando al Poder Ejecutivo informe (art. 102 C.P.) si la provisión de agua potable en la provincia es apta para el consumo humano de acuerdo a los estándares considerados seguros por la Organización Mundial de la Salud y por los parámetros establecidos en la legislación vigente.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Ferrero, Alejandra",
+  "Nicolas, Miguel Osvaldo",
+  "Szpanin, Ariela Yanina",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-11-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-11-19",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-11-19"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-11-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-11-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 147"
+  },
+  {
+   "fecha": "2025-11-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 20 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 20 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-11-19"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44808%2FR%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

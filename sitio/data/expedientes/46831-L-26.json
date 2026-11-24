@@ -1,0 +1,81 @@
+{
+ "numero": "46831/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Briner, estableciendo un nuevo Régimen Departamental Provincial, de conformidad con el artículo 104 inciso 7.- de la Constitución Provincial.",
+ "autores": [
+  "Briner, Carlos Edgardo"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Asuntos Municipales y Comunales",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-06-25",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-25",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-06-25"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46831%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

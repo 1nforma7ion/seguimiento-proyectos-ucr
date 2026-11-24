@@ -1,0 +1,95 @@
+{
+ "numero": "45070/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Grich solicitando licencia desde el 23 de diciembre de 2025 al 23 de enero de 2026, conforme el art. 15 del R.I. .",
+ "autores": [
+  "Grich, Ariel Denis"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-12-23",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-23",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 24 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 24 del Período 147"
+  },
+  {
+   "fecha": "2025-12-23",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 24 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 24 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 24 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 24 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 4209",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=NZONxqaMnKs="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45070%2FN%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,147 @@
+{
+ "numero": "41316/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Torres Lima, Nigro, Busso, Knipscheer, Tévez, Ferrero, Austin, Lorenzo, Nicolás, Saliba, Rinaldi, Galo, Sosa, Limia, Quaglino, Rossi, Gudiño, Martoccia, Nostrala y los Bloques PRO, Córdoba y Mejor Futuro, modificando el inciso 1) del artículo 35 de la Ley Nº 5805, Colegio de Abogados, referido a la conformación del patrimonio.",
+ "autores": [
+  "Torres Lima, Facundo",
+  "Nigro, Alfredo Mariano",
+  "Busso, Maria Victoria",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Tevez, Gustavo Alejandro",
+  "Ferrero, Alejandra",
+  "Bloque CORDOBA",
+  "Bloque PRO",
+  "Gudiño, Daniela Soledad",
+  "Rossi, Dante Valentin",
+  "Quaglino, Ileana",
+  "Sosa, Ricardo Roberto",
+  "Limia, Luis Leonardo",
+  "Rinaldi, Julieta",
+  "Saliba, Oscar Elias Mario",
+  "Nicolas, Miguel Osvaldo",
+  "Lorenzo, Carlos Mariano",
+  "Austin, Brenda Lis",
+  "Hernandez Maqueda, Gregorio",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Nostrala, Walter Norberto"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-11-27",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-03",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-03",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-03"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (12/27/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11030",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=NnExQrhIOzc="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41316%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

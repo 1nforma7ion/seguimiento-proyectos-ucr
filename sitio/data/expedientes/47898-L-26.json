@@ -1,0 +1,102 @@
+{
+ "numero": "47898/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Valiente, Jaimes, Szpanin, Austin, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera, Carignano, Navarro Alegre, Agost Carreño, Nostrala, Grosso y Ferrero, creando el Régimen Transitorio de Sostenibilidad Industrial, siendo beneficiarios quienes hayan promovido Procedimiento Preventivo de Crisis de Empresa.",
+ "autores": [
+  "Valiente, Lucas German",
+  "Jaimes, Mauricio Sebastian",
+  "Szpanin, Ariela Yanina",
+  "Austin, Brenda Lis",
+  "Gvozdenovich, Matias Pablo",
+  "Nigro, Alfredo Mariano",
+  "Gudiño, Daniela Soledad",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Grich, Ariel Denis",
+  "Briner, Carlos Edgardo",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Molina, Victor Eduardo",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Pomiglio, Viviana Concepcion",
+  "Navarro Alegre, Veronica Fatima",
+  "Agost Carreño, Oscar",
+  "Nostrala, Walter Norberto",
+  "Grosso, Gerardo Jose"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Economia y Presupuesto",
+  "Industria y Minería"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-09-22",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-09-22"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47898%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,104 @@
+{
+ "numero": "38984/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Rossi, Szpanin, Ferrero, Gloria Pereyra, Botta, Gudiño y Bisotto, instruyendo a los Senadores nacionales por Córdoba (Art. 104 inc. 5 C.P.) para que se abstengan de prestar acuerdo al nombramiento de magistrados para la Corte Suprema de Justicia de la Nación, en tanto no se incluya a mujeres en las nominaciones para la cobertura de las vacantes; ratificando el compromiso de seguir igual criterio al momento de cubrir vacantes en el Tribunal de Justicia de Córdoba.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Rossi, Dante Valentin",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Pereyra, Carmen Gloria",
+  "Botta, Patricia Isabel",
+  "Gudiño, Daniela Soledad",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2024-04-03",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 3900",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=L71_a_idosE="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38984%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

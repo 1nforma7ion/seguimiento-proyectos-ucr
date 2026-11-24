@@ -1,0 +1,85 @@
+{
+ "numero": "46422/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por las Legisladoras Austin, Busso, Jurich, Martoccia, Szpanin y Contrera,instituyendo la campaña mundial del “Banco Rojo” en lugares públicos, siendo su objeto contribuir a la sensibilización y reflexión en la sociedad sobre los femicidios.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Busso, Maria Victoria",
+  "Jurich, Silvina Dolores",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Szpanin, Ariela Yanina",
+  "Contrera, Ines Mercedes"
+ ],
+ "comisiones": [
+  "Género y Diversidad",
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-28",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-05-28"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46422%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

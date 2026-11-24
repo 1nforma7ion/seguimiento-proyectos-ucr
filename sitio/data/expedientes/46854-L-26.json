@@ -1,0 +1,93 @@
+{
+ "numero": "46854/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Nigro, Grich, Austin, Carignano, Bría, Jaimes, Saliba, Nicolás, Grosso y Almada, modificando la Ley Nº 5624, Régimen Especial de Protección y Promoción Laboral para Personas Discapacitadas.",
+ "autores": [
+  "Contrera, Ines Mercedes",
+  "Szpanin, Ariela Yanina",
+  "Ferrero, Alejandra",
+  "Nigro, Alfredo Mariano",
+  "Grich, Ariel Denis",
+  "Austin, Brenda Lis",
+  "Carignano, Carlos Atilio",
+  "Bottasso, Gustavo Armando",
+  "Bria, Jose Alberto",
+  "Jaimes, Mauricio Sebastian",
+  "Saliba, Oscar Elias Mario",
+  "Nicolas, Miguel Osvaldo",
+  "Grosso, Gerardo Jose",
+  "Almada, Nancy Edith"
+ ],
+ "comisiones": [
+  "Legislación del Trabajo, Previsión y Seguridad Social",
+  "Promoción de Derechos de Personas con Discapacidad"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-06-25",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-25",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-06-25"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46854%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

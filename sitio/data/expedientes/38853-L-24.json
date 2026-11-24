@@ -1,0 +1,130 @@
+{
+ "numero": "38853/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Limia, Knipscheer, Lorenzo, Romero, Russo, Bisotto, Bría y Juez, modificando el artículo 1 de la Ley N° 10003, suspendiendo hasta el 31 de marzo de 2025 las ejecuciones que persigan subasta de bienes inmuebles de propiedad de las asociaciones civiles, clubes o entidades financieras sin fines de lucro, cualquiera fuere su causa.",
+ "autores": [
+  "Botta, Patricia Isabel",
+  "Limia, Luis Leonardo",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Lorenzo, Carlos Mariano",
+  "Romero, Delia Dolores",
+  "Russo, Antonio Edgardo",
+  "Bisotto, Graciela Maria",
+  "Bria, Jose Alberto",
+  "Juez, Daniel Alejandro"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-03-13",
+  "ultimo_movimiento": {
+   "fecha": "2024-04-08",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-18",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-08",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-03-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ley Sancionada, Promulgada Y Publicada En B.O",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-04-08"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 10961",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=xPFMkLxqJnE="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38853%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

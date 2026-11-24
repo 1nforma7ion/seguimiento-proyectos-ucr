@@ -1,0 +1,102 @@
+{
+ "numero": "38438/R/23",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bisotto, Jaimes, Austin, Nigro Nicolás, Luna, Saliba, Bría, Contrera, Carignano, Rossi y Szpanin, solicitando al Poder Ejecutivo que arregle la Ruta provincial N° 4, entre las ciudades de La Carlota y Laboulaye.",
+ "autores": [
+  "Bisotto, Graciela Maria",
+  "Jaimes, Mauricio Sebastian",
+  "Austin, Brenda Lis",
+  "Nigro, Alfredo Mariano",
+  "Nicolas, Miguel Osvaldo",
+  "Luna, Fernando Javier",
+  "Saliba, Oscar Elias Mario",
+  "Bria, Jose Alberto",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Rossi, Dante Valentin",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Obras Públicas, Vivienda y Comunicaciones"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2023-12-20",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-20",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": "2024-12-20",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-12-20"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38438%2FR%2F23",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

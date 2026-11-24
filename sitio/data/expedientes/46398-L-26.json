@@ -1,0 +1,141 @@
+{
+ "numero": "46398/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Valiente, Molina, Eslava, Grich, Romero, Tévez, Szpanin, Soardo, Figueroa, Ceballos Recalde, Flores, Rufeil, Presas, Rébora y los Bloques UCR, Frente Cívico de Córdoba, PRO, Córdoba, Mejor Futuro y Juntos por el Interior, declarando \"Ciudad Belgraniana\" a la ciudad de Pilar, Dpto. Río Segundo.",
+ "autores": [
+  "Valiente, Lucas German",
+  "Molina, Victor Eduardo",
+  "Eslava, Marcelo Alejandro Jose",
+  "Grich, Ariel Denis",
+  "Romero, Delia Dolores",
+  "Tevez, Gustavo Alejandro",
+  "Szpanin, Ariela Yanina",
+  "Bruno, Karina Gabriela",
+  "Hernandez Maqueda, Gregorio",
+  "Bisotto, Graciela Maria",
+  "Agost Carreño, Oscar",
+  "Sala, Ignacio Antonio",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Bloque UCR",
+  "Soardo, Leonor Jorgelina",
+  "Figueroa, Raul Alberto",
+  "Ceballos Recalde, Mariano",
+  "Flores, Ernesto Ramon",
+  "Rufeil, Rodrigo Miguel",
+  "Presas, Luciana Maria",
+  "Rebora, Enrique Rodolfo"
+ ],
+ "comisiones": [
+  "Asuntos Municipales y Comunales",
+  "Promoción y Desarrollo de las Comunidades Regionales",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-10",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-06-10",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 9 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 9 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-10"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Desarrollo de las Comunidades Regionales · 13",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (6/10/2026)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11124",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=y1kxZAQ65x0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46398%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

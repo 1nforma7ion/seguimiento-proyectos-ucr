@@ -1,0 +1,98 @@
+{
+ "numero": "41220/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Limia y Bría, reconociendo al Club Atlético Carlos Paz, por la obtención del ascenso a la Primera A de la Liga Cordobesa de Fútbol, el pasado 16 de noviembre.",
+ "autores": [
+  "Limia, Luis Leonardo",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Deportes"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-11-20",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-20",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  },
+  {
+   "fecha": "2024-11-20",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29033",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=nW5DPejtJHg="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41220%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

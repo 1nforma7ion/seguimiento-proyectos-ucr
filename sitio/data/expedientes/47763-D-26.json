@@ -1,0 +1,98 @@
+{
+ "numero": "47763/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 4º Festival San Eduardo y Concurso de la Mejor Empanada Criolla, a desarrollarse el día 11 de octubre en la localidad de Altos de Chipión, Dpto. San Justo.",
+ "autores": [
+  "Tevez, Gustavo Alejandro",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Promoción y Desarrollo de las Economías Regionales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-09-22",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31789",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=F_DA6uFlMTw="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47763%2FD%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

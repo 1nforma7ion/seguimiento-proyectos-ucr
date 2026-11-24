@@ -1,0 +1,147 @@
+{
+ "numero": "39264/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Sala, Ferrero, Gvozdenovich, Nostrala, Contrera, Carignano, Nigro, Bisotto, Szpanin, Gispert, Peirone, Gloria Pereyra, Bría, Bottasso, Luna, Martoccia y Saliba, adhiriendo la provincia a las disposiciones de la Ley nacional N° 27709, -Ley Lucio-, que tiene por objeto la creación del Plan Federal de Capacitación de carácter continuo, permanente y obligatorio, sobre los derechos de los niños, niñas y adolescentes.",
+ "autores": [
+  "Botta, Patricia Isabel",
+  "Sala, Ignacio Antonio",
+  "Ferrero, Alejandra",
+  "Gvozdenovich, Matias Pablo",
+  "Nostrala, Walter Norberto",
+  "Contrera, Ines Mercedes",
+  "Carignano, Carlos Atilio",
+  "Nigro, Alfredo Mariano",
+  "Bisotto, Graciela Maria",
+  "Szpanin, Ariela Yanina",
+  "Gispert, Walter Oscar",
+  "Peirone, Juan Pablo",
+  "Pereyra, Carmen Gloria",
+  "Bria, Jose Alberto",
+  "Bottasso, Gustavo Armando",
+  "Luna, Fernando Javier",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-06-26",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 7",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia · 8",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación General · 10",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho Compatibilizado (6/26/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 10973",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=lzbjAZfaDiA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39264%2FL%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

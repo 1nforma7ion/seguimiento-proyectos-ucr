@@ -1,0 +1,129 @@
+{
+ "numero": "45494/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Rossi, Contrera, Sebastián Peralta, Chamorro, Jurich, Acuña, Ovejeros, Rufeil, Szpanin y Martoccia, instituyendo el año 2026 como \"Año de los Derechos Humanos por la Memoria, la Verdad y la Justicia” como homenaje al 50° aniversario del golpe de Estado del 24 de marzo de 1976, inscribiéndose en toda la papelería oficial de los tres Poderes del Estado.",
+ "autores": [
+  "Rossi, Dante Valentin",
+  "Contrera, Ines Mercedes",
+  "Peralta, Sebastián Amadeo",
+  "Chamorro, Matias Ezequiel",
+  "Jurich, Silvina Dolores",
+  "Acuña, Karen Belen",
+  "Ovejeros, Pablo Cesar",
+  "Rufeil, Rodrigo Miguel",
+  "Szpanin, Ariela Yanina",
+  "Martoccia, Viviana Raquel Del Valle"
+ ],
+ "comisiones": [
+  "Derechos Humanos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-03-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-26",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-26",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Especial 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Especial 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Derechos Humanos · 10",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (3/26/2026)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11112",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=2stn3OL4hG0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45494%2FL%2F26",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

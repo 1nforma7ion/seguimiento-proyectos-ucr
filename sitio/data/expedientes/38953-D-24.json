@@ -1,0 +1,99 @@
+{
+ "numero": "38953/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bruno, Contrera y Chamorro, expresando beneplácito a la recuperación del informe “El horror está enterrado en San Vicente”, publicado por La Voz del Interior en el año 2003 y reconociendo a los periodistas Ana Mariani y Juan Carlos Simo y al editor Franco Piccato, por su trabajo de investigación periodística que significo un aporte determinante en la búsqueda de la verdad, el conocimiento y la reflexión sobre el horror de la dictadura militar.",
+ "autores": [
+  "Bruno, Karina Gabriela",
+  "Contrera, Ines Mercedes",
+  "Chamorro, Matias Ezequiel"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-03-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-03-27",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Especial 1 del Período 146"
+  },
+  {
+   "fecha": "2024-03-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Especial 1 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Especial 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Especial 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27897",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Io98N8ruoJ8="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38953%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

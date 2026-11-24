@@ -1,0 +1,93 @@
+{
+ "numero": "41136/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich y los Bloques Frente Cívico de Córdoba y Mejor Futuro, solicitando a la Presidencia de la Legislatura que evalúe los reclamos del Sindicato de Empleados Legislativos, haciendo una propuesta salarial acorde con los índices de la inflación anual.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Bloque MEJOR FUTURO"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-11-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-11-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": "2025-11-13",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-11-13"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41136%2FR%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

@@ -1,0 +1,87 @@
+{
+ "numero": "41091/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Stella Peralta, Contrera y Bloque Hacemos Unidos por Córdoba, declarando de Interés Legislativo la Maratón 100 aniversario, a desarrollarse el día 24 de noviembre en el marco de las actividades organizadas para celebrar el centenario del Club Atlético Racing de Córdoba.",
+ "autores": [
+  "Peralta, Stella Maris",
+  "Contrera, Ines Mercedes",
+  "Bloque HACEMOS UNIDOS POR CORDOBA"
+ ],
+ "comisiones": [
+  "Deportes"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-11-13",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-13",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28962",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=OUGdNM_vDRM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41091%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

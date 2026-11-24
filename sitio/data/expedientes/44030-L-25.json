@@ -1,0 +1,124 @@
+{
+ "numero": "44030/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Gudiño, Szpanin, Saliba, Luna, Molina, Ferrero, Contrera, Jaimes, Nicolás, Nigro, Córdoba Acosta, Heredia, Alesandri, Sebastián Peralta, Juez, Martoccia, Gispert, Romero y Bría, garantizando los derechos reconocidos de prevención y prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes, creando un mecanismo Local al efecto en el marco de la Ley Nacional Nº 26827.",
+ "autores": [
+  "Austin, Brenda Lis",
+  "Gudiño, Daniela Soledad",
+  "Szpanin, Ariela Yanina",
+  "Saliba, Oscar Elias Mario",
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo",
+  "Ferrero, Alejandra",
+  "Contrera, Ines Mercedes",
+  "Jaimes, Mauricio Sebastian",
+  "Nicolas, Miguel Osvaldo",
+  "Nigro, Alfredo Mariano",
+  "Cordoba Acosta, Maria Constanza",
+  "Heredia, Jorge Edberto",
+  "Alesandri, Carlos Federico",
+  "Peralta, Sebastián Amadeo",
+  "Juez, Daniel Alejandro",
+  "Martoccia, Viviana Raquel Del Valle",
+  "Gispert, Walter Oscar",
+  "Romero, Delia Dolores",
+  "Bria, Jose Alberto"
+ ],
+ "comisiones": [
+  "Derechos Humanos",
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-10-01",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-01",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": "2026-10-01",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-01",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-01"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44030%2FL%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

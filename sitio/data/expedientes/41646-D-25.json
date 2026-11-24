@@ -1,0 +1,115 @@
+{
+ "numero": "41646/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Martoccia, Contrera, Gispert, Gloria Pereyra, Suárez, Frías, Tévez, Quaglino, Rinaldi, Heredia, Rébora, Ceballos Recalde, Chamorro, Bisotto, Szpanin, Bría, Carignano, Almada y Bloque Hacemos Unidos por Córdoba, expresando beneplácito por la restitución de la identidad de la nieta Nº 139 recuperada por la Asociación Abuelas de Plaza de Mayo.",
+ "autores": [
+  "Martoccia, Viviana Raquel Del Valle",
+  "Contrera, Ines Mercedes",
+  "Gispert, Walter Oscar",
+  "Pereyra, Carmen Gloria",
+  "Suarez, Carmen Esther",
+  "Frias, Cristian Adrian",
+  "Tevez, Gustavo Alejandro",
+  "Quaglino, Ileana",
+  "Rinaldi, Julieta",
+  "Heredia, Jorge Edberto",
+  "Rebora, Enrique Rodolfo",
+  "Ceballos Recalde, Mariano",
+  "Chamorro, Matias Ezequiel",
+  "Bisotto, Graciela Maria",
+  "Bloque HACEMOS UNIDOS POR CORDOBA",
+  "Szpanin, Ariela Yanina",
+  "Bria, Jose Alberto",
+  "Carignano, Carlos Atilio",
+  "Almada, Nancy Edith"
+ ],
+ "comisiones": [
+  "Derechos Humanos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-02-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29203",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Cq2yodlIYAQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41646%2FD%2F25",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}

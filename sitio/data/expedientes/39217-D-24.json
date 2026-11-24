@@ -1,0 +1,142 @@
+{
+ "numero": "39217/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, y todos los Legisladores de la Cámara, reconociendo a la Asociación Deportiva Atenas por la inauguración del Estadio \"Estructura Pretensa-Atenas\" desarrollada el pasado 6 de mayo en la ciudad de Córdoba.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Bloque ENCUENTRO VECINAL CÓRDOBA",
+  "Bloque CREO EN CORDOBA",
+  "Bloque PRO",
+  "Bloque CORDOBA",
+  "Bloque MST-NUEVA IZQUIERDA",
+  "Bloque UCR",
+  "Bloque FRENTE CIVICO DE CORDOBA",
+  "Bloque COALICION CIVICA ARI",
+  "Bloque JUNTOS UCR",
+  "Siciliano, Miguel Angel",
+  "Acevedo, Maria Del Rosario",
+  "Acuña, Karen Belen",
+  "Blangino, Juan Jose",
+  "Busso, Maria Victoria",
+  "Ceballos Recalde, Mariano",
+  "Chamorro, Matias Ezequiel",
+  "Eslava, Marcelo Alejandro Jose",
+  "Fernandez, Nadia Vanesa",
+  "Figueroa, Raul Alberto",
+  "Flores, Ernesto Ramon",
+  "Frias, Cristian Adrian",
+  "Galo, Abraham",
+  "Heredia, Jorge Edberto",
+  "Jurich, Silvina Dolores",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "--Legislador--, -- Migracion--",
+  "Limia, Luis Leonardo",
+  "Lorenzo, Carlos Mariano",
+  "Navarro Alegre, Veronica Fatima",
+  "Ovejeros, Pablo Cesar",
+  "Peralta, Sebastián Amadeo",
+  "Peralta, Stella Maris",
+  "Pereyra, Cristina Alicia",
+  "Presas, Luciana Maria",
+  "Quaglino, Ileana",
+  "Rebora, Enrique Rodolfo",
+  "Rinaldi, Julieta",
+  "Romero, Delia Dolores",
+  "Rufeil, Rodrigo Miguel",
+  "Russo, Antonio Edgardo",
+  "Sosa, Ricardo Roberto",
+  "Spaccesi, Agustin Alejandro",
+  "Suarez, Carmen Esther",
+  "Tevez, Gustavo Alejandro",
+  "Torres Lima, Facundo"
+ ],
+ "comisiones": [
+  "Deportes"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28017",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=KMDmlUmU0bo="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39217%2FD%2F24",
+ "recolectado": "2026-11-24T14:23:06.892381-03:00"
+}
