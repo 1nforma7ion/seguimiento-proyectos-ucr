@@ -1,0 +1,20 @@
+[
+  {"slug": "austin",     "nombre_portal": "Austin, Brenda Lis",           "nombre_mostrar": "Brenda Lis Austin",           "busqueda": ["Austin"],              "departamental": false, "alias": []},
+  {"slug": "bottasso",   "nombre_portal": "Bottasso, Gustavo Armando",    "nombre_mostrar": "Gustavo Armando Bottasso",    "busqueda": ["Bottasso"],            "departamental": false, "alias": []},
+  {"slug": "bria",       "nombre_portal": "Bria, Jose Alberto",           "nombre_mostrar": "José Alberto Bría",           "busqueda": ["Bria"],                "departamental": false, "alias": []},
+  {"slug": "briner",     "nombre_portal": "Briner, Carlos Edgardo",       "nombre_mostrar": "Carlos Edgardo Briner",       "busqueda": ["Briner"],              "departamental": true,  "alias": []},
+  {"slug": "carignano",  "nombre_portal": "Carignano, Carlos Atilio",     "nombre_mostrar": "Carlos Atilio Carignano",     "busqueda": ["Carignano"],           "departamental": true,  "alias": []},
+  {"slug": "contrera",   "nombre_portal": "Contrera, Ines Mercedes",      "nombre_mostrar": "Inés Mercedes Contrera",      "busqueda": ["Contrera"],            "departamental": false, "alias": []},
+  {"slug": "ferrero",    "nombre_portal": "Ferrero, Alejandra",           "nombre_mostrar": "Alejandra Ferrero",           "busqueda": ["Ferrero"],             "departamental": false, "alias": []},
+  {"slug": "grich",      "nombre_portal": "Grich, Ariel Denis",           "nombre_mostrar": "Ariel Denis Grich",           "busqueda": ["Grich"],               "departamental": true,  "alias": []},
+  {"slug": "gudino",     "nombre_portal": "Gudino, Daniela Soledad",      "nombre_mostrar": "Daniela Soledad Gudiño",      "busqueda": ["Gudiño", "Gudino"],    "departamental": false, "alias": []},
+  {"slug": "gvozdenovich","nombre_portal": "Gvozdenovich, Matias Pablo",  "nombre_mostrar": "Matías Pablo Gvozdenovich",   "busqueda": ["Gvozdenovich"],        "departamental": false, "alias": []},
+  {"slug": "jaimes",     "nombre_portal": "Jaimes, Mauricio Sebastian",   "nombre_mostrar": "Mauricio Sebastián Jaimes",   "busqueda": ["Jaimes"],              "departamental": true,  "alias": []},
+  {"slug": "luna",       "nombre_portal": "Luna, Fernando Javier",        "nombre_mostrar": "Fernando Javier Luna",        "busqueda": ["Luna"],                "departamental": true,  "alias": []},
+  {"slug": "molina",     "nombre_portal": "Molina, Victor Eduardo",       "nombre_mostrar": "Víctor Eduardo Molina",       "busqueda": ["Molina"],              "departamental": true,  "alias": []},
+  {"slug": "nicolas",    "nombre_portal": "Nicolas, Miguel Osvaldo",      "nombre_mostrar": "Miguel Osvaldo Nicolás",      "busqueda": ["Nicolas"],             "departamental": false, "alias": []},
+  {"slug": "nigro",      "nombre_portal": "Nigro, Alfredo Mariano",       "nombre_mostrar": "Alfredo Mariano Nigro",       "busqueda": ["Nigro"],               "departamental": true,  "alias": []},
+  {"slug": "saliba",     "nombre_portal": "Saliba, Oscar Elias Mario",    "nombre_mostrar": "Oscar Elías Mario Saliba",    "busqueda": ["Saliba"],              "departamental": true,  "alias": []},
+  {"slug": "szpanin",    "nombre_portal": "Szpanin, Ariela Yanina",       "nombre_mostrar": "Ariela Yanina Szpanin",       "busqueda": ["Szpanin"],             "departamental": false, "alias": []},
+  {"slug": "valiente",   "nombre_portal": "Valiente, Lucas German",       "nombre_mostrar": "Lucas Germán Valiente",       "busqueda": ["Valiente"],            "departamental": true,  "alias": []}
+]

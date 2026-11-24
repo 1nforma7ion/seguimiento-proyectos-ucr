@@ -1,0 +1,16 @@
+{
+  "estados": {
+    "Ingresado":            {"etapa": 1, "texto": "Se presentó el proyecto"},
+    "Estado Parlamentario": {"etapa": 1, "texto": "Se informó en la sesión (tomó estado parlamentario)"},
+    "En Comisión":          {"etapa": 2, "texto": "Pasó a estudio en comisión"},
+    "Aprobado":             {"etapa": 4, "resultado": "aprobado",  "texto": "Fue aprobado"},
+    "Caducado":             {"etapa": 4, "resultado": "caduco",    "texto": "Caducó: pasaron 12 meses sin tratarse"},
+    "Rehabilitado":         {"etapa": 2, "resultado": null,        "texto": "Se rehabilitó: vuelve a estar en comisión"},
+    "Archivado":            {"etapa": 4, "resultado": "archivado", "texto": "Se archivó"}
+  },
+  "situaciones": {
+    "Art 110 (tramite normal)": {"texto": "Sigue el trámite normal"},
+    "Sobre Tablas":             {"texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión", "sobre_tablas": true}
+  },
+  "nombres_etapa": {"1": "Presentado", "2": "En estudio en comisión", "3": "Con dictamen de comisión", "4": "Resultado"}
+}
