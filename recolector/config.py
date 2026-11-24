@@ -13,6 +13,7 @@ class Legislador:
     nombre_mostrar: str
     departamental: bool = False
     alias: list[str] = field(default_factory=list)
+    cargo: str | None = None
 
     def es_autor(self, nombre: str) -> bool:
         n = normalizar(nombre)

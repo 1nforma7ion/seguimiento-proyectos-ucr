@@ -5,7 +5,7 @@
   {"slug": "briner", "id_portal": 2859, "nombre_portal": "Briner, Carlos Edgardo", "nombre_mostrar": "Carlos Edgardo Briner", "departamental": true, "alias": []},
   {"slug": "carignano", "id_portal": 2972, "nombre_portal": "Carignano, Carlos Atilio", "nombre_mostrar": "Carlos Atilio Carignano", "departamental": true, "alias": []},
   {"slug": "contrera", "id_portal": 2971, "nombre_portal": "Contrera, Ines Mercedes", "nombre_mostrar": "Inés Mercedes Contrera", "departamental": false, "alias": []},
-  {"slug": "ferrero", "id_portal": 2950, "nombre_portal": "Ferrero, Alejandra", "nombre_mostrar": "Alejandra Ferrero", "departamental": false, "alias": []},
+  {"slug": "ferrero", "id_portal": 2950, "nombre_portal": "Ferrero, Alejandra", "nombre_mostrar": "Alejandra Ferrero", "departamental": false, "alias": [], "cargo": "Presidenta del bloque"},
   {"slug": "grich", "id_portal": 2968, "nombre_portal": "Grich, Ariel Denis", "nombre_mostrar": "Ariel Denis Grich", "departamental": true, "alias": []},
   {"slug": "gudino", "id_portal": 1118, "nombre_portal": "Gudiño, Daniela Soledad", "nombre_mostrar": "Daniela Soledad Gudiño", "departamental": false, "alias": []},
   {"slug": "gvozdenovich", "id_portal": 2951, "nombre_portal": "Gvozdenovich, Matias Pablo", "nombre_mostrar": "Matías Pablo Gvozdenovich", "departamental": false, "alias": []},

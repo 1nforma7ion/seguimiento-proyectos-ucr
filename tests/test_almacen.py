@@ -120,3 +120,28 @@ def test_rederivar_completa_datos_viejos_sin_consultar(tmp_path):
     assert nuevo["estado"]["fecha_resultado"] == "2026-04-01"
     assert nuevo["recolectado"] == d["recolectado"]
     assert rederivar(tmp_path, M) == 0          # la segunda vez no hay nada que cambiar
+
+
+def test_indice_foto_solo_si_existe(tmp_path):
+    datos = tmp_path / "data"
+    (tmp_path / "fotos").mkdir()
+    (tmp_path / "fotos" / "ferrero.webp").write_bytes(b"x")
+    guardar_expediente(datos, exp(), M)
+    idx = construir_indice(datos, CFG.legisladores, CFG.ajustes, AHORA)
+    por = {l["slug"]: l for l in idx["legisladores"]}
+    assert por["ferrero"]["foto"] == "fotos/ferrero.webp"
+    assert por["austin"]["foto"] is None
+
+
+def test_indice_cargo_y_nombre_portal(tmp_path):
+    guardar_expediente(tmp_path, exp(), M)
+    por = {l["slug"]: l for l in construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)["legisladores"]}
+    assert por["ferrero"]["cargo"] == "Presidenta del bloque"
+    assert por["austin"]["cargo"] is None
+    assert por["bria"]["nombre_portal"] == "Bria, Jose Alberto" and por["bria"]["alias"] == []
+
+
+def test_indice_n_autores(tmp_path):
+    guardar_expediente(tmp_path, exp(autores=("Ferrero, Alejandra", "Otro, Ajeno", "Juez, Daniel")), M)
+    idx = construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)
+    assert idx["expedientes"]["48498/L/26"]["n_autores"] == 3

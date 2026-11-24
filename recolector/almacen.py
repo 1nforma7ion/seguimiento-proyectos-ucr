@@ -122,7 +122,9 @@ def agregar_novedades(dir_datos: Path, numero: str, textos: list[str], hoy: date
     _escribir(ruta, novedades)
 
 
-def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: dict, ahora: datetime) -> dict:
+def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: dict, ahora: datetime,
+                     dir_fotos: Path | None = None) -> dict:
+    dir_fotos = Path(dir_fotos) if dir_fotos else Path(dir_datos).parent / "fotos"
     expedientes, por_leg = {}, {l.slug: [] for l in legisladores}
     for archivo in sorted((Path(dir_datos) / "expedientes").glob("*.json")):
         d = _leer(archivo)
@@ -131,6 +133,7 @@ def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: d
             continue
         expedientes[d["numero"]] = {"tipo": d["tipo"], "titulo": recortar(d["extracto"], 140),
                                     "autores_bloque": bloque, "comisiones": d["comisiones"],
+                                    "n_autores": len(d["autores"]),
                                     "estado": d["estado"]}
         for slug in bloque:
             por_leg[slug].append(d["numero"])
@@ -138,6 +141,8 @@ def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: d
         "generado": ahora.isoformat(),
         "ajustes": ajustes,
         "legisladores": [{"slug": l.slug, "nombre": l.nombre_mostrar, "departamental": l.departamental,
+                          "cargo": l.cargo, "nombre_portal": l.nombre_portal, "alias": l.alias,
+                          "foto": f"fotos/{l.slug}.webp" if (dir_fotos / f"{l.slug}.webp").exists() else None,
                           "expedientes": por_leg[l.slug]} for l in legisladores],
         "expedientes": expedientes,
     }
