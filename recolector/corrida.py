@@ -102,6 +102,8 @@ def correr(raiz: Path, portal, hoy: date, ahora: datetime, solo: str | None = No
     desde_fecha = date.fromisoformat(cfg.ajustes["desde_fecha"])
     ventana = hoy - timedelta(days=cfg.ajustes["dias_ventana_diaria"])
     hasta = hoy + timedelta(days=1)
+    if (dir_datos / "expedientes").exists():
+        almacen.rederivar(dir_datos, cfg.etapas)  # aplica cambios de reglas a lo ya guardado
     conocidos = {}
     for archivo in (dir_datos / "expedientes").glob("*.json") if (dir_datos / "expedientes").exists() else []:
         d = almacen._leer(archivo)

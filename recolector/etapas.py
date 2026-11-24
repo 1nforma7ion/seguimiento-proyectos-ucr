@@ -23,6 +23,7 @@ class EstadoExp:
     ultimo_movimiento: dict | None
     caduca_el: date | None
     desconocidos: list[str] = field(default_factory=list)
+    fecha_resultado: date | None = None  # cuándo se llegó al resultado (p. ej. la aprobación)
 
 
 def _mas_12_meses(d: date) -> date:
@@ -42,7 +43,7 @@ def texto_evento(ev: Evento, mapeo: dict) -> str:
 
 def calcular_estado(ruta: Ruta, mapeo: dict) -> EstadoExp:
     etapa, resultado, sobre_tablas = 1, None, False
-    ingreso, base_rehab, desconocidos = None, None, []
+    ingreso, base_rehab, desconocidos, fecha_resultado = None, None, [], None
     for ev in ruta.eventos:
         regla = _regla(ev, mapeo)
         if regla is None:
@@ -51,7 +52,10 @@ def calcular_estado(ruta: Ruta, mapeo: dict) -> EstadoExp:
         if ev.tipo == "Estado":
             if regla["etapa"] is not None:  # null = el estado no mueve la etapa
                 etapa = regla["etapa"]
-                resultado = regla.get("resultado")
+                nuevo = regla.get("resultado")
+                if nuevo != resultado:  # la promulgación no cambia la fecha de la aprobación
+                    fecha_resultado = ev.fecha if nuevo else None
+                resultado = nuevo
             if ev.valor in ("Ingresado", "Estado Parlamentario") and ingreso is None and ev.fecha:
                 ingreso = ev.fecha
             if ev.valor == "Rehabilitado":
@@ -73,7 +77,7 @@ def calcular_estado(ruta: Ruta, mapeo: dict) -> EstadoExp:
         ultimo = {"fecha": ev.fecha.isoformat() if ev.fecha else None, "texto": texto_evento(ev, mapeo)}
 
     return EstadoExp(etapa, mapeo["nombres_etapa"][str(etapa)], resultado, sobre_tablas,
-                     ingreso, ultimo, caduca_el, desconocidos)
+                     ingreso, ultimo, caduca_el, desconocidos, fecha_resultado)
 
 
 def linea_tiempo(ruta: Ruta, mapeo: dict) -> list[dict]:

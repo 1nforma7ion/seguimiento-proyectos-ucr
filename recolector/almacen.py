@@ -7,7 +7,7 @@ from pathlib import Path
 
 from .config import Legislador
 from .etapas import calcular_estado, linea_tiempo, texto_evento, tipo_de
-from .parse import Ruta
+from .parse import Documento, Evento, Ruta
 from .portal import url_busqueda
 
 NUEVO = "Nuevo proyecto en seguimiento"
@@ -57,25 +57,52 @@ def cargar_expediente(dir_datos: Path, numero: str) -> dict | None:
     return _leer(_ruta_archivo(dir_datos, numero))
 
 
+def _armar(numero, extracto, autores, comisiones, ruta: Ruta, recolectado: str, mapeo: dict) -> dict:
+    estado = calcular_estado(ruta, mapeo)
+    return {
+        "numero": numero,
+        "tipo": tipo_de(numero),
+        "extracto": extracto,
+        "autores": autores,
+        "comisiones": comisiones,
+        "estado": {k: _iso(v) for k, v in asdict(estado).items() if k != "desconocidos"},
+        "desconocidos": estado.desconocidos,
+        "linea_tiempo": linea_tiempo(ruta, mapeo),
+        "eventos_crudos": [{k: _iso(v) for k, v in asdict(e).items()} for e in ruta.eventos],
+        "documentos": [asdict(d) for d in ruta.documentos],
+        "url_portal": url_busqueda(numero),
+        "recolectado": recolectado,
+    }
+
+
+def _ruta_guardada(d: dict) -> Ruta:
+    eventos = [Evento(e["tipo"], e["valor"], e["sesion"], e["periodo"],
+                      date.fromisoformat(e["fecha"]) if e["fecha"] else None) for e in d["eventos_crudos"]]
+    return Ruta(eventos, [Documento(**x) for x in d["documentos"]])
+
+
+def rederivar(dir_datos: Path, mapeo: dict) -> int:
+    """Recalcula estado y recorrido de lo ya guardado, sin consultar el portal.
+
+    Sirve cuando cambia config/etapas.json o el cálculo de etapas. Devuelve cuántos cambiaron.
+    """
+    cambiados = 0
+    for archivo in sorted((Path(dir_datos) / "expedientes").glob("*.json")):
+        d = _leer(archivo)
+        nuevo = _armar(d["numero"], d["extracto"], d["autores"], d["comisiones"], _ruta_guardada(d),
+                       d["recolectado"], mapeo)
+        if nuevo != d:
+            _escribir(archivo, nuevo)
+            cambiados += 1
+    return cambiados
+
+
 def guardar_expediente(dir_datos: Path, exp: Expediente, mapeo: dict) -> list[str]:
     """Escribe el JSON del expediente y devuelve los textos de los eventos nuevos."""
     anterior = cargar_expediente(dir_datos, exp.numero)
-    estado = calcular_estado(exp.ruta, mapeo)
-    crudos = [{k: _iso(v) for k, v in asdict(e).items()} for e in exp.ruta.eventos]
-    datos = {
-        "numero": exp.numero,
-        "tipo": tipo_de(exp.numero),
-        "extracto": exp.extracto,
-        "autores": exp.autores,
-        "comisiones": exp.comisiones,
-        "estado": {k: _iso(v) for k, v in asdict(estado).items() if k != "desconocidos"},
-        "desconocidos": estado.desconocidos,
-        "linea_tiempo": linea_tiempo(exp.ruta, mapeo),
-        "eventos_crudos": crudos,
-        "documentos": [asdict(d) for d in exp.ruta.documentos],
-        "url_portal": url_busqueda(exp.numero),
-        "recolectado": exp.recolectado.isoformat(),
-    }
+    datos = _armar(exp.numero, exp.extracto, exp.autores, exp.comisiones, exp.ruta,
+                   exp.recolectado.isoformat(), mapeo)
+    crudos = datos["eventos_crudos"]
     # Si solo cambió la hora de recolección, no se reescribe: evita commits diarios sin cambios reales.
     if anterior is not None and {**anterior, "recolectado": None} == {**datos, "recolectado": None}:
         return []

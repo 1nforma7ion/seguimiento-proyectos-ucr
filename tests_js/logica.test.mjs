@@ -97,3 +97,12 @@ test("desactualizado cuenta días hábiles", () => {
   assert.equal(estaDesactualizado(est("2026-11-24"), "2026-11-24", 2), false);
   assert.equal(estaDesactualizado({ ultima_actualizacion_ok: null }, HOY, 2), true);
 });
+
+test("aprobados del año usan la fecha de aprobación, no la de promulgación", () => {
+  const ley = exp("7/L/25", "ley", { etapa: 4, resultado: "aprobado", fecha_resultado: "2025-12-10",
+    ultimo_movimiento: { fecha: "2026-01-15", texto: "La ley se promulgó" } });
+  assert.equal(resumen([ley], [], HOY, AJ).aprobadosAnio, 0);
+  const nueva = exp("8/L/26", "ley", { etapa: 4, resultado: "aprobado", fecha_resultado: "2026-03-02",
+    ultimo_movimiento: { fecha: "2026-04-01", texto: "La ley se promulgó" } });
+  assert.equal(resumen([nueva], [], HOY, AJ).aprobadosAnio, 1);
+});

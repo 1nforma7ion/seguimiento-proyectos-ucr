@@ -106,3 +106,19 @@ def test_linea_tiempo_textos_simples():
 def test_linea_tiempo_situacion_traducida():
     lt = linea_tiempo(parse_ruta(fx("ruta_28243_aprobado_sobre_tablas.html")), M)
     assert lt[-1]["texto"].startswith("Se trató sobre tablas")
+
+
+def test_fecha_resultado_es_la_de_aprobacion_no_la_promulgacion():
+    ruta = Ruta([E("Ingresado", date(2025, 10, 1)), E("Aprobado", date(2025, 12, 10)),
+                 E("Ley Sancionada, Promulgada Y Publicada En B.O", date(2026, 1, 15))])
+    e = calcular_estado(ruta, M)
+    assert e.fecha_resultado == date(2025, 12, 10)
+    assert e.ultimo_movimiento["fecha"] == "2026-01-15"
+
+
+def test_fecha_resultado_se_borra_al_rehabilitar():
+    ruta = Ruta([E("Ingresado", date(2024, 2, 14)), E("Caducado", date(2025, 2, 17)),
+                 E("Rehabilitado", date(2025, 3, 5))])
+    assert calcular_estado(ruta, M).fecha_resultado is None
+    ruta.eventos.append(E("Caducado", date(2026, 3, 5)))
+    assert calcular_estado(ruta, M).fecha_resultado == date(2026, 3, 5)

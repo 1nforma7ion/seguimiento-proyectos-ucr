@@ -39,8 +39,10 @@ const enComision = (e) => !e.estado.resultado && (e.estado.etapa === 2 || e.esta
 const porCaducar = (e, hoy, aj) =>
   !e.estado.resultado && e.estado.caduca_el != null &&
   diasHasta(e.estado.caduca_el, hoy) >= 0 && diasHasta(e.estado.caduca_el, hoy) <= aj.dias_por_caducar;
+// Cuenta por la fecha de aprobación (no por la de promulgación u otro movimiento posterior).
 const aprobadoEsteAnio = (e, hoy) =>
-  e.estado.resultado === "aprobado" && e.estado.ultimo_movimiento?.fecha?.slice(0, 4) === hoy.slice(0, 4);
+  e.estado.resultado === "aprobado" &&
+  (e.estado.fecha_resultado ?? e.estado.ultimo_movimiento?.fecha)?.slice(0, 4) === hoy.slice(0, 4);
 
 export function resumen(exps, novedades, hoy, aj) {
   const nov = conNovedad(novedades, hoy);

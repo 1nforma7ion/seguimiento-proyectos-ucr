@@ -2,7 +2,7 @@ import json
 from datetime import date, datetime, timedelta, timezone
 
 from conftest import RAIZ
-from recolector.almacen import (Expediente, agregar_novedades, cargar_expediente, construir_indice,
+from recolector.almacen import (Expediente, agregar_novedades, cargar_expediente, construir_indice, rederivar,
                                 escribir_estado, guardar_expediente, id_archivo, recortar)
 from recolector.config import cargar_config
 from recolector.parse import Evento, Ruta
@@ -105,3 +105,18 @@ def test_sin_cambios_no_reescribe(tmp_path):
     otra.recolectado = AHORA + timedelta(days=1)
     guardar_expediente(tmp_path, otra, M)
     assert leer(tmp_path / "expedientes" / "48498-L-26.json")["recolectado"] == AHORA.isoformat()
+
+
+def test_rederivar_completa_datos_viejos_sin_consultar(tmp_path):
+    aprobado = exp(eventos=[Evento("Estado", "Ingresado", "S", 148, date(2026, 3, 1)),
+                            Evento("Estado", "Aprobado", "S", 148, date(2026, 4, 1))])
+    guardar_expediente(tmp_path, aprobado, M)
+    ruta = tmp_path / "expedientes" / "48498-L-26.json"
+    d = leer(ruta)
+    del d["estado"]["fecha_resultado"]          # archivo escrito por una versión anterior
+    ruta.write_text(json.dumps(d), encoding="utf-8")
+    assert rederivar(tmp_path, M) == 1
+    nuevo = leer(ruta)
+    assert nuevo["estado"]["fecha_resultado"] == "2026-04-01"
+    assert nuevo["recolectado"] == d["recolectado"]
+    assert rederivar(tmp_path, M) == 0          # la segunda vez no hay nada que cambiar

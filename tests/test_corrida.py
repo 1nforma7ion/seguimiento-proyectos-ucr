@@ -303,3 +303,17 @@ def test_carga_inicial_no_llena_novedades(raiz, falso):
     falso.rutas["2/L/26"] = ruta_en_comision(MARTES - timedelta(days=3))
     correr(raiz, solo="ferrero")
     assert [n["numero"] for n in leer(raiz, "novedades.json")] == ["2/L/26"]
+
+
+def test_correr_actualiza_datos_viejos_sin_consultarlos(raiz, falso):
+    falso.listados[2950] = {"1/D/26": "x"}
+    falso.rutas["1/D/26"] = Ruta([Evento("Estado", "Aprobado", "S", 148, date(2026, 10, 29))])
+    correr(raiz, solo="ferrero")
+    archivo = raiz / "sitio" / "data" / "expedientes" / "1-D-26.json"
+    d = json.loads(archivo.read_text(encoding="utf-8"))
+    del d["estado"]["fecha_resultado"]
+    archivo.write_text(json.dumps(d), encoding="utf-8")
+    falso.detalles.clear()
+    correr(raiz, solo="ferrero", hoy=MARTES + timedelta(days=1))
+    assert falso.detalles == []  # aprobado: no se consulta el portal
+    assert leer(raiz, "indice.json")["expedientes"]["1/D/26"]["estado"]["fecha_resultado"] == "2026-10-29"
