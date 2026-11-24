@@ -49,6 +49,7 @@ class Portal:
         self._url = None
         self._campos: dict[str, str] | None = None
         self._avanzada = False
+        self._filtros: dict[str, str] = {}
 
     # --- transporte -------------------------------------------------------
     def _esperar_turno(self):
@@ -84,6 +85,7 @@ class Portal:
 
     def buscar(self, q: str) -> str:
         self._avanzada = False
+        self._filtros = {}
         url = url_busqueda(q)
         return self._recordar(url, self.get(url))
 
@@ -98,7 +100,9 @@ class Portal:
         return self._recordar(self._url, html)
 
     def ir_a_pagina(self, n: int) -> str:
-        return self.postback(target_pagina(n))
+        # Los cuadros de texto del filtro no son campos ocultos: hay que reenviarlos
+        # o el portal repite la búsqueda sin fechas.
+        return self.postback(target_pagina(n), dict(self._filtros))
 
     def abrir_avanzada(self) -> str:
         self._recordar(URL_BUSCAR, self.get(URL_BUSCAR))
@@ -111,14 +115,14 @@ class Portal:
 
         El portal trata 'hasta' como exclusivo. Devuelve la página 1 de resultados.
         """
-        if not getattr(self, "_avanzada", False):
+        if not self._avanzada:
             self.abrir_avanzada()
-        return self.postback("", {
+        self._filtros = {
             "ctl00$Body$HF_IdAutores": str(id_portal),
             "ctl00$Body$TB_FechaEstadoParlamentarioDesde": desde.strftime("%d/%m/%Y"),
             "ctl00$Body$TB_FechaEstadoParlamentarioHasta": hasta.strftime("%d/%m/%Y"),
-            "ctl00$Body$B_BusquedaAvanzada": "Buscar",
-        })
+        }
+        return self.postback("", {**self._filtros, "ctl00$Body$B_BusquedaAvanzada": "Buscar"})
 
     def buscar_persona(self, termino: str) -> list[dict]:
         return json.loads(self.get(URL_PERSONA, params={"term": termino}))

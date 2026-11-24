@@ -1,1 +1,1 @@
-{"pausa_segundos": 1.0, "desde_anio": 24, "dias_por_caducar": 60, "dias_novedades": 30, "dias_desactualizado": 2}
+{"pausa_segundos": 1.0, "desde_fecha": "2023-12-10", "dias_ventana_diaria": 45, "dias_por_caducar": 60, "dias_novedades": 30, "dias_desactualizado": 2}

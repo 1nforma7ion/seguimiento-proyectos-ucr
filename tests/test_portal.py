@@ -105,6 +105,17 @@ def test_consultar_autor_completa_el_formulario_avanzado():
     assert "ctl00$Body$B_BusquedaAvanzada" in enviar
 
 
+def test_ir_a_pagina_reenvia_los_filtros_de_la_consulta():
+    p, _ = portal_con([Resp(PAGINA)] * 4)
+    p.consultar_autor(2950, date(2026, 10, 29), date(2026, 10, 30))
+    p.ir_a_pagina(2)
+    datos = p.sesion.llamadas[-1][2]
+    assert datos["__EVENTTARGET"] == "ctl00$Body$R_Paginas$ctl01$LB_Pagina"
+    assert datos["ctl00$Body$HF_IdAutores"] == "2950"
+    assert datos["ctl00$Body$TB_FechaEstadoParlamentarioDesde"] == "29/10/2026"
+    assert "ctl00$Body$B_BusquedaAvanzada" not in datos
+
+
 def test_consultar_autor_abre_el_formulario_una_sola_vez():
     p, _ = portal_con([Resp(PAGINA)] * 4)
     p.consultar_autor(2950, date(2026, 10, 1), date(2026, 11, 1))
