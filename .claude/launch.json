@@ -6,12 +6,6 @@
       "runtimeExecutable": ".venv/Scripts/python.exe",
       "runtimeArgs": ["-m", "http.server", "8000", "-d", "sitio"],
       "port": 8000
-    },
-    {
-      "name": "demo",
-      "runtimeExecutable": ".venv/Scripts/python.exe",
-      "runtimeArgs": ["-m", "http.server", "8001", "-d", "C:/Users/facun/AppData/Local/Temp/claude/cc6c0a1a3adae163/f2490635-fb97-497a-9c66-1296e1edd646/scratchpad/sitio_demo"],
-      "port": 8001
     }
   ]
 }
