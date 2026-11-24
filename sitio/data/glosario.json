@@ -1,0 +1,15 @@
+{
+  "estado-parlamentario": {"termino": "Estado parlamentario", "texto": "Es el momento en que el proyecto se informa en una sesión de la Legislatura. Desde ahí existe oficialmente y puede tratarse."},
+  "comision": {"termino": "Comisión", "texto": "Grupo de legisladores que estudia los proyectos de un tema (Educación, Salud, Legislación General, etc.) antes de que se voten en el recinto."},
+  "giro": {"termino": "Giro a comisión", "texto": "Cuando la Legislatura manda un proyecto a una o varias comisiones para que lo estudien. La primera de la lista es la comisión principal."},
+  "despacho": {"termino": "Despacho o dictamen", "texto": "La opinión escrita de la comisión sobre el proyecto. Con despacho, el proyecto queda listo para votarse en una sesión."},
+  "sobre-tablas": {"termino": "Sobre tablas", "texto": "Tratar un proyecto en la misma sesión, sin que pase antes por comisión. Es común en declaraciones de beneplácito y adhesiones."},
+  "tramite-normal": {"termino": "Trámite normal (Art. 110)", "texto": "El camino habitual: el proyecto pasa por comisión, recibe despacho y después se vota."},
+  "caducidad": {"termino": "Caducidad", "texto": "Si un proyecto no se trata dentro de los 12 meses desde que tomó estado parlamentario, caduca y deja de estar en trámite."},
+  "rehabilitacion": {"termino": "Rehabilitación", "texto": "Un proyecto caducado puede volver a la vida si se pide su rehabilitación. Vuelve a comisión y empieza a correr un nuevo plazo de 12 meses."},
+  "archivo": {"termino": "Archivo", "texto": "El proyecto se guarda y sale del trámite. Pasa, por ejemplo, cuando caducó y no se rehabilitó (Art. 111)."},
+  "ley": {"termino": "Proyecto de ley", "texto": "Propone crear o cambiar una norma obligatoria para toda la provincia. Si se aprueba, el Poder Ejecutivo la promulga o la veta."},
+  "resolucion": {"termino": "Proyecto de resolución", "texto": "Una decisión de la Legislatura. Muchas veces es un pedido de informes al Poder Ejecutivo."},
+  "declaracion": {"termino": "Proyecto de declaración", "texto": "Expresa la opinión de la Legislatura sobre un tema: beneplácito, adhesión, repudio o preocupación. No obliga a nadie."},
+  "pedido-informes": {"termino": "Pedido de informes", "texto": "Un proyecto de resolución que le pide al Poder Ejecutivo datos o explicaciones sobre algún tema (Art. 102 de la Constitución)."}
+}
