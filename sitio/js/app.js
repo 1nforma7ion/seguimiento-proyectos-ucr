@@ -115,7 +115,7 @@ function reiniciarVista() {
 function pantallaLegislador(slug) {
   const leg = datos.indice.legisladores.find((l) => l.slug === slug);
   if (!leg) return pantallaElegir();
-  localStorage.setItem("leg", slug);
+  try { localStorage.setItem("leg", slug); } catch { /* almacenamiento bloqueado */ }
   pantallaLista({ titularHTML: V.titular(leg, leg.expedientes.length), numeros: leg.expedientes });
 }
 
@@ -165,14 +165,16 @@ async function rutear() {
   const [, seccion, arg] = hash.split("/");
   marcarMenu(hash);
   document.title = "Proyectos del bloque UCR";
-  if (seccion !== "exp") { reiniciarVista(); }
+  // Al volver de una ficha a la misma lista se conservan los filtros.
+  if (seccion !== "exp" && hash !== ultimaLista) reiniciarVista();
   if (seccion === "leg" && arg) { ultimaLista = hash; pantallaLegislador(decodeURIComponent(arg)); }
   else if (seccion === "bloque") { ultimaLista = hash; pantallaBloque(); }
   else if (seccion === "exp" && arg) await pantallaExpediente(decodeURIComponent(arg));
   else if (seccion === "como-funciona") { app.onclick = app.oninput = app.onchange = null; app.innerHTML = V.comoFunciona(datos.glosario); }
   else if (seccion === "elegir") pantallaElegir();
   else {
-    const guardado = localStorage.getItem("leg");
+    let guardado = null;
+    try { guardado = localStorage.getItem("leg"); } catch { /* almacenamiento bloqueado */ }
     if (guardado && datos.indice.legisladores.some((l) => l.slug === guardado)) { location.replace(`#/leg/${guardado}`); return; }
     pantallaElegir();
   }

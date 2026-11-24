@@ -42,21 +42,21 @@ class PortalListado:
 
 def test_listar_ventana_chica_una_pagina():
     p = PortalListado({1: {f"{i}/L/26": date(2026, 10, 1 + i) for i in range(5)}})
-    nums, adv = corrida.listar_autor(p, 1, date(2026, 10, 1), date(2026, 11, 1))
-    assert set(nums) == {f"{i}/L/26" for i in range(5)} and adv == [] and p.consultas == 1
+    nums, pend = corrida.listar_autor(p, 1, date(2026, 10, 1), date(2026, 11, 1))
+    assert set(nums) == {f"{i}/L/26" for i in range(5)} and pend == [] and p.consultas == 1
 
 
 def test_listar_bisecta_hasta_que_entra_en_una_pagina():
     datos = {f"{i}/L/26": date(2026, 10, 1) + timedelta(days=i % 30) for i in range(40)}
-    nums, adv = corrida.listar_autor(PortalListado({1: datos}), 1, date(2026, 10, 1), date(2026, 11, 1))
-    assert set(nums) == set(datos) and adv == []
+    nums, pend = corrida.listar_autor(PortalListado({1: datos}), 1, date(2026, 10, 1), date(2026, 11, 1))
+    assert set(nums) == set(datos) and pend == []
     assert nums["3/L/26"] == "Extracto 3/L/26"
 
 
 def test_listar_dia_con_mas_de_10_pagina_hasta_completar():
     datos = {f"{i}/D/26": date(2026, 10, 29) for i in range(27)}
-    nums, adv = corrida.listar_autor(PortalListado({1: datos}), 1, date(2026, 10, 1), date(2026, 11, 1))
-    assert set(nums) == set(datos) and adv == []
+    nums, pend = corrida.listar_autor(PortalListado({1: datos}), 1, date(2026, 10, 1), date(2026, 11, 1))
+    assert set(nums) == set(datos) and pend == []
 
 
 def test_listar_dia_que_no_converge_avisa():
@@ -65,9 +65,19 @@ def test_listar_dia_que_no_converge_avisa():
             return html_resultados(self._actual[:10], len(self._actual))
 
     datos = {f"{i}/D/26": date(2026, 10, 29) for i in range(27)}
-    nums, adv = corrida.listar_autor(Tacanio({1: datos}), 1, date(2026, 10, 29), date(2026, 10, 30))
+    nums, pend = corrida.listar_autor(Tacanio({1: datos}), 1, date(2026, 10, 29), date(2026, 10, 30))
     assert len(nums) == 10
-    assert adv and "10 de 27" in adv[0]
+    assert pend == [date(2026, 10, 29)]
+
+
+def test_listar_total_sin_resultados_es_error():
+    class Roto(PortalListado):
+        def ir_a_pagina(self, n):  # el contador dice 5 pero no hay resultados legibles
+            return html_resultados([], len(self._actual))
+
+    datos = {f"{i}/D/26": date(2026, 10, 29) for i in range(5)}
+    with pytest.raises(PortalError):
+        corrida.listar_autor(Roto({1: datos}), 1, date(2026, 10, 1), date(2026, 11, 1))
 
 
 # --- correr -----------------------------------------------------------------
@@ -95,14 +105,24 @@ def falso(monkeypatch):
     reg.rutas = {}         # numero -> Ruta
     reg.autores = {}       # numero -> [autores]
     reg.error_en = None
+    reg.corte_en = None     # id_portal en el que se agota el tiempo
+    reg.pendientes = {}     # id_portal -> [fechas sin completar]
+    reg.llamadas = []       # (id_portal, desde, hasta)
+    reg.fallan = set()      # números cuyo detalle falla ("*" = todos)
+    reg.excepcion = PortalError
 
     def listar(portal, id_portal, desde, hasta):
+        reg.llamadas.append((id_portal, desde, hasta))
         if reg.error_en == id_portal:
             raise PortalError("se cayó")
-        return dict(reg.listados.get(id_portal, {})), []
+        if reg.corte_en == id_portal:
+            raise TimeoutError
+        return dict(reg.listados.get(id_portal, {})), list(reg.pendientes.pop(id_portal, []))
 
     def detalle(portal, numero, con_autores=True, con_comisiones=True):
         reg.detalles.append((numero, con_autores))
+        if numero in reg.fallan or "*" in reg.fallan:
+            raise reg.excepcion(f"no se encontró {numero}")
         return (f"Extracto {numero}", reg.autores.get(numero, ["Ferrero, Alejandra"]) if con_autores else None,
                 reg.rutas.get(numero, ruta_en_comision()), ["Legislación General"] if con_comisiones else None)
 
@@ -159,10 +179,11 @@ def test_caducados_solo_lunes(raiz, falso):
 def test_cero_resultados_es_error(raiz, falso):
     falso.listados[2950] = {"48498/L/26": "x"}
     correr(raiz, solo="ferrero")
+    antes = leer(raiz, "estado.json")["ultima_actualizacion_ok"]
     falso.listados[2950] = {}
     assert correr(raiz, solo="ferrero", completo=True) == 1
     estado = leer(raiz, "estado.json")
-    assert estado["ok"] is False and estado["ultima_actualizacion_ok"].startswith("2026-11-24")
+    assert estado["ok"] is False and estado["ultima_actualizacion_ok"] == antes
     assert any("0 resultados" in a for a in estado["advertencias"])
     assert (raiz / "sitio" / "data" / "expedientes" / "48498-L-26.json").exists()
 
@@ -201,3 +222,84 @@ def test_ventana_diaria_vs_completa(raiz, falso, monkeypatch):
     correr(raiz, solo="ferrero")                # después: ventana de 45 días
     assert llamadas[0] == (date(2023, 12, 10), MARTES + timedelta(days=1))
     assert llamadas[1] == (MARTES - timedelta(days=45), MARTES + timedelta(days=1))
+
+
+def progreso(raiz):
+    return leer(raiz, "progreso.json")
+
+
+def test_carga_inicial_cortada_continua_al_dia_siguiente(raiz, falso):
+    falso.listados[2949] = {"1/L/26": "x"}           # austin (primera en la lista)
+    falso.listados[2950] = {"2/L/26": "y"}           # ferrero
+    falso.corte_en = 2950
+    assert correr(raiz) == 1
+    assert "austin" in progreso(raiz)["listado_completo"]
+    assert "ferrero" not in progreso(raiz)["listado_completo"]
+    assert leer(raiz, "estado.json")["ultima_actualizacion_ok"] is None
+    falso.corte_en = None
+    falso.llamadas.clear()
+    assert correr(raiz, hoy=MARTES + timedelta(days=1)) == 0
+    desde = {i: d for i, d, _ in falso.llamadas}
+    assert desde[2950] == date(2023, 12, 10)                                # sigue la carga completa
+    assert desde[2949] == MARTES + timedelta(days=1) - timedelta(days=45)   # ya cargada: ventana diaria
+    assert "2/L/26" in leer(raiz, "indice.json")["expedientes"]
+    assert leer(raiz, "estado.json")["ultima_actualizacion_ok"] is not None
+
+
+def test_carga_pendiente_mantiene_el_aviso(raiz, falso):
+    falso.listados[2950] = {"2/L/26": "y"}
+    assert correr(raiz, solo="ferrero") == 0
+    est = leer(raiz, "estado.json")
+    assert est["ok"] is True and est["ultima_actualizacion_ok"] is None   # faltan 17 legisladores
+    assert any("Carga inicial en curso" in a for a in est["advertencias"])
+
+
+def test_max_nuevos_no_marca_completo(raiz, falso):
+    falso.listados[2950] = {f"{i}/L/26": "x" for i in range(5)}
+    correr(raiz, solo="ferrero", max_nuevos=2)
+    assert "ferrero" not in progreso(raiz)["listado_completo"]
+
+
+def test_dia_que_no_converge_se_reintenta(raiz, falso):
+    falso.listados[2950] = {"2/L/26": "y"}
+    falso.pendientes[2950] = [date(2025, 3, 5)]
+    correr(raiz, solo="ferrero")
+    assert progreso(raiz)["dias_pendientes"] == {"ferrero": ["2025-03-05"]}
+    assert any("05/03/2025" in a for a in leer(raiz, "estado.json")["advertencias"])
+    falso.llamadas.clear()
+    correr(raiz, solo="ferrero", hoy=MARTES + timedelta(days=1))
+    assert (2950, date(2025, 3, 5), date(2025, 3, 6)) in falso.llamadas
+    assert progreso(raiz)["dias_pendientes"] == {}
+
+
+def test_expediente_inencontrable_no_corta_la_corrida(raiz, falso):
+    falso.listados[2950] = {"1/L/26": "x", "2/L/26": "y"}
+    falso.fallan = {"1/L/26"}
+    assert correr(raiz, solo="ferrero") == 0
+    assert list(leer(raiz, "indice.json")["expedientes"]) == ["2/L/26"]
+    assert any("1/L/26" in a for a in leer(raiz, "estado.json")["advertencias"])
+
+
+def test_tres_fallas_seguidas_cortan(raiz, falso):
+    falso.listados[2950] = {f"{i}/L/26": "x" for i in range(6)}
+    falso.fallan = {"*"}
+    assert correr(raiz, solo="ferrero") == 1
+    assert len(falso.detalles) == 3
+
+
+def test_error_inesperado_igual_escribe_estado(raiz, falso):
+    falso.listados[2950] = {f"{i}/L/26": "x" for i in range(2)}
+    falso.fallan = {"*"}
+    falso.excepcion = ValueError
+    assert correr(raiz, solo="ferrero") == 1
+    est = leer(raiz, "estado.json")
+    assert est["ok"] is False and any("ValueError" in a for a in est["advertencias"])
+    assert (raiz / "sitio" / "data" / "indice.json").exists()
+
+
+def test_carga_inicial_no_llena_novedades(raiz, falso):
+    falso.listados[2950] = {"1/L/24": "viejo", "2/L/26": "nuevo"}
+    falso.rutas["1/L/24"] = ruta_en_comision(date(2024, 5, 1))
+    falso.rutas["2/L/26"] = ruta_en_comision(MARTES - timedelta(days=3))
+    correr(raiz, solo="ferrero")
+    assert [n["numero"] for n in leer(raiz, "novedades.json")] == ["2/L/26"]

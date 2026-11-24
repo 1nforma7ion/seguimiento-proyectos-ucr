@@ -13,7 +13,7 @@ def slug(s: str) -> str:
 
 
 def decodificar(b: bytes) -> str:
-    """El portal responde en cp1252; algunas páginas pueden venir en UTF-8."""
+    """El portal responde en UTF-8; por las dudas se acepta cp1252."""
     try:
         return b.decode("utf-8")
     except UnicodeDecodeError:

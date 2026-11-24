@@ -68,7 +68,7 @@ export function botonesResumen(r, activa) {
     `<button type="button" data-tarjeta="${clave}" aria-pressed="${activa === clave}" class="${urgente && n ? "urgente" : ""}">
       <span class="n">${n}</span><span class="t">${texto}</span></button>`;
   return `<div class="resumen" role="group" aria-label="Filtrar por situación">
-    ${b("novedades", r.novedades, r.novedades === 1 ? "con novedades esta semana" : "con novedades esta semana")}
+    ${b("novedades", r.novedades, "con novedades esta semana")}
     ${b("porCaducar", r.porCaducar, "por caducar en 60 días", true)}
     ${b("enComision", r.enComision, "en estudio en comisión")}
     ${b("aprobados", r.aprobadosAnio, "aprobados este año")}

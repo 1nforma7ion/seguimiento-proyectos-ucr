@@ -76,6 +76,9 @@ def guardar_expediente(dir_datos: Path, exp: Expediente, mapeo: dict) -> list[st
         "url_portal": url_busqueda(exp.numero),
         "recolectado": exp.recolectado.isoformat(),
     }
+    # Si solo cambió la hora de recolección, no se reescribe: evita commits diarios sin cambios reales.
+    if anterior is not None and {**anterior, "recolectado": None} == {**datos, "recolectado": None}:
+        return []
     _escribir(_ruta_archivo(dir_datos, exp.numero), datos)
     if anterior is None:
         return [NUEVO]
@@ -115,12 +118,25 @@ def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: d
     return indice
 
 
-def escribir_estado(dir_datos: Path, ok: bool, advertencias: list[str], ahora: datetime) -> None:
+def cargar_progreso(dir_datos: Path) -> dict:
+    """Qué legisladores ya tienen su carga completa y qué días quedaron sin terminar."""
+    d = _leer(Path(dir_datos) / "progreso.json", {})
+    return {"listado_completo": d.get("listado_completo", {}), "dias_pendientes": d.get("dias_pendientes", {})}
+
+
+def guardar_progreso(dir_datos: Path, progreso: dict) -> None:
+    _escribir(Path(dir_datos) / "progreso.json", progreso)
+
+
+def escribir_estado(dir_datos: Path, ok: bool, advertencias: list[str], ahora: datetime,
+                    al_dia: bool | None = None) -> None:
+    """al_dia: si los datos cuentan como actualizados (por defecto, igual que ok)."""
     ruta = Path(dir_datos) / "estado.json"
     anterior = _leer(ruta, {})
+    al_dia = ok if al_dia is None else al_dia
     _escribir(ruta, {
         "ultima_corrida": ahora.isoformat(),
-        "ultima_actualizacion_ok": ahora.isoformat() if ok else anterior.get("ultima_actualizacion_ok"),
+        "ultima_actualizacion_ok": ahora.isoformat() if al_dia else anterior.get("ultima_actualizacion_ok"),
         "ok": ok,
         "advertencias": advertencias,
     })

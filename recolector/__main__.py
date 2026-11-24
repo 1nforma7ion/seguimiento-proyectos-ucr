@@ -1,6 +1,7 @@
 """Uso: python -m recolector [--solo SLUG] [--completo] [--pausa S] [--limite-minutos N] [--max-nuevos N]"""
 import argparse
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -24,7 +25,9 @@ def main(argv=None) -> int:
     ahora = datetime.now(ARGENTINA)
     pausa = a.pausa if a.pausa is not None else cargar_config(RAIZ).ajustes["pausa_segundos"]
     limite = ahora + timedelta(minutes=a.limite_minutos) if a.limite_minutos else None
-    return correr(RAIZ, Portal(pausa=pausa), ahora.date(), ahora, solo=a.solo, completo=a.completo,
+    # El portal también conoce el límite, para no quedar colgado en una consulta larga.
+    fin = time.monotonic() + a.limite_minutos * 60 if a.limite_minutos else None
+    return correr(RAIZ, Portal(pausa=pausa, fin=fin), ahora.date(), ahora, solo=a.solo, completo=a.completo,
                   limite=limite, max_nuevos=a.max_nuevos)
 
 

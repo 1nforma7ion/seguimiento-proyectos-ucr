@@ -40,7 +40,7 @@ Si una corrida falla, GitHub te manda un mail. Mientras tanto, el sitio sigue mo
    - `nombre_portal`: el nombre tal como lo escribe ese mismo listado, por ejemplo `"Ferrero, Alejandra"`.
    - `nombre_mostrar`: el nombre como querés que aparezca en el sitio, con tildes.
    - `departamental`: `true` si es legislador o legisladora departamental, `false` si no.
-4. Tocá **Commit changes**. En la próxima actualización aparece en el sitio. Para que se carguen todos sus proyectos, corré una actualización **completa**.
+4. Tocá **Commit changes**. En la próxima actualización se cargan solos todos sus proyectos del mandato (puede llevar más de una corrida; mientras tanto el sitio avisa que la carga está en curso).
 
 ## Qué significan las advertencias
 
@@ -52,6 +52,8 @@ Si una corrida falla, GitHub te manda un mail. Mientras tanto, el sitio sigue mo
 | **se leyeron X de Y expedientes** | Ese día el portal no devolvió todos los resultados. Se reintenta solo en la próxima corrida. |
 | **La corrida falló: …** | El portal no respondió o cambió su formato. Si se repite varios días, hay que revisar el programa. |
 | **La corrida se cortó por tiempo** | Volvé a lanzarla: continúa desde donde quedó. |
+| **Carga inicial en curso: faltan N legisladores** | Normal en los primeros días: cada corrida avanza. El sitio muestra el aviso de datos desactualizados hasta que termina. |
+| **No se pudo leer el expediente …** | Ese expediente se salteó hoy y se reintenta mañana. Si se repite siempre con el mismo, revisalo en el portal. |
 
 ## Ajustes
 

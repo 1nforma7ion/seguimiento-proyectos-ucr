@@ -97,3 +97,11 @@ def test_estado_fallido_conserva_ultima_ok(tmp_path):
 def test_json_utf8_sin_escapar(tmp_path):
     guardar_expediente(tmp_path, exp(), M)
     assert "Comisión" in (tmp_path / "expedientes" / "48498-L-26.json").read_text(encoding="utf-8")
+
+
+def test_sin_cambios_no_reescribe(tmp_path):
+    guardar_expediente(tmp_path, exp(), M)
+    otra = exp()
+    otra.recolectado = AHORA + timedelta(days=1)
+    guardar_expediente(tmp_path, otra, M)
+    assert leer(tmp_path / "expedientes" / "48498-L-26.json")["recolectado"] == AHORA.isoformat()

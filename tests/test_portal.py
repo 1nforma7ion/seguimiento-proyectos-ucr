@@ -122,3 +122,20 @@ def test_consultar_autor_abre_el_formulario_una_sola_vez():
     p.consultar_autor(2951, date(2026, 10, 1), date(2026, 11, 1))
     assert len(p.sesion.llamadas) == 4
     assert p.sesion.llamadas[-1][2]["ctl00$Body$HF_IdAutores"] == "2951"
+
+
+def test_fin_de_tiempo_corta_antes_de_pedir():
+    reloj = Reloj()
+    reloj.t = 100.0
+    p = Portal(pausa=0, sesion=SesionFalsa([Resp(PAGINA)]), dormir=reloj.dormir, reloj=reloj.ahora, fin=50.0)
+    with pytest.raises(TimeoutError):
+        p.buscar("Ferrero")
+    assert p.sesion.llamadas == []
+
+
+def test_no_reintenta_si_no_alcanza_el_tiempo():
+    reloj = Reloj()
+    p = Portal(pausa=0, sesion=SesionFalsa([Resp(b"", 503)] * 4), dormir=reloj.dormir, reloj=reloj.ahora, fin=4.0)
+    with pytest.raises(TimeoutError):
+        p.buscar("Ferrero")
+    assert len(p.sesion.llamadas) == 1

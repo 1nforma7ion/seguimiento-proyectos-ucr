@@ -39,8 +39,11 @@ def url_busqueda(q: str) -> str:
 
 
 class Portal:
-    def __init__(self, pausa: float = 1.0, sesion=None, dormir=time.sleep, reloj=time.monotonic):
+    def __init__(self, pausa: float = 1.0, sesion=None, dormir=time.sleep, reloj=time.monotonic,
+                 fin: float | None = None):
+        """fin: instante (en el reloj dado) a partir del cual no se hacen más consultas."""
         self.pausa = pausa
+        self.fin = fin
         self.sesion = sesion or requests.Session()
         self.sesion.headers["User-Agent"] = USER_AGENT
         self._dormir = dormir
@@ -60,6 +63,8 @@ class Portal:
 
     def _pedir(self, metodo: str, url: str, **kw) -> bytes:
         for intento in range(len(ESPERAS_REINTENTO) + 1):
+            if self.fin is not None and self._reloj() >= self.fin:
+                raise TimeoutError("Se terminó el tiempo de la corrida")
             self._esperar_turno()
             try:
                 r = getattr(self.sesion, metodo)(url, timeout=60, **kw)
@@ -70,7 +75,10 @@ class Portal:
             if ok:
                 return r.content
             if intento < len(ESPERAS_REINTENTO):
-                self._dormir(ESPERAS_REINTENTO[intento])
+                espera = ESPERAS_REINTENTO[intento]
+                if self.fin is not None and self._reloj() + espera >= self.fin:
+                    raise TimeoutError("Se terminó el tiempo de la corrida")
+                self._dormir(espera)
         raise PortalError(f"El portal no respondió: {metodo.upper()} {url}")
 
     def _recordar(self, url: str, html: str) -> str:
