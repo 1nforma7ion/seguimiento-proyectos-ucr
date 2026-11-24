@@ -202,7 +202,7 @@ Reglas de la tabla:
 - GitHub Actions corre todos los días hábiles a las 7:00, hora de Argentina, y se puede disparar a mano.
 - GitHub Pages sirve el sitio y el link se comparte con el bloque.
 - Los datos son públicos, así que el sitio puede ser público.
-- **Dueño y responsable:** el usuario (Facu) es dueño de la cuenta de GitHub y del repositorio, y gestiona todo. Ya tiene cuenta de GitHub. No es programador, así que se lo guía paso a paso para crear el repositorio y activar Pages y Actions.
+- **Dueño y responsable:** quien administra la cuenta de GitHub es dueño del repositorio y lo gestiona; la guía MANTENIMIENTO.md explica las tareas habituales.
 - **Si una actualización falla:** GitHub le avisa por mail al usuario. El sitio muestra un aviso visible de "datos desactualizados desde <fecha>" cuando la última actualización exitosa tiene más de 2 días hábiles.
 - Se incluye una guía corta en castellano (`MANTENIMIENTO.md`) que explica cómo agregar o quitar un legislador, cómo forzar una actualización y qué hacer si falla.
 
