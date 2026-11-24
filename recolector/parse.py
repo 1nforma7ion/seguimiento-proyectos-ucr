@@ -69,7 +69,7 @@ def _fecha(s: str) -> date:
 
 def parse_total(html: str) -> int:
     t = _texto(_exigir(_sopa(html), "#Body_L_Results", "la cantidad de resultados"))
-    m = re.match(r"([\d\.]+) resultados", t)
+    m = re.match(r"([\d\.]+) resultados?\b", t)
     if not m:
         raise PortalError(f"El portal cambió: cantidad de resultados ilegible: {t!r}")
     return int(m.group(1).replace(".", ""))

@@ -24,6 +24,11 @@ def test_total():
     assert parse_total(fx("buscar_vacio.html")) == 0
 
 
+def test_total_singular():
+    assert parse_total('<span id="Body_L_Results">1 resultado (0.426 segundos)</span>') == 1
+    assert parse_total('<span id="Body_L_Results">1.204 resultados (0.4 segundos)</span>') == 1204
+
+
 def test_resultados_vacio():
     assert parse_resultados(fx("buscar_vacio.html")) == []
 
