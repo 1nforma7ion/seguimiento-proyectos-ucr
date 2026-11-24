@@ -1,0 +1,63 @@
+name: actualizar
+
+on:
+  schedule:
+    - cron: "0 10 * * 1-5"   # 7:00 de Argentina, de lunes a viernes
+  workflow_dispatch:
+    inputs:
+      completo:
+        description: "Recorrer todo el mandato (usar para la primera carga)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Recolectar datos del portal
+        id: recolectar
+        run: python -m recolector --limite-minutos 320 ${{ inputs.completo && '--completo' || '' }}
+
+      - name: Guardar los datos en el repositorio
+        if: always()
+        run: |
+          git config user.name "actualizador"
+          git config user.email "actualizador@users.noreply.github.com"
+          git add sitio/data
+          git diff --cached --quiet || git commit -m "Datos al $(TZ=America/Argentina/Cordoba date +'%d/%m/%Y %H:%M')"
+          git push
+
+      - uses: actions/configure-pages@v5
+        if: always() && steps.recolectar.outcome != 'skipped'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: always() && steps.recolectar.outcome != 'skipped'
+        with:
+          path: sitio
+
+      - name: Publicar el sitio
+        id: publicar
+        if: always() && steps.recolectar.outcome != 'skipped'
+        uses: actions/deploy-pages@v4
