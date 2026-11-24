@@ -22,6 +22,13 @@ def test_es_autor_ignora_tildes():
     assert not bria.es_autor("Bria, Otro")
 
 
+def test_id_portal_cargado():
+    cfg = cargar_config(RAIZ)
+    ferrero = next(l for l in cfg.legisladores if l.slug == "ferrero")
+    assert ferrero.id_portal == 2950
+    assert len({l.id_portal for l in cfg.legisladores}) == 18
+
+
 def test_ajustes_y_etapas_cargados():
     cfg = cargar_config(RAIZ)
     assert cfg.ajustes["dias_por_caducar"] == 60

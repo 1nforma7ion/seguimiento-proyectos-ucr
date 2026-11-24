@@ -1,0 +1,1917 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head><meta charset="UTF-8" /><meta name="description" content="Medio de ingreso para los proyectos, notas, comunicaciones oficiales y pliegos a la Mesa de Entrada de Secretaría Legislativa de la Unicameral" /><meta name="keyword" content="Gestión,Legislativa,Digital,Legislatura,Provincia,Córdoba" /><meta name="author" content="Legislatura de la Provincia de Córdoba" /><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Gestión Legislativa Digital
+</title><link rel="shortcut icon" href="../Images/favicon.ico" type="image/x-icon" />
+
+    
+    
+    <link rel="stylesheet" href="../Vendors/Bootstrap/bootstrap.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Vendors/Icons/font-awesome.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Vendors/Pace/pace.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/SweetAlert2/sweetalert2.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/ChecksRadios/checks-radios.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Select2/select2.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/DatePicker/datepicker.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/TimePicker/timepicker.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/DataTables/datatables.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Switchery/switchery.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Content/Public.css?1.37.1">
+    
+    <style>
+    </style>
+
+    
+    
+    <script src="../Vendors/Pace/pace.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/jQuery/jquery.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Bootstrap/bootstrap.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/SweetAlert2/sweetalert2.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/AutoNumeric/autonumeric.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Select2/select2.min.js?1.37.1"></script>
+    <script src="../Vendors/Select2/es.js?1.37.1"></script>
+    
+    <script src="../Vendors/DatePicker/datepicker.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/TimePicker/timepicker.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/DataTables/datatables.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/buttons.html5.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/buttons.print.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/datatables.buttons.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/jszip.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Switchery/switchery.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Mask/mask.min.js?1.37.1"></script>
+    
+    <script src="../Scripts/App.js?1.37.1"></script>
+    
+    <script>
+
+        var regionalSettings = {
+            DateFormat: "dd/MM/yyyy",
+            FirstWeekDay: 0,
+            MoneyDecimalDigits: 2,
+            MoneyDecimalSymbol: ",",
+            MoneyFillDecimalsWithZeros: true,
+            MoneyGroupSeparator: ".",
+            MoneyLeadZeros: false,
+            MoneySymbol: "AR$",
+            MoneySymbolPosition: "p",
+            NumericDecimalDigits: 2,
+            NumericDecimalSymbol: ",",
+            NumericFillDecimalsWithZeros: true,
+            NumericGroupSeparator: ".",
+            NumericLeadZeros: false,
+            ServerOffSet: 0,
+            TimeFormat: 24,
+            TimeZoneOffSet: -180
+        };
+
+        $(document).ready(function () {
+
+            // Evento de actualizacion de un UpdatePanel
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_endRequest(function () {
+
+                SetRegionalSettings(regionalSettings);
+
+            });
+
+            SetRegionalSettings(regionalSettings);
+        });
+    </script>
+
+    
+
+    
+    
+    <link rel="stylesheet" href="../Vendors/jQCloud/jqcloud.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Timeline/timeline.css?1.37.1">
+    
+    <style>
+        a {
+            color: #54778c;
+        }
+
+            a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+        .result-number {
+            font-size: 20px;
+            line-height: 1.3;
+        }
+
+        .modal-lg {
+            max-width: 90% !important;
+        }
+
+        #mdlNubePalabras > div > div > div.modal-body {
+            margin: 0 auto;
+        }
+
+        .bullet {
+            background-color: white;
+            font-size: 14px;
+            font-weight: bold;
+            color: black;
+            border-radius: 20px;
+            width: 30px;
+            height: 30px;
+            margin: 5px;
+            line-height: 30px;
+            opacity: 0.9;
+        }
+
+        th, td {
+            border: none !important;
+        }
+
+        .input-group-append {
+            height: 38px;
+        }
+
+        .input-group-text {
+            border-radius: 0px;
+            background-color: white;
+        }
+
+        #mdlWordCloud > div > div > div.modal-body {
+            margin: 0 auto;
+        }
+
+        #Body_TB_FechaEstadoParlamentarioDesde {
+            border-left: none;
+        }
+
+        #Body_UP_FechaEstadoParlamentario > div > span {
+            width: 100px !important;
+        }
+
+        #Body_TB_FechaAprobacionDesde {
+            border-left: none;
+        }
+
+        #Body_UP_FechaAprobacion > div > span {
+            width: 100px !important;
+        }
+
+        #Body_P_Texto > div > div > div > span {
+            margin-top: 7px;
+        }
+
+        div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 75px) !important;
+        }
+
+        /* Checks All - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+        #Body_P_Camara > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_CamaraCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Origen > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_OrigenCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_TipoExpediente > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_TipoExpedienteCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_ClaseExpediente > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_ClaseExpedienteCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Bloque > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_BloqueCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Comision > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_ComisionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Estado > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_EstadoCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_UP_Situacion > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_SituacionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Ruta > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_RutaCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_TipoAprobacion > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_TipoAprobacionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+        /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Checks All */
+
+        #Body_LB_EliminaEstado {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_LB_EliminaFechaAprob {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+    </style>
+
+    
+    
+    <script src="../Vendors/jQCloud/jqcloud.min.js?1.37.1"></script>
+    
+    <script src="../Scripts/WordCloud.js"></script>
+    
+    <script>
+
+        var wc = "";
+        $(document).ready(function () {
+
+            // Evento mdlNubePalabras Shown
+            $('#mdlNubePalabras').on('shown.bs.modal', function (e) {
+                WordCloud(wc);
+            });
+
+            $('.modal').on('hidden.bs.modal', function () {
+                if ($(".modal:visible").length > 0) {
+                    setTimeout(function () {
+                        $('body').addClass('modal-open');
+                    }, 200)
+                }
+            });
+
+            // Comportamiento del Enter
+            $(document).on('keypress', function (e) {
+                if (e.which == 13) {
+                    if ($("#Body_B_BusquedaSimple").is(":visible")) {
+                        $("#Body_B_BusquedaSimple").trigger("click");
+                    } else {
+                        $("#Body_B_BusquedaAvanzada").trigger("click");
+                    }
+                }
+            });
+        });
+        
+
+        function pageLoad() {
+
+            $("#Body_TB_FechaEstadoParlamentarioDesde, #Body_TB_FechaEstadoParlamentarioHasta, #Body_TB_FechaAprobacionDesde, #Body_TB_FechaAprobacionHasta").on('click', function () {
+                setTimeout(function () {
+                    var top = $(".datepicker").css("top").replace("px", "");
+                    top = Number(top) + 90;
+                    $(".datepicker").css("top", top + "px");
+                }, 10);
+            });
+        }
+
+        function ShowExpediente(numero) {
+            $("#Body_L_ExpedienteNumero").html(numero);
+            $("#mdlExpediente").modal("show");
+        }
+
+        function ShowAutores(numero, texto) {
+            $("#Body_L_AutoresNumero").html(numero);
+            $("#mdlAutores").modal("show");
+        }
+
+        function ShowComisiones(numero, texto) {
+            $("#Body_L_ComisionesNumero").html(numero);
+            $("#mdlComisiones").modal("show");
+        }
+
+        function ShowNubePalabras(numero, texto) {
+            wc = texto;
+            $("#Body_L_NubePalabrasNumero").html(numero);
+            $("#mdlNubePalabras").modal("show");
+        }
+
+        function ShowRuta(numero) {
+            $("#Body_L_RutaNumero").html(numero);
+            $("#mdlRuta").modal("show");
+        }
+
+        function ShowDespacho(numero) {
+            $("#Body_L_DespachoNumero").html(numero);
+            $("#mdlDespacho").modal("show");
+        }
+    </script>
+</head>
+<body>
+
+    
+    <img id="img-logo-legislatura" class="d-none d-sm-block" src="../Images/Landing/logo-legislatura.svg" alt="Legislatura de la Provincia de Córdoba">
+    
+
+    <nav id="nav-bar" class="navbar sticky-top">
+
+        <a id="HL_Tiron" class="btn btn-info mr-4" href="http://datos.legiscba.gob.ar/gestion-legislativa/">
+            Datos anteriores a
+            <b>
+            2021
+            </b>
+        </a>
+
+        <a class="btn btn-outline-dark" href="../Landing.aspx"><span>Inicio</span></a>
+    </nav>
+
+    <div class="container">
+        <form name="aspnetForm" method="post" action="./Buscar.aspx" id="ctl02" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQo-vpnT46NPvTyiKFJYw1yVtwTEVKOnt14LRtCU1sVU9_L0YWRSNIreQCiX1J8LfqYqRiA7b33DQOPoIP8ZDY9s_RVtY1wDV-tyX6EIT2y-f6hfsEIyASZijZOMTgH3AEvu511EjTOL9Lslr9Nt93GE1&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="283C23DE" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+            
+
+            <header>
+                
+
+    <div id="Body_P_Form" class="form">
+	
+
+        <div id="Body_P_Form_Header" class="form-header">
+		
+            <div class="row">
+                <div class="col-12">
+                    <strong>
+                        <span id="Body_L_Title"></span>
+                    </strong>
+                </div>
+            </div>
+        
+	</div>
+
+        <div id="Body_P_Form_Body" class="form-body">
+		
+
+            
+            <div id="Body_P_Filters">
+			
+
+                <div id="Body_UP_Filters">
+				
+
+                        
+
+                        <div id="Body_P_BusquedaAvanzada">
+					
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Texto" class="col-xl-12 col-lg-12 col-md-12 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Texto">Texto en el expediente</span>
+                                    <div class="input-group mb-2">
+                                        <input name="ctl00$Body$TB_Texto" type="text" id="Body_TB_Texto" class="form-control" placeholder="Texto en el expediente" />
+                                        <div class="input-group-append">
+                                            <div class="input-group-text">
+                                                <span class="check-box-horizontal"><input id="Body_CB_Literal" type="checkbox" name="ctl00$Body$CB_Literal" /><label for="Body_CB_Literal">Coincidencia exacta</label></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Numero" class="col-xl-2 col-lg-2 col-md-2 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Numero">Nº de expediente</span>
+                                    <input name="ctl00$Body$TB_Numero" type="text" id="Body_TB_Numero" class="form-control mask-expediente text-upper" placeholder="00000/A/00" />
+                                
+					</div>
+
+                                
+                                <div id="Body_P_Camara" class="col-xl-4 col-lg-4 col-md-4 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Camara">Cámara</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_Camara" multiple="multiple" id="Body_LB_Camara" class="form-control select-multiple">
+							<option value="Zc2H83wA9Rw=">Poder Legislativo Unicameral</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_CamaraCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_CamaraCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+
+                                
+                                <div id="Body_P_Origen" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Origen">Origen</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_Origen" multiple="multiple" id="Body_LB_Origen" class="form-control select-multiple">
+							<option value="nNFzMzcYLBg=">Poder Ejecutivo Provincia de C&#243;rdoba</option>
+							<option value="SxihSaMsjBQ=">Poder Legislativo Provincia de C&#243;rdoba</option>
+							<option value="Zc2H83wA9Rw=">Iniciativa Popular</option>
+							<option value="sAokTPvY_d4=">Tribunal de Cuentas Provincia de C&#243;rdoba</option>
+							<option value="X1s6OV8KKbw=">Otros Poderes Legislativos</option>
+							<option value="Hd7Y2HKXXaI=">Poder Judicial Provincia de C&#243;rdoba</option>
+							<option value="UAJlxLqE3yY=">Municipios, Comunas y Centros Vecinales</option>
+							<option value="SXXbCrdlN08=">Ciudadano</option>
+							<option value="Kq-bM0mFHXo=">Poder Legislativo-En uso de Licencia</option>
+							<option value="9y-vjYQWpDU=">Otros-Informes de Organismos Oficiales</option>
+							<option value="SN6UE-b_4-o=">Otros Or&#237;genes</option>
+							<option value="btHlXBmleY4=">Entidades Educativas</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_OrigenCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_OrigenCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_TipoExpediente" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <span id="Body_L_TipoExpediente">Tipo de expediente</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_TipoExpediente" multiple="multiple" id="Body_LB_TipoExpediente" class="form-control select-multiple">
+							<option value="nNFzMzcYLBg=">Proyecto de Ley</option>
+							<option value="SxihSaMsjBQ=">Proyecto de Resoluci&#243;n</option>
+							<option value="Zc2H83wA9Rw=">Proyecto de Declaraci&#243;n</option>
+							<option value="sAokTPvY_d4=">Pliego</option>
+							<option value="SXXbCrdlN08=">Comunicaci&#243;n/Nota Oficial</option>
+							<option value="9y-vjYQWpDU=">Nota Oficial-Veto</option>
+							<option value="SN6UE-b_4-o=">Cuesti&#243;n de Privilegio</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_TipoExpedienteCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_TipoExpedienteCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+
+                                
+                                <div id="Body_P_ClaseExpediente" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <span id="Body_L_ClaseExpediente">Clase de expediente</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_ClaseExpediente" multiple="multiple" id="Body_LB_ClaseExpediente" class="form-control select-multiple">
+							<option value="9y-vjYQWpDU=">Proyecto de Ley - Legislativo</option>
+							<option value="priE3DYWIek=">Pedidos de Informe (Art 102 C.P.)</option>
+							<option value="o7wE1jQPimA=">Citaci&#243;n a Ministros (Art 101 C.P.)</option>
+							<option value="IISzCSxObi4=">Modificaci&#243;n de Art. del Reglamento Interno</option>
+							<option value="HyzvFJfkjgw=">Instrucci&#243;n a Senadores (Art.104 Inc.5 C.P) </option>
+							<option value="fATJVaLhlog=">Ratificaci&#243;n o Suscripci&#243;n De Convenios</option>
+							<option value="IzenJcKNxLY=">Incorporaci&#243;n y Modificaci&#243;n de Art al R.I</option>
+							<option value="57UrG-Xee54=">Benepl&#225;citos</option>
+							<option value="KXHRUP9vva8=">Adhesi&#243;n</option>
+							<option value="qizG_qnJH0w=">Reconocimientos</option>
+							<option value="ORzvofJ6yF4=">Inter&#233;s Legislativo</option>
+							<option value="5aTpKdkZ7Vc=">Desagrado, Preocupaci&#243;n, Rechazo o Repudio</option>
+							<option value="6pHcN_GfMzI=">Sugerencias y Solicitudes a Otros Poderes o terc. </option>
+							<option value="4RVXc8Iwp_w=">Declaraci&#243;n de visitante ilustre o similar</option>
+							<option value="nZpmE4Fr-CY=">Nota Para Solicitud de Licencias</option>
+							<option value="3D54FEXKeEk=">Comunicaci&#243;n Ley 9086 </option>
+							<option value="rhxtfSFoqEg=">Informes Obligatorios por Ley</option>
+							<option value="MxHm0Fyll8c=">Ejecuci&#243;n Presupuestaria </option>
+							<option value="Jy6PKZOznAM=">Cuenta de Inversi&#243;n </option>
+							<option value="gf38IAaP-1E=">Informe Cuenta de Inversi&#243;n</option>
+							<option value="YS5Hk2iIbUw=">Informe Anual del Defensor del Pueblo</option>
+							<option value="QHBmzgtMdl0=">Respuesta a Pedidos de Informe</option>
+							<option value="zXbeKwXB5-s=">Veto Total a Ley Sancionada</option>
+							<option value="ZGI1f9LVcbw=">Pliego</option>
+							<option value="M-GO4riw1Ig=">Adhesi&#243;n y Benepl&#225;cito</option>
+							<option value="bAL4ci-46Ds=">Pesar por fallecimiento</option>
+							<option value="zkTdPDQ4sac=">Cuesti&#243;n de privilegio por nota</option>
+							<option value="zewMGhUKxyM=">Cuesti&#243;n de privilegio iniciada en el recinto</option>
+							<option value="F8GQ9bIKoDk=">Incorporaci&#243;n de Art al R.I</option>
+							<option value="rm1Kd1pi3I0=">Nota de Renuncia</option>
+							<option value="WstocYgW4ao=">Otras Clases No Contempladas-R</option>
+							<option value="bWA8IRCqhfU=">Rehabilitaci&#243;n de proyectos</option>
+							<option value="XCZYIU5xg-s=">Otras Clases No Contempladas-D</option>
+							<option value="apidZIVzDd4=">Otras Clases No Contempladas-C/N</option>
+							<option value="283_Li1d8Sc=">Migraci&#243;n_Declaraci&#243;n_*</option>
+							<option value="VDkpyQobIrc=">Migraci&#243;n_Resoluci&#243;n_*</option>
+							<option value="yCAgq-cindo=">Migraci&#243;n_Ley_*</option>
+							<option value="h1at5mCX-YI=">Migraci&#243;n_Comunicaci&#243;n/Nota Oficial_*</option>
+							<option value="LkvP2ayX5fY=">Migraci&#243;n_Cuesti&#243;n de Privilegio_*</option>
+							<option value="ucQHjYrRsEA=">Veto Parcial a Ley Sancionada</option>
+							<option value="1sI1d-Xo0TE=">Proyecto de Ley - Ejecutivo</option>
+							<option value="5MKpOmHuOV8=">Sugerencias, comunic., ped.a otros Poderes o terc.</option>
+							<option value="tl4CvXDQuWA=">Migraci&#243;n_Ley_Legislativo*</option>
+							<option value="pVwhKDlCzQ8=">Proyecto de Ley-TSJ</option>
+							<option value="waoITHmxHTg=">Migraci&#243;n_Pliegos_*</option>
+							<option value="5TyD928e9g0=">Adhesi&#243;n a Ley - Ejecutivo</option>
+							<option value="MlojQ7y89cY=">Expropiaci&#243;n- Ejecutivo</option>
+							<option value="imgwDfsyw1w=">Modificaci&#243;n radio - Ejecutivo</option>
+							<option value="UQ6HEuuKFc8=">Migraci&#243;n_Veto Parcial a Ley Sancionada _*</option>
+							<option value="IraGCNjnjrA=">Migraci&#243;n_Veto Total a Ley Sancionada _*</option>
+							<option value="Rjy_yq3iBcY=">Sugerencias de modif. de normas-(Art. 15-Ley 7741)</option>
+							<option value="DyukL9KCKOU=">C&#243;digo Tributario</option>
+							<option value="PbfUWTwq3FI=">Ley impositiva</option>
+							<option value="OGqfME3idG4=">Presupuesto</option>
+							<option value="ZGlc3ZVej5M=">Nota de Renuncia.</option>
+							<option value="dTEncuLgz1Y=">Informe de la Defensor&#237;a de las ni&#241;as, ni&#241;os y ado</option>
+							<option value="Bu9XMDWgVRE=">Migraci&#243;n_Comunicaci&#243;n Ley 9086</option>
+							<option value="B0wXJeW9U8I=">Comunicaciones particulares</option>
+							<option value="sDs2CiZeX_s=">Informes de Organismos Oficiales-Otros</option>
+							<option value="8fLmH67fXhE=">Cese de licencia</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_ClaseExpedienteCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_ClaseExpedienteCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Bloque" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Bloque">Bloque Político</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_Bloque" multiple="multiple" id="Body_LB_Bloque" class="form-control select-multiple">
+							<option value="nNFzMzcYLBg=">ENCUENTRO VECINAL C&#211;RDOBA</option>
+							<option value="SxihSaMsjBQ=">HACEMOS POR C&#211;RDOBA</option>
+							<option value="Zc2H83wA9Rw=">FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES</option>
+							<option value="sAokTPvY_d4=">COALICI&#211;N C&#205;VICA ARI VIEJO</option>
+							<option value="X1s6OV8KKbw=">JUNTOS POR EL CAMBIO</option>
+							<option value="Hd7Y2HKXXaI=">MST-NUEVA IZQUIERDA</option>
+							<option value="UAJlxLqE3yY=">UNI&#211;N C&#205;VICA RADICAL</option>
+							<option value="SXXbCrdlN08=">UNION POR CORDOBA - 30/04/2009 al 09/12/2019</option>
+							<option value="9y-vjYQWpDU=">JUNTOS UCR</option>
+							<option value="priE3DYWIek=">C&#211;RDOBA PODEMOS</option>
+							<option value="o7wE1jQPimA=">IDENTIDAD PERONISTA</option>
+							<option value="HyzvFJfkjgw=">----Bloque Migraci&#243;n</option>
+							<option value="fATJVaLhlog=">IZQUIERDA SOCIALISTA - FIT UNIDAD</option>
+							<option value="IzenJcKNxLY=">JUNTOS POR C&#211;RDOBA</option>
+							<option value="57UrG-Xee54=">FRENTE C&#205;VICO</option>
+							<option value="KXHRUP9vva8=">PRO - PROPUESTA REPUBLICANA</option>
+							<option value="qizG_qnJH0w=">PTS - FRENTE DE IZQUIERDA</option>
+							<option value="ORzvofJ6yF4=">UNIPERSONAL LEGISLADORA MONTERO</option>
+							<option value="5aTpKdkZ7Vc=">CONSENSO C&#211;RDOBA</option>
+							<option value="6pHcN_GfMzI=">FRENTE PARA LA VICTORIA - 26/9/2013 al  9/12/2015</option>
+							<option value="4RVXc8Iwp_w=">FRENTE PARA LA VICTORIA - 30/4/2009 al 9/12/2011</option>
+							<option value="0ZRIEIuurWE=">FRENTE PARA LA VICTORIA -  8/3/2006 al  9/12/2007</option>
+							<option value="nZpmE4Fr-CY=">FRENTE RENOVADOR</option>
+							<option value="3D54FEXKeEk=">PARTIDO SOCIALISTA</option>
+							<option value="rhxtfSFoqEg=">UNION POR CORDOBA - 10/12/2001 al 31/12/2007</option>
+							<option value="MxHm0Fyll8c=">UNI&#211;N POR C&#211;RDOBA - FRENTE PARA LA VICTORIA</option>
+							<option value="Jy6PKZOznAM=">UNI&#211;N PRO</option>
+							<option value="gf38IAaP-1E=">RECREAR PARA EL CRECIMIENTO</option>
+							<option value="YS5Hk2iIbUw=">CONCENTRACION PLURAL</option>
+							<option value="QHBmzgtMdl0=">FRENTE PROGRESISTA</option>
+							<option value="zXbeKwXB5-s=">MOVIMIENTO DE ACCION VECINAL</option>
+							<option value="ZGI1f9LVcbw=">MOVIMIENTO PATRIOTICO</option>
+							<option value="0FBdnpclJUs=">PERONISMO MILITANTE-PARTIDO COMUNISTA</option>
+							<option value="M-GO4riw1Ig=">IZQUIERDA SOCIALISTA- F.I.T.</option>
+							<option value="1Zfu2O80X2I=">UNI&#211;N VECINAL FEDERAL</option>
+							<option value="bAL4ci-46Ds=">VECINALISMO INDEPENDIENTE</option>
+							<option value="Dbj2LxNSStw=">PARTIDO RECREAR</option>
+							<option value="zkTdPDQ4sac=">PARTIDO NUEVO</option>
+							<option value="fHHjJtz7Pm8=">P.A.I.S.</option>
+							<option value="MJNe4oTq4p8=">IZQUIERDA UNIDA</option>
+							<option value="eTUR2rQYVCQ=">C&#211;RDOBA JUSTICIALISTA</option>
+							<option value="GMwZnJwnwgE=">Bloque PSP - PSD (ARI)</option>
+							<option value="z_lE-Cqo4ak=">BLOQUE UNIPERSONAL</option>
+							<option value="PfSUe_9VIj8=">INDEPENDIENTE</option>
+							<option value="Xr5tffJGoHM=">C&#243;rdoba Aut&#233;ntica</option>
+							<option value="niqJ5jpnycc=">FRENTE CIVICO DE CORDOBA</option>
+							<option value="9teJ6yZAUm0=">HACEMOS UNIDOS POR CORDOBA</option>
+							<option value="6IdxXWsVigc=">UCR</option>
+							<option value="nGfd4U-JHDo=">PRO</option>
+							<option value="5Xe9DHmYIgk=">CONSTRUYENDO CORDOBA </option>
+							<option value="lWx-ooIJv_A=">CREO EN CORDOBA</option>
+							<option value="JrWeZYzTiG8=">CORDOBA</option>
+							<option value="QldnPW4oqwg=">LA LIBERTAD AVANZA</option>
+							<option value="YUvedOd2yl8=">MST en el FIT-UNIDAD</option>
+							<option value="7fiRyVaVZFQ=">COALICION CIVICA ARI</option>
+							<option value="E3_sDBF3_ec=">MEJOR FUTURO</option>
+							<option value="6uZS1B7fF0M=">JUNTOS POR EL INTERIOR</option>
+							<option value="EwKsGWind_M=">VALORES REPUBLICANOS</option>
+							<option value="gvWgld1E_58=">IZQUIERDA SOCIALISTA - FITU</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_BloqueCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_BloqueCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+
+                                
+                                <div id="Body_P_Autores" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Autores">Autores</span>
+                                    <select id="LB_Autores" multiple="multiple" class="form-control select-multiple-ajax" data-url="../Handlers/Persona.ashx" data-target="Body_HF_IdAutores"></select>
+                                    <input type="hidden" name="ctl00$Body$HF_IdAutores" id="Body_HF_IdAutores" value="2950" />
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Comision" class="col-xl-12 col-lg-12 col-md-12 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Comision">Comisiones</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_Comision" multiple="multiple" id="Body_LB_Comision" class="form-control select-multiple">
+							<option value="z_lE-Cqo4ak=">Comisi&#243;n de Labor Parlamentaria</option>
+							<option value="nNFzMzcYLBg=">Legislaci&#243;n General</option>
+							<option value="sAokTPvY_d4=">Asuntos Constitucionales, Justicia y Acuerdos</option>
+							<option value="ETxU6i6E0VQ=">Asuntos Municipales y Comunales</option>
+							<option value="3ZUMjIbuvxs=">Educaci&#243;n </option>
+							<option value="r-WtQ-tqZxY=">Seguridad</option>
+							<option value="Jxl9Vjcr1Mk=">Cultura</option>
+							<option value="r6Cjd9pDJmo=">Tecnolog&#237;a, Innovaci&#243;n y Econom&#237;a del Conocimiento</option>
+							<option value="SXXbCrdlN08=">Legislaci&#243;n del Trabajo, Previsi&#243;n y Seguridad Social</option>
+							<option value="Kq-bM0mFHXo=">Econom&#237;a Social, Cooperativas y Mutuales</option>
+							<option value="-MXc17ILd1s=">Salud</option>
+							<option value="ZmDfu4aOfA8=">Ambiente y Recursos Renovables</option>
+							<option value="FNYJSALtxmg=">Economia y Presupuesto</option>
+							<option value="BU5agbT93g0=">Obras P&#250;blicas y Vivienda</option>
+							<option value="B2lBCiOeenY=">Infraestructura y Servicios P&#250;blicos</option>
+							<option value="8nQcwAu1nTI=">Juventud y Nueva Gobernanza</option>
+							<option value="jJTv-KiWCi8=">Agricultura y Ganaderia</option>
+							<option value="fATJVaLhlog=">Industria y Miner&#237;a</option>
+							<option value="zPH447Z1zK0=">Turismo</option>
+							<option value="lpwQXM4m7lE=">Derechos Humanos</option>
+							<option value="DZTzji7wweg=">Desarrollo Social</option>
+							<option value="VU0SBXKGIaM=">Deportes</option>
+							<option value="PrNgFh9d6ko=">Promoci&#243;n y Desarrollo de las Econom&#237;as Regionales</option>
+							<option value="lyPfx5Dfn9k=">Adicciones y Culto</option>
+							<option value="ORzvofJ6yF4=">Relaciones Internacionales, Mercosur y Comercio Exterior</option>
+							<option value="0ZRIEIuurWE=">Promoci&#243;n y Desarrollo de las Comunidades Regionales</option>
+							<option value="nZpmE4Fr-CY=">Promoci&#243;n y Defensa de los Derechos de la Ni&#241;ez, Adolescencia y Familia</option>
+							<option value="JNNsy1gVu-8=">G&#233;nero y Diversidad</option>
+							<option value="WnuvlgHXSNY=">Promoci&#243;n de Derechos de Personas con Discapacidad</option>
+							<option value="AQL7pGfFENQ=">Transporte y Comunicaciones</option>
+							<option value="_yEQxNXdbRM=">Pymes</option>
+							<option value="7fiRyVaVZFQ=">Legislaci&#243;n General, Funci&#243;n P&#250;blica, Reforma Administrativa y Descentralizaci&#243;n</option>
+							<option value="6uZS1B7fF0M=">Educaci&#243;n Y Cultura</option>
+							<option value="EwKsGWind_M=">Trabajo, Previsi&#243;n Y Seguridad Social, Cooperativas Y Mutuales</option>
+							<option value="gvWgld1E_58=">Ciencia, Tecnolog&#237;a e Inform&#225;tica.</option>
+							<option value="E3_sDBF3_ec=">Educaci&#243;n, Cultura, Ciencia, Tecnolog&#237;a e Inform&#225;tica.</option>
+							<option value="RH5Ckn56qkI=">Cooperativas y Mutuales</option>
+							<option value="YUldpHklaps=">Asuntos ecol&#243;gicos</option>
+							<option value="P8ysM8CNC2k=">Econom&#237;a, Presupuesto y Hacienda</option>
+							<option value="GQa6vMgcktE=">Obras, Servicios P&#250;blicos, Vivienda, Transporte, Comunicaciones y Energ&#237;a</option>
+							<option value="D4FWBWSlL5c=">Solidaridad</option>
+							<option value="L5erObfVC28=">Solidaridad y Derechos Humanos</option>
+							<option value="QvfbQvSF3rM=">Deportes, Recreaci&#243;n y su relaci&#243;n con Pol&#237;ticas de Prevenci&#243;n de la Drogadicci&#243;n</option>
+							<option value="Tz6t9K5zrMo=">Prevenci&#243;n de las Adicciones, Deportes y Recreaci&#243;n</option>
+							<option value="VC8x9IdpcvU=">Comercio  Interior,  Exterior y Mercosur</option>
+							<option value="7M6Mt40IfIQ=">Comisi&#243;n de Mercosur, Comercio Interior y Exterior</option>
+							<option value="zQwkSahtAEc=">Agua, Energ&#237;a y Transporte</option>
+							<option value="Hd7Y2HKXXaI=">Asuntos Institucionales, Municipales y Comunales</option>
+							<option value="UAJlxLqE3yY=">Educaci&#243;n, Cultura, Ciencia, Tecnolog&#237;a e Inform&#225;tica</option>
+							<option value="SN6UE-b_4-o=">Ambiente</option>
+							<option value="priE3DYWIek=">Obras P&#250;blicas, Vivienda y Comunicaciones</option>
+							<option value="9y-vjYQWpDU=">Salud Humana</option>
+							<option value="IISzCSxObi4=">Servicios P&#250;blicos</option>
+							<option value="btHlXBmleY4=">Econom&#237;a, Presupuesto, Gesti&#243;n P&#250;blica e Innovaci&#243;n</option>
+							<option value="HyzvFJfkjgw=">Agricultura, Ganader&#237;a y Recursos Renovables</option>
+							<option value="qizG_qnJH0w=">Prevenci&#243;n, Tratamiento y Control de las Adicciones</option>
+							<option value="IzenJcKNxLY=">Turismo y su Relaci&#243;n con el Desarrollo Regional</option>
+							<option value="57UrG-Xee54=">Derechos Humanos y Desarrollo Social</option>
+							<option value="KXHRUP9vva8=">Deportes y Recreaci&#243;n</option>
+							<option value="5aTpKdkZ7Vc=">Promoci&#243;n y Desarrollo de Econom&#237;as Regionales y Pymes</option>
+							<option value="3D54FEXKeEk=">Equidad y Lucha contra la Violencia de G&#233;nero</option>
+							<option value="niqJ5jpnycc=">comision de Prueba en prod</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_ComisionCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_ComisionCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Estado" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Estado">Estado actual</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_Estado" multiple="multiple" id="Body_LB_Estado" class="form-control select-multiple">
+							<option value="Kq-bM0mFHXo=">Archivado</option>
+							<option value="SN6UE-b_4-o=">Estado Parlamentario</option>
+							<option value="priE3DYWIek=">Aprobado</option>
+							<option value="o7wE1jQPimA=">En Comisi&#243;n</option>
+							<option value="IISzCSxObi4=">Caducado</option>
+							<option value="HyzvFJfkjgw=">Notificado Al Poder Ejecutivo</option>
+							<option value="fATJVaLhlog=">Ley Sancionada, Promulgada Y Publicada En B.O</option>
+							<option value="IzenJcKNxLY=">Ley Con Nota De Veto</option>
+							<option value="57UrG-Xee54=">Rechazado</option>
+							<option value="KXHRUP9vva8=">Rehabilitado</option>
+							<option value="ORzvofJ6yF4=">Ley Sanc. Promulg. Y Publ. En B.O.Con Veto Parcial</option>
+							<option value="5aTpKdkZ7Vc=">Ley Con Veto Parcial</option>
+							<option value="6pHcN_GfMzI=">Primera Lectura</option>
+							<option value="4RVXc8Iwp_w=">Segunda Lectura</option>
+							<option value="ZGI1f9LVcbw=">Ley Vetada</option>
+							<option value="GMwZnJwnwgE=">Reservado en Secretar&#237;a Legislativa</option>
+							<option value="niqJ5jpnycc=">Aprobado en Primera Lectura</option>
+							<option value="9teJ6yZAUm0=">Debatido en Camara</option>
+							<option value="6IdxXWsVigc=">Archivado por Art 111</option>
+							<option value="lWx-ooIJv_A=">Ley Sancionada Ficta</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_EstadoCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_EstadoCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+
+                                
+                                <div id="Body_P_Situacion" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+
+                                    <div id="Body_UP_Situacion">
+							
+
+                                            <span id="Body_L_Situacion">Situación actual</span>
+                                            <div class="input-group">
+                                                <select size="4" name="ctl00$Body$LB_Situacion" multiple="multiple" id="Body_LB_Situacion" class="form-control select-multiple">
+								<option value="Hd7Y2HKXXaI=">Normal Con Despacho C&#225;mara Comisi&#243;n</option>
+								<option value="UAJlxLqE3yY=">Sobre Tablas</option>
+								<option value="qizG_qnJH0w=">Normal </option>
+								<option value="nZpmE4Fr-CY=">Sobre Tablas Con Despacho C&#225;mara En Comisi&#243;n</option>
+								<option value="rhxtfSFoqEg=">Por Nota</option>
+								<option value="MxHm0Fyll8c=">Por Acuerdo De Los Bloques</option>
+								<option value="Jy6PKZOznAM=">Con Debate</option>
+								<option value="QHBmzgtMdl0=">T&#225;cita (Art. 110 C.P)</option>
+								<option value="zXbeKwXB5-s=">Por Voluntad Expresa De La C&#225;mara</option>
+								<option value="bAL4ci-46Ds=">Por Art. 101</option>
+								<option value="Dbj2LxNSStw=">Por Contestaci&#243;n</option>
+								<option value="zkTdPDQ4sac=">Art 104 Inc 31 _Cuentas De Inversion</option>
+								<option value="fHHjJtz7Pm8=">Explicita</option>
+								<option value="MJNe4oTq4p8=">Art 109 RI</option>
+								<option value="eTUR2rQYVCQ=">Art 110 (tramite normal)</option>
+								<option value="z_lE-Cqo4ak=">Por Rechazo</option>
+								<option value="PfSUe_9VIj8=">Sobre tabla con despacho</option>
+								<option value="nGfd4U-JHDo=">Por Art 115</option>
+								<option value="5Xe9DHmYIgk=">Normal con Despacho Comisi&#243;n</option>
+
+							</select>
+                                                <div class="input-group-append">
+                                                    <a id="Body_LB_SituacionCheckAll" title="Marcar todos" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SituacionCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                        
+						</div>
+
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Ruta" class="col-xl-12 col-lg-12 col-md-12 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Ruta">Que haya pasado por</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_Ruta" multiple="multiple" id="Body_LB_Ruta" class="form-control select-multiple">
+							<option value="Kq-bM0mFHXo=">Archivado</option>
+							<option value="SN6UE-b_4-o=">Estado Parlamentario</option>
+							<option value="priE3DYWIek=">Aprobado</option>
+							<option value="o7wE1jQPimA=">En Comisi&#243;n</option>
+							<option value="IISzCSxObi4=">Caducado</option>
+							<option value="HyzvFJfkjgw=">Notificado Al Poder Ejecutivo</option>
+							<option value="fATJVaLhlog=">Ley Sancionada, Promulgada Y Publicada En B.O</option>
+							<option value="IzenJcKNxLY=">Ley Con Nota De Veto</option>
+							<option value="57UrG-Xee54=">Rechazado</option>
+							<option value="KXHRUP9vva8=">Rehabilitado</option>
+							<option value="ORzvofJ6yF4=">Ley Sanc. Promulg. Y Publ. En B.O.Con Veto Parcial</option>
+							<option value="5aTpKdkZ7Vc=">Ley Con Veto Parcial</option>
+							<option value="6pHcN_GfMzI=">Primera Lectura</option>
+							<option value="4RVXc8Iwp_w=">Segunda Lectura</option>
+							<option value="ZGI1f9LVcbw=">Ley Vetada</option>
+							<option value="GMwZnJwnwgE=">Reservado en Secretar&#237;a Legislativa</option>
+							<option value="niqJ5jpnycc=">Aprobado en Primera Lectura</option>
+							<option value="9teJ6yZAUm0=">Debatido en Camara</option>
+							<option value="6IdxXWsVigc=">Archivado por Art 111</option>
+							<option value="lWx-ooIJv_A=">Ley Sancionada Ficta</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_RutaCheckAll" title="Marcar todos" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_RutaCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_FechaEstadoParlamentario" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <div id="Body_UP_FechaEstadoParlamentario">
+							
+                                            <span>Fecha de estado parlamentario</span>
+                                            <div class="input-group">
+                                                <select name="ctl00$Body$DDL_PeriodoEstadoParlamentario" id="Body_DDL_PeriodoEstadoParlamentario" class="form-control select-single">
+								<option selected="selected" value="">Per&#237;odo</option>
+								<option value="zXbeKwXB5-s=">148</option>
+								<option value="QHBmzgtMdl0=">147</option>
+								<option value="gf38IAaP-1E=">146</option>
+								<option value="Jy6PKZOznAM=">145</option>
+								<option value="rhxtfSFoqEg=">144</option>
+								<option value="Kq-bM0mFHXo=">143</option>
+								<option value="SXXbCrdlN08=">142</option>
+								<option value="9y-vjYQWpDU=">141</option>
+								<option value="SN6UE-b_4-o=">140</option>
+								<option value="btHlXBmleY4=">139</option>
+								<option value="priE3DYWIek=">138</option>
+								<option value="o7wE1jQPimA=">137</option>
+								<option value="IISzCSxObi4=">136</option>
+								<option value="HyzvFJfkjgw=">135</option>
+								<option value="fATJVaLhlog=">134</option>
+								<option value="IzenJcKNxLY=">133</option>
+								<option value="57UrG-Xee54=">132</option>
+								<option value="KXHRUP9vva8=">131</option>
+								<option value="qizG_qnJH0w=">130</option>
+								<option value="ORzvofJ6yF4=">129</option>
+								<option value="5aTpKdkZ7Vc=">128</option>
+								<option value="6pHcN_GfMzI=">127</option>
+								<option value="4RVXc8Iwp_w=">126</option>
+								<option value="0ZRIEIuurWE=">125</option>
+								<option value="nZpmE4Fr-CY=">124</option>
+								<option value="3D54FEXKeEk=">123</option>
+
+							</select>
+                                                <input name="ctl00$Body$TB_FechaEstadoParlamentarioDesde" type="text" value="16/10/2026" id="Body_TB_FechaEstadoParlamentarioDesde" class="form-control date-picker" placeholder="Desde" />
+                                                <input name="ctl00$Body$TB_FechaEstadoParlamentarioHasta" type="text" value="01/11/2026" id="Body_TB_FechaEstadoParlamentarioHasta" class="form-control date-picker" placeholder="Hasta" />
+                                                <div class="input-group-append">
+                                                    <a id="Body_LB_EliminaEstado" class="btn btn-outline-secondary text-danger" href="javascript:__doPostBack(&#39;ctl00$Body$LB_EliminaEstado&#39;,&#39;&#39;)">
+                                                <i class="fa fa-trash-o" aria-hidden="true"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        
+						</div>
+                                
+					</div>
+
+                                
+                                <div id="Body_P_FechaAprobacion" class="col-xl-6 col-lg-6 col-md-6 col-sm-12 form-group">
+						
+                                    <div id="Body_UP_FechaAprobacion">
+							
+                                            <span>Fecha de aprobación</span>
+                                            <div class="input-group">
+                                                <select name="ctl00$Body$DDL_PeriodoAprobacion" id="Body_DDL_PeriodoAprobacion" class="form-control select-single">
+								<option selected="selected" value="">Per&#237;odo</option>
+								<option value="zXbeKwXB5-s=">148</option>
+								<option value="QHBmzgtMdl0=">147</option>
+								<option value="gf38IAaP-1E=">146</option>
+								<option value="Jy6PKZOznAM=">145</option>
+								<option value="rhxtfSFoqEg=">144</option>
+								<option value="Kq-bM0mFHXo=">143</option>
+								<option value="SXXbCrdlN08=">142</option>
+								<option value="9y-vjYQWpDU=">141</option>
+								<option value="SN6UE-b_4-o=">140</option>
+								<option value="btHlXBmleY4=">139</option>
+								<option value="priE3DYWIek=">138</option>
+								<option value="o7wE1jQPimA=">137</option>
+								<option value="IISzCSxObi4=">136</option>
+								<option value="HyzvFJfkjgw=">135</option>
+								<option value="fATJVaLhlog=">134</option>
+								<option value="IzenJcKNxLY=">133</option>
+								<option value="57UrG-Xee54=">132</option>
+								<option value="KXHRUP9vva8=">131</option>
+								<option value="qizG_qnJH0w=">130</option>
+								<option value="ORzvofJ6yF4=">129</option>
+								<option value="5aTpKdkZ7Vc=">128</option>
+								<option value="6pHcN_GfMzI=">127</option>
+								<option value="4RVXc8Iwp_w=">126</option>
+								<option value="0ZRIEIuurWE=">125</option>
+								<option value="nZpmE4Fr-CY=">124</option>
+								<option value="3D54FEXKeEk=">123</option>
+
+							</select>
+                                                <input name="ctl00$Body$TB_FechaAprobacionDesde" type="text" id="Body_TB_FechaAprobacionDesde" class="form-control date-picker" placeholder="Desde" />
+                                                <input name="ctl00$Body$TB_FechaAprobacionHasta" type="text" id="Body_TB_FechaAprobacionHasta" class="form-control date-picker" placeholder="Hasta" />
+                                                <div class="input-group-append">
+                                                    <a id="Body_LB_EliminaFechaAprob" class="btn btn-outline-secondary text-danger" href="javascript:__doPostBack(&#39;ctl00$Body$LB_EliminaFechaAprob&#39;,&#39;&#39;)">
+                                                <i class="fa fa-trash-o" aria-hidden="true"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        
+						</div>
+                                
+					</div>
+                            </div>
+
+                            <div class="row">                                
+                                
+                                <div id="Body_P_TipoAprobacion" class="col-xl-10 col-lg-10 col-md-10 col-sm-12 form-group">
+						
+                                    <span id="Body_L_TipoAprobacion">Tipo de aprobación</span>
+                                    <div class="input-group">
+                                        <select size="4" name="ctl00$Body$LB_TipoAprobacion" multiple="multiple" id="Body_LB_TipoAprobacion" class="form-control select-multiple">
+							<option value="JrWeZYzTiG8=">Texto Aprobado-Ley</option>
+							<option value="7fiRyVaVZFQ=">Texto Aprobado-Resoluci&#243;n</option>
+							<option value="E3_sDBF3_ec=">Texto Aprobado-Declaraci&#243;n</option>
+							<option value="JNNsy1gVu-8=">Migraci&#243;n-Texto aprobado -Ley_*</option>
+							<option value="WnuvlgHXSNY=">Migraci&#243;n-Texto aprobado -Resoluci&#243;n_*</option>
+							<option value="AQL7pGfFENQ=">Migraci&#243;n-Texto aprobado -Declaraci&#243;n_*</option>
+							<option value="Hleew-X62sI=">Migraci&#243;n-Texto aprobado -Ley_*</option>
+
+						</select>
+                                        <div class="input-group-append">
+                                            <a id="Body_LB_TipoAprobacionCheckAll" title="Seleccionar todos los Estados" class="btn btn-outline-primary" href="javascript:__doPostBack(&#39;ctl00$Body$LB_TipoAprobacionCheckAll&#39;,&#39;&#39;)">
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+					</div>
+
+                                
+                                <div id="Body_P_Aprobacion" class="col-xl-2 col-lg-2 col-md-3 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Aprobacion">Nº aprobación</span>
+                                    <input name="ctl00$Body$TB_Aprobacion" type="text" id="Body_TB_Aprobacion" class="form-control numeric-only-5" placeholder="Nº de aprobación" />
+                                
+					</div>
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 form-group">
+						
+                                    <div class="row">
+                                        <div class="col">
+                                            <input type="button" name="ctl00$Body$B_Reestablecer" value="Reestablecer" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_Reestablecer&#39;,&#39;&#39;)" id="Body_B_Reestablecer" class="btn btn-default" />
+                                        </div>
+                                        <div class="col text-right">
+                                            <input type="button" name="ctl00$Body$B_BusquedaAvanzada" value="Buscar" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_BusquedaAvanzada&#39;,&#39;&#39;)" id="Body_B_BusquedaAvanzada" class="btn btn-primary" />
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+                        
+				</div>
+                    
+			</div>
+            
+		</div>
+
+            
+            <div id="Body_UP_Results">
+			
+
+                    <div class="row">
+                        <div class="col-12">
+                            <small>
+                                <span id="Body_L_Results" class="text-muted">27 resultados (0.425 segundos)</span>
+                            </small>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_0" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Expediente&#39;,&#39;&#39;)"><span>48474/D/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_0" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_0" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_0" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_0" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Declaración, iniciado por los Legisladores Ferrero, Szpanin, Nigro, Austin, Gvozdenovich, Nicolás, Saliba, Bría y Contrera, repudiando la condena de tres años de prisión de ejecución condicional impuesta al ex Legislador provincial Oscar González por la tragedia de las Altas Cumbres.
+
+ </span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_1" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Expediente&#39;,&#39;&#39;)"><span>48385/R/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_1" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_1" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_1" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_1" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los procedimientos de adjudicación, las condiciones de prestación, los controles de calidad y el régimen tarifario del servicio de agua potable en las localidades del Norte y Noroeste, abastecidas por el acueducto Santa Elena-San Francisco del Chañar.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_2" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Expediente&#39;,&#39;&#39;)"><span>48208/L/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_2" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_2" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_2" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_2" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Ley, iniciado por los Legisladores Grosso y los bloques de la UCR, el Frente Cívico de Córdoba, el Pro, Construyendo Córdoba, MST en el Fitu-Unidad, Partido Demócrata y Valores Republicanos, ordenando el cese del cobro de peaje en la Avda. Ejército Argentino de la ciudad de Córdoba en el límite con la ciudad de La Calera, Dpto. Colón.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_3" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Expediente&#39;,&#39;&#39;)"><span>48502/R/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_3" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_3" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_3" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_3" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la implementación de la Ley Nº 10986, modificatoria de la Ley Nº 10793, de Juego en Línea.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_4" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Expediente&#39;,&#39;&#39;)"><span>48344/R/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_4" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_4" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_4" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_4" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a agresiones al personal de salud y seguridad en hospitales provinciales. </span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_5" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Expediente&#39;,&#39;&#39;)"><span>39449/R/24</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_5" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_5" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_5" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_5" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Resolución, iniciado por los Legisladores Nigro, Gvozdenovich, Bottasso, Bria, Contrera, Ferrero, Gudiño, Jaimes, Molina, Nicolás, Szpanin, Martoccia, Gloria Pereyra y Rossi, solicitando al Poder Ejecutivo informe (Art. 102 C.P.), sobre diversos aspectos relacionados con la intervención de la DGR con la deuda que tienen las obras sociales sindicales por la atención de sus afiliados en los hospitales provinciales. </span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_6" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Expediente&#39;,&#39;&#39;)"><span>38712/L/24</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_6" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_6" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_6" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_6" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Ley, iniciado por los Legisladores Nigro, Gvozdenovich, Austin, Briner, Bisotto, Bría, Carignano, Contrera, Ferrero, Gudiño, Jaimes, Luna, Nicolás, Szpanin, Valiente, Sala, Gispert y Hernández Maqueda, creando una Unidad Judicial en la Cuarta Circunscripción Judicial, con asiento en la ciudad de Villa Nueva, Dpto. General San Martín.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_7" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Expediente&#39;,&#39;&#39;)"><span>48517/D/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_7" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_7" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_7" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_7" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Declaración, iniciado por los Legisladores Molina y el Bloque Unión Cívica Radical, expresando beneplácito por la elección del periodista Carlos Jornet, Director Periodístico del diario La Voz del Interior, como Presidente de la Sociedad Interamericana de Prensa.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_8" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Expediente&#39;,&#39;&#39;)"><span>48475/D/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_8" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_8" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_8" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_8" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Declaración, iniciado por los Legisladores Ferrero, Szpanin, Nigro, Austin, Gvozdenovich, Nicolás, Saliba, Bría y Contrera, repudiando el acuerdo de juicio abreviado celebrado en el marco de la denominada Megacausa Bomberos.
+ </span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_9" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Expediente&#39;,&#39;&#39;)"><span>40198/L/24</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_9" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_9" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_9" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_9" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Ley, iniciado por los Legisladores Nigro, Briner, Bottasso, Bría, Contrera, Ferrero, Jaimes, Luna, Molina, Nicolás y Szpanin, modificando al 1.75% la alícuota establecida por las leyes Nros. 10929 y 10928 (6006 T.O) para el Impuesto a los Ingresos Brutos para distintas actividades rurales.
+</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                    <div id="Body_P_Paginacion" class="row">
+				
+                        <div class="col-12">
+                            <nav>
+                                <ul class="pagination justify-content-center flex-wrap">
+
+                                    
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_0" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl00$LB_Pagina&#39;,&#39;&#39;)">1</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_1" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl01$LB_Pagina&#39;,&#39;&#39;)">2</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_2" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl02$LB_Pagina&#39;,&#39;&#39;)">3</a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+			</div>
+                
+		</div>
+        
+	</div>
+    
+</div>
+
+    
+    <div id="Body_UP_Dummy">
+
+</div>
+
+    <!-- Modal Expediente -->
+    <div id="mdlExpediente" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_ExpedienteNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlExpediente">
+	
+
+                            <span class="text-muted">Extracto</span>
+                            <br />
+                            <span id="Body_L_ExpedienteExtracto">...</span>
+
+                            <hr />
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveExpedienteHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedienteHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveExpedienteDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedienteDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveExpedientePDF" title="Descargar en formato PDF" class="pl-3 d-none" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedientePDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_ExpedienteAdjuntos">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal NubePalabras -->
+    <div id="mdlNubePalabras" class="modal fade">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_NubePalabrasNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="cloud"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Autores/Bloques -->
+    <div id="mdlAutores" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_AutoresNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlAutores">
+	
+
+                            <div>
+
+	</div>
+
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Comisiones -->
+    <div id="mdlComisiones" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_ComisionesNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlComisiones">
+	
+
+                            <div>
+
+	</div>
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Ruta -->
+    <div id="mdlRuta" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_RutaNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlRuta">
+	
+
+                            <div class="text-center">
+		
+                                <input type="button" name="ctl00$Body$B_VerOriginal" value="Ver texto original" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_VerOriginal&#39;,&#39;&#39;)" id="Body_B_VerOriginal" class="btn btn-link" />
+                            
+	</div>
+
+                            <div id="Body_P_RutaRuta" class="pl-5">
+		
+
+                                
+                            
+	</div>
+
+                            
+                            <p>
+                                <b>
+                                    <span>Anexos</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+                            <p>
+                                <b>
+                                    <span>Actas</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+
+                            <p>
+                                <b>
+                                    <span>Despachos</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+
+                            <p>
+                                <b>
+                                    <span>Texto aprobado</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+                             
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Actas -->
+    <div id="mdlActa" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_LB_ActaExpediente">Actas</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_Acta">
+	
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveActaHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveActaDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveActaPDF" title="Descargar en formato PDF" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaPDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_ActaAdjunto">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Despacho -->
+    <div id="mdlDespacho" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_DespachoNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlDespacho">
+	
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveDespachoHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveDespachoDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveDespachoPDF" title="Descargar en formato PDF" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoPDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_DespachoAdjuntos">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            </header>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+$('#Body_TB_Buscar').select();
+$('#Body_R_Paginas_LB_Pagina_0').parent().addClass('active')
+//]]>
+</script>
+</form>
+    </div>
+</body>
+</html>

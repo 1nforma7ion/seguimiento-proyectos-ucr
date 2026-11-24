@@ -8,9 +8,9 @@ from .util import normalizar
 @dataclass
 class Legislador:
     slug: str
+    id_portal: int
     nombre_portal: str
     nombre_mostrar: str
-    busqueda: list[str]
     departamental: bool = False
     alias: list[str] = field(default_factory=list)
 

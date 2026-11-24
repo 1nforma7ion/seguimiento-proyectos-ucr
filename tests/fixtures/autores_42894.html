@@ -1,0 +1,989 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head><meta charset="UTF-8" /><meta name="description" content="Medio de ingreso para los proyectos, notas, comunicaciones oficiales y pliegos a la Mesa de Entrada de Secretaría Legislativa de la Unicameral" /><meta name="keyword" content="Gestión,Legislativa,Digital,Legislatura,Provincia,Córdoba" /><meta name="author" content="Legislatura de la Provincia de Córdoba" /><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Gestión Legislativa Digital
+</title><link rel="shortcut icon" href="../Images/favicon.ico" type="image/x-icon" />
+
+    
+    
+    <link rel="stylesheet" href="../Vendors/Bootstrap/bootstrap.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Vendors/Icons/font-awesome.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Vendors/Pace/pace.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/SweetAlert2/sweetalert2.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/ChecksRadios/checks-radios.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Select2/select2.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/DatePicker/datepicker.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/TimePicker/timepicker.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/DataTables/datatables.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Switchery/switchery.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Content/Public.css?1.37.1">
+    
+    <style>
+    </style>
+
+    
+    
+    <script src="../Vendors/Pace/pace.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/jQuery/jquery.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Bootstrap/bootstrap.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/SweetAlert2/sweetalert2.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/AutoNumeric/autonumeric.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Select2/select2.min.js?1.37.1"></script>
+    <script src="../Vendors/Select2/es.js?1.37.1"></script>
+    
+    <script src="../Vendors/DatePicker/datepicker.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/TimePicker/timepicker.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/DataTables/datatables.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/buttons.html5.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/buttons.print.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/datatables.buttons.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/jszip.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Switchery/switchery.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Mask/mask.min.js?1.37.1"></script>
+    
+    <script src="../Scripts/App.js?1.37.1"></script>
+    
+    <script>
+
+        var regionalSettings = {
+            DateFormat: "dd/MM/yyyy",
+            FirstWeekDay: 0,
+            MoneyDecimalDigits: 2,
+            MoneyDecimalSymbol: ",",
+            MoneyFillDecimalsWithZeros: true,
+            MoneyGroupSeparator: ".",
+            MoneyLeadZeros: false,
+            MoneySymbol: "AR$",
+            MoneySymbolPosition: "p",
+            NumericDecimalDigits: 2,
+            NumericDecimalSymbol: ",",
+            NumericFillDecimalsWithZeros: true,
+            NumericGroupSeparator: ".",
+            NumericLeadZeros: false,
+            ServerOffSet: 0,
+            TimeFormat: 24,
+            TimeZoneOffSet: -180
+        };
+
+        $(document).ready(function () {
+
+            // Evento de actualizacion de un UpdatePanel
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_endRequest(function () {
+
+                SetRegionalSettings(regionalSettings);
+
+            });
+
+            SetRegionalSettings(regionalSettings);
+        });
+    </script>
+
+    
+
+    
+    
+    <link rel="stylesheet" href="../Vendors/jQCloud/jqcloud.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Timeline/timeline.css?1.37.1">
+    
+    <style>
+        a {
+            color: #54778c;
+        }
+
+            a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+        .result-number {
+            font-size: 20px;
+            line-height: 1.3;
+        }
+
+        .modal-lg {
+            max-width: 90% !important;
+        }
+
+        #mdlNubePalabras > div > div > div.modal-body {
+            margin: 0 auto;
+        }
+
+        .bullet {
+            background-color: white;
+            font-size: 14px;
+            font-weight: bold;
+            color: black;
+            border-radius: 20px;
+            width: 30px;
+            height: 30px;
+            margin: 5px;
+            line-height: 30px;
+            opacity: 0.9;
+        }
+
+        th, td {
+            border: none !important;
+        }
+
+        .input-group-append {
+            height: 38px;
+        }
+
+        .input-group-text {
+            border-radius: 0px;
+            background-color: white;
+        }
+
+        #mdlWordCloud > div > div > div.modal-body {
+            margin: 0 auto;
+        }
+
+        #Body_TB_FechaEstadoParlamentarioDesde {
+            border-left: none;
+        }
+
+        #Body_UP_FechaEstadoParlamentario > div > span {
+            width: 100px !important;
+        }
+
+        #Body_TB_FechaAprobacionDesde {
+            border-left: none;
+        }
+
+        #Body_UP_FechaAprobacion > div > span {
+            width: 100px !important;
+        }
+
+        #Body_P_Texto > div > div > div > span {
+            margin-top: 7px;
+        }
+
+        div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 75px) !important;
+        }
+
+        /* Checks All - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+        #Body_P_Camara > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_CamaraCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Origen > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_OrigenCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_TipoExpediente > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_TipoExpedienteCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_ClaseExpediente > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_ClaseExpedienteCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Bloque > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_BloqueCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Comision > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_ComisionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Estado > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_EstadoCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_UP_Situacion > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_SituacionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Ruta > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_RutaCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_TipoAprobacion > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_TipoAprobacionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+        /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Checks All */
+
+        #Body_LB_EliminaEstado {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_LB_EliminaFechaAprob {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+    </style>
+
+    
+    
+    <script src="../Vendors/jQCloud/jqcloud.min.js?1.37.1"></script>
+    
+    <script src="../Scripts/WordCloud.js"></script>
+    
+    <script>
+
+        var wc = "";
+        $(document).ready(function () {
+
+            // Evento mdlNubePalabras Shown
+            $('#mdlNubePalabras').on('shown.bs.modal', function (e) {
+                WordCloud(wc);
+            });
+
+            $('.modal').on('hidden.bs.modal', function () {
+                if ($(".modal:visible").length > 0) {
+                    setTimeout(function () {
+                        $('body').addClass('modal-open');
+                    }, 200)
+                }
+            });
+
+            // Comportamiento del Enter
+            $(document).on('keypress', function (e) {
+                if (e.which == 13) {
+                    if ($("#Body_B_BusquedaSimple").is(":visible")) {
+                        $("#Body_B_BusquedaSimple").trigger("click");
+                    } else {
+                        $("#Body_B_BusquedaAvanzada").trigger("click");
+                    }
+                }
+            });
+        });
+        
+
+        function pageLoad() {
+
+            $("#Body_TB_FechaEstadoParlamentarioDesde, #Body_TB_FechaEstadoParlamentarioHasta, #Body_TB_FechaAprobacionDesde, #Body_TB_FechaAprobacionHasta").on('click', function () {
+                setTimeout(function () {
+                    var top = $(".datepicker").css("top").replace("px", "");
+                    top = Number(top) + 90;
+                    $(".datepicker").css("top", top + "px");
+                }, 10);
+            });
+        }
+
+        function ShowExpediente(numero) {
+            $("#Body_L_ExpedienteNumero").html(numero);
+            $("#mdlExpediente").modal("show");
+        }
+
+        function ShowAutores(numero, texto) {
+            $("#Body_L_AutoresNumero").html(numero);
+            $("#mdlAutores").modal("show");
+        }
+
+        function ShowComisiones(numero, texto) {
+            $("#Body_L_ComisionesNumero").html(numero);
+            $("#mdlComisiones").modal("show");
+        }
+
+        function ShowNubePalabras(numero, texto) {
+            wc = texto;
+            $("#Body_L_NubePalabrasNumero").html(numero);
+            $("#mdlNubePalabras").modal("show");
+        }
+
+        function ShowRuta(numero) {
+            $("#Body_L_RutaNumero").html(numero);
+            $("#mdlRuta").modal("show");
+        }
+
+        function ShowDespacho(numero) {
+            $("#Body_L_DespachoNumero").html(numero);
+            $("#mdlDespacho").modal("show");
+        }
+    </script>
+</head>
+<body>
+
+    
+    <img id="img-logo-legislatura" class="d-none d-sm-block" src="../Images/Landing/logo-legislatura.svg" alt="Legislatura de la Provincia de Córdoba">
+    
+
+    <nav id="nav-bar" class="navbar sticky-top">
+
+        <a id="HL_Tiron" class="btn btn-info mr-4" href="http://datos.legiscba.gob.ar/gestion-legislativa/">
+            Datos anteriores a
+            <b>
+            2021
+            </b>
+        </a>
+
+        <a class="btn btn-outline-dark" href="../Landing.aspx"><span>Inicio</span></a>
+    </nav>
+
+    <div class="container">
+        <form name="aspnetForm" method="post" action="./Buscar.aspx?q=42894%2fN%2f25" id="ctl02" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQo-vpnT46NPvTyiKFJYw1yVtwTEVKOnt14LRtCU1sVU9_L0YWRSNIreQCiX1J8LfqYqRiA7b33DQOPoIP8ZDY9s_RVtY1wDV-tyX6EIT2y-f6hfsEIyASZijZOMTgH3AEvu511EjTOL9Lslr9Nt93GE1&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="283C23DE" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2LjSmJ+EX40rj4jCHVFrGkMkTzDIckrN6T7sds7OCLeiCqPrhNn9UXOpEqvqfW0xvHPZWVGRHoMfI263IQEWzxFrV9mQEAVL34MnzY55sygBmQrAOi3U3o0NhfkECyoDTOcnYXXzOryuoO5pqPG4xCQ7rvRfXpozbnqaHH76N79gXjW9QH/O3dKaN1jnxNBF84BSvx+loZnsSDx19AunOg2fxrui+/CY1zrABWOPh4vEl+ie4i91lfgmbEurshhezekFFHSnvX4cjPRp1sr7N22sRyvdzZina2sEld/wcSIrlW6Ff19lrgmpNdVFBqj5pVzDK8Of3MK7OvLnnFtJzb+24IF6ZunW8uDSR5/f0H8kjWOsmAQ9dqzttw6vQx5nb5daH4beXE8SCTYz417tzbFKZSkLtMunKtJM2JG/cXomMg4Sv256eNitwQm9WYOKKH3CbThA37rxlgNVftwP3qcpOkgWPwz5jmPn1ER6qjxHiB+G6UGj7MZmUb6o7xjd" />
+            
+
+            <header>
+                
+
+    <div id="Body_P_Form" class="form">
+	
+
+        <div id="Body_P_Form_Header" class="form-header">
+		
+            <div class="row">
+                <div class="col-12">
+                    <strong>
+                        <span id="Body_L_Title"></span>
+                    </strong>
+                </div>
+            </div>
+        
+	</div>
+
+        <div id="Body_P_Form_Body" class="form-body">
+		
+
+            
+            <div id="Body_P_Filters">
+			
+
+                <div id="Body_UP_Filters">
+				
+
+                        <div id="Body_P_BusquedaSimple">
+					
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Buscar" class="col-xl-12 col-lg-12 col-md-12 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Buscar">Buscar expediente</span>
+                                    <div class="input-group">
+                                        <input name="ctl00$Body$TB_Buscar" type="text" id="Body_TB_Buscar" class="form-control text-plain" placeholder="Ingrese el texto a buscar" />
+                                        <div class="input-group-append">
+                                            <input type="button" name="ctl00$Body$B_Avanzada" value="Búsqueda avanzada" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_Avanzada&#39;,&#39;&#39;)" id="Body_B_Avanzada" class="btn btn-outline-primary" />
+                                            <input type="button" name="ctl00$Body$B_BusquedaSimple" value="Buscar" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_BusquedaSimple&#39;,&#39;&#39;)" id="Body_B_BusquedaSimple" class="btn btn-primary" />
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+                        
+				</div>
+
+                        
+                    
+			</div>
+            
+		</div>
+
+            
+            <div id="Body_UP_Results">
+			
+
+                    <div class="row">
+                        <div class="col-12">
+                            <small>
+                                <span id="Body_L_Results" class="text-muted">1 resultado (0.131 segundos)</span>
+                            </small>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_0" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Expediente&#39;,&#39;&#39;)"><span>42894/N/25</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_0" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_NubePalabras&#39;,&#39;&#39;)"></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_0" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Autores&#39;,&#39;&#39;)"></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_0" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Comisiones&#39;,&#39;&#39;)"></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_0" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Ruta&#39;,&#39;&#39;)"></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Nota de los Legisladores Ferrero, Tamis, Botta, Sala, Agrelo, Hernández Maqueda, Nostrala, Gvozdenovich, Saliba, Contrera, Szpanin, Bría, Bottasso, Nicolás, Nigro y Luna, solicitando se incluyan en la Sesión Especial citada para el 10 de junio expedientes referidos a necesidades y requerimientos educativos provinciales y, en caso de ser denegada, se convoque a Sesión Especial para el día 12 de junio.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                    <div id="Body_P_Paginacion" class="row">
+				
+                        <div class="col-12">
+                            <nav>
+                                <ul class="pagination justify-content-center flex-wrap">
+
+                                    
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_0" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl00$LB_Pagina&#39;,&#39;&#39;)">1</a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+			</div>
+                
+		</div>
+        
+	</div>
+    
+</div>
+
+    
+    <div id="Body_UP_Dummy">
+
+</div>
+
+    <!-- Modal Expediente -->
+    <div id="mdlExpediente" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_ExpedienteNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlExpediente">
+	
+
+                            <span class="text-muted">Extracto</span>
+                            <br />
+                            <span id="Body_L_ExpedienteExtracto">...</span>
+
+                            <hr />
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveExpedienteHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedienteHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveExpedienteDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedienteDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveExpedientePDF" title="Descargar en formato PDF" class="pl-3 d-none" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedientePDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_ExpedienteAdjuntos">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal NubePalabras -->
+    <div id="mdlNubePalabras" class="modal fade">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_NubePalabrasNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="cloud"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Autores/Bloques -->
+    <div id="mdlAutores" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_AutoresNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlAutores">
+	
+
+                            <div>
+		<table class="data-table crypto-id show-buttons" cellspacing="0" rules="all" data-Order="2-asc" Border="0" border="1" id="Body_GV_Autores" width="100%">
+			<tr>
+				<th scope="col">&nbsp;</th><th class="crypto-id-column" scope="col">#</th><th scope="col">Nombre</th>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Ferrero, Alejandra</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Tamis, Oscar Humberto</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Botta, Patricia Isabel</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Sala, Ignacio Antonio</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Agrelo, Rodrigo Maria</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Hernandez Maqueda, Gregorio</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Nostrala, Walter Norberto</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Gvozdenovich, Matias Pablo</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Saliba, Oscar Elias Mario</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Contrera, Ines Mercedes</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Szpanin, Ariela Yanina</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Bria, Jose Alberto</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Bottasso, Gustavo Armando</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Nicolas, Miguel Osvaldo</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Nigro, Alfredo Mariano</td>
+			</tr><tr>
+				<td></td><td class="crypto-id-column">&nbsp;</td><td>Luna, Fernando Javier</td>
+			</tr>
+		</table>
+	</div>
+
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Comisiones -->
+    <div id="mdlComisiones" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_ComisionesNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlComisiones">
+	
+
+                            <div>
+
+	</div>
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Ruta -->
+    <div id="mdlRuta" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_RutaNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlRuta">
+	
+
+                            <div class="text-center">
+		
+                                <input type="button" name="ctl00$Body$B_VerOriginal" value="Ver texto original" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_VerOriginal&#39;,&#39;&#39;)" id="Body_B_VerOriginal" class="btn btn-link" />
+                            
+	</div>
+
+                            <div id="Body_P_RutaRuta" class="pl-5">
+		
+
+                                
+                            
+	</div>
+
+                            
+                            <p>
+                                <b>
+                                    <span>Anexos</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+                            <p>
+                                <b>
+                                    <span>Actas</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+
+                            <p>
+                                <b>
+                                    <span>Despachos</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+
+                            <p>
+                                <b>
+                                    <span>Texto aprobado</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+                             
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Actas -->
+    <div id="mdlActa" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_LB_ActaExpediente">Actas</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_Acta">
+	
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveActaHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveActaDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveActaPDF" title="Descargar en formato PDF" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaPDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_ActaAdjunto">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Despacho -->
+    <div id="mdlDespacho" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_DespachoNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlDespacho">
+	
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveDespachoHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveDespachoDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveDespachoPDF" title="Descargar en formato PDF" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoPDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_DespachoAdjuntos">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            </header>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+ShowAutores('42894/N/25');
+//]]>
+</script>
+</form>
+    </div>
+</body>
+</html>

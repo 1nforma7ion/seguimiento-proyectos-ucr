@@ -1,0 +1,1583 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head><meta charset="UTF-8" /><meta name="description" content="Medio de ingreso para los proyectos, notas, comunicaciones oficiales y pliegos a la Mesa de Entrada de Secretaría Legislativa de la Unicameral" /><meta name="keyword" content="Gestión,Legislativa,Digital,Legislatura,Provincia,Córdoba" /><meta name="author" content="Legislatura de la Provincia de Córdoba" /><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Gestión Legislativa Digital
+</title><link rel="shortcut icon" href="../Images/favicon.ico" type="image/x-icon" />
+
+    
+    
+    <link rel="stylesheet" href="../Vendors/Bootstrap/bootstrap.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Vendors/Icons/font-awesome.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Vendors/Pace/pace.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/SweetAlert2/sweetalert2.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/ChecksRadios/checks-radios.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Select2/select2.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/DatePicker/datepicker.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/TimePicker/timepicker.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/DataTables/datatables.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Switchery/switchery.min.css?1.37.1" />
+    
+    <link rel="stylesheet" href="../Content/Public.css?1.37.1">
+    
+    <style>
+    </style>
+
+    
+    
+    <script src="../Vendors/Pace/pace.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/jQuery/jquery.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Bootstrap/bootstrap.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/SweetAlert2/sweetalert2.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/AutoNumeric/autonumeric.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Select2/select2.min.js?1.37.1"></script>
+    <script src="../Vendors/Select2/es.js?1.37.1"></script>
+    
+    <script src="../Vendors/DatePicker/datepicker.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/TimePicker/timepicker.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/DataTables/datatables.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/buttons.html5.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/buttons.print.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/datatables.buttons.min.js?1.37.1"></script>
+    <script src="../Vendors/DataTables/plugins/jszip.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Switchery/switchery.min.js?1.37.1"></script>
+    
+    <script src="../Vendors/Mask/mask.min.js?1.37.1"></script>
+    
+    <script src="../Scripts/App.js?1.37.1"></script>
+    
+    <script>
+
+        var regionalSettings = {
+            DateFormat: "dd/MM/yyyy",
+            FirstWeekDay: 0,
+            MoneyDecimalDigits: 2,
+            MoneyDecimalSymbol: ",",
+            MoneyFillDecimalsWithZeros: true,
+            MoneyGroupSeparator: ".",
+            MoneyLeadZeros: false,
+            MoneySymbol: "AR$",
+            MoneySymbolPosition: "p",
+            NumericDecimalDigits: 2,
+            NumericDecimalSymbol: ",",
+            NumericFillDecimalsWithZeros: true,
+            NumericGroupSeparator: ".",
+            NumericLeadZeros: false,
+            ServerOffSet: 0,
+            TimeFormat: 24,
+            TimeZoneOffSet: -180
+        };
+
+        $(document).ready(function () {
+
+            // Evento de actualizacion de un UpdatePanel
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_endRequest(function () {
+
+                SetRegionalSettings(regionalSettings);
+
+            });
+
+            SetRegionalSettings(regionalSettings);
+        });
+    </script>
+
+    
+
+    
+    
+    <link rel="stylesheet" href="../Vendors/jQCloud/jqcloud.min.css?1.37.1">
+    
+    <link rel="stylesheet" href="../Vendors/Timeline/timeline.css?1.37.1">
+    
+    <style>
+        a {
+            color: #54778c;
+        }
+
+            a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+        .result-number {
+            font-size: 20px;
+            line-height: 1.3;
+        }
+
+        .modal-lg {
+            max-width: 90% !important;
+        }
+
+        #mdlNubePalabras > div > div > div.modal-body {
+            margin: 0 auto;
+        }
+
+        .bullet {
+            background-color: white;
+            font-size: 14px;
+            font-weight: bold;
+            color: black;
+            border-radius: 20px;
+            width: 30px;
+            height: 30px;
+            margin: 5px;
+            line-height: 30px;
+            opacity: 0.9;
+        }
+
+        th, td {
+            border: none !important;
+        }
+
+        .input-group-append {
+            height: 38px;
+        }
+
+        .input-group-text {
+            border-radius: 0px;
+            background-color: white;
+        }
+
+        #mdlWordCloud > div > div > div.modal-body {
+            margin: 0 auto;
+        }
+
+        #Body_TB_FechaEstadoParlamentarioDesde {
+            border-left: none;
+        }
+
+        #Body_UP_FechaEstadoParlamentario > div > span {
+            width: 100px !important;
+        }
+
+        #Body_TB_FechaAprobacionDesde {
+            border-left: none;
+        }
+
+        #Body_UP_FechaAprobacion > div > span {
+            width: 100px !important;
+        }
+
+        #Body_P_Texto > div > div > div > span {
+            margin-top: 7px;
+        }
+
+        div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 75px) !important;
+        }
+
+        /* Checks All - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+        #Body_P_Camara > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_CamaraCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Origen > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_OrigenCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_TipoExpediente > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_TipoExpedienteCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_ClaseExpediente > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_ClaseExpedienteCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Bloque > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_BloqueCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Comision > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_ComisionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Estado > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_EstadoCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_UP_Situacion > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_SituacionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_Ruta > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_RutaCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_P_TipoAprobacion > div.input-group > span.select2.select2-container.select2-container {
+            width: calc(100% - 41px) !important;
+        }
+
+        #Body_LB_TipoAprobacionCheckAll {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+        /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Checks All */
+
+        #Body_LB_EliminaEstado {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+
+        #Body_LB_EliminaFechaAprob {
+            border-left: none;
+            border: 1px solid #ced4da;
+        }
+    </style>
+
+    
+    
+    <script src="../Vendors/jQCloud/jqcloud.min.js?1.37.1"></script>
+    
+    <script src="../Scripts/WordCloud.js"></script>
+    
+    <script>
+
+        var wc = "";
+        $(document).ready(function () {
+
+            // Evento mdlNubePalabras Shown
+            $('#mdlNubePalabras').on('shown.bs.modal', function (e) {
+                WordCloud(wc);
+            });
+
+            $('.modal').on('hidden.bs.modal', function () {
+                if ($(".modal:visible").length > 0) {
+                    setTimeout(function () {
+                        $('body').addClass('modal-open');
+                    }, 200)
+                }
+            });
+
+            // Comportamiento del Enter
+            $(document).on('keypress', function (e) {
+                if (e.which == 13) {
+                    if ($("#Body_B_BusquedaSimple").is(":visible")) {
+                        $("#Body_B_BusquedaSimple").trigger("click");
+                    } else {
+                        $("#Body_B_BusquedaAvanzada").trigger("click");
+                    }
+                }
+            });
+        });
+        
+
+        function pageLoad() {
+
+            $("#Body_TB_FechaEstadoParlamentarioDesde, #Body_TB_FechaEstadoParlamentarioHasta, #Body_TB_FechaAprobacionDesde, #Body_TB_FechaAprobacionHasta").on('click', function () {
+                setTimeout(function () {
+                    var top = $(".datepicker").css("top").replace("px", "");
+                    top = Number(top) + 90;
+                    $(".datepicker").css("top", top + "px");
+                }, 10);
+            });
+        }
+
+        function ShowExpediente(numero) {
+            $("#Body_L_ExpedienteNumero").html(numero);
+            $("#mdlExpediente").modal("show");
+        }
+
+        function ShowAutores(numero, texto) {
+            $("#Body_L_AutoresNumero").html(numero);
+            $("#mdlAutores").modal("show");
+        }
+
+        function ShowComisiones(numero, texto) {
+            $("#Body_L_ComisionesNumero").html(numero);
+            $("#mdlComisiones").modal("show");
+        }
+
+        function ShowNubePalabras(numero, texto) {
+            wc = texto;
+            $("#Body_L_NubePalabrasNumero").html(numero);
+            $("#mdlNubePalabras").modal("show");
+        }
+
+        function ShowRuta(numero) {
+            $("#Body_L_RutaNumero").html(numero);
+            $("#mdlRuta").modal("show");
+        }
+
+        function ShowDespacho(numero) {
+            $("#Body_L_DespachoNumero").html(numero);
+            $("#mdlDespacho").modal("show");
+        }
+    </script>
+</head>
+<body>
+
+    
+    <img id="img-logo-legislatura" class="d-none d-sm-block" src="../Images/Landing/logo-legislatura.svg" alt="Legislatura de la Provincia de Córdoba">
+    
+
+    <nav id="nav-bar" class="navbar sticky-top">
+
+        <a id="HL_Tiron" class="btn btn-info mr-4" href="http://datos.legiscba.gob.ar/gestion-legislativa/">
+            Datos anteriores a
+            <b>
+            2021
+            </b>
+        </a>
+
+        <a class="btn btn-outline-dark" href="../Landing.aspx"><span>Inicio</span></a>
+    </nav>
+
+    <div class="container">
+        <form name="aspnetForm" method="post" action="./Buscar.aspx?q=Ferrero" id="ctl02" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQo-vpnT46NPvTyiKFJYw1yVtwTEVKOnt14LRtCU1sVU9_L0YWRSNIreQCiX1J8LfqYqRiA7b33DQOPoIP8ZDY9s_RVtY1wDV-tyX6EIT2y-f6hfsEIyASZijZOMTgH3AEvu511EjTOL9Lslr9Nt93GE1&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="283C23DE" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+            
+
+            <header>
+                
+
+    <div id="Body_P_Form" class="form">
+	
+
+        <div id="Body_P_Form_Header" class="form-header">
+		
+            <div class="row">
+                <div class="col-12">
+                    <strong>
+                        <span id="Body_L_Title"></span>
+                    </strong>
+                </div>
+            </div>
+        
+	</div>
+
+        <div id="Body_P_Form_Body" class="form-body">
+		
+
+            
+            <div id="Body_P_Filters">
+			
+
+                <div id="Body_UP_Filters">
+				
+
+                        <div id="Body_P_BusquedaSimple">
+					
+
+                            <div class="row">
+
+                                
+                                <div id="Body_P_Buscar" class="col-xl-12 col-lg-12 col-md-12 col-sm-12 form-group">
+						
+                                    <span id="Body_L_Buscar">Buscar expediente</span>
+                                    <div class="input-group">
+                                        <input name="ctl00$Body$TB_Buscar" type="text" value="Ferrero" id="Body_TB_Buscar" class="form-control text-plain" placeholder="Ingrese el texto a buscar" />
+                                        <div class="input-group-append">
+                                            <input type="button" name="ctl00$Body$B_Avanzada" value="Búsqueda avanzada" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_Avanzada&#39;,&#39;&#39;)" id="Body_B_Avanzada" class="btn btn-outline-primary" />
+                                            <input type="button" name="ctl00$Body$B_BusquedaSimple" value="Buscar" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_BusquedaSimple&#39;,&#39;&#39;)" id="Body_B_BusquedaSimple" class="btn btn-primary" />
+                                        </div>
+                                    </div>
+                                
+					</div>
+                            </div>
+                        
+				</div>
+
+                        
+                    
+			</div>
+            
+		</div>
+
+            
+            <div id="Body_UP_Results">
+			
+
+                    <div class="row">
+                        <div class="col-12">
+                            <small>
+                                <span id="Body_L_Results" class="text-muted">717 resultados (0.119 segundos)</span>
+                            </small>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_0" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Expediente&#39;,&#39;&#39;)"><span>41250/C/24</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_0" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_0" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_0" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_0" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl00$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Cuestión de Privilegio planteada por la Legisladora Ferrero contra el Legislador Torres Lima.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_1" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Expediente&#39;,&#39;&#39;)"><span>42164/C/25</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_1" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_1" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_1" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_1" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl01$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Cuestión de Privilegio, planteada por la Legisladora Ferrero.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_2" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Expediente&#39;,&#39;&#39;)"><span>47887/R/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_2" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_2" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_2" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_2" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl02$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Resolución, iniciado por el Legislador Limia, solicitando a la Legisladora Alejandra Ferrero el apartamiento de la actividad parlamentaria hasta que sean esclarecidas las circunstancias institucionales vinculadas con el agente Omar Manuel Ludueña. </span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_3" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Expediente&#39;,&#39;&#39;)"><span>42894/N/25</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_3" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_3" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_3" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_3" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl03$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Nota de los Legisladores Ferrero, Tamis, Botta, Sala, Agrelo, Hernández Maqueda, Nostrala, Gvozdenovich, Saliba, Contrera, Szpanin, Bría, Bottasso, Nicolás, Nigro y Luna, solicitando se incluyan en la Sesión Especial citada para el 10 de junio expedientes referidos a necesidades y requerimientos educativos provinciales y, en caso de ser denegada, se convoque a Sesión Especial para el día 12 de junio.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_4" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Expediente&#39;,&#39;&#39;)"><span>40233/D/24</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_4" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_4" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_4" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_4" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl04$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 114º aniversario y a las fiestas patronales de la localidad de Sacanta, Dpto. San Justo, a celebrarse el día 29 de septiembre en honor a San Miguel Arcángel.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_5" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Expediente&#39;,&#39;&#39;)"><span>28243/D/19</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_5" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_5" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_5" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_5" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl05$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">EXPRESANDO BENEPLÁCITO POR LA CELEBRACIÓN, EL DÍA 9 DE JUNIO, DE LAS FIESTAS PATRONALES DE COLONIA LAS CUATRO ESQUINAS, DPTO. RÍO PRIMERO.
+
+</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_6" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Expediente&#39;,&#39;&#39;)"><span>26380/D/18</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_6" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_6" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_6" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_6" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl06$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">ADHIRIENDO AL 91º ANIVERSARIO DE FUNDACIÓN DE COLONIA LAS CUATRO ESQUINAS, A CELEBRARSE EL DÍA 8 DE OCTUBRE. 
+
+</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_7" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Expediente&#39;,&#39;&#39;)"><span>47753/R/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_7" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_7" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_7" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_7" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl07$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Proyecto de Resolución, iniciado por el Bloque Hacemos Unidos por Córdoba, solicitando a la Presidencia del cuerpo Legislativo informe sobre diversos aspectos referidos a la contratación del Sr. Omar Manuel Ludueña.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_8" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Expediente&#39;,&#39;&#39;)"><span>48605/C/26</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_8" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_8" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_8" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_8" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl08$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Cuestión de Privilegio, planteada por la Legisladora Suárez, en contra del Legislador Hernández Maqueda.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                            <div class="row">
+                                <div class="col-12 mb-3">
+                                    <div>
+
+                                        
+                                        <a id="Body_R_Results_LB_Expediente_9" title="Ver Expediente" class="result-number" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Expediente&#39;,&#39;&#39;)"><span>41242/N/24</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_NubePalabras_9" title="Nube de Palabras" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_NubePalabras&#39;,&#39;&#39;)">
+                                            <i class="fa fa-cloud" aria-hidden="true"></i>
+                                            <span class="pl-1">Nube de palabras</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Autores_9" title="Autores" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Autores&#39;,&#39;&#39;)">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                            <span class="pl-1">Autores</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Comisiones_9" title="Comisiones" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Comisiones&#39;,&#39;&#39;)">
+                                            <i class="fa fa-list" aria-hidden="true"></i>
+                                            <span class="pl-1">Comisiones</span></a>
+
+                                        
+                                        <a id="Body_R_Results_LB_Ruta_9" title="Ruta del Expediente" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$R_Results$ctl09$LB_Ruta&#39;,&#39;&#39;)">
+                                            <i class="fa fa-road" aria-hidden="true"></i>
+                                            <span class="pl-1">Ruta</span></a>
+                                    </div>
+
+                                    <p>
+                                        <small>
+                                            <span class="text-muted">Nota remitida por el Legislador Gvozdenovich, informando que en el día de la fecha no asistirá a la reunión de Labor Parlamentaria, por lo que en representación de su Bloque participará la Legisladora Ferrero.</span>
+                                        </small>
+                                    </p>
+                                </div>
+                            </div>
+                        
+
+                    <div id="Body_P_Paginacion" class="row">
+				
+                        <div class="col-12">
+                            <nav>
+                                <ul class="pagination justify-content-center flex-wrap">
+
+                                    
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_0" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl00$LB_Pagina&#39;,&#39;&#39;)">1</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_1" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl01$LB_Pagina&#39;,&#39;&#39;)">2</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_2" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl02$LB_Pagina&#39;,&#39;&#39;)">3</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_3" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl03$LB_Pagina&#39;,&#39;&#39;)">4</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_4" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl04$LB_Pagina&#39;,&#39;&#39;)">5</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_5" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl05$LB_Pagina&#39;,&#39;&#39;)">6</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_6" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl06$LB_Pagina&#39;,&#39;&#39;)">7</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_7" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl07$LB_Pagina&#39;,&#39;&#39;)">8</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_8" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl08$LB_Pagina&#39;,&#39;&#39;)">9</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_9" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl09$LB_Pagina&#39;,&#39;&#39;)">10</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_10" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl10$LB_Pagina&#39;,&#39;&#39;)">11</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_11" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl11$LB_Pagina&#39;,&#39;&#39;)">12</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_12" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl12$LB_Pagina&#39;,&#39;&#39;)">13</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_13" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl13$LB_Pagina&#39;,&#39;&#39;)">14</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_14" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl14$LB_Pagina&#39;,&#39;&#39;)">15</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_15" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl15$LB_Pagina&#39;,&#39;&#39;)">16</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_16" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl16$LB_Pagina&#39;,&#39;&#39;)">17</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_17" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl17$LB_Pagina&#39;,&#39;&#39;)">18</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_18" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl18$LB_Pagina&#39;,&#39;&#39;)">19</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_19" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl19$LB_Pagina&#39;,&#39;&#39;)">20</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_20" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl20$LB_Pagina&#39;,&#39;&#39;)">21</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_21" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl21$LB_Pagina&#39;,&#39;&#39;)">22</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_22" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl22$LB_Pagina&#39;,&#39;&#39;)">23</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_23" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl23$LB_Pagina&#39;,&#39;&#39;)">24</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_24" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl24$LB_Pagina&#39;,&#39;&#39;)">25</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_25" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl25$LB_Pagina&#39;,&#39;&#39;)">26</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_26" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl26$LB_Pagina&#39;,&#39;&#39;)">27</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_27" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl27$LB_Pagina&#39;,&#39;&#39;)">28</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_28" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl28$LB_Pagina&#39;,&#39;&#39;)">29</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_29" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl29$LB_Pagina&#39;,&#39;&#39;)">30</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_30" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl30$LB_Pagina&#39;,&#39;&#39;)">31</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_31" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl31$LB_Pagina&#39;,&#39;&#39;)">32</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_32" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl32$LB_Pagina&#39;,&#39;&#39;)">33</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_33" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl33$LB_Pagina&#39;,&#39;&#39;)">34</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_34" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl34$LB_Pagina&#39;,&#39;&#39;)">35</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_35" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl35$LB_Pagina&#39;,&#39;&#39;)">36</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_36" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl36$LB_Pagina&#39;,&#39;&#39;)">37</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_37" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl37$LB_Pagina&#39;,&#39;&#39;)">38</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_38" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl38$LB_Pagina&#39;,&#39;&#39;)">39</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_39" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl39$LB_Pagina&#39;,&#39;&#39;)">40</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_40" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl40$LB_Pagina&#39;,&#39;&#39;)">41</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_41" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl41$LB_Pagina&#39;,&#39;&#39;)">42</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_42" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl42$LB_Pagina&#39;,&#39;&#39;)">43</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_43" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl43$LB_Pagina&#39;,&#39;&#39;)">44</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_44" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl44$LB_Pagina&#39;,&#39;&#39;)">45</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_45" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl45$LB_Pagina&#39;,&#39;&#39;)">46</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_46" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl46$LB_Pagina&#39;,&#39;&#39;)">47</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_47" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl47$LB_Pagina&#39;,&#39;&#39;)">48</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_48" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl48$LB_Pagina&#39;,&#39;&#39;)">49</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_49" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl49$LB_Pagina&#39;,&#39;&#39;)">50</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_50" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl50$LB_Pagina&#39;,&#39;&#39;)">51</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_51" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl51$LB_Pagina&#39;,&#39;&#39;)">52</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_52" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl52$LB_Pagina&#39;,&#39;&#39;)">53</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_53" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl53$LB_Pagina&#39;,&#39;&#39;)">54</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_54" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl54$LB_Pagina&#39;,&#39;&#39;)">55</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_55" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl55$LB_Pagina&#39;,&#39;&#39;)">56</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_56" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl56$LB_Pagina&#39;,&#39;&#39;)">57</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_57" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl57$LB_Pagina&#39;,&#39;&#39;)">58</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_58" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl58$LB_Pagina&#39;,&#39;&#39;)">59</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_59" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl59$LB_Pagina&#39;,&#39;&#39;)">60</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_60" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl60$LB_Pagina&#39;,&#39;&#39;)">61</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_61" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl61$LB_Pagina&#39;,&#39;&#39;)">62</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_62" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl62$LB_Pagina&#39;,&#39;&#39;)">63</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_63" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl63$LB_Pagina&#39;,&#39;&#39;)">64</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_64" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl64$LB_Pagina&#39;,&#39;&#39;)">65</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_65" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl65$LB_Pagina&#39;,&#39;&#39;)">66</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_66" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl66$LB_Pagina&#39;,&#39;&#39;)">67</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_67" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl67$LB_Pagina&#39;,&#39;&#39;)">68</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_68" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl68$LB_Pagina&#39;,&#39;&#39;)">69</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_69" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl69$LB_Pagina&#39;,&#39;&#39;)">70</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_70" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl70$LB_Pagina&#39;,&#39;&#39;)">71</a>
+                                            </li>
+                                        
+                                            <li class="page-item">
+                                                <a id="Body_R_Paginas_LB_Pagina_71" class="page-link" href="javascript:__doPostBack(&#39;ctl00$Body$R_Paginas$ctl71$LB_Pagina&#39;,&#39;&#39;)">72</a>
+                                            </li>
+                                        
+                                </ul>
+                            </nav>
+                        </div>
+                    
+			</div>
+                
+		</div>
+        
+	</div>
+    
+</div>
+
+    
+    <div id="Body_UP_Dummy">
+
+</div>
+
+    <!-- Modal Expediente -->
+    <div id="mdlExpediente" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_ExpedienteNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlExpediente">
+	
+
+                            <span class="text-muted">Extracto</span>
+                            <br />
+                            <span id="Body_L_ExpedienteExtracto">...</span>
+
+                            <hr />
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveExpedienteHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedienteHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveExpedienteDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedienteDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveExpedientePDF" title="Descargar en formato PDF" class="pl-3 d-none" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveExpedientePDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_ExpedienteAdjuntos">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal NubePalabras -->
+    <div id="mdlNubePalabras" class="modal fade">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_NubePalabrasNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="cloud"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Autores/Bloques -->
+    <div id="mdlAutores" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_AutoresNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlAutores">
+	
+
+                            <div>
+
+	</div>
+
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Comisiones -->
+    <div id="mdlComisiones" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_ComisionesNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlComisiones">
+	
+
+                            <div>
+
+	</div>
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Ruta -->
+    <div id="mdlRuta" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_RutaNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlRuta">
+	
+
+                            <div class="text-center">
+		
+                                <input type="button" name="ctl00$Body$B_VerOriginal" value="Ver texto original" onclick="javascript:__doPostBack(&#39;ctl00$Body$B_VerOriginal&#39;,&#39;&#39;)" id="Body_B_VerOriginal" class="btn btn-link" />
+                            
+	</div>
+
+                            <div id="Body_P_RutaRuta" class="pl-5">
+		
+
+                                
+                            
+	</div>
+
+                            
+                            <p>
+                                <b>
+                                    <span>Anexos</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+                            <p>
+                                <b>
+                                    <span>Actas</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+
+                            <p>
+                                <b>
+                                    <span>Despachos</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+
+                            <hr />
+
+                            <p>
+                                <b>
+                                    <span>Texto aprobado</span>
+                                </b>
+                            </p>
+                            <div>
+
+	</div>
+                             
+                        
+</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Actas -->
+    <div id="mdlActa" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_LB_ActaExpediente">Actas</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_Acta">
+	
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveActaHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveActaDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveActaPDF" title="Descargar en formato PDF" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveActaPDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_ActaAdjunto">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Despacho -->
+    <div id="mdlDespacho" class="modal fade">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <span id="Body_L_DespachoNumero">00000/X/00</span>
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="Body_UP_mdlDespacho">
+	
+
+                            <div class="card-body">
+                                
+                            </div>
+                        
+</div>
+
+                    <hr />
+
+                    
+                    <div class="text-center">
+
+                        <p>
+                            <span>Descargar:</span>
+                        </p>
+
+                        <a id="Body_LB_SaveDespachoHTML" title="Descargar en formato HTML" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoHTML&#39;,&#39;&#39;)">
+                            <i class="fa fa-html5" aria-hidden="true"></i>
+                            <span class="ml-1">.HTML</span></a>
+
+                        <a id="Body_LB_SaveDespachoDOCX" title="Descargar en formato DOCX" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoDOCX&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-word-o" aria-hidden="true"></i>
+                            <span class="ml-1">.DOCX</span></a>
+
+                        <a id="Body_LB_SaveDespachoPDF" title="Descargar en formato PDF" class="pl-3" href="javascript:__doPostBack(&#39;ctl00$Body$LB_SaveDespachoPDF&#39;,&#39;&#39;)">
+                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                            <span class="ml-1">.PDF</span></a>
+                    </div>
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+
+                            <p>
+                                <b>
+                                    <span>Archivos adjuntos</span>
+                                </b>
+                            </p>
+
+                            <div id="Body_UP_DespachoAdjuntos">
+	
+
+                                    <div>
+
+	</div>
+                                
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">
+                        <span>Cerrar</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            </header>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+$('#Body_TB_Buscar').select();
+$('#Body_R_Paginas_LB_Pagina_0').parent().addClass('active')
+//]]>
+</script>
+</form>
+    </div>
+</body>
+</html>
