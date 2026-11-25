@@ -132,7 +132,7 @@ def _cortar(texto: str) -> str:
             or (re.search(r"(N[°º]|Nro\.?|N\.)\s*[\d./]+$|\d$", titulo) and re.match(r"(que|de|sobre|por)\b", partes[i], re.I))
             or (len(titulo) < 70 and _sigue_enumeracion(partes[i]))
             # "Sistema de Prevención, Detección Temprana y Gestión de…": un nombre propio con comas.
-            or (len(titulo) < 30 and partes[i][:1].isupper() and " y " in partes[i] and not partes[i].startswith("Dpto"))):
+            or (len(titulo) < 60 and partes[i][:1].isupper() and " y " in partes[i] and not partes[i].startswith("Dpto"))):
         titulo += ", " + partes[i]
         i += 1
     titulo = re.sub(r"\s+y\s+(toda|todo|cualquier)\s+otra?\b.*$", "", titulo, flags=re.I)

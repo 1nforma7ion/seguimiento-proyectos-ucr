@@ -91,10 +91,10 @@ function coautores(e, ctx) {
   return `<div class="avatares">${caras}<span>${esc(texto.charAt(0).toUpperCase() + texto.slice(1))}</span></div>`;
 }
 
-// Etiqueta que dice qué pasó y cuándo: "● Aprobado el 18/11".
-function etiquetaNovedad(n) {
-  const dia = n.fecha ? ` el ${fecha(n.fecha, { day: "numeric", month: "numeric" })}` : "";
-  return `<span class="nuevo ${esc(n.clase ?? "tramite")}">● ${esc(n.corto ?? "Novedad")}${dia}</span>`;
+// Novedad de la semana: qué pasó y cuándo ("● Aprobado el 18/11 · hace 7 días").
+function etiquetaNovedad(n, hoy) {
+  const dia = n.fecha ? ` el ${fecha(n.fecha, { day: "numeric", month: "numeric" })} · ${fechaRelativa(n.fecha, hoy)}` : "";
+  return `<div class="ultimo nuevo ${esc(n.clase ?? "tramite")}">● ${esc(n.corto ?? n.texto ?? "Novedad")}${esc(dia)}</div>`;
 }
 
 export function filaProyecto(e, ctx) {
@@ -103,9 +103,9 @@ export function filaProyecto(e, ctx) {
   const comision = e.comisiones?.[0];
   return `<li class="proyecto"><a href="#/exp/${esc(idArchivo(e.numero))}">
     <div>
-      <div class="meta">${etiquetaTipo(e.tipo)}<span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}${nov ? etiquetaNovedad(nov) : ""}</div>
+      <div class="meta">${etiquetaTipo(e.tipo)}<span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}</div>
       <div class="titulo">${esc(e.titulo)}</div>
-      ${um ? `<div class="ultimo">${esc(um.texto)}, ${esc(fechaRelativa(um.fecha, ctx.hoy))}</div>` : ""}
+      ${nov ? etiquetaNovedad(nov, ctx.hoy) : um ? `<div class="ultimo">${esc(um.texto)}, ${esc(fechaRelativa(um.fecha, ctx.hoy))}</div>` : ""}
     </div>
     <div class="lado">${estadoFila(e)}${ruta(e)}${lineaVence(e, ctx.hoy, ctx.aj)}${coautores(e, ctx)}</div>
   </a></li>`;
@@ -288,6 +288,7 @@ export function ficha(d, ctx) {
       ${d.estado.fecha_resultado ? `<p class="mm">El ${esc(fecha(d.estado.fecha_resultado))}</p>` : ""}</div>`;
   }
 
+  const persona = (s) => `<a class="persona" href="#/leg/${esc(s)}">${avatar(legs[s], "m")}${esc(legs[s].nombre)}</a>`;
   const comisiones = d.comisiones.length
     ? d.comisiones.map((c, i) => `<div class="com"><span>${esc(c)}</span>${i === 0 && d.comisiones.length > 1 ? "<small>PRINCIPAL</small>" : ""}</div>`).join("")
     : '<p class="otros">Todavía no se giró a ninguna comisión.</p>';
@@ -316,7 +317,8 @@ export function ficha(d, ctx) {
         ${estadoLateral}
         <div class="bloque-l"><h3>Comisiones ${que(glosario, "comision")}</h3>${comisiones}</div>
         <div class="bloque-l"><h3>Autores del bloque (${deBloque.length})</h3>
-          ${deBloque.map((s) => `<a class="persona" href="#/leg/${esc(s)}">${avatar(legs[s], "m")}${esc(legs[s].nombre)}</a>`).join("") || '<p class="otros">Ninguno.</p>'}
+          ${deBloque.slice(0, 6).map(persona).join("") || '<p class="otros">Ninguno.</p>'}
+          ${deBloque.length > 6 ? `<details class="mas-personas"><summary>Ver ${deBloque.length - 6} más</summary>${deBloque.slice(6).map(persona).join("")}</details>` : ""}
           ${otros.length ? `<h3 style="margin-top:14px">Otros autores (${otros.length})</h3><p class="otros">${otros.map(esc).join(" · ")}</p>` : ""}
         </div>
         <a class="boton sec" href="${esc(d.url_portal)}" target="_blank" rel="noopener">Ver en el portal oficial ↗</a>
