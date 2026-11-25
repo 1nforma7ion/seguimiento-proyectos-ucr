@@ -164,3 +164,23 @@ export function agruparPorAnio(lineaTiempo) {
   }
   return grupos;
 }
+
+// --- Pulido ---------------------------------------------------------------------
+
+// Busca en todos los proyectos del bloque (cualquier tipo y estado) por número, tema o legislador.
+export function buscarEnTodo(exps, texto, legs) {
+  const q = normalizar(texto);
+  if (q.length < 2) return [];
+  const palabras = q.split(" ");
+  const nombres = (e) => (e.autores_bloque || []).map((s) => legs[s]?.nombre ?? "").join(" ");
+  const ingreso = (e) => e.estado.ingreso ?? "";
+  return exps
+    .filter((e) => {
+      const pajar = normalizar(`${e.numero} ${e.titulo} ${nombres(e)}`);
+      return palabras.every((p) => pajar.includes(p));
+    })
+    .sort((a, b) => {
+      const exacta = (e) => normalizar(e.numero) === q || normalizar(e.numero).split("/")[0] === q;
+      return (exacta(b) - exacta(a)) || ingreso(b).localeCompare(ingreso(a)) || a.numero.localeCompare(b.numero);
+    });
+}

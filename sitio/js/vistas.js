@@ -7,8 +7,17 @@ export const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 export const idArchivo = (numero) => numero.replaceAll("/", "-");
 
-const TIPO = { ley: "LEY", resolucion: "RESOLUCIÓN", declaracion: "DECLARACIÓN", otros: "OTRO" };
-const TIPO_TEXTO = { ley: "Ley", resolucion: "Resolución", declaracion: "Declaración", otros: "Otro" };
+const TIPO = { ley: "LEY", resolucion: "RESOLUCIÓN", declaracion: "DECLARACIÓN", otros: "NOTA" };
+const TIPO_TEXTO = { ley: "Ley", resolucion: "Resolución", declaracion: "Declaración", otros: "Nota" };
+// Qué es cada tipo, en una línea, para quien no conoce el reglamento.
+export const TIPO_BREVE = {
+  ley: "Crea o cambia una norma obligatoria para toda la provincia.",
+  resolucion: "Una decisión de la Legislatura. Muchas veces es un pedido de informes al Poder Ejecutivo.",
+  declaracion: "Expresa la opinión de la Legislatura: beneplácito, adhesión, repudio o preocupación. No obliga a nadie.",
+  otros: "Un pedido formal de un legislador o legisladora, por ejemplo para rehabilitar un proyecto caducado o pedir licencia.",
+};
+const TIPO_LARGO = { ley: "Proyecto de ley", resolucion: "Proyecto de resolución", declaracion: "Proyecto de declaración", otros: "Nota" };
+const etiquetaTipo = (tipo) => `<span class="tipo ${esc(tipo)}" title="${esc(TIPO_BREVE[tipo] ?? "")}">${TIPO[tipo] ?? "OTRO"}</span>`;
 const RESULTADO = { aprobado: "Aprobado", caduco: "Caducó", archivado: "Archivado", rechazado: "No aprobado" };
 const ESTACIONES = ["Presentado", "En comisión", "Con dictamen"];
 const MUERTOS = new Set(["caduco", "archivado", "rechazado"]);
@@ -88,7 +97,7 @@ export function filaProyecto(e, ctx) {
   const comision = e.comisiones?.[0];
   return `<li class="proyecto"><a href="#/exp/${esc(idArchivo(e.numero))}">
     <div>
-      <div class="meta"><span class="tipo ${esc(e.tipo)}">${TIPO[e.tipo]}</span><span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}${nov ? '<span class="nuevo">● Novedad</span>' : ""}</div>
+      <div class="meta">${etiquetaTipo(e.tipo)}<span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}${nov ? '<span class="nuevo">● Novedad</span>' : ""}</div>
       <div class="titulo">${esc(e.titulo)}</div>
       ${um ? `<div class="ultimo">${esc(um.texto)}, ${esc(fechaRelativa(um.fecha, ctx.hoy))}</div>` : ""}
     </div>
@@ -130,11 +139,16 @@ export function herramientas(vista, exps, cuenta, glosario) {
   const filtro = vista.tarjeta
     ? `<div class="filtro-activo"><span>${plural(cuenta, "proyecto", "proyectos")} ${NOMBRE_TARJETA[vista.tarjeta]}.</span><button type="button" class="enlace" data-quitar>Ver todos</button></div>`
     : "";
-  const explica = !vista.tarjeta && vista.pestania === "caducados"
-    ? `<p class="explica">${esc(glosario.caducidad?.texto)} ${esc(glosario.rehabilitacion?.texto)}</p>` : "";
+  const explicaciones = {
+    fondo: `<b>Leyes:</b> ${esc(TIPO_BREVE.ley)} <b>Resoluciones:</b> ${esc(TIPO_BREVE.resolucion)}`,
+    declaraciones: esc(TIPO_BREVE.declaracion),
+    otros: `<b>Notas:</b> ${esc(TIPO_BREVE.otros)}`,
+    caducados: `${esc(glosario.caducidad?.texto)} ${esc(glosario.rehabilitacion?.texto)}`,
+  };
+  const explica = vista.tarjeta ? "" : `<p class="explica${vista.pestania === "caducados" ? "" : " suave"}">${explicaciones[vista.pestania]}</p>`;
   return `<div class="herr">
     <div class="tabs" role="tablist" aria-label="Tipo de proyecto">
-      ${tab("fondo", "Leyes y resoluciones")}${tab("declaraciones", "Declaraciones")}${tab("otros", "Otros")}${tab("caducados", "Caducados y archivados")}
+      ${tab("fondo", "Leyes y resoluciones")}${tab("declaraciones", "Declaraciones")}${tab("otros", "Notas")}${tab("caducados", "Caducados y archivados")}
     </div>
     <div class="buscar">
       <label class="oculto" for="buscar">Buscar</label>
@@ -259,14 +273,14 @@ export function ficha(d, ctx) {
   const docs = d.documentos.length
     ? `<ul class="docs">${d.documentos.map((x) => `<li>${esc(x.seccion)}: ${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.nombre)}</a>` : `${esc(x.nombre)} <span class="mm">(se ve en el portal oficial)</span>`}</li>`).join("")}</ul>`
     : '<p class="otros">Todavía no hay despachos, actas ni texto aprobado.</p>';
-  const tipoGlosario = { ley: "ley", resolucion: "resolucion", declaracion: "declaracion" }[d.tipo];
 
   return `<div class="banda"><div class="cont">
       <div class="miga"><a href="${esc(volver)}">${esc(volverNombre)}</a> › ${esc(d.numero)}</div>
-      <div class="meta"><span class="tipo ${esc(d.tipo)}">${TIPO[d.tipo]}</span><span>${esc(d.numero)}</span>
-        ${d.estado.ingreso ? `<span>Presentado el ${esc(fecha(d.estado.ingreso))}</span>` : ""}${tipoGlosario ? que(glosario, tipoGlosario) : ""}</div>
+      <div class="meta">${etiquetaTipo(d.tipo)}<span>${esc(d.numero)}</span>
+        ${d.estado.ingreso ? `<span>Presentado el ${esc(fecha(d.estado.ingreso))}</span>` : ""}</div>
       <h1 class="ficha-titulo">${esc(d.tema || d.extracto)}</h1>
       ${d.tema && d.tema !== d.extracto ? `<p class="extracto-completo">${esc(d.extracto)}</p>` : ""}
+      ${TIPO_BREVE[d.tipo] ? `<p class="tipo-explica"><b>${TIPO_LARGO[d.tipo]}:</b> ${esc(TIPO_BREVE[d.tipo])}</p>` : ""}
       <div class="estado-ficha"><span class="pill ${claseResultado(r)}">● ${esc(nombresEstaciones(e)[e.estado.etapa - 1])}</span>
         ${d.estado.sobre_tablas ? `<span>Se trató sobre tablas ${que(glosario, "sobre-tablas")}</span>` : ""}</div>
       ${ruta(e, { grande: true })}
@@ -311,4 +325,29 @@ export function comoFunciona(glosario, aj) {
       </div>
       <section style="margin-top:44px" aria-labelledby="t-glos"><div class="titulo-sec"><h2 id="t-glos">Palabras que vas a ver</h2></div><dl class="gloss">${def}</dl></section>
     </div>`;
+}
+
+// --- buscador global ------------------------------------------------------------
+
+export function bandaBuscar(texto) {
+  return `<div class="banda"><div class="cont">
+    <h1>Buscar en todo el bloque</h1>
+    <p class="bajada">Escribí un número de proyecto (por ejemplo 45212), palabras del tema o el apellido de un legislador. Busca en todos los tipos y estados, también en los caducados.</p>
+    <form class="buscador" role="search" data-form-buscar>
+      <label class="oculto" for="buscar-todo">Buscar proyectos</label>
+      <input id="buscar-todo" class="campo grande" type="search" placeholder="Ej.: salud mental, 45212, Ferrero" value="${esc(texto)}" autocomplete="off" enterkeyhint="search" data-buscar-todo>
+    </form>
+  </div></div>`;
+}
+
+export function resultadosBusqueda(texto, resultados, ctx, limite) {
+  const q = texto.trim();
+  if (q.length < 2) {
+    return `<p class="vacio">Escribí al menos dos letras o números para empezar.</p>`;
+  }
+  if (!resultados.length) {
+    return `<p class="vacio">No encontramos proyectos del bloque con “${esc(q)}”. Probá con menos palabras o con otra forma de escribirlo.</p>`;
+  }
+  return `<div class="titulo-sec"><h2>${plural(resultados.length, "proyecto encontrado", "proyectos encontrados")}</h2><span class="aux">Los más nuevos primero</span></div>`
+    + lista(resultados, ctx, limite);
 }

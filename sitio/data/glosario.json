@@ -11,5 +11,6 @@
   "ley": {"termino": "Proyecto de ley", "texto": "Propone crear o cambiar una norma obligatoria para toda la provincia. Si se aprueba, el Poder Ejecutivo la promulga o la veta."},
   "resolucion": {"termino": "Proyecto de resolución", "texto": "Una decisión de la Legislatura. Muchas veces es un pedido de informes al Poder Ejecutivo."},
   "declaracion": {"termino": "Proyecto de declaración", "texto": "Expresa la opinión de la Legislatura sobre un tema: beneplácito, adhesión, repudio o preocupación. No obliga a nadie."},
+  "nota": {"termino": "Nota", "texto": "Un pedido formal que presenta un legislador o legisladora: por ejemplo, rehabilitar un proyecto caducado, pedir licencia o cambiar integrantes de una comisión."},
   "pedido-informes": {"termino": "Pedido de informes", "texto": "Un proyecto de resolución que le pide al Poder Ejecutivo datos o explicaciones sobre algún tema (Art. 102 de la Constitución)."}
 }

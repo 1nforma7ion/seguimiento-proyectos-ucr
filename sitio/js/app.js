@@ -1,6 +1,6 @@
 // Ruteo por hash, carga de datos y eventos.
 import {
-  conNovedad, estaDesactualizado, filtrar, novedadesRecientes, ordenarPor, porLegislador, proximosACaducar, resumen,
+  buscarEnTodo, conNovedad, estaDesactualizado, filtrar, novedadesRecientes, ordenarPor, porLegislador, proximosACaducar, resumen,
 } from "./logica.js";
 import * as V from "./vistas.js";
 
@@ -58,7 +58,7 @@ function cabecera(seccion) {
   if (leg) quien.innerHTML = `${V.avatar(leg, "m")}<span class="q-txt">${V.esc(leg.nombre)}<small>Cambiar de legislador</small></span>`;
 }
 
-function sinEventos() { app.onclick = app.oninput = app.onchange = null; }
+function sinEventos() { app.onclick = app.oninput = app.onchange = app.onsubmit = null; }
 
 // --- pantallas con lista -------------------------------------------------------
 function pantallaLista({ arriba, numeros, propio = null, conSelectores = false }) {
@@ -171,6 +171,43 @@ function pantallaElegir() {
   };
 }
 
+function pantallaBuscar(texto) {
+  const hoy = hoyAR();
+  const legs = legsPorSlug();
+  const todos = expedientes(Object.keys(datos.indice.expedientes));
+  const ctx = { hoy, aj: datos.indice.ajustes, legs, propio: null, nov: conNovedad(datos.novedades, hoy) };
+  let limite = 30;
+  let actual = texto;
+  ultimaListaNombre = "Búsqueda";
+  app.innerHTML = `${V.bandaBuscar(texto)}<div class="cont seccion" id="resultados"></div>`;
+  const dibujar = () => {
+    document.getElementById("resultados").innerHTML = V.resultadosBusqueda(actual, buscarEnTodo(todos, actual, legs), ctx, limite);
+  };
+  dibujar();
+  sinEventos();
+  let espera;
+  app.oninput = (ev) => {
+    if (!("buscarTodo" in ev.target.dataset)) return;
+    actual = ev.target.value;
+    limite = 30;
+    clearTimeout(espera);
+    espera = setTimeout(() => {
+      // Se guarda la búsqueda en la dirección para que "volver" desde un proyecto la recupere.
+      ultimaLista = actual.trim() ? `#/buscar/${encodeURIComponent(actual.trim())}` : "#/buscar";
+      history.replaceState(null, "", ultimaLista);
+      dibujar();
+    }, 150);
+  };
+  app.onsubmit = (ev) => { ev.preventDefault(); document.activeElement?.blur(); };
+  app.onclick = (ev) => {
+    if (!ev.target.closest("[data-mas]")) return;
+    limite += 30;
+    dibujar();
+  };
+  const input = document.getElementById("buscar-todo");
+  if (!texto && matchMedia("(hover: hover)").matches) input.focus({ preventScroll: true });
+}
+
 async function pantallaExpediente(id) {
   sinEventos();
   app.innerHTML = '<div class="cont"><p class="cargando">Cargando el proyecto…</p></div>';
@@ -201,7 +238,12 @@ async function rutear() {
   if (seccion !== "exp" && hash !== ultimaLista) reiniciarVista();
   if (seccion === "leg" && arg) { ultimaLista = hash; cabecera("mios"); pantallaLegislador(decodeURIComponent(arg)); cabecera("mios"); }
   else if (seccion === "bloque") { ultimaLista = hash; cabecera("bloque"); pantallaBloque(); }
-  else if (seccion === "exp" && arg) { cabecera(ultimaLista.startsWith("#/bloque") ? "bloque" : "mios"); await pantallaExpediente(decodeURIComponent(arg)); }
+  else if (seccion === "exp" && arg) { cabecera(ultimaLista.startsWith("#/bloque") ? "bloque" : ultimaLista.startsWith("#/buscar") ? "buscar" : "mios"); await pantallaExpediente(decodeURIComponent(arg)); }
+  else if (seccion === "buscar") {
+    ultimaLista = hash; cabecera("buscar"); pantallaBuscar(arg ? decodeURIComponent(hash.split("/").slice(2).join("/")) : "");
+    window.scrollTo(0, 0);
+    return;
+  }
   else if (seccion === "como-funciona") { sinEventos(); cabecera("como"); app.innerHTML = V.comoFunciona(datos.glosario, datos.indice.ajustes); }
   else if (seccion === "elegir") { ultimaLista = hash; ultimaListaNombre = "Legisladores"; cabecera("mios"); pantallaElegir(); }
   else {
@@ -229,4 +271,35 @@ async function iniciar() {
   rutear();
 }
 
+// --- instalar como app ----------------------------------------------------------
+function instalable() {
+  if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+    navigator.serviceWorker.register("sw.js").catch(() => { /* sin modo sin conexión */ });
+  }
+  const boton = document.getElementById("instalar");
+  const ayuda = document.getElementById("instalar-ayuda");
+  const yaInstalada = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  if (!boton || yaInstalada) return;
+  let pedido = null;
+  window.addEventListener("beforeinstallprompt", (ev) => { ev.preventDefault(); pedido = ev; });
+  window.addEventListener("appinstalled", () => { boton.hidden = true; ayuda.hidden = true; });
+  boton.hidden = false;
+  boton.onclick = async () => {
+    if (pedido) {
+      pedido.prompt();
+      const { outcome } = await pedido.userChoice;
+      if (outcome === "accepted") boton.hidden = true;
+      pedido = null;
+      return;
+    }
+    const iphone = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    ayuda.textContent = iphone
+      ? "En el iPhone: abrí este sitio en Safari, tocá el botón Compartir (el cuadrado con la flecha hacia arriba) y elegí “Agregar a inicio”."
+      : "Abrí el menú del navegador (los tres puntos ⋮) y elegí “Instalar aplicación” o “Agregar a la pantalla principal”.";
+    ayuda.hidden = !ayuda.hidden;
+    boton.setAttribute("aria-expanded", String(!ayuda.hidden));
+  };
+}
+
+instalable();
 iniciar();
