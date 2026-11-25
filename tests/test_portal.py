@@ -7,9 +7,10 @@ from recolector.portal import Portal, PortalError, TARGET_RUTA, target_pagina
 
 
 class Resp:
-    def __init__(self, contenido: bytes, status: int = 200):
+    def __init__(self, contenido: bytes, status: int = 200, url: str = "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx"):
         self.content = contenido
         self.status_code = status
+        self.url = url
 
 
 class SesionFalsa:
@@ -139,3 +140,19 @@ def test_no_reintenta_si_no_alcanza_el_tiempo():
     with pytest.raises(TimeoutError):
         p.buscar("Ferrero")
     assert len(p.sesion.llamadas) == 1
+
+
+ERROR_PORTAL = Resp(b"<html>error</html>", 200,
+                    "https://gld.legislaturacba.gob.ar/Pages/500.html?exMsg=Timeout%20expired.")
+
+
+def test_pagina_de_error_del_portal_se_reintenta():
+    p, _ = portal_con([ERROR_PORTAL, Resp(PAGINA)], pausa=0)
+    assert "Ferrero" in p.buscar("Ferrero")
+    assert len(p.sesion.llamadas) == 2
+
+
+def test_portal_fuera_de_servicio_da_un_mensaje_claro():
+    p, _ = portal_con([ERROR_PORTAL] * 4, pausa=0)
+    with pytest.raises(PortalError, match="fuera de servicio"):
+        p.buscar("Ferrero")

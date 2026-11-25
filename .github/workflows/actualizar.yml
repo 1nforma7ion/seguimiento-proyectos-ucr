@@ -25,7 +25,7 @@ jobs:
     timeout-minutes: 350
     environment:
       name: github-pages
-      url: ${{ steps.publicar.outputs.page_url }}
+      url: ${{ steps.publicar.outputs.page_url || steps.publicar2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -59,7 +59,23 @@ jobs:
         with:
           path: sitio
 
+      # GitHub a veces tarda unos segundos en registrar el archivo subido: se espera y,
+      # si la publicación falla igual, se reintenta una vez.
+      - name: Esperar a que GitHub registre el sitio
+        if: always() && steps.recolectar.outcome != 'skipped'
+        run: sleep 20
+
       - name: Publicar el sitio
         id: publicar
         if: always() && steps.recolectar.outcome != 'skipped'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Esperar antes de reintentar
+        if: always() && steps.publicar.outcome == 'failure'
+        run: sleep 60
+
+      - name: Publicar el sitio (segundo intento)
+        id: publicar2
+        if: always() && steps.publicar.outcome == 'failure'
         uses: actions/deploy-pages@v4

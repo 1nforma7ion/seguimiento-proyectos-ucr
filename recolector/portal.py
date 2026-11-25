@@ -62,13 +62,17 @@ class Portal:
                 self._dormir(falta)
 
     def _pedir(self, metodo: str, url: str, **kw) -> bytes:
+        caido = False
         for intento in range(len(ESPERAS_REINTENTO) + 1):
             if self.fin is not None and self._reloj() >= self.fin:
                 raise TimeoutError("Se terminó el tiempo de la corrida")
             self._esperar_turno()
             try:
                 r = getattr(self.sesion, metodo)(url, timeout=60, **kw)
-                ok = r.status_code == 200
+                # Cuando el portal falla por dentro, redirige a su página de error con código 200.
+                error_interno = "/Pages/500.html" in str(getattr(r, "url", ""))
+                caido = caido or error_interno
+                ok = r.status_code == 200 and not error_interno
             except requests.RequestException:
                 ok = False
             self._ultima = self._reloj()
@@ -79,6 +83,8 @@ class Portal:
                 if self.fin is not None and self._reloj() + espera >= self.fin:
                     raise TimeoutError("Se terminó el tiempo de la corrida")
                 self._dormir(espera)
+        if caido:
+            raise PortalError("El portal de la Legislatura está fuera de servicio (devuelve su página de error interno)")
         raise PortalError(f"El portal no respondió: {metodo.upper()} {url}")
 
     def _recordar(self, url: str, html: str) -> str:
