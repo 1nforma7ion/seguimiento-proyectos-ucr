@@ -2,6 +2,7 @@
  "numero": "43502/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Bottasso y Peirone, solicitando al Poder Ejecutivo, en el marco del proceso de reparación histórica a la ciudad de Río Tercero, arbitre los medios necesarios para la entrega voluntaria, resguardo y destrucción del material bélico proveniente de las explosiones del 3 y 24 de noviembre de 1995.",
+ "tema": "Solicitando al Poder Ejecutivo, en el marco del proceso de reparación histórica a la ciudad de Río Tercero, arbitre los medios necesarios para la entrega voluntaria, resguardo y destrucción del material bélico proveniente de las explosiones del 3 y 24 de noviembre de 1995.",
  "autores": [
   "Austin, Brenda Lis",
   "Bottasso, Gustavo Armando",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

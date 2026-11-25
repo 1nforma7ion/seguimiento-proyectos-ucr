@@ -2,6 +2,7 @@
  "numero": "40660/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Gvozdenovich, expresando beneplácito por el 75º aniversario del jardín de infantes Provincia de Santiago del Estero de la localidad de Isla Verde, Dpto. Marcos Juárez.",
+ "tema": "Expresando beneplácito por el 75º aniversario del jardín de infantes Provincia de Santiago del Estero de la localidad de Isla Verde, Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-16",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

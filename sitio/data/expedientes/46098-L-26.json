@@ -2,6 +2,7 @@
  "numero": "46098/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano y Gvozdenovich, declarando de Interés Educativo, Turístico, Cultural y Ambiental al Paseo Sustentable “San Francisco de Asís”, ubicado en la localidad de Camilo Aldao, Dpto. Marcos Juárez",
+ "tema": "Declarando de Interés Educativo, Turístico, Cultural y Ambiental al Paseo Sustentable “San Francisco de Asís”, ubicado en la localidad de Camilo Aldao, Dpto. Marcos Juárez",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -21,7 +22,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

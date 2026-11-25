@@ -2,6 +2,7 @@
  "numero": "42991/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich y Bisotto, adhiriendo al Foro Abierto \"Diálogos y Convivencia. Mecanismos de Prevención y Gestión de Conflictos\", a desarrollarse el día 23 de junio en la ciudad de Río Cuarto.",
+ "tema": "Adhiriendo al Foro Abierto \"Diálogos y Convivencia. Mecanismos de Prevención y Gestión de Conflictos\", a desarrollarse el día 23 de junio en la ciudad de Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

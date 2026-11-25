@@ -2,6 +2,7 @@
  "numero": "44846/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores NIcolás, Jaimes, Szpanin, Bría y Gudiño, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diferentes aspectos relacionados al fallecimiento de niños recién nacidos en la Maternidad Provincial.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diferentes aspectos relacionados al fallecimiento de niños recién nacidos en la Maternidad Provincial.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -22,7 +23,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

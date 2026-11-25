@@ -2,6 +2,7 @@
  "numero": "43401/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por los Legisladores Gvozdenovich, Szpanin, Ferrero, Nigro, Grich, Briner, Carignano, Bottasso, Contrera, Bría, Jaimes, Nicolás, Saliba, Valiente y Molina, solicitando se convoque a Sesión Especial (art. 26 del R.I.) para el 29 de julio con el objetivo de tratar distintos proyectos que proponen aliviar la carga tributaria, promover la inversión y la competitividad, y equilibrar el esfuerzo fiscal de varios sectores de la sociedad cordobesa.",
+ "tema": "Nota remitida por los Legisladores Gvozdenovich, Szpanin, Ferrero, Nigro, Grich, Briner, Carignano, Bottasso, Contrera, Bría, Jaimes, Nicolás, Saliba, Valiente y Molina, solicitando se convoque a Sesión Especial (art. 26 del R.I.) para el 29 de julio con el objetivo de tratar distintos proyectos que proponen aliviar la carga tributaria, promover la inversión y la competitividad, y equilibrar el esfuerzo fiscal de varios sectores de la sociedad cordobesa.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Szpanin, Ariela Yanina",
@@ -30,7 +31,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

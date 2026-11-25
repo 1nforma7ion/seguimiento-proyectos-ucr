@@ -2,6 +2,7 @@
  "numero": "39371/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría y Tévez, adhiriendo al 90º aniversario de la Orquesta Arias, creada un 25 de mayo de 1934 en la localidad de Devoto, Dpto. San Justo..",
+ "tema": "Adhiriendo al 90º aniversario de la Orquesta Arias, creada un 25 de mayo de 1934 en la localidad de Devoto, Dpto. San Justo..",
  "autores": [
   "Bria, Jose Alberto",
   "Tevez, Gustavo Alejandro"
@@ -19,7 +20,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

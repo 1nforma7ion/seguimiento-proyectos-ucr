@@ -2,6 +2,7 @@
  "numero": "44207/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Gvozdenovich, Nigro, Bottasso, Bría y Contrera, rechazando el uso de redes oficiales por parte del Sr. Presidente comunal de Plaza Luxardo, Dpto. San Justo, en beneficio de la promoción de su figura.",
+ "tema": "Rechazando el uso de redes oficiales por parte del Sr. Presidente comunal de Plaza Luxardo, Dpto. San Justo, en beneficio de la promoción de su figura.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -25,7 +26,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

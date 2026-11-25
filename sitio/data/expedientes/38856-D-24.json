@@ -2,6 +2,7 @@
  "numero": "38856/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Gloria Pereyra, Almada, Bisotto, Ferrero, Gvozdenovich, Nigro, Valiente, Saliba, Briner, Bottasso, Bría, Molina, Contrera, Botta, Sala, Rossi, y Hernández Maqueda, solicitando a Caminos de las Sierras, el desmalezamiento, limpieza y mantenimiento de las Rutas nacionales 20, 38, 9 Sur y Norte, 36 y 19, Autopista Pilar/Córdoba, Rutas provinciales 5, E-53,E-55 y de la Av. de Circunvalación de la ciudad de Córdoba.",
+ "tema": "Solicitando a Caminos de las Sierras, el desmalezamiento, limpieza y mantenimiento de las Rutas nacionales 20, 38, 9 Sur y Norte, 36 y 19, Autopista Pilar/Córdoba, Rutas provinciales 5, E-53,E-55 y de la Av. de Circunvalación de la ciudad de Córdoba.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Pereyra, Carmen Gloria",
@@ -35,7 +36,8 @@
    "fecha": "2025-04-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

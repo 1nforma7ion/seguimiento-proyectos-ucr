@@ -2,6 +2,7 @@
  "numero": "43278/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin y Jaimes, restringiendo el ingreso de personas inscriptas en el Registro de Deudores Alimentarios Morosos, conforme lo establecido por la Ley N° 8892 y sus modificatorias, a eventos masivos de carácter deportivo, cultural o recreativo que se desarrollen en el ámbito de la provincia.",
+ "tema": "Restringiendo el ingreso de personas inscriptas en el Registro de Deudores Alimentarios Morosos, conforme lo establecido por la Ley N° 8892 y sus modificatorias, a eventos masivos de carácter deportivo, cultural o recreativo que se desarrollen en el ámbito de la provincia.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian"
@@ -20,7 +21,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

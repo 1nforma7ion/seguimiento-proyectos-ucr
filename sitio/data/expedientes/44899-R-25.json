@@ -2,6 +2,7 @@
  "numero": "44899/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Bría, Molina y Contrera, instando al Poder Ejecutivo a reglamentar la Ley Nº 10946, de adhesión a la Ley Nacional Nº 27716, de Diagnóstico Humanizado, en el término máximo de 90 días.",
+ "tema": "Instando al Poder Ejecutivo a reglamentar la Ley Nº 10946, de adhesión a la Ley Nacional Nº 27716, de Diagnóstico Humanizado, en el término máximo de 90 días.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -33,7 +34,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

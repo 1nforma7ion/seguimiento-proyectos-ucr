@@ -2,6 +2,7 @@
  "numero": "41610/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich y Carignano, solicitando al Sr. Gobernador arbitre los medios necesarios para que se intensifique el control policial en el Dpto. Marcos Juárez.",
+ "tema": "Solicitando al Sr. Gobernador arbitre los medios necesarios para que se intensifique el control policial en el Dpto. Marcos Juárez.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2026-02-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

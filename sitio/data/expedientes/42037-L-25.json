@@ -2,6 +2,7 @@
  "numero": "42037/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Briner, Gvozdenovich, Valiente, Luna y Bría, creando el Programa Provincial de Prevención y Lucha contra los Accidentes Cerebrovasculares (ACV).",
+ "tema": "Creando el Programa Provincial de Prevención y Lucha contra los Accidentes Cerebrovasculares (ACV).",
  "autores": [
   "Contrera, Ines Mercedes",
   "Briner, Carlos Edgardo",
@@ -24,7 +25,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

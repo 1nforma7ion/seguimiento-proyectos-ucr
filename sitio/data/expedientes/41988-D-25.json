@@ -2,6 +2,7 @@
  "numero": "41988/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Presas, Luna, Bruno, Gloria Pereyra, Acevedo, Ceballos Recalde, Romero, Gudiño y Jaimes, declarando de Interés Legislativo el 2° Encuentro Regional de Aperitivos de Autor, a desarrollarse del 8 al 11 de mayo en la localidad de San Marcos Sierras, Dpto. Cruz del Eje.",
+ "tema": "Declarando de Interés Legislativo el 2° Encuentro Regional de Aperitivos de Autor, a desarrollarse del 8 al 11 de mayo en la localidad de San Marcos Sierras, Dpto. Cruz del Eje.",
  "autores": [
   "Presas, Luciana Maria",
   "Luna, Fernando Javier",
@@ -26,7 +27,8 @@
    "fecha": "2025-03-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

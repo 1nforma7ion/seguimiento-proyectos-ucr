@@ -2,6 +2,7 @@
  "numero": "39753/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin y Chamorro, expresando beneplácito por el Encuentro Nacional de Legisladoras y Legisladores provinciales por los Derechos de las Niñas, Niños y Adolescentes y sus respectivas conclusiones, desarrollado los días 13 y 14 de junio en la Ciudad Autónoma de Buenos Aires.",
+ "tema": "Expresando beneplácito por el Encuentro Nacional de Legisladoras y Legisladores provinciales por los Derechos de las Niñas, Niños y Adolescentes y sus respectivas conclusiones, desarrollado los días 13 y 14 de junio en la Ciudad Autónoma de Buenos Aires.",
  "autores": [
   "Austin, Brenda Lis",
   "Chamorro, Matias Ezequiel"
@@ -19,7 +20,8 @@
    "fecha": "2024-07-24",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

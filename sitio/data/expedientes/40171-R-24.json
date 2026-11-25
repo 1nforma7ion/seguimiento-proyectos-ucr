@@ -2,6 +2,7 @@
  "numero": "40171/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente las actividades del Ministerio de Gobierno con la Mesa Municipios y Comunas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente las actividades del Ministerio de Gobierno con la Mesa Municipios y Comunas.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

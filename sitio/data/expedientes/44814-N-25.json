@@ -1,0 +1,79 @@
+{
+ "numero": "44814/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Jaimes, solicitando la rehabilitación del Proyecto N° 40844/L/24 conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por el Legislador Jaimes, solicitando la rehabilitación del Proyecto N° 40844/L/24 conforme el art. 111 del R.I.",
+ "autores": [
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-03",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null,
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-12-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44814%2FN%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

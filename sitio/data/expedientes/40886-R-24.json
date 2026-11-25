@@ -2,6 +2,7 @@
  "numero": "40886/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con el Programa Córdoba Inclusiva y el cumplimiento de la Ley N° 10728.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con el Programa Córdoba Inclusiva y el cumplimiento de la Ley N° 10728.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41681/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero y los Bloques del Frente Cívico de Córdoba, de la UCR y Mejor Futuro, abrogando la Resolución Nº 60/24 de la Secretaría de Ingresos Públicos, dejando el Coeficiente de Equidad Inmobiliaria del año 2023, devolviendo a los contribuyentes el dinero que resultare de esta diferencia en un plazo de 60 días corridos.",
+ "tema": "Abrogando la Resolución Nº 60/24 de la Secretaría de Ingresos Públicos, dejando el Coeficiente de Equidad Inmobiliaria del año 2023, devolviendo a los contribuyentes el dinero que resultare de esta diferencia en un plazo de 60 días corridos.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -22,7 +23,8 @@
    "fecha": "2026-02-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

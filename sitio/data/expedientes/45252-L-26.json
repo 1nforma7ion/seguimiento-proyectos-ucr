@@ -1,0 +1,83 @@
+{
+ "numero": "45252/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Agost Carreño y Szpanin, estableciendo la obligatoriedad de la pesquisa neonatal ampliada para la detección temprana de enfermedades metabólicas, genéticas, endocrinas y otras patologías congénitas susceptibles de tratamiento precoz, con el fin de prevenir daños irreversibles, discapacidad o muerte evitable, garantizando el derecho a la salud integral del recién nacido y el acompañamiento adecuado de su núcleo familiar o de convivencia.",
+ "tema": "Estableciendo la obligatoriedad de la pesquisa neonatal ampliada para la detección temprana de enfermedades metabólicas, genéticas, endocrinas y otras patologías congénitas susceptibles de tratamiento precoz, con el fin de prevenir daños irreversibles, discapacidad o muerte evitable, garantizando el derecho a la salud integral del recién nacido y el acompañamiento adecuado de su núcleo familiar o de convivencia.",
+ "autores": [
+  "Agost Carreño, Oscar",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-02-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45252%2FL%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

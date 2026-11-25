@@ -2,6 +2,7 @@
  "numero": "41408/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Fernández, Frías, Cristina Pereyra, Jurich, Presas, Bría y Peirone, adhiriendo al 20º aniversario del Hospital Oncológico Provincial Dr. Urrutia de la ciudad de Córdoba, a celebrarse el día 13 de diciembre.",
+ "tema": "Adhiriendo al 20º aniversario del Hospital Oncológico Provincial Dr. Urrutia de la ciudad de Córdoba, a celebrarse el día 13 de diciembre.",
  "autores": [
   "Fernandez, Nadia Vanesa",
   "Frias, Cristian Adrian",
@@ -24,7 +25,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

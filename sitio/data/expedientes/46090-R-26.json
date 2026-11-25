@@ -2,6 +2,7 @@
  "numero": "46090/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando informe al Poder Legislativo sobre los gastos y erogaciones de esta institución durante febrero y marzo del período legislativo en curso.",
+ "tema": "Solicitando informe al Poder Legislativo sobre los gastos y erogaciones de esta institución durante febrero y marzo del período legislativo en curso.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

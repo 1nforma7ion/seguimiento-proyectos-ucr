@@ -2,6 +2,7 @@
  "numero": "42025/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich y el Bloque UCR, expresando preocupación y repudio ante el cierre de las Unidades Organizativas dependientes de la Dirección General Impositiva en distintas ciudades del interior provincial, plasmado por la Disposición 36/2025 del ARCA.",
+ "tema": "Expresando preocupación y repudio ante el cierre de las Unidades Organizativas dependientes de la Dirección General Impositiva en distintas ciudades del interior provincial, plasmado por la Disposición 36/2025 del ARCA.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Austin, Brenda Lis",
@@ -35,7 +36,8 @@
    "fecha": "2025-03-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

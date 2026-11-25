@@ -2,6 +2,7 @@
  "numero": "40707/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Gvozdenovich, Szpanin y los Bloques UCR, Frente Cívico de Córdoba, PRO, Mejor Futuro y Córdoba, repudiando las amenazas contra la Fiscal de Instrucción de Segundo Turno de los Tribunales de la ciudad de Villa María y expresando solidaridad con la funcionaria judicial ante lo sucedido.",
+ "tema": "Repudiando las amenazas contra la Fiscal de Instrucción de Segundo Turno de los Tribunales de la ciudad de Villa María y expresando solidaridad con la funcionaria judicial ante lo sucedido.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Gvozdenovich, Matias Pablo",
@@ -47,7 +48,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

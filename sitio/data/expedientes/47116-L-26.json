@@ -2,6 +2,7 @@
  "numero": "47116/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Carignano, Nicolás, Molina y Luna, modificando el artículo 20 de la Ley 8560, de Tránsito, en lo referido a la actualización de requisitos para el otorgamiento de licencias de conducir.",
+ "tema": "Modificando el artículo 20 de la Ley 8560, de Tránsito, en lo referido a la actualización de requisitos para el otorgamiento de licencias de conducir.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -23,7 +24,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

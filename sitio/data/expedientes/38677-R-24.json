@@ -2,6 +2,7 @@
  "numero": "38677/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bisotto y los Bloques Frente Cívico de Córdoba, UCR, PRO, Construyendo Córdoba, MST en el FITU, Coalición Cívica ARI y Encuentro Vecinal Córdoba citando al Sr. Secretario de Transporte para que informe sobre los sistemas de transporte urbano e interurbano de pasajeros.",
+ "tema": "Proyecto de Resolución, iniciado por los Legisladores Bisotto y los Bloques Frente Cívico de Córdoba, UCR, PRO, Construyendo Córdoba, MST en el FITU, Coalición Cívica ARI y Encuentro Vecinal Córdoba citando al Sr. Secretario de Transporte para que informe sobre los sistemas de transporte urbano e interurbano de pasajeros.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -25,7 +26,8 @@
    "fecha": "2026-02-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

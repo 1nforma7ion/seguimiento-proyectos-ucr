@@ -2,6 +2,7 @@
  "numero": "41844/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por la falta de políticas para la construcción de viviendas por parte el Gobierno provincial.",
+ "tema": "Expresando preocupación por la falta de políticas para la construcción de viviendas por parte el Gobierno provincial.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

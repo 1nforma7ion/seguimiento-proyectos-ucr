@@ -2,6 +2,7 @@
  "numero": "39369/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, expresando beneplácito por la labor de la empresa Lactear S.A. de la ciudad de Morteros, Dpto. San Justo, dedicada a la producción de quesos de alta calidad y demás productos lácteos, destacando su contribución al desarrollo económico y social de nuestra provincia.",
+ "tema": "Expresando beneplácito por la labor de la empresa Lactear S.A. de la ciudad de Morteros, Dpto. San Justo, dedicada a la producción de quesos de alta calidad y demás productos lácteos, destacando su contribución al desarrollo económico y social de nuestra provincia.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

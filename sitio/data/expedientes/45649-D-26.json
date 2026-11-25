@@ -2,6 +2,7 @@
  "numero": "45649/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Llamosas y Grich, declarando de Interés Legislativo al Festival Otoño Polifónico, a desarrollarse del 11 al 15 de marzo en la ciudad de Río Cuarto.",
+ "tema": "Declarando de Interés Legislativo al Festival Otoño Polifónico, a desarrollarse del 11 al 15 de marzo en la ciudad de Río Cuarto.",
  "autores": [
   "Llamosas, Juan Manuel",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

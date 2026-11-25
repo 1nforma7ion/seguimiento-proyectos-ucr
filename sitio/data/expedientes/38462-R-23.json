@@ -2,6 +2,7 @@
  "numero": "38462/R/23",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Nostrala, Rossi, Hernández Maqueda y Botta, modificando el artículo 59 del Reglamento Interno de la Legislatura, estableciendo que los Presidentes de los Interbloques que se hubieren conformado integrarán la Comisión de Labor Parlamentaria.",
+ "tema": "Modificando el artículo 59 del Reglamento Interno de la Legislatura, estableciendo que los Presidentes de los Interbloques que se hubieren conformado integrarán la Comisión de Labor Parlamentaria.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Nostrala, Walter Norberto",
@@ -22,7 +23,8 @@
    "fecha": "2023-12-20",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2023-12-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

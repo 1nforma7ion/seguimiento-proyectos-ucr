@@ -2,6 +2,7 @@
  "numero": "47132/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, reconociendo al dúo humorístico Platinados, integrado por Cristian Platini y Sergio “Checho” Platini, oriundos de la ciudad de Hernando, en el marco de 30 años de trayectoria artística.",
+ "tema": "Reconociendo al dúo humorístico Platinados, integrado por Cristian Platini y Sergio “Checho” Platini, oriundos de la ciudad de Hernando, en el marco de 30 años de trayectoria artística.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

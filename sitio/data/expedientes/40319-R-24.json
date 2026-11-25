@@ -2,6 +2,7 @@
  "numero": "40319/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Briner, Bría, Contrera y Carignano, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a la situación de los servicios e infraestructura del paraje La Toma, Dpto. Tulumba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a la situación de los servicios e infraestructura del paraje La Toma, Dpto. Tulumba.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -29,7 +30,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

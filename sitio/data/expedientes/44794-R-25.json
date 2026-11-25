@@ -2,6 +2,7 @@
  "numero": "44794/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.), sobre diversos aspectos relacionados a la detección de agua para consumo humano con altos niveles de arsénico en distintos puntos del territorio provincial.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.), sobre diversos aspectos relacionados a la detección de agua para consumo humano con altos niveles de arsénico en distintos puntos del territorio provincial.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-02-04",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

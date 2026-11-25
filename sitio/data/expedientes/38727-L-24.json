@@ -2,6 +2,7 @@
  "numero": "38727/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Coalición Cívica ARI, creando el Fondo Provincial de Incentivo Docente -FOPID-, a efectos de reemplazar el Fondo Nacional de Incentivo Docente -FONID-.",
+ "tema": "Creando el Fondo Provincial de Incentivo Docente -FOPID-, a efectos de reemplazar el Fondo Nacional de Incentivo Docente -FONID-.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque UCR",
@@ -26,7 +27,8 @@
    "fecha": "2025-02-28",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

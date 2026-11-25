@@ -2,6 +2,7 @@
  "numero": "45998/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Bría y Contrera, estableciendo la obligatoriedad de un examen toxicológico anual a las personas del sistema de salud pública provincial que se desempeñen en áreas criticas.",
+ "tema": "Estableciendo la obligatoriedad de un examen toxicológico anual a las personas del sistema de salud pública provincial que se desempeñen en áreas criticas.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

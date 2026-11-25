@@ -2,6 +2,7 @@
  "numero": "39469/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Valiente, adhiriendo a la Fiesta del Chacinado Casero, a desarrollarse el día 8 de junio en la localidad de Calchín Oeste, Dpto. Río Segundo.",
+ "tema": "Adhiriendo a la Fiesta del Chacinado Casero, a desarrollarse el día 8 de junio en la localidad de Calchín Oeste, Dpto. Río Segundo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Valiente, Lucas German"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

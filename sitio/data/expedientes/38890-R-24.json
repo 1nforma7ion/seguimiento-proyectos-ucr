@@ -2,6 +2,7 @@
  "numero": "38890/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Gispert, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Gudiño, Bottasso y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente cuántos agentes provinciales acompañaron al Lic. Osvaldo Giordano en el ANSES, gastos de pasajes y otros para la provincia y cuántos recibieron un adicional de vacaciones.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente cuántos agentes provinciales acompañaron al Lic. Osvaldo Giordano en el ANSES, gastos de pasajes y otros para la provincia y cuántos recibieron un adicional de vacaciones.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Gispert, Walter Oscar",
@@ -28,7 +29,8 @@
    "fecha": "2025-04-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

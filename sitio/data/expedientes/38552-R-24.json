@@ -2,6 +2,7 @@
  "numero": "38552/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Contrera y Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al estado de las rutas provinciales Nros. 6, 11 y 12 en los tramos comprendidos en el Dpto. Marcos Juárez; así como gestiones para reparaciones en la Ruta Nacional Nº 9.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al estado de las rutas provinciales Nros. 6, 11 y 12 en los tramos comprendidos en el Dpto. Marcos Juárez; así como gestiones para reparaciones en la Ruta Nacional Nº 9.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2024-08-21",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

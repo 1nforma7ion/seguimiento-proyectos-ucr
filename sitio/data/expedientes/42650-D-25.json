@@ -2,6 +2,7 @@
  "numero": "42650/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Szpanin, adhiriendo al Día Nacional de la Donación de Órganos y Tejidos, a celebrarse el 30 de mayo.",
+ "tema": "Adhiriendo al Día Nacional de la Donación de Órganos y Tejidos, a celebrarse el 30 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina"
@@ -19,7 +20,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

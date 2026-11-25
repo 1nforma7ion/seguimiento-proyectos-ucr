@@ -2,6 +2,7 @@
  "numero": "46107/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los protocolos de actuación, medidas de prevención y abordaje de situaciones de violencia, amenazas y conflictividad en las escuelas provinciales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los protocolos de actuación, medidas de prevención y abordaje de situaciones de violencia, amenazas y conflictividad en las escuelas provinciales.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

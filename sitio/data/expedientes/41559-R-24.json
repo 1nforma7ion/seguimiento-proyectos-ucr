@@ -2,6 +2,7 @@
  "numero": "41559/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con el procedimiento realizado, el día 14 de marzo, por personal de la Policía Caminera al Fiscal Enrique Gavier.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con el procedimiento realizado, el día 14 de marzo, por personal de la Policía Caminera al Fiscal Enrique Gavier.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Hernandez Maqueda, Gregorio"
@@ -19,7 +20,8 @@
    "fecha": "2025-12-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

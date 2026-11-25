@@ -2,6 +2,7 @@
  "numero": "43179/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Bloque UCR, solicitando al Sr. Gobernador disponga el pase a retiro (art. 144 inc. 16 de la C.P.) del Sr. Jefe de la Policía de la provincia. en virtud de la impericia manifiesta ante las detenciones de diversos jefes policiales imputados por graves delitos.",
+ "tema": "Solicitando al Sr. Gobernador disponga el pase a retiro (art. 144 inc. 16 de la C.P.) del Sr. Jefe de la Policía de la provincia. en virtud de la impericia manifiesta ante las detenciones de diversos jefes policiales imputados por graves delitos.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43055/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, solicitando al Sr. Gobernador la ejecución de la obra de pavimentación de la Ruta Nº 22, desde la localidad de San Francisco del Chañar hasta el paraje Puesto Nuevo, Dpto. Sobremonte.",
+ "tema": "Solicitando al Sr. Gobernador la ejecución de la obra de pavimentación de la Ruta Nº 22, desde la localidad de San Francisco del Chañar hasta el paraje Puesto Nuevo, Dpto. Sobremonte.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-06-18",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

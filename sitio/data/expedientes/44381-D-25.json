@@ -2,6 +2,7 @@
  "numero": "44381/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Szpanin, Nicolás, Saliba, Grich, y Molina, expresando beneplácito por el Día mundial del Bastón Blanco, que se celebra cada 15 de octubre.",
+ "tema": "Expresando beneplácito por el Día mundial del Bastón Blanco, que se celebra cada 15 de octubre.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Szpanin, Ariela Yanina",
@@ -23,7 +24,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

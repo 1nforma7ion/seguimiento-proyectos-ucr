@@ -2,6 +2,7 @@
  "numero": "40618/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Peirone y Tamis, adhiriendo al 135º aniversario de la localidad de Dalmacio Vélez Sársfield, Dpto. Tercero Arriba, y sus fiestas patronales, a celebrarse el 12 de octubre en honor a San Roque.",
+ "tema": "Adhiriendo al 135º aniversario de la localidad de Dalmacio Vélez Sársfield, Dpto. Tercero Arriba, y sus fiestas patronales, a celebrarse el 12 de octubre en honor a San Roque.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Peirone, Juan Pablo",
@@ -20,7 +21,8 @@
    "fecha": "2024-10-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

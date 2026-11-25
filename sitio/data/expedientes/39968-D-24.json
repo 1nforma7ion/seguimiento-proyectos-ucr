@@ -2,6 +2,7 @@
  "numero": "39968/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por la no resolución por parte del Poder Ejecutivo del conflicto con el gremio docente, instando a conformar una mesa de diálogo con todos los actores involucrados.",
+ "tema": "Expresando preocupación por la no resolución por parte del Poder Ejecutivo del conflicto con el gremio docente, instando a conformar una mesa de diálogo con todos los actores involucrados.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-25",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

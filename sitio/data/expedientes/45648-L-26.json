@@ -2,6 +2,7 @@
  "numero": "45648/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Llamosas, Grich y Soardo, declarando Fiesta Provincial al Festival Otoño Polifónico que se desarrolla anualmente en la ciudad de Río Cuarto.",
+ "tema": "Declarando Fiesta Provincial al Festival Otoño Polifónico que se desarrolla anualmente en la ciudad de Río Cuarto.",
  "autores": [
   "Llamosas, Juan Manuel",
   "Grich, Ariel Denis",
@@ -21,7 +22,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

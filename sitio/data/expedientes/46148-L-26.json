@@ -2,6 +2,7 @@
  "numero": "46148/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ovejeros y Contrera, incorporando la enseñanza de la “Causa Malvinas, las Islas del Atlántico Sur y la Soberanía Nacional” en el sistema educativo provincial.",
+ "tema": "Incorporando la enseñanza de la “Causa Malvinas, las Islas del Atlántico Sur y la Soberanía Nacional” en el sistema educativo provincial.",
  "autores": [
   "Ovejeros, Pablo Cesar",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

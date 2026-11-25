@@ -2,6 +2,7 @@
  "numero": "38886/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Austin, Bisotto, Bría, Briner, Contrera, Carignano, Ferrero, Gvozdenovich, Jaimes, Luna, Nicolás, Saliba, Szpanin, Almada y Peralta, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al Fondo Solidario de Atención para Enfermedades Emergentes e Innovación Tecnológica, tipos de tratamientos y prácticas que se sustentan y la recaudación mensual que obtendrá la Apross con el mismo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al Fondo Solidario de Atención para Enfermedades Emergentes e Innovación Tecnológica, tipos de tratamientos y prácticas que se sustentan y la recaudación mensual que obtendrá la Apross con el mismo.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Austin, Brenda Lis",
@@ -33,7 +34,8 @@
    "fecha": "2024-08-21",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

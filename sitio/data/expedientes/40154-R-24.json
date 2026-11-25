@@ -2,6 +2,7 @@
  "numero": "40154/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al sistema de internet con el que cuentan las escuelas rurales de la provincia, en el marco del Plan de Conectividad Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al sistema de internet con el que cuentan las escuelas rurales de la provincia, en el marco del Plan de Conectividad Córdoba.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

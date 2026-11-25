@@ -2,6 +2,7 @@
  "numero": "42759/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Contrera, Botta, Gispert, Peirone y Bisotto, expresando beneplácito por la trayectoria artística del pintor Daniel Sedita, destacando su aporte a la cultura y representación del paisaje serrano argentino.",
+ "tema": "Expresando beneplácito por la trayectoria artística del pintor Daniel Sedita, destacando su aporte a la cultura y representación del paisaje serrano argentino.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -23,7 +24,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

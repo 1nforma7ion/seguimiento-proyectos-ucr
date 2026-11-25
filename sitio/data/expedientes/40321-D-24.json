@@ -2,6 +2,7 @@
  "numero": "40321/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Bottasso, Carignano, Bría y Botta, reconociendo al tenista Cordobés Gustavo Fernández por la obtención de la medalla de bronce en los Juegos Paralímpicos de Paris 2024.",
+ "tema": "Reconociendo al tenista Cordobés Gustavo Fernández por la obtención de la medalla de bronce en los Juegos Paralímpicos de Paris 2024.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bottasso, Gustavo Armando",
@@ -22,7 +23,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

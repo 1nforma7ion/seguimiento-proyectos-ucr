@@ -2,6 +2,7 @@
  "numero": "47252/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Llamosas, Grich y Soardo, declarando de Interés Legislativo al 5º concurso de Propuestas Innovadoras \"Hackathon 2026\", a desarrollarse los días 3 y 4 de septiembre en la ciudad de Río Cuarto.",
+ "tema": "Declarando de Interés Legislativo al 5º concurso de Propuestas Innovadoras \"Hackathon 2026\", a desarrollarse los días 3 y 4 de septiembre en la ciudad de Río Cuarto.",
  "autores": [
   "Llamosas, Juan Manuel",
   "Grich, Ariel Denis",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42321/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera y los Bloques Hacemos Unidos por Córdoba y UCR, adhiriendo al 110º aniversario del Genocidio Armenio, reconociendo la memoria de las víctimas y solidarizándonos con el pueblo armenio.",
+ "tema": "Adhiriendo al 110º aniversario del Genocidio Armenio, reconociendo la memoria de las víctimas y solidarizándonos con el pueblo armenio.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bloque HACEMOS UNIDOS POR CORDOBA",
@@ -20,7 +21,8 @@
    "fecha": "2025-04-14",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-14"
  },
  "desconocidos": [],
  "linea_tiempo": [

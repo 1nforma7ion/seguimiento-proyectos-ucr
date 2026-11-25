@@ -2,6 +2,7 @@
  "numero": "43940/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Almada, adhiriendo al Día Nacional de la Juventud, que se celebra cada 16 de septiembre en memoria de La Noche de los Lápices.",
+ "tema": "Adhiriendo al Día Nacional de la Juventud, que se celebra cada 16 de septiembre en memoria de La Noche de los Lápices.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

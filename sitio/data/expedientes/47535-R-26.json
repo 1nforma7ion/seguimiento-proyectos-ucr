@@ -2,6 +2,7 @@
  "numero": "47535/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el Expediente Nº 0733-011961/2026, correspondiente a la solicitud de cotización Nº 2026/000022, para la obra “Refuncionalización Subcuenca 2 - Colonia O’Higgins”.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el Expediente Nº 0733-011961/2026, correspondiente a la solicitud de cotización Nº 2026/000022, para la obra “Refuncionalización Subcuenca 2 - Colonia O’Higgins”.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-02",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-02"
+  "caduca_el": "2027-09-02",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

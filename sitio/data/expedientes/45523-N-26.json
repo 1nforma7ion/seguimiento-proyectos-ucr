@@ -2,6 +2,7 @@
  "numero": "45523/N/26",
  "tipo": "otros",
  "extracto": "Nota de la Legisladora Contrera, solicitando la rehabilitación de los Proyectos Nros. 41745/L/25 y 41770/L/25, conforme el art. 111 del R.I.",
+ "tema": "Solicitando la rehabilitación de los Proyectos Nros. 41745/L/25 y 41770/L/25, conforme el art. 111 del R.I.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-03-05",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

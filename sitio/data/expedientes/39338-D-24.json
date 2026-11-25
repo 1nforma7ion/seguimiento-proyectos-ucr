@@ -1,0 +1,101 @@
+{
+ "numero": "39338/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bruno, Navarro Alegre y Nigro, reconociendo a la Fábrica de Alimentos Santa Clara S.A., por la obtención de la Copa Argentina de Dulce de Leche 2024 en la categoría familiar y el Premio al mejor dulce de leche de la competencia, en el marco de la exposición Todo Láctea 2024.",
+ "tema": "Reconociendo a la Fábrica de Alimentos Santa Clara S.A., por la obtención de la Copa Argentina de Dulce de Leche 2024 en la categoría familiar y el Premio al mejor dulce de leche de la competencia, en el marco de la exposición Todo Láctea 2024.",
+ "autores": [
+  "Bruno, Karina Gabriela",
+  "Navarro Alegre, Veronica Fatima",
+  "Nigro, Alfredo Mariano"
+ ],
+ "comisiones": [
+  "Industria y Minería"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28064",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=nS8Um3AiYgA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39338%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

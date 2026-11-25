@@ -2,6 +2,7 @@
  "numero": "45047/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, solicitando al Poder Ejecutivo disponga la asignación de una ambulancia de alta complejidad al hospital municipal Dr. José Sauret de la ciudad de Morteros, Dpto. San Justo.",
+ "tema": "Solicitando al Poder Ejecutivo disponga la asignación de una ambulancia de alta complejidad al hospital municipal Dr. José Sauret de la ciudad de Morteros, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-17",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-17"
+  "caduca_el": "2026-12-17",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43280/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Austin, solicitando licencia (art. 15 R.I.) desde el 21 de julio hasta el 20 de agosto de 2025.",
+ "tema": "Nota remitida por la Legisladora Austin, solicitando licencia (art. 15 R.I.) desde el 21 de julio hasta el 20 de agosto de 2025.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

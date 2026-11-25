@@ -2,6 +2,7 @@
  "numero": "43398/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Nigro, Bría y Nicolás, rechazando los aumentos dispuestos mediante la Resolución N°108/2025 de la Apross a los coseguros aplicables a prestaciones médicas e instando al Directorio a revisar los criterios de actualización en función de la inflación acumulada en la provincia.",
+ "tema": "Rechazando los aumentos dispuestos mediante la Resolución N°108/2025 de la Apross a los coseguros aplicables a prestaciones médicas e instando al Directorio a revisar los criterios de actualización en función de la inflación acumulada en la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nigro, Alfredo Mariano",
@@ -21,7 +22,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

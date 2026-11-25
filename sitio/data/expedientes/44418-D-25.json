@@ -1,0 +1,105 @@
+{
+ "numero": "44418/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Jaimes, rechazando el aumento del Valor de Gestión del Agua.",
+ "tema": "Rechazando el aumento del Valor de Gestión del Agua.",
+ "autores": [
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-10-29",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-10-29",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-29",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": "2025-10-29",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 147"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-10-29"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44418%2FD%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

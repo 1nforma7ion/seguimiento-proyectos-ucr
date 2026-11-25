@@ -2,6 +2,7 @@
  "numero": "48294/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, adhiriendo a la vigila conmemorativa por los 50 años de la Masacre de Los Surgentes, ocurrida el día 17 de octubre de 1976, en la que fueron fusilados 7 estudiantes.",
+ "tema": "Adhiriendo a la vigila conmemorativa por los 50 años de la Masacre de Los Surgentes, ocurrida el día 17 de octubre de 1976, en la que fueron fusilados 7 estudiantes.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

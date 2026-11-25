@@ -2,6 +2,7 @@
  "numero": "40982/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque UCR, repudiando los dichos del Sr. Presidente de la nación referidos al ex Presidente Raúl Alfonsín, en su visita a la ciudad de Córdoba.",
+ "tema": "Repudiando los dichos del Sr. Presidente de la nación referidos al ex Presidente Raúl Alfonsín, en su visita a la ciudad de Córdoba.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41748/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Carignano, declarando a la provincia Zona Inclusiva en Espectáculos Públicos, estableciendo que en aquellos espectáculos que congreguen más de 8.000 personas se creen espacios de inclusión de personas con discapacidades y niños con autismo.",
+ "tema": "Declarando a la provincia Zona Inclusiva en Espectáculos Públicos, estableciendo que en aquellos espectáculos que congreguen más de 8.000 personas se creen espacios de inclusión de personas con discapacidades y niños con autismo.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

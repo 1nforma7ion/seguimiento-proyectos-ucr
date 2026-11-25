@@ -2,6 +2,7 @@
  "numero": "42808/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Botta, Nigro, Agrelo, Contrera, Gispert, Peirone, Szpanin, Bría y Hernández Maqueda, reconociendo al médico cordobés, Dr. Andrés Carot, por su labor humanitaria en la organización internacional Médicos Sin Fronteras.",
+ "tema": "Reconociendo al médico cordobés, Dr. Andrés Carot, por su labor humanitaria en la organización internacional Médicos Sin Fronteras.",
  "autores": [
   "Almada, Nancy Edith",
   "Botta, Patricia Isabel",
@@ -27,7 +28,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

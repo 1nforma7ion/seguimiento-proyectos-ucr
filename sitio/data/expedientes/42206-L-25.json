@@ -2,6 +2,7 @@
  "numero": "42206/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Programa Provincial de Garantía de Alquiler para Jubilados y su correspondiente Fondo de Garantía de Alquileres .",
+ "tema": "Creando el Programa Provincial de Garantía de Alquiler para Jubilados y su correspondiente Fondo de Garantía de Alquileres .",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

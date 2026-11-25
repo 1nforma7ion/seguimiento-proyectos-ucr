@@ -2,6 +2,7 @@
  "numero": "43308/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, repudiando la decisión del Poder Ejecutivo de ceder en comodato un inmueble de propiedad del estado, correspondiente a una ex posta policial ubicada en barrio Nuestro Hogar III de la ciudad de Córdoba, a una organización no gubernamental.",
+ "tema": "Repudiando la decisión del Poder Ejecutivo de ceder en comodato un inmueble de propiedad del estado, correspondiente a una ex posta policial ubicada en barrio Nuestro Hogar III de la ciudad de Córdoba, a una organización no gubernamental.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

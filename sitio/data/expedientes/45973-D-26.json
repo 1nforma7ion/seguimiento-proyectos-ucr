@@ -2,6 +2,7 @@
  "numero": "45973/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Peirone, Contrera, Bisotto, Molina y Jaimes, reconociendo el espectáculo \"Épico Legendario\" de los artistas cordobeses Willy Magia y el Mago Matus.",
+ "tema": "Reconociendo el espectáculo \"Épico Legendario\" de los artistas cordobeses Willy Magia y el Mago Matus.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -24,7 +25,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

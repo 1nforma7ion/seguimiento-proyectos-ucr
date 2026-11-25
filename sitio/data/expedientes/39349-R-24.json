@@ -2,6 +2,7 @@
  "numero": "39349/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Jaimes, Bisotto, Szpanin, Austin, Nigro, Gudiño, Nicolás, Saliba, Bottasso, Bria, Molina, Contrera y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al estado en que se encuentran los detenidos del servicio penitenciario.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al estado en que se encuentran los detenidos del servicio penitenciario.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -37,7 +38,8 @@
    "fecha": "2025-03-19",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42845/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Almada, Contrera y Hernández Maqueda, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los Guardias Urbanos que acompañan a efectivos policiales en los móviles de patrullaje y en tareas operativas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los Guardias Urbanos que acompañan a efectivos policiales en los móviles de patrullaje y en tareas operativas.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2025-10-29",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

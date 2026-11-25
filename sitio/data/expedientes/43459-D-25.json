@@ -2,6 +2,7 @@
  "numero": "43459/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Almada y Ovejeros, adhiriendo al Día Nacional de la Educación Especial, a conmemorarse el día 9 de agosto.",
+ "tema": "Adhiriendo al Día Nacional de la Educación Especial, a conmemorarse el día 9 de agosto.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -21,7 +22,8 @@
    "fecha": "2025-07-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39010/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gudiño, Austin, Bisotto, Bottasso, Briner, Contrera, Ferrero, Gvozdenovich, Luna, Molina, Nicolás, Nigro, Saliba, Szpanin, Carignano y Gloria Pereyra, estableciendo la exclusión de la alícuota del Impuesto sobre los Ingresos Brutos para usuarios residenciales de agua y gas, derogando toda disposición que se oponga a la presente Ley.",
+ "tema": "Estableciendo la exclusión de la alícuota del Impuesto sobre los Ingresos Brutos para usuarios residenciales de agua y gas, derogando toda disposición que se oponga a la presente Ley.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Austin, Brenda Lis",
@@ -35,7 +36,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

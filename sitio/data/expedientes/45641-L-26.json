@@ -2,6 +2,7 @@
  "numero": "45641/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Briner, Valiente, Molina, Contrera, Nicolás, Carignano, Jaimes, Szpanin, Nigro, Ferrero, Bría y Bottasso, estableciendo una cláusula de garantía salarial para la protección y el sostenimiento del salario docente y del financiamiento del Sistema Educativo Provincial en todos sus niveles y modalidades.",
+ "tema": "Estableciendo una cláusula de garantía salarial para la protección y el sostenimiento del salario docente y del financiamiento del Sistema Educativo Provincial en todos sus niveles y modalidades.",
  "autores": [
   "Austin, Brenda Lis",
   "Briner, Carlos Edgardo",
@@ -31,7 +32,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

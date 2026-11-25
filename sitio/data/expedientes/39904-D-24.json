@@ -1,0 +1,101 @@
+{
+ "numero": "39904/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Bruno y Navarro Alegre, adhiriendo a la charla \"Educar y amar, amar y educar, humana coincidencia\", a desarrollarse el día 8 de agosto, en el marco del 120° aniversario de la Biblioteca Bernardino Rivadavia de la ciudad de Villa María. Dpto. Gral. San Martín.",
+ "tema": "Adhiriendo a la charla \"Educar y amar, amar y educar, humana coincidencia\", a desarrollarse el día 8 de agosto, en el marco del 120° aniversario de la Biblioteca Bernardino Rivadavia de la ciudad de Villa María. Dpto. Gral. San Martín.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Bruno, Karina Gabriela",
+  "Navarro Alegre, Veronica Fatima"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-08-07",
+  "ultimo_movimiento": {
+   "fecha": "2024-08-07",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-07",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": "2024-08-07",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28314",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=zhCNZ1QAA3g="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39904%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "42320/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Grich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el incidente ocurrido en la escuela Dichiara de la ciudad de Río Cuarto por el desprendimiento de mampostería, así como el estado estructural del mencionado establecimiento educativo e inspecciones realizadas en los últimos 5 años.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el incidente ocurrido en la escuela Dichiara de la ciudad de Río Cuarto por el desprendimiento de mampostería, así como el estado estructural del mencionado establecimiento educativo e inspecciones realizadas en los últimos 5 años.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

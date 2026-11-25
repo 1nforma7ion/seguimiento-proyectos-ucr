@@ -2,6 +2,7 @@
  "numero": "43740/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Bisotto, adhiriendo al Día mundial de la Fibrosis Quística, que se conmemora cada 8 de septiembre.",
+ "tema": "Adhiriendo al Día mundial de la Fibrosis Quística, que se conmemora cada 8 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

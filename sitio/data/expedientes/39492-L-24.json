@@ -2,6 +2,7 @@
  "numero": "39492/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gispert, Gloria Pereyra, Jaimes, Ferrero, Nicolás, Bría, Molina y Contrera, disponiendo el acceso digital, simple, amplio, irrestricto y completo de los expedientes tramitados que promuevan variaciones patrimoniales al Estado Provincial en los términos de la Ley Nº 8803 - de Acceso a conocimientos de Actos del Estado, y derogando e), d) y f) de la mencionada norma.",
+ "tema": "Disponiendo el acceso digital, simple, amplio, irrestricto y completo de los expedientes tramitados que promuevan variaciones patrimoniales al Estado Provincial en los términos de la Ley Nº 8803 - de Acceso a conocimientos de Actos del Estado, y derogando e), d) y f) de la mencionada norma.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -26,7 +27,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

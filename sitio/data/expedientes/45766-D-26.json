@@ -2,6 +2,7 @@
  "numero": "45766/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Agost Carreño y Contrera, reconociendo la práctica y difusión del Baskin (básquet inclusivo), en el marco del Día mundial del Síndrome de Down.",
+ "tema": "Reconociendo la práctica y difusión del Baskin (básquet inclusivo), en el marco del Día mundial del Síndrome de Down.",
  "autores": [
   "Agost Carreño, Oscar",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

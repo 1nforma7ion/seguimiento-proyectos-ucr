@@ -2,6 +2,7 @@
  "numero": "42477/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Almada y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al nuevo Plan Integral de Seguridad y Justicia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al nuevo Plan Integral de Seguridad y Justicia.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2025-07-01",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

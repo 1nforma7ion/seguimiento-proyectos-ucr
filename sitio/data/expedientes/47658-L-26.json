@@ -2,6 +2,7 @@
  "numero": "47658/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grosso, Austin y Briner, estableciendo parámetros de Gestión de Residuos Farmacéuticos en Domicilios, promoviendo su eliminación o disposición tras su vencimiento.",
+ "tema": "Estableciendo parámetros de Gestión de Residuos Farmacéuticos en Domicilios, promoviendo su eliminación o disposición tras su vencimiento.",
  "autores": [
   "Grosso, Gerardo Jose",
   "Austin, Brenda Lis",
@@ -21,7 +22,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

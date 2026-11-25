@@ -2,6 +2,7 @@
  "numero": "47124/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Saliba, Nicolás y Nigro, declarando la emergencia habitacional en un sector del barrio Ejército Argentino de la ciudad de Córdoba, creando una Comisión de Emergencia para el relevamiento y evaluación de daños.",
+ "tema": "Declarando la emergencia habitacional en un sector del barrio Ejército Argentino de la ciudad de Córdoba, creando una Comisión de Emergencia para el relevamiento y evaluación de daños.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Saliba, Oscar Elias Mario",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

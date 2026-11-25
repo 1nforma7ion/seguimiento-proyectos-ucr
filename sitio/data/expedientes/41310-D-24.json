@@ -1,0 +1,102 @@
+{
+ "numero": "41310/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Hernández Maqueda, Nicolás y Agrelo, expresando beneplácito por la presentación de la obra \"El camino de la servidumbre a la libertad\", de autoría de Martín Carranza Torres, a desarrollarse el día 28 de noviembre en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la presentación de la obra \"El camino de la servidumbre a la libertad\", de autoría de Martín Carranza Torres, a desarrollarse el día 28 de noviembre en la ciudad de Córdoba.",
+ "autores": [
+  "Almada, Nancy Edith",
+  "Hernandez Maqueda, Gregorio",
+  "Agrelo, Rodrigo Maria",
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-11-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-27",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-27"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": "2024-11-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 20 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 20 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29068",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=ZtEog9lXZaU="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41310%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

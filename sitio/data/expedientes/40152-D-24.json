@@ -2,6 +2,7 @@
  "numero": "40152/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Bría, Acevedo y Blangino, adhiriendo al 1° Desafío Vuelta al Parque Ansenuza, a desarrollarse del 11 al 13 de octubre en tres etapas, recorriendo más de 500 kilómetros por los Dptos. Río Primero, Río Seco y San Justo.",
+ "tema": "Adhiriendo al 1° Desafío Vuelta al Parque Ansenuza, a desarrollarse del 11 al 13 de octubre en tres etapas, recorriendo más de 500 kilómetros por los Dptos. Río Primero, Río Seco y San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

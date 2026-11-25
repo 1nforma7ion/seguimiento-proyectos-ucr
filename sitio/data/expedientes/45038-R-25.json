@@ -1,0 +1,133 @@
+{
+ "numero": "45038/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Acevedo, Szpanin y el Bloque Hacemos Unidos por Córdoba, solicitando a la Agencia Córdoba Deportes a incorporar en la muestra permanente del Museo Provincial del Deporte, elementos del plantel femenino de futbol del Club Atlético Belgrano, Campeón de Primera División 2025.",
+ "tema": "Solicitando a la Agencia Córdoba Deportes a incorporar en la muestra permanente del Museo Provincial del Deporte, elementos del plantel femenino de futbol del Club Atlético Belgrano, Campeón de Primera División 2025.",
+ "autores": [
+  "Acevedo, Maria Del Rosario",
+  "Szpanin, Ariela Yanina",
+  "Torres Lima, Facundo",
+  "Acuña, Karen Belen",
+  "Alesandri, Carlos Federico",
+  "Benchetrit, Estrella Maria",
+  "Busso, Maria Victoria",
+  "Ceballos Recalde, Mariano",
+  "Chamorro, Matias Ezequiel",
+  "Eslava, Marcelo Alejandro Jose",
+  "Fernandez, Nadia Vanesa",
+  "Figueroa, Raul Alberto",
+  "Frias, Cristian Adrian",
+  "Galo, Abraham",
+  "Heredia, Jorge Edberto",
+  "Jurich, Silvina Dolores",
+  "Knipscheer Reyna, Carlos Bernardo",
+  "Lencinas, Luis Carlos",
+  "Limia, Luis Leonardo",
+  "Llamosas, Juan Manuel",
+  "Lorenzo, Carlos Mariano",
+  "Mansilla, Doris Fatima",
+  "Navarro Alegre, Veronica Fatima",
+  "Ovejeros, Pablo Cesar",
+  "Peralta, Stella Maris",
+  "Pereyra, Cristina Alicia",
+  "Presas, Luciana Maria",
+  "Quaglino, Ileana",
+  "Rebora, Enrique Rodolfo",
+  "Rinaldi, Julieta",
+  "Romero, Delia Dolores",
+  "Russo, Antonio Edgardo",
+  "Sosa, Ricardo Roberto",
+  "Suarez, Carmen Esther",
+  "Tevez, Gustavo Alejandro"
+ ],
+ "comisiones": [
+  "Deportes"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-12-17",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-17",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-17",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": "2025-12-17",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30750",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=ltjWWMyIFFs="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45038%2FR%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "45923/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Acuña, Austin, Agüero, Martoccia, Rinaldi, Jurich, Mansilla y Navarro Alegre, adhiriendo al 39° Encuentro Plurinacional de Mujeres, Lesbianas, Trans, Travestis, Intersex, Bisexuales y no Binaries a realizarse del 10 al 12 de octubre en la ciudad de Córdoba.",
+ "tema": "Adhiriendo al 39° Encuentro Plurinacional de Mujeres, Lesbianas, Trans, Travestis, Intersex, Bisexuales y no Binaries a realizarse del 10 al 12 de octubre en la ciudad de Córdoba.",
  "autores": [
   "Acuña, Karen Belen",
   "Austin, Brenda Lis",
@@ -25,7 +26,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

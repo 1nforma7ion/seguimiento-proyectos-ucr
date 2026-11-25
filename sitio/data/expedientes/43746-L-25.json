@@ -1,0 +1,110 @@
+{
+ "numero": "43746/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Sebastián Peralta, Luna, Rossi, Flores y Molina, modificando la Ley Nº 10860 -Depósito de Automotores Secuestrados en Causas Penales-, a efectos de habilitar la asignación de automóviles y pick-ups a municipios y comunas, con destino específico al traslado de estudiantes y docentes de zonas rurales hacia los establecimientos educativos.",
+ "tema": "Modificando la Ley Nº 10860 -Depósito de Automotores Secuestrados en Causas Penales-, a efectos de habilitar la asignación de automóviles y pick-ups a municipios y comunas, con destino específico al traslado de estudiantes y docentes de zonas rurales hacia los establecimientos educativos.",
+ "autores": [
+  "Peralta, Sebastián Amadeo",
+  "Luna, Fernando Javier",
+  "Rossi, Dante Valentin",
+  "Flores, Ernesto Ramon",
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-09-03",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-03",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-09-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-09-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 147"
+  },
+  {
+   "fecha": "2025-09-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 147"
+  },
+  {
+   "fecha": "2026-09-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-03",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-09-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-09-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-09-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-09-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-09-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43746%2FL%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

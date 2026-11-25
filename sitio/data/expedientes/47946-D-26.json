@@ -2,6 +2,7 @@
  "numero": "47946/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito a Gustavo Torregiani, oriundo de la ciudad de Leones, por la obtención de la Medalla de Oro en la modalidad Cinco Quillas de los XIII Juegos Suramericanos Santa Fe 2026.",
+ "tema": "Expresando beneplácito a Gustavo Torregiani, oriundo de la ciudad de Leones, por la obtención de la Medalla de Oro en la modalidad Cinco Quillas de los XIII Juegos Suramericanos Santa Fe 2026.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

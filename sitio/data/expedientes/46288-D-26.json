@@ -2,6 +2,7 @@
  "numero": "46288/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 138º aniversario de la localidad de Devoto, Dpto. San Justo, a celebrarse el 22 de mayo.",
+ "tema": "Adhiriendo al 138º aniversario de la localidad de Devoto, Dpto. San Justo, a celebrarse el 22 de mayo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

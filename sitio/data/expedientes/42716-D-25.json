@@ -2,6 +2,7 @@
  "numero": "42716/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Austin y Rinaldi, expresando beneplácito por la asunción de la Dra. Marcela Aspell como Presidenta de la Academia Nacional de Derecho y Ciencias Sociales de Córdoba.",
+ "tema": "Expresando beneplácito por la asunción de la Dra. Marcela Aspell como Presidenta de la Academia Nacional de Derecho y Ciencias Sociales de Córdoba.",
  "autores": [
   "Austin, Brenda Lis",
   "Rinaldi, Julieta"
@@ -19,7 +20,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48672/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Ferrero y Szpanin, expresando beneplácito por la realización de la 41ª Ceremonia de Premiación del Consejo Cultural Mundial (World Cultural Council), celebrada el 2 de noviembre de 2026 en el Teatro del Libertador General San Martín de la ciudad de Córdoba, con la Universidad Nacional de Córdoba como institución anfitriona.",
+ "tema": "Expresando beneplácito por la realización de la 41ª Ceremonia de Premiación del Consejo Cultural Mundial (World Cultural Council), celebrada el 2 de noviembre de 2026 en el Teatro del Libertador General San Martín de la ciudad de Córdoba, con la Universidad Nacional de Córdoba como institución anfitriona.",
  "autores": [
   "Ferrero, Alejandra",
   "Szpanin, Ariela Yanina"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

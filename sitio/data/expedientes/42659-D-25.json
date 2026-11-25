@@ -1,0 +1,99 @@
+{
+ "numero": "42659/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Jaimes, reconociendo a la escuela rural José Ingenieros del paraje Arroyo Seco, Dpto. Calamuchita, por su 96º aniversario celebrado el pasado 6 de abril.",
+ "tema": "Reconociendo a la escuela rural José Ingenieros del paraje Arroyo Seco, Dpto. Calamuchita, por su 96º aniversario celebrado el pasado 6 de abril.",
+ "autores": [
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2025-05-28",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29623",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=PtPoPZW5kN0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42659%2FD%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "42186/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Briner, Bría, Carignano, Peirone y Hernández Maqueda, declarando la Emergencia del Sistema Público de Salud Mental de la Provincia.",
+ "tema": "Declarando la Emergencia del Sistema Público de Salud Mental de la Provincia.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Briner, Carlos Edgardo",
@@ -24,7 +25,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

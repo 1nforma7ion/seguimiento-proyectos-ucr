@@ -2,6 +2,7 @@
  "numero": "43985/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Contrera, Nigro, Nicolás, Luna, Molina, Szpanin y Saliba, expresando preocupación por la situación económico-financiera que atraviesa el sistema universitario público; adhiriendo a la 3ª Marcha Federal Universitaria, desarrollada el pasado 17 de septiembre, rechazando el veto presidencial a la Ley Nº 27795.",
+ "tema": "Expresando preocupación por la situación económico-financiera que atraviesa el sistema universitario público; adhiriendo a la 3ª Marcha Federal Universitaria, desarrollada el pasado 17 de septiembre, rechazando el veto presidencial a la Ley Nº 27795.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes",
@@ -25,7 +26,8 @@
    "fecha": "2025-09-10",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-10"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40941/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Austin y Contrera, expresando beneplácito por las conclusiones del Informe final Proyectos de Fortalecimiento del Sistema Nacional de Prevención de la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, 2º Convocatoria 2023, elaborado por la Red de Derechos Humanos en contexto de encierro; solicitando se avance con la puesta en marcha del mecanismo local de prevención de la tortura.",
+ "tema": "Expresando beneplácito por las conclusiones del Informe final Proyectos de Fortalecimiento del Sistema Nacional de Prevención de la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, 2º Convocatoria 2023, elaborado por la Red de Derechos Humanos en contexto de encierro; solicitando se avance con la puesta en marcha del mecanismo local de prevención de la tortura.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

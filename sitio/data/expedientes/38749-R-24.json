@@ -1,0 +1,112 @@
+{
+ "numero": "38749/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por la Legisladora Szpanin, solicitando al Poder Ejecutivo informe (Art. 102 C.P) sobre las acciones desarrolladas en el mantenimiento y limpieza de canales de desagüe y de distribución de agua para prevenir larvas y pupas de mosquitos transmisores de dengue, chikungunya y zika.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P) sobre las acciones desarrolladas en el mantenimiento y limpieza de canales de desagüe y de distribución de agua para prevenir larvas y pupas de mosquitos transmisores de dengue, chikungunya y zika.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos",
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2024-03-13",
+  "ultimo_movimiento": {
+   "fecha": "2024-08-07",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": "2024-08-07",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 11 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por acuerdo de los bloques",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 11 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-07"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Acuerdo De Los Bloques",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 3",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38749%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

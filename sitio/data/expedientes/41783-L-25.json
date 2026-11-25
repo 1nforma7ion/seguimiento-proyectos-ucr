@@ -2,6 +2,7 @@
  "numero": "41783/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Austin y Szpanin, modificando la Ley Nº 8198 (Declaraciones juradas patrimoniales de funcionarios públicos) y la Ley Nº 8102 en lo referido a la transparencia y mecanismos de control en la función pública.",
+ "tema": "Modificando la Ley Nº 8198 (Declaraciones juradas patrimoniales de funcionarios públicos) y la Ley Nº 8102 en lo referido a la transparencia y mecanismos de control en la función pública.",
  "autores": [
   "Austin, Brenda Lis",
   "Szpanin, Ariela Yanina"
@@ -21,7 +22,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

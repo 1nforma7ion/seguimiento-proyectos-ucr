@@ -2,6 +2,7 @@
  "numero": "43900/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Bría, solicitando rehabilitar el Proyecto N° 39502/L/24, conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por el Legislador Bría, solicitando rehabilitar el Proyecto N° 39502/L/24, conforme el art. 111 del R.I.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-10-01",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

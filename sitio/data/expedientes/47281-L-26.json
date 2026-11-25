@@ -2,6 +2,7 @@
  "numero": "47281/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin y Galo, prohibiendo la fabricación, comercialización y uso de jaulas tramperas y cualquier otro dispositivo cuyo destino sea la captura ilegal y/o cautiverio de fauna silvestre.",
+ "tema": "Prohibiendo la fabricación, comercialización y uso de jaulas tramperas y cualquier otro dispositivo cuyo destino sea la captura ilegal y/o cautiverio de fauna silvestre.",
  "autores": [
   "Austin, Brenda Lis",
   "Galo, Abraham"
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

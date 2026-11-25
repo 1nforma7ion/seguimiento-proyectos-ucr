@@ -2,6 +2,7 @@
  "numero": "48028/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, modificando la Ley N° 10793, de Juego en Línea, prohibiendo la publicidad, promoción o cualquier otra acción de comunicación comercial vinculada con juegos de azar y apuestas en línea.",
+ "tema": "Modificando la Ley N° 10793, de Juego en Línea, prohibiendo la publicidad, promoción o cualquier otra acción de comunicación comercial vinculada con juegos de azar y apuestas en línea.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

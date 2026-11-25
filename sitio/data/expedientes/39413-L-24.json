@@ -2,6 +2,7 @@
  "numero": "39413/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Rossi, Peralta, Carmen Pereyra, Carignano, Jaimes y Contrera, creando el Régimen Especial de Promoción del Empleo para Personas Mayores de 45 años.",
+ "tema": "Creando el Régimen Especial de Promoción del Empleo para Personas Mayores de 45 años.",
  "autores": [
   "Rossi, Dante Valentin",
   "Peralta, Sebastián Amadeo",
@@ -24,7 +25,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

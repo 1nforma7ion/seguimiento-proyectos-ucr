@@ -2,6 +2,7 @@
  "numero": "40498/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Bottasso y Peirone, promoviendo actividades conmemorativas por las explosiones de la Fábrica Militar de Río Tercero de los días 3 y 24 de noviembre de 1995, estableciendo el 3 de noviembre de cada año como “Día de Conmemoración y Homenaje a las Víctimas del atentado a la Fábrica Militar de Río Tercero\".",
+ "tema": "Promoviendo actividades conmemorativas por las explosiones de la Fábrica Militar de Río Tercero de los días 3 y 24 de noviembre de 1995, estableciendo el 3 de noviembre de cada año como “Día de Conmemoración y Homenaje a las Víctimas del atentado a la Fábrica Militar de Río Tercero\".",
  "autores": [
   "Austin, Brenda Lis",
   "Bottasso, Gustavo Armando",
@@ -21,7 +22,8 @@
    "fecha": "2024-11-01",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40049/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por el 80º aniversario del Área Material Río Cuarto, celebrado el pasado 10 de agosto en la localidad de Las Higueras, Dpto. Río Cuarto.",
+ "tema": "Expresando beneplácito por el 80º aniversario del Área Material Río Cuarto, celebrado el pasado 10 de agosto en la localidad de Las Higueras, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

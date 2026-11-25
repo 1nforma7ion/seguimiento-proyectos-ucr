@@ -2,6 +2,7 @@
  "numero": "48278/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Navarro Alegre, expresando beneplácito al Día Mundial del Bastón Blanco, que se conmemora cada 15 de octubre.",
+ "tema": "Expresando beneplácito al Día Mundial del Bastón Blanco, que se conmemora cada 15 de octubre.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Navarro Alegre, Veronica Fatima"
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

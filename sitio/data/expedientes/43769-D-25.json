@@ -2,6 +2,7 @@
  "numero": "43769/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a la 91ª Exposición Nacional Ganadera, Comercial, Industrial y de Servicios de la ciudad de Río Cuarto, a desarrollarse del 10 al 14 de septiembre.",
+ "tema": "Adhiriendo a la 91ª Exposición Nacional Ganadera, Comercial, Industrial y de Servicios de la ciudad de Río Cuarto, a desarrollarse del 10 al 14 de septiembre.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

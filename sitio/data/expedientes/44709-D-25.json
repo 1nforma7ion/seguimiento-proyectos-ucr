@@ -2,6 +2,7 @@
  "numero": "44709/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, reconociendo la trayectoria artística, docente y cultural de la Sra. Gladys Caporale de Raviolo, oriunda de la localidad de Freyre, y referente de la danza folklórica de todo el Dpto. San Justo.",
+ "tema": "Reconociendo la trayectoria artística, docente y cultural de la Sra. Gladys Caporale de Raviolo, oriunda de la localidad de Freyre, y referente de la danza folklórica de todo el Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

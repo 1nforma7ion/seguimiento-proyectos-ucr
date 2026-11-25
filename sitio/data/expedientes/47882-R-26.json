@@ -2,6 +2,7 @@
  "numero": "47882/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la contratación del servicio de transporte de pasajeros con chofer correspondiente a la Subasta Electrónica - Solicitud de Cotización Nº 2026/000006, Expediente Nº 0951-222375/2026.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la contratación del servicio de transporte de pasajeros con chofer correspondiente a la Subasta Electrónica - Solicitud de Cotización Nº 2026/000006, Expediente Nº 0951-222375/2026.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

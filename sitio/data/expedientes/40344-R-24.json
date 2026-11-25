@@ -2,6 +2,7 @@
  "numero": "40344/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a incendios forestales de los años 2023 y 2024, y respecto al Plan Anual y al presupuesto asignado.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a incendios forestales de los años 2023 y 2024, y respecto al Plan Anual y al presupuesto asignado.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

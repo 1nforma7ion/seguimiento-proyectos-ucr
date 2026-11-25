@@ -1,0 +1,105 @@
+{
+ "numero": "43262/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Luna, solicitando al Poder Ejecutivo arbitre las medidas para la repavimentación de la Ruta A-175, en los 5 kilómetros previos a la localidad de Alto de Los Quebrachos.",
+ "tema": "Solicitando al Poder Ejecutivo arbitre las medidas para la repavimentación de la Ruta A-175, en los 5 kilómetros previos a la localidad de Alto de Los Quebrachos.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Obras Públicas y Vivienda"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-07-23",
+  "ultimo_movimiento": {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43262%2FR%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

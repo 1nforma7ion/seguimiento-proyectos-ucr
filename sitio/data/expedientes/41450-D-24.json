@@ -2,6 +2,7 @@
  "numero": "41450/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Martoccia, Gloria Pereyra, Almada, Szpanin, Austin, Ferrero, Nicolás, Grich, Bottasso y Contrera, reconociendo a la estudiante Julia Valentina Ferreyra, residente de la localidad de Valle Hermoso, por la obtención de Medalla de Plata en la 16° Olimpíada Latinoamericana de Astronomía y Astronáutica desarrollada del 25 al 29 de noviembre en la República de Costa Rica.",
+ "tema": "Reconociendo a la estudiante Julia Valentina Ferreyra, residente de la localidad de Valle Hermoso, por la obtención de Medalla de Plata en la 16° Olimpíada Latinoamericana de Astronomía y Astronáutica desarrollada del 25 al 29 de noviembre en la República de Costa Rica.",
  "autores": [
   "Gispert, Walter Oscar",
   "Martoccia, Viviana Raquel Del Valle",
@@ -28,7 +29,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

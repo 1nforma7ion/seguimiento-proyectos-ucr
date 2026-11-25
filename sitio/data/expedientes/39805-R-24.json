@@ -2,6 +2,7 @@
  "numero": "39805/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Botta, Nostrala y Ferrero, citando al Sr. Ministro de Economía y Gestión Pública (Art. 101 C.P.) o al Sr. Presidente de la Lotería de Córdoba S.E. para que informen detalladamente respecto del programa de reconversión voluntaria de agencias y puesta en funcionamiento de la agencia de entretenimiento modelo.",
+ "tema": "Citando al Sr. Ministro de Economía y Gestión Pública (Art. 101 C.P.) o al Sr. Presidente de la Lotería de Córdoba S.E. para que informen detalladamente respecto del programa de reconversión voluntaria de agencias y puesta en funcionamiento de la agencia de entretenimiento modelo.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Botta, Patricia Isabel",
@@ -21,7 +22,8 @@
    "fecha": "2025-12-11",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-11"
+  "caduca_el": "2026-12-11",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

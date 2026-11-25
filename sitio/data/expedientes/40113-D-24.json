@@ -2,6 +2,7 @@
  "numero": "40113/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Gvozdenovich, expresando beneplácito por el 127° aniversario de la localidad de General Baldissera, Dpto. Marcos Juárez, a celebrarse el día 30 de agosto.",
+ "tema": "Expresando beneplácito por el 127° aniversario de la localidad de General Baldissera, Dpto. Marcos Juárez, a celebrarse el día 30 de agosto.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

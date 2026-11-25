@@ -1,0 +1,100 @@
+{
+ "numero": "45193/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Peirone, expresando beneplácito por el 40º Festival un Canto a la Vida, desarrollado los días 9 y 10 de enero pasados en la localidad de Embalse, Dpto. Calamuchita.",
+ "tema": "Expresando beneplácito por el 40º Festival un Canto a la Vida, desarrollado los días 9 y 10 de enero pasados en la localidad de Embalse, Dpto. Calamuchita.",
+ "autores": [
+  "Peirone, Juan Pablo",
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-02-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-04",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-04"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30799",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=XeT9h5RJwbA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45193%2FD%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

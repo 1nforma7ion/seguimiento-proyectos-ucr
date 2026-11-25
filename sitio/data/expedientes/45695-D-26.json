@@ -2,6 +2,7 @@
  "numero": "45695/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Botta, Bisotto, Romero y Bría, adhiriendo al Mes de Concientización sobre el Cáncer de Colon, que se conmemora en marzo; reconociendo el trabajo de la Asociación de Gastroenterología de Córdoba.",
+ "tema": "Adhiriendo al Mes de Concientización sobre el Cáncer de Colon, que se conmemora en marzo; reconociendo el trabajo de la Asociación de Gastroenterología de Córdoba.",
  "autores": [
   "Botta, Patricia Isabel",
   "Bisotto, Graciela Maria",
@@ -21,7 +22,8 @@
    "fecha": "2026-03-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39564/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Luna, Jaimes, Bisotto, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Saliba, Bría, Contrera y Carignano, solicitando al Ministerio de Seguridad implemente herramientas tecnológicas, como cámaras de vigilancia y detectores de patente, en la entrada de las localidades de la provincia, para así poder controlar y brindar información certera ante un accidente o hecho delictivo.",
+ "tema": "Solicitando al Ministerio de Seguridad implemente herramientas tecnológicas, como cámaras de vigilancia y detectores de patente, en la entrada de las localidades de la provincia, para así poder controlar y brindar información certera ante un accidente o hecho delictivo.",
  "autores": [
   "Luna, Fernando Javier",
   "Jaimes, Mauricio Sebastian",
@@ -31,7 +32,8 @@
    "fecha": "2025-06-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

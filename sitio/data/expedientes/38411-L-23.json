@@ -2,6 +2,7 @@
  "numero": "38411/L/23",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Coalición Cívica ARI, estableciendo un marco genérico y regulatorio para la determinación de principios, deberes, prohibiciones e incompatibilidades respecto al desarrollo del servicio público en la provincia de Córdoba, modificando artículos de la Ley Nº 8198, de Declaración Jurada Patrimonial de Funcionarios y Magistrados.",
+ "tema": "Estableciendo un marco genérico y regulatorio para la determinación de principios, deberes, prohibiciones e incompatibilidades respecto al desarrollo del servicio público en la provincia de Córdoba, modificando artículos de la Ley Nº 8198, de Declaración Jurada Patrimonial de Funcionarios y Magistrados.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

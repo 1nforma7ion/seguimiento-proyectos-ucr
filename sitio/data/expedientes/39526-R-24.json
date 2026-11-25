@@ -2,6 +2,7 @@
  "numero": "39526/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano y Gvozdenovich, reiterando el pedido de que se incluya con urgencia la señalización de la obra del cruce de las rutas Ruta 12 y 11 del Dpto. Marcos Juárez.",
+ "tema": "Reiterando el pedido de que se incluya con urgencia la señalización de la obra del cruce de las rutas Ruta 12 y 11 del Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

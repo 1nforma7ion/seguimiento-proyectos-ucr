@@ -2,6 +2,7 @@
  "numero": "39522/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Szpanin y el Bloque UCR, instruyendo a los Senadores Nacionales por Córdoba (Art. 104 inc. 5) C.P.) para que acompañen con su voto afirmativo la recomposición de las jubilaciones, aprobada por la H. Cámara de Diputados de la Nación el día 5 de junio.",
+ "tema": "Instruyendo a los Senadores Nacionales por Córdoba (Art. 104 inc. 5) C.P.) para que acompañen con su voto afirmativo la recomposición de las jubilaciones, aprobada por la H. Cámara de Diputados de la Nación el día 5 de junio.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

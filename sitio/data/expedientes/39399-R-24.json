@@ -2,6 +2,7 @@
  "numero": "39399/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Saliba y Grich, solicitando al Poder Ejecutivo incluya en el Presupuesto Provincial del próximo año recursos para la ejecución de la pavimentación, demarcación horizontal, señalización vertical y continuación de la Ruta N° 27, en el tramo que une la localidad de Villa Valeria, Dpto. General Roca, hasta el límite con la provincia de San Luis.",
+ "tema": "Solicitando al Poder Ejecutivo incluya en el Presupuesto Provincial del próximo año recursos para la ejecución de la pavimentación, demarcación horizontal, señalización vertical y continuación de la Ruta N° 27, en el tramo que une la localidad de Villa Valeria, Dpto. General Roca, hasta el límite con la provincia de San Luis.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-02",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-02"
+  "caduca_el": "2027-09-02",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "38537/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Contrera, Carignano, Gvozdenovich, Nicolás, Valiente, Ferrero, Luna, Bottaso, Molina y Agrelo, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a las personas inscriptas en el Registro de Pacientes Electrodependientes, Ley N° 10511.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a las personas inscriptas en el Registro de Pacientes Electrodependientes, Ley N° 10511.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes",
@@ -28,7 +29,8 @@
    "fecha": "2024-04-17",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

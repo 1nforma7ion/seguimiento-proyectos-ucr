@@ -2,6 +2,7 @@
  "numero": "46012/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grosso, Austin, Bría, Carignano, Ferrero, Grich, Szpanin, Valiente, Almada, Peralta, Gvozdenovich, Contrera, Gispert, Botta y Briner, creando el Fondo Provincial de Sostenimiento para Prestadores de Transporte para Personas con Discapacidad.",
+ "tema": "Creando el Fondo Provincial de Sostenimiento para Prestadores de Transporte para Personas con Discapacidad.",
  "autores": [
   "Grosso, Gerardo Jose",
   "Austin, Brenda Lis",
@@ -34,7 +35,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

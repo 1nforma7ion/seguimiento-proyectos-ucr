@@ -2,6 +2,7 @@
  "numero": "44793/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Gvozdenovich, Contrera y Bisotto, expresando beneplácito al Taller Protegido CE.CA.L y a la muestra fotográfica “Miradas que Incluyen”, a desarrollarse desde el 25 de noviembre en la Legislatura de Córdoba.",
+ "tema": "Expresando beneplácito al Taller Protegido CE.CA.L y a la muestra fotográfica “Miradas que Incluyen”, a desarrollarse desde el 25 de noviembre en la Legislatura de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo",
@@ -21,7 +22,8 @@
    "fecha": "2025-11-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

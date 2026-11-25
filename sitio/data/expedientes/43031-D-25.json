@@ -2,6 +2,7 @@
  "numero": "43031/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ferrero, Grich, Saliba y Bisotto, reconociendo a la Mutual Médica Río Cuarto por la implementación del programa Puntos Azules, iniciativa que promueve la capacitación gratuita en primeros auxilios y reanimación cardiopulmonar.",
+ "tema": "Reconociendo a la Mutual Médica Río Cuarto por la implementación del programa Puntos Azules, iniciativa que promueve la capacitación gratuita en primeros auxilios y reanimación cardiopulmonar.",
  "autores": [
   "Ferrero, Alejandra",
   "Grich, Ariel Denis",
@@ -21,7 +22,8 @@
    "fecha": "2025-06-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

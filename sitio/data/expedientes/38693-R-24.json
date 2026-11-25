@@ -2,6 +2,7 @@
  "numero": "38693/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Almada, Juez, Nostrala, Gispert, Gloria Pereyra, Hernández Maqueda, Jaimes, Bisotto, Szpanin, Austin, Nigro, Gudiño, Nicolás, Saliba, Grich, Briner, Bottasso y Sala, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre los vuelos de la flota provincial desde el 10 de diciembre de 2023 , costos de los mismos y las razones por las que el Sr, Gobernador no utiliza vuelos comerciales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre los vuelos de la flota provincial desde el 10 de diciembre de 2023 , costos de los mismos y las razones por las que el Sr, Gobernador no utiliza vuelos comerciales.",
  "autores": [
   "Almada, Nancy Edith",
   "Juez, Daniel Alejandro",
@@ -35,7 +36,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

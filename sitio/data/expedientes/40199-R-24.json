@@ -2,6 +2,7 @@
  "numero": "40199/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Szpanin, Ferrero y Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a las actividades desempeñadas por los ingenieros David Aiassa y Jorge Dean en la EPEC, y requiriendo remisión de documentación de la empresa Cyrus SRL.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a las actividades desempeñadas por los ingenieros David Aiassa y Jorge Dean en la EPEC, y requiriendo remisión de documentación de la empresa Cyrus SRL.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2025-09-04",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

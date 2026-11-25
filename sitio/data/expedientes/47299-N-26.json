@@ -2,6 +2,7 @@
  "numero": "47299/N/26",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Gudiño, solicitando la rehabilitación (art. 111 del R.I.) de los proyectos Nº 43136/L/25 y 35612/L/22.",
+ "tema": "Nota remitida por la Legisladora Gudiño, solicitando la rehabilitación (art. 111 del R.I.) de los proyectos Nº 43136/L/25 y 35612/L/22.",
  "autores": [
   "Gudiño, Daniela Soledad"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-08-12",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,79 @@
+{
+ "numero": "46122/N/26",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Valiente, solicitando la rehabilitación de los Proyectos Nros. 41695/R/25 y 42184/R/25, conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por el Legislador Valiente, solicitando la rehabilitación de los Proyectos Nros. 41695/R/25 y 42184/R/25, conforme el art. 111 del R.I.",
+ "autores": [
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2026-05-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-05",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 7 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 148"
+  },
+  {
+   "fecha": "2026-05-05",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 7 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 7 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 7 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-05"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46122%2FN%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

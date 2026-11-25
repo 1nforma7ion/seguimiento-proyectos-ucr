@@ -2,6 +2,7 @@
  "numero": "47327/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 80º aniversario del centro educativo rural General San Martín de Colonia Milessi, Dpto. San Justo, a celebrarse el día 23 de agosto.",
+ "tema": "Adhiriendo al 80º aniversario del centro educativo rural General San Martín de Colonia Milessi, Dpto. San Justo, a celebrarse el día 23 de agosto.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

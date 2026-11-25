@@ -2,6 +2,7 @@
  "numero": "41985/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por la presentación del libro Un Mundo en la Mirada, de autoría de Graciela Ferreyra de Viche.",
+ "tema": "Expresando beneplácito por la presentación del libro Un Mundo en la Mirada, de autoría de Graciela Ferreyra de Viche.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

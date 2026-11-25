@@ -2,6 +2,7 @@
  "numero": "39067/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Austin, Contrera, Gudiño, Molina, Nicolás, Saliba y Szpanin, repudiando la política carcelaria de la provincia ante la muerte de un interno por torturas en la cárcel de Bouwer, solicitando al Poder Ejecutivo que arbitre los medios para que la Justicia determine los responsables.",
+ "tema": "Repudiando la política carcelaria de la provincia ante la muerte de un interno por torturas en la cárcel de Bouwer, solicitando al Poder Ejecutivo que arbitre los medios para que la Justicia determine los responsables.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Austin, Brenda Lis",
@@ -25,7 +26,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43941/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por el 112º aniversario de la ciudad de Río Tercero, Dpto. Tercero Arriba, conmemorado el pasado 9 de septiembre.",
+ "tema": "Expresando beneplácito por el 112º aniversario de la ciudad de Río Tercero, Dpto. Tercero Arriba, conmemorado el pasado 9 de septiembre.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40120/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Saliba, Briner, Bottasso, Bría, Molina, Contrera y Carignano, citando al Sr. Ministro de Justicia y Trabajo (Art. 101 C.P.) para que informe sobre la situación penitenciaria de la provincia y, en particular, del Penal de Bouwer.",
+ "tema": "Citando al Sr. Ministro de Justicia y Trabajo (Art. 101 C.P.) para que informe sobre la situación penitenciaria de la provincia y, en particular, del Penal de Bouwer.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -31,7 +32,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45361/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo al centenario del Club Sportivo y Biblioteca Doctor Lautaro Roncedo de la localidad de Alcira Gigena, Dpto. Río Cuarto, a celebrarse en el mes de marzo.",
+ "tema": "Adhiriendo al centenario del Club Sportivo y Biblioteca Doctor Lautaro Roncedo de la localidad de Alcira Gigena, Dpto. Río Cuarto, a celebrarse en el mes de marzo.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

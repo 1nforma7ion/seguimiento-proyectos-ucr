@@ -2,6 +2,7 @@
  "numero": "45526/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Russo, Carrizo Robin, Flores y Bría, expresando preocupación por la situación que atraviesan las farmacias como consecuencia de los retrasos en los pagos por parte del PAMI, comprometiendo la provisión de medicamentos a jubilados y pensionados.",
+ "tema": "Expresando preocupación por la situación que atraviesan las farmacias como consecuencia de los retrasos en los pagos por parte del PAMI, comprometiendo la provisión de medicamentos a jubilados y pensionados.",
  "autores": [
   "Russo, Antonio Edgardo",
   "Carrizo Robin, Elisa Belen",
@@ -21,7 +22,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

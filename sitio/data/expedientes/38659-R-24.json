@@ -2,6 +2,7 @@
  "numero": "38659/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Jaimes, Bisotto, Austin, Ferrero, Gvozdenovich, Nigro, Nicolás, Saliba, Bottasso, Bría, Molina y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al estado de las subestaciones eléctricas del sistema eléctrico provincial, así como medidas de prevención de accidentes, planes de evacuación y de contingencias.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al estado de las subestaciones eléctricas del sistema eléctrico provincial, así como medidas de prevención de accidentes, planes de evacuación y de contingencias.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2024-07-24",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,86 @@
+{
+ "numero": "47045/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Hernández Maqueda, Botta, Grosso y Jaimes, adhiriendo la Provincia al Decreto Nacional Nº 62/2025, modificatorio del artículo 11 de la Ley Nacional Nº 26743 de Identidad de Género.",
+ "tema": "Adhiriendo la Provincia al Decreto Nacional Nº 62/2025, modificatorio del artículo 11 de la Ley Nacional Nº 26743 de Identidad de Género.",
+ "autores": [
+  "Hernandez Maqueda, Gregorio",
+  "Botta, Patricia Isabel",
+  "Grosso, Gerardo Jose",
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Género y Diversidad",
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-08-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47045%2FL%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "41123/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Acevedo, Almada, Bisotto, Contrera, Szpanin, Bría, Luna, Gloria Pereyra y el Bloque Hacemos Unidos por Córdoba, declarando de Interés Cultural, Religioso y Turístico la traza denominada \"El Camino de Brochero\".",
+ "tema": "Declarando de Interés Cultural, Religioso y Turístico la traza denominada \"El Camino de Brochero\".",
  "autores": [
   "Acevedo, Maria Del Rosario",
   "Almada, Nancy Edith",
@@ -29,7 +30,8 @@
    "fecha": "2024-11-22",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

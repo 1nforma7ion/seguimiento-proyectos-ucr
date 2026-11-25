@@ -2,6 +2,7 @@
  "numero": "43875/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Acuña, Chamorro y Contrera, reconociendo la figura de Sonia Torres, referente de Abuelas de Plaza de Mayo, en el marco del aniversario de su natalicio conmemorado el pasado 2 de septiembre.",
+ "tema": "Reconociendo la figura de Sonia Torres, referente de Abuelas de Plaza de Mayo, en el marco del aniversario de su natalicio conmemorado el pasado 2 de septiembre.",
  "autores": [
   "Acuña, Karen Belen",
   "Chamorro, Matias Ezequiel",
@@ -20,7 +21,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

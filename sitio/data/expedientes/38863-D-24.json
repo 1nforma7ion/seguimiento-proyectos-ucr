@@ -2,6 +2,7 @@
  "numero": "38863/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, adhiriendo al centenario de la Parroquia San José de la ciudad de Hernando, Dpto. Tercero Arriba, a celebrarse el día 19 de marzo.",
+ "tema": "Adhiriendo al centenario de la Parroquia San José de la ciudad de Hernando, Dpto. Tercero Arriba, a celebrarse el día 19 de marzo.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-03-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45992/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los hechos ocurridos en el Hospital de Villa Dolores y la situación del sistema de atención en salud mental.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los hechos ocurridos en el Hospital de Villa Dolores y la situación del sistema de atención en salud mental.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

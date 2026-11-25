@@ -2,6 +2,7 @@
  "numero": "39803/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, prohibiendo toda publicidad, promoción y venta de productos alimenticios que no respeten el contenido nutricional previsto para la carne y la leche auténtica, original y natural, y que puedan ser considerados como alimentos cárnicos o lácteos.",
+ "tema": "Prohibiendo toda publicidad, promoción y venta de productos alimenticios que no respeten el contenido nutricional previsto para la carne y la leche auténtica, original y natural, y que puedan ser considerados como alimentos cárnicos o lácteos.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

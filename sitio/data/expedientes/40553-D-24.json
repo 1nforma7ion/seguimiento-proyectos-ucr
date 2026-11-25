@@ -2,6 +2,7 @@
  "numero": "40553/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ovejeros, Acevedo, Figueroa, Stella Peralta, Blangino, Austin, Botta, Gispert, Acuña y Ceballos Recalde, reconociendo al Dr. José Alberto Riveros de la Vega por su dedicación a la tarea científico-tecnológica y la generación de avances que impactan en el desarrollo social y productivo.",
+ "tema": "Reconociendo al Dr. José Alberto Riveros de la Vega por su dedicación a la tarea científico-tecnológica y la generación de avances que impactan en el desarrollo social y productivo.",
  "autores": [
   "Ovejeros, Pablo Cesar",
   "Acevedo, Maria Del Rosario",
@@ -27,7 +28,8 @@
    "fecha": "2024-10-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

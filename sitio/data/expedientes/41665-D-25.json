@@ -2,6 +2,7 @@
  "numero": "41665/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Bría y Quaglino, adhiriendo al 22º Festival del Humor, la Canción y la Buena Mesa, a desarrollarse los días 15 y 16 de febrero en la ciudad de San Francisco, Dpto. San Justo.",
+ "tema": "Adhiriendo al 22º Festival del Humor, la Canción y la Buena Mesa, a desarrollarse los días 15 y 16 de febrero en la ciudad de San Francisco, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2025-02-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48627/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, declarando de Interés Legislativo la participación de la Lic. Patricia Gloria Valdez y el Lic. Esteban Luis Rizzi, codirectores de los proyectos Moebius Performance y Habeas Corpus Performance Artcuyo, en el International Behavioural Art Festival X 2026 a realizarse en diciembre de 2026 en Uttarakhand, India.",
+ "tema": "Declarando de Interés Legislativo la participación de la Lic. Patricia Gloria Valdez y el Lic. Esteban Luis Rizzi, codirectores de los proyectos Moebius Performance y Habeas Corpus Performance Artcuyo, en el International Behavioural Art Festival X 2026 a realizarse en diciembre de 2026 en Uttarakhand, India.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43099/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Nigro, Bruno, Navarro Alegre y Contrera, expresando beneplácito por el desarrollo del test para prevenir las complicaciones de la Esteatosis Hepática No Alcohólica, desarrollado por Laboratorios Gornitz de la ciudad de Villa María, Dpto. General San Martín.",
+ "tema": "Expresando beneplácito por el desarrollo del test para prevenir las complicaciones de la Esteatosis Hepática No Alcohólica, desarrollado por Laboratorios Gornitz de la ciudad de Villa María, Dpto. General San Martín.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Nigro, Alfredo Mariano",
@@ -22,7 +23,8 @@
    "fecha": "2025-07-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39589/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano y Gvozdenovich, solicitando al Poder Ejecutivo arbitre los medios para entregar una ayuda económica al Taller municipal Protegido Ce.Ca.L de la ciudad de Marcos Juárez, para solventar la reparación del techo y cielo raso.",
+ "tema": "Solicitando al Poder Ejecutivo arbitre los medios para entregar una ayuda económica al Taller municipal Protegido Ce.Ca.L de la ciudad de Marcos Juárez, para solventar la reparación del techo y cielo raso.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

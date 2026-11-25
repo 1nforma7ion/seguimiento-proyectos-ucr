@@ -2,6 +2,7 @@
  "numero": "44613/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Nicolás, Szpanin, Ferrero, Grich y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los equipos de alta complejidad para diagnóstico por imagen del Hospital Córdoba de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los equipos de alta complejidad para diagnóstico por imagen del Hospital Córdoba de la ciudad de Córdoba.",
  "autores": [
   "Bria, Jose Alberto",
   "Nicolas, Miguel Osvaldo",
@@ -23,7 +24,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

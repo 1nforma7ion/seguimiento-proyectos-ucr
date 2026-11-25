@@ -2,6 +2,7 @@
  "numero": "45972/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Peirone, Contrera, Molina, Botta, Bisotto y Grosso, expresando beneplácito por la publicación del libro “De tal palo, tal astilla”, de autoría de Evangelina Ficetti y Darío Gerbaudo por su aporte al acompañamiento de las familias en los procesos de crianza y formación.",
+ "tema": "Expresando beneplácito por la publicación del libro “De tal palo, tal astilla”, de autoría de Evangelina Ficetti y Darío Gerbaudo por su aporte al acompañamiento de las familias en los procesos de crianza y formación.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -25,7 +26,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

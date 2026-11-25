@@ -2,6 +2,7 @@
  "numero": "43770/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a la 36ª Exposición Agrícola, Ganadera, Industrial, Comercial, Artesanal y de Transporte de Adelia María, Dpto. Río Cuarto, a desarrollarse del 2 al 5 de octubre.",
+ "tema": "Adhiriendo a la 36ª Exposición Agrícola, Ganadera, Industrial, Comercial, Artesanal y de Transporte de Adelia María, Dpto. Río Cuarto, a desarrollarse del 2 al 5 de octubre.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

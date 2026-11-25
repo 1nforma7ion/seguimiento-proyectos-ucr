@@ -2,6 +2,7 @@
  "numero": "41946/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Szpanin, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera, Carignano y Bisotto, autorizando un aporte provincial mensual del 1% de los fondos correspondientes a la coparticipación, para ser destinado a la creación de un Fondo de Refuerzo al sistema de salud provincial (Fofindes) para municipios y comunas.",
+ "tema": "Autorizando un aporte provincial mensual del 1% de los fondos correspondientes a la coparticipación, para ser destinado a la creación de un Fondo de Refuerzo al sistema de salud provincial (Fofindes) para municipios y comunas.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Szpanin, Ariela Yanina",
@@ -34,7 +35,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

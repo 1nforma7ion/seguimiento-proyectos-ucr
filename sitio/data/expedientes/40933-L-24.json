@@ -2,6 +2,7 @@
  "numero": "40933/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, regulando la designación de funcionarios públicos.",
+ "tema": "Regulando la designación de funcionarios públicos.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-02-03",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

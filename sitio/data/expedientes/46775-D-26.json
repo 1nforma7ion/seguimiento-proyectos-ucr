@@ -2,6 +2,7 @@
  "numero": "46775/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Gvozdenovich, Szpanin, Sala, Bría y Botta, reconociendo a los deportistas cordobeses Leonardo Seculini y Lucas Whelan por la obtención del Campeonato Mundial de Básquet para Atletas con Síndrome de Down disputado en Hungría, integrando la Selección Argentina.",
+ "tema": "Reconociendo a los deportistas cordobeses Leonardo Seculini y Lucas Whelan por la obtención del Campeonato Mundial de Básquet para Atletas con Síndrome de Down disputado en Hungría, integrando la Selección Argentina.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo",
@@ -23,7 +24,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48368/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, Llamosas y Grich, expresando beneplácito por el 126º aniversario y conmemoración de las fiestas patronales de la comuna de Suco, Dpto. Río Cuarto, celebrados el día 18 de octubre en honor a San Lucas Evangelista.",
+ "tema": "Expresando beneplácito por el 126º aniversario y conmemoración de las fiestas patronales de la comuna de Suco, Dpto. Río Cuarto, celebrados el día 18 de octubre en honor a San Lucas Evangelista.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

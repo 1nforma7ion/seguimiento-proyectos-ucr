@@ -2,6 +2,7 @@
  "numero": "43383/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Gudiño, reconociendo a la academia de danzas folklóricas Martín Miguel de Güemes por su colaboración en celebraciones que mantienen nuestra cultura y costumbres.",
+ "tema": "Reconociendo a la academia de danzas folklóricas Martín Miguel de Güemes por su colaboración en celebraciones que mantienen nuestra cultura y costumbres.",
  "autores": [
   "Gudiño, Daniela Soledad"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

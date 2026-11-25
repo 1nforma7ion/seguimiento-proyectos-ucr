@@ -2,6 +2,7 @@
  "numero": "38684/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Bisotto, Bría, Contrera, Ferrero, Gvozdenovich, Nicolás, Nigro, Saliba, Szpanin, Almada, Gispert y Rossi, solicitando al Poder Ejecutivo informe (Art. 102) sobre diversos aspectos referidos a la propaganda y publicidad del gobierno.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102) sobre diversos aspectos referidos a la propaganda y publicidad del gobierno.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Bisotto, Graciela Maria",
@@ -30,7 +31,8 @@
    "fecha": "2025-02-28",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42237/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Nicolás, reconociendo la trayectoria de la Biblioteca Provincial para Personas con Discapacidad Visual.",
+ "tema": "Reconociendo la trayectoria de la Biblioteca Provincial para Personas con Discapacidad Visual.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nicolas, Miguel Osvaldo"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-09",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

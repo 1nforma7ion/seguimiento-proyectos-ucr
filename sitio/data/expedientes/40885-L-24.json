@@ -2,6 +2,7 @@
  "numero": "40885/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gvozdenovich, Carignano, Rinaldi y el Bloque Frente Cívico de Córdoba, declarando Fiesta Provincial a la Fiesta del Corazón Productivo del País, que se celebra anualmente en la ciudad de Marcos Juárez coincidiendo con el aniversario de su fundación.",
+ "tema": "Declarando Fiesta Provincial a la Fiesta del Corazón Productivo del País, que se celebra anualmente en la ciudad de Marcos Juárez coincidiendo con el aniversario de su fundación.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio",
@@ -22,7 +23,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

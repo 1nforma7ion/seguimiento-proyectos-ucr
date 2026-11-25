@@ -2,6 +2,7 @@
  "numero": "46751/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Nigro, Grich, Carignano, Luna, Bría, Jaimes, Molina, Saliba, Nicolás y Briner, modificando la Ley Nº 8944, de eximición del pago de tarifas de peaje a personas con discapacidad y personas bajo tratamiento crónico, ampliando sus alcances a los vehículos en que sean transportadas.",
+ "tema": "Modificando la Ley Nº 8944, de eximición del pago de tarifas de peaje a personas con discapacidad y personas bajo tratamiento crónico, ampliando sus alcances a los vehículos en que sean transportadas.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -31,7 +32,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

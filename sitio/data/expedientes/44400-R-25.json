@@ -2,6 +2,7 @@
  "numero": "44400/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contreras, Szpanin, Bría y Nicolás, solicitando al Gobierno Provincial a instar a Caminos de las Sierras S.A. a realizar el estudio hidráulico de escorrentías en los barrios José Ignacio Diaz 2° y 3° Sección.",
+ "tema": "Solicitando al Gobierno Provincial a instar a Caminos de las Sierras S.A. a realizar el estudio hidráulico de escorrentías en los barrios José Ignacio Diaz 2° y 3° Sección.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46336/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gvozdenovich, Nicolás, Briner y Szpanin, repudiando la persecución política y hostigamiento laboral en contra del concejal de la localidad de Ballesteros, Ulises Martorell, en el ámbito de la EPEC, relacionados a denuncias contra el municipio por irregularidades administrativas.",
+ "tema": "Repudiando la persecución política y hostigamiento laboral en contra del concejal de la localidad de Ballesteros, Ulises Martorell, en el ámbito de la EPEC, relacionados a denuncias contra el municipio por irregularidades administrativas.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Nicolas, Miguel Osvaldo",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45584/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ovejeros, Stella Peralta y Grich, adhiriendo al 25° aniversario del centro educativo Adelia María de Olmos de la localidad de Adelia María, Dpto. Río Cuarto, a celebrarse el 27 de marzo.",
+ "tema": "Adhiriendo al 25° aniversario del centro educativo Adelia María de Olmos de la localidad de Adelia María, Dpto. Río Cuarto, a celebrarse el 27 de marzo.",
  "autores": [
   "Ovejeros, Pablo Cesar",
   "Grich, Ariel Denis",
@@ -20,7 +21,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

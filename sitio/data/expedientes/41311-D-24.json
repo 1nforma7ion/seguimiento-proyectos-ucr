@@ -2,6 +2,7 @@
  "numero": "41311/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Valiente, Navarro Alegre, Ovejeros, Suárez, Carignano, Contrera, Acevedo, Bisotto, Luna, Gloria Pereyra, Szpanin y Gvozdenovich, reconociendo a los integrantes del Taller de Canto Magalí Rosales, por el video clip Soles de Colores.",
+ "tema": "Reconociendo a los integrantes del Taller de Canto Magalí Rosales, por el video clip Soles de Colores.",
  "autores": [
   "Valiente, Lucas German",
   "Navarro Alegre, Veronica Fatima",
@@ -29,7 +30,8 @@
    "fecha": "2024-11-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

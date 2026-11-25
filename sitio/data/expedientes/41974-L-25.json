@@ -2,6 +2,7 @@
  "numero": "41974/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Grich, declarando la Emergencia en Seguridad en la ciudad de Río Cuarto, con el objetivo de implementar medidas urgentes y efectivas para la prevención, control y combate de los delitos, creando un Comité de Crisis en Seguridad.",
+ "tema": "Declarando la Emergencia en Seguridad en la ciudad de Río Cuarto, con el objetivo de implementar medidas urgentes y efectivas para la prevención, control y combate de los delitos, creando un Comité de Crisis en Seguridad.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

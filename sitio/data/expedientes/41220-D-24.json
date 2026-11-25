@@ -2,6 +2,7 @@
  "numero": "41220/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Limia y Bría, reconociendo al Club Atlético Carlos Paz, por la obtención del ascenso a la Primera A de la Liga Cordobesa de Fútbol, el pasado 16 de noviembre.",
+ "tema": "Reconociendo al Club Atlético Carlos Paz, por la obtención del ascenso a la Primera A de la Liga Cordobesa de Fútbol, el pasado 16 de noviembre.",
  "autores": [
   "Limia, Luis Leonardo",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-11-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

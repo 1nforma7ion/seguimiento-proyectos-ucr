@@ -1,0 +1,99 @@
+{
+ "numero": "39677/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Molina, solicitando al Poder Ejecutivo el enripiado y mejora del camino secundario que une las localidades de Cañada de Luque, Dpto. Totoral, con Atahona, Dpto. Río Primero, siendo una arteria con movimiento de tránsito pesado y vehicular por servicios vinculados a la producción, educación y salud de los vecinos.",
+ "tema": "Solicitando al Poder Ejecutivo el enripiado y mejora del camino secundario que une las localidades de Cañada de Luque, Dpto. Totoral, con Atahona, Dpto. Río Primero, siendo una arteria con movimiento de tránsito pesado y vehicular por servicios vinculados a la producción, educación y salud de los vecinos.",
+ "autores": [
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-06-26",
+  "ultimo_movimiento": {
+   "fecha": "2025-06-26",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-26"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": "2025-06-26",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-06-26"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 12",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39677%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

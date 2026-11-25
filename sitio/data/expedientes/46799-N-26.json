@@ -1,0 +1,79 @@
+{
+ "numero": "46799/N/26",
+ "tipo": "otros",
+ "extracto": "Nota del Legislador Saliba, solicitando la rehabilitación, de conformidad a lo establecido en el art. 111 del R.I. del Expte. Nº 39149/L/24.",
+ "tema": "Solicitando la rehabilitación, de conformidad a lo establecido en el art. 111 del R.I. del Expte. Nº 39149/L/24.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-06-25",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-25",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null,
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-06-25"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46799%2FN%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

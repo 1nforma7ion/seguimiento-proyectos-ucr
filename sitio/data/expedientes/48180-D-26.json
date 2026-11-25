@@ -2,6 +2,7 @@
  "numero": "48180/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Nigro, Saliba, Bría y Contrera, expresando preocupación por el endeudamiento de la provincia.",
+ "tema": "Expresando preocupación por el endeudamiento de la provincia.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -24,7 +25,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

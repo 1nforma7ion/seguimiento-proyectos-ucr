@@ -2,6 +2,7 @@
  "numero": "45614/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Nigro, Austin, Bottasso, Gvozdenovich, Bría, Molina, Saliba, Valiente y Nicolás, instando al relevamiento y mantenimiento del señalamiento horizontal y vertical de la RAC y de la Av. de Circunvalación de la ciudad de Córdoba.",
+ "tema": "Instando al relevamiento y mantenimiento del señalamiento horizontal y vertical de la RAC y de la Av. de Circunvalación de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

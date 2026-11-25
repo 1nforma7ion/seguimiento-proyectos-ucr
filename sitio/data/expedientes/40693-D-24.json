@@ -2,6 +2,7 @@
  "numero": "40693/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría, Acevedo, Gudiño, Quaglino y Tévez, expresando beneplácito por el 100° aniversario de la ciudad de Miramar de Ansenuza, a conmemorarse el día 18 de noviembre.",
+ "tema": "Expresando beneplácito por el 100° aniversario de la ciudad de Miramar de Ansenuza, a conmemorarse el día 18 de noviembre.",
  "autores": [
   "Bria, Jose Alberto",
   "Acevedo, Maria Del Rosario",
@@ -22,7 +23,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

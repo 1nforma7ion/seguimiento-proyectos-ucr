@@ -2,6 +2,7 @@
  "numero": "38817/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Bloques MST en el FITU, Encuentro Vecinal Córdoba, UCR, Construyendo Córdoba y Coalición Cívica ARI, manifestando apoyo a la lucha de los docentes cordobeses que reclaman un salario acorde a la canasta familiar y condiciones dignas de trabajo e instando al Poder Ejecutivo a buscar una solución al conflicto, que garantice el derecho a la educación.",
+ "tema": "Manifestando apoyo a la lucha de los docentes cordobeses que reclaman un salario acorde a la canasta familiar y condiciones dignas de trabajo e instando al Poder Ejecutivo a buscar una solución al conflicto, que garantice el derecho a la educación.",
  "autores": [
   "Echevarria, Luciana Gabriela",
   "Bloque ENCUENTRO VECINAL CÓRDOBA",
@@ -22,7 +23,8 @@
    "fecha": "2024-03-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

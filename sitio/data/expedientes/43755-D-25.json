@@ -2,6 +2,7 @@
  "numero": "43755/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin y Briner, declarando de Interés Legislativo el III Congreso de Derecho Procesal de Bell Ville, desarrollado el 28 y 29 de agosto en la ciudad homónima del Dpto. Unión.",
+ "tema": "Declarando de Interés Legislativo el III Congreso de Derecho Procesal de Bell Ville, desarrollado el 28 y 29 de agosto en la ciudad homónima del Dpto. Unión.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

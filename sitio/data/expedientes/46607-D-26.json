@@ -2,6 +2,7 @@
  "numero": "46607/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, expresando beneplácito por el 85º aniversario del Club Atlético River Plate de Alicia, de la mencionada localidad del Dpto. San Justo, a celebrarse el 17 de junio.",
+ "tema": "Expresando beneplácito por el 85º aniversario del Club Atlético River Plate de Alicia, de la mencionada localidad del Dpto. San Justo, a celebrarse el 17 de junio.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-10",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-10"
  },
  "desconocidos": [],
  "linea_tiempo": [

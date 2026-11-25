@@ -2,6 +2,7 @@
  "numero": "48579/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los Jardines Maternales, Centros de Cuidado Infantil y otros espacios de primera infancia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los Jardines Maternales, Centros de Cuidado Infantil y otros espacios de primera infancia.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-11-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-04"
+  "caduca_el": "2027-11-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

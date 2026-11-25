@@ -2,6 +2,7 @@
  "numero": "41112/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Briner, expresando preocupación por la ola de inseguridad que afecta diversas localidades del sur provincial del Dpto. Unión.",
+ "tema": "Expresando preocupación por la ola de inseguridad que afecta diversas localidades del sur provincial del Dpto. Unión.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

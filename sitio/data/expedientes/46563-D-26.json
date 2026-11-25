@@ -2,6 +2,7 @@
  "numero": "46563/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Valiente y Bría, adhiriendo a la 22° Jornada Notarial Cordobesa, a desarrollarse del 10 al 12 de junio en la ciudad de Córdoba.",
+ "tema": "Adhiriendo a la 22° Jornada Notarial Cordobesa, a desarrollarse del 10 al 12 de junio en la ciudad de Córdoba.",
  "autores": [
   "Valiente, Lucas German",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-10",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-10"
  },
  "desconocidos": [],
  "linea_tiempo": [

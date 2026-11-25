@@ -1,0 +1,81 @@
+{
+ "numero": "48613/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por la situación judicial que involucra al Presidente del Colegio de Arquitectos y al Presidente del Colegio de Ingenieros, y a miembros de sus cajas previsionales, imputados por presunta defraudación y administración fraudulenta.",
+ "tema": "Expresando preocupación por la situación judicial que involucra al Presidente del Colegio de Arquitectos y al Presidente del Colegio de Ingenieros, y a miembros de sus cajas previsionales, imputados por presunta defraudación y administración fraudulenta.",
+ "autores": [
+  "Gvozdenovich, Matias Pablo"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-11-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-04",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-11-04",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-11-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 19 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 19 del Período 148"
+  },
+  {
+   "fecha": "2026-11-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 19 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 19 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 19 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 19 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48613%2FD%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

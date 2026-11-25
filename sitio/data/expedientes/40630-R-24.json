@@ -2,6 +2,7 @@
  "numero": "40630/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Szpanin, Gvozdenovich, Molina, Contrera y Carignano, instruyendo a los Senadores e instando a los Diputados nacionales por Córdoba para que impulsen el tratamiento de iniciativas tendientes a tipificar delitos ambientales en el Código Penal de la Nación, fortaleciendo sanciones penales para quienes provoquen daños en el ambiente.",
+ "tema": "Instruyendo a los Senadores e instando a los Diputados nacionales por Córdoba para que impulsen el tratamiento de iniciativas tendientes a tipificar delitos ambientales en el Código Penal de la Nación, fortaleciendo sanciones penales para quienes provoquen daños en el ambiente.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -24,7 +25,8 @@
    "fecha": "2025-10-02",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

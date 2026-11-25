@@ -2,6 +2,7 @@
  "numero": "47033/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, estableciendo el Régimen Provincial de Protección Integral de Niños, Niñas y Adolescentes (NNyA) en entornos digitales y la limitación de acceso a redes sociales a menores de 16 años.",
+ "tema": "Estableciendo el Régimen Provincial de Protección Integral de Niños, Niñas y Adolescentes (NNyA) en entornos digitales y la limitación de acceso a redes sociales a menores de 16 años.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

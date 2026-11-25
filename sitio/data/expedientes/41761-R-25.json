@@ -2,6 +2,7 @@
  "numero": "41761/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, instruyendo a los Senadores Nacionales, Inc. 5) del Art. 104 de la C.P., e instando a los Diputados Naciones por Córdoba para que voten afirmativamente el proyecto de Ficha Limpia en el Honorable Congreso de la Nación.",
+ "tema": "Instruyendo a los Senadores Nacionales, Inc. 5) del Art. 104 de la C.P., e instando a los Diputados Naciones por Córdoba para que voten afirmativamente el proyecto de Ficha Limpia en el Honorable Congreso de la Nación.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46044/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Bisotto, Contrera, Botta y Almada, adhiriendo al Día mundial contra el Bullying o el Acoso Escolar, que se conmemora cada 2 de mayo.",
+ "tema": "Adhiriendo al Día mundial contra el Bullying o el Acoso Escolar, que se conmemora cada 2 de mayo.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Botta, Patricia Isabel",
@@ -21,7 +22,8 @@
    "fecha": "2026-04-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

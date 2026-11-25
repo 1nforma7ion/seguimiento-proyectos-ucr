@@ -2,6 +2,7 @@
  "numero": "38716/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Rossi, Gvozdenovich y Austin, modificando los artículos 74 y 79 de la Ley Nº 8435, Orgánica del Poder Judicial, referidos a requisitos para ser Secretario y Prosecretario Letrado del Tribunal Superior de Justicia, respectivamente.",
+ "tema": "Modificando los artículos 74 y 79 de la Ley Nº 8435, Orgánica del Poder Judicial, referidos a requisitos para ser Secretario y Prosecretario Letrado del Tribunal Superior de Justicia, respectivamente.",
  "autores": [
   "Ferrero, Alejandra",
   "Rossi, Dante Valentin",
@@ -22,7 +23,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

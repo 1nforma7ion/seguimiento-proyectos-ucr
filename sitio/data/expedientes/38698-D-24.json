@@ -1,0 +1,111 @@
+{
+ "numero": "38698/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Saliba, expresando beneplácito por el 117º aniversario de la comuna de Nicolás Bruzone, Dpto. General Roca, a celebrarse el día 11 de marzo.",
+ "tema": "Expresando beneplácito por el 117º aniversario de la comuna de Nicolás Bruzone, Dpto. General Roca, a celebrarse el día 11 de marzo.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Asuntos Municipales y Comunales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-02-28",
+  "ultimo_movimiento": {
+   "fecha": "2024-03-13",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-03-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 3 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 3 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-03-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27846",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=OVYNA-PBicM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38698%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

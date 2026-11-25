@@ -2,6 +2,7 @@
  "numero": "42550/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por el rechazo del Honorable Senado de la Nación el tratamiento del Proyecto de Ficha Limpia.",
+ "tema": "Expresando preocupación por el rechazo del Honorable Senado de la Nación el tratamiento del Proyecto de Ficha Limpia.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

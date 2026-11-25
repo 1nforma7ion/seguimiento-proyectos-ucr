@@ -2,6 +2,7 @@
  "numero": "47581/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas, Soardo, Ortíz y Pomiglio, adhiriendo a la 92ª Exposición Nacional Ganadera, Comercial e Industrial y de Servicios, y la 40ª Feria Nacional e Internacional de Artesanías de la Sociedad Rural de Río Cuarto, que se desarrolla del 2 al 6 de septiembre, en la Capital Alterna de la provincia.",
+ "tema": "Adhiriendo a la 92ª Exposición Nacional Ganadera, Comercial e Industrial y de Servicios, y la 40ª Feria Nacional e Internacional de Artesanías de la Sociedad Rural de Río Cuarto, que se desarrolla del 2 al 6 de septiembre, en la Capital Alterna de la provincia.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -22,7 +23,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

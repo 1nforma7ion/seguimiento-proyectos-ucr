@@ -2,6 +2,7 @@
  "numero": "39819/N/24",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Grich, solicitando licencia sin goce de dieta en su cargo de Legislador, del 23 de julio al 23 de agosto, conforme el artículo 15 del R.I.",
+ "tema": "Nota remitida por el Legislador Grich, solicitando licencia sin goce de dieta en su cargo de Legislador, del 23 de julio al 23 de agosto, conforme el artículo 15 del R.I.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2024-07-24",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

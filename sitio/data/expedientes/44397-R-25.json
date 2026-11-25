@@ -2,6 +2,7 @@
  "numero": "44397/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Szpanin, Nicolás, Bría y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la construcción del nuevo hospital provincial en la ciudad de Villa Carlos Paz, Dpto. Punilla.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la construcción del nuevo hospital provincial en la ciudad de Villa Carlos Paz, Dpto. Punilla.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -28,7 +29,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

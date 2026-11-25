@@ -2,6 +2,7 @@
  "numero": "46525/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soardo, adhiriendo al 90º aniversario del Club Atlético San Basilio de la mencionada localidad del Dpto. Río Cuarto, a celebrarse el 20 de junio.",
+ "tema": "Adhiriendo al 90º aniversario del Club Atlético San Basilio de la mencionada localidad del Dpto. Río Cuarto, a celebrarse el 20 de junio.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

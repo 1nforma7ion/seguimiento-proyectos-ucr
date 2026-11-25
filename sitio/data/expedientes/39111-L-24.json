@@ -2,6 +2,7 @@
  "numero": "39111/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley. iniciado por la Legisladora Ferrero, eliminando los incisos a) y b) del artículo 5º y modificando el artículo 15 de la Ley N° 9165, -Plan de Ahorro Energético-, con el objetivo de impulsar políticas que fomenten la inversión en infraestructuras y sistemas que reduzcan el consumo total de energía y promuevan un uso responsable de los recursos.",
+ "tema": "Eliminando los incisos a) y b) del artículo 5º y modificando el artículo 15 de la Ley N° 9165, -Plan de Ahorro Energético-, con el objetivo de impulsar políticas que fomenten la inversión en infraestructuras y sistemas que reduzcan el consumo total de energía y promuevan un uso responsable de los recursos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

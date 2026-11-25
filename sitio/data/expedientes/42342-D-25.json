@@ -2,6 +2,7 @@
  "numero": "42342/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso y Saliba, adhiriendo al 30º aniversario de la Cooperativa de Provisión y Comercialización de Servicios Comunitarios -COLSECOR-, a celebrarse el día 5 de mayo.",
+ "tema": "Adhiriendo al 30º aniversario de la Cooperativa de Provisión y Comercialización de Servicios Comunitarios -COLSECOR-, a celebrarse el día 5 de mayo.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Saliba, Oscar Elias Mario"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

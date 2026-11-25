@@ -2,6 +2,7 @@
  "numero": "41400/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados a la selección y contratación del personal en la Secretaría de Niñez, Adolescencia y Familia (SeNAF).",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados a la selección y contratación del personal en la Secretaría de Niñez, Adolescencia y Familia (SeNAF).",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-05",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46269/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados al tratamiento tributario de trabajadores independientes no profesionales en el Impuesto sobre los Ingresos Brutos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados al tratamiento tributario de trabajadores independientes no profesionales en el Impuesto sobre los Ingresos Brutos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

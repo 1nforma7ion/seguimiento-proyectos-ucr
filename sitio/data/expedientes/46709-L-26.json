@@ -2,6 +2,7 @@
  "numero": "46709/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, estableciendo la estructura orgánica del Poder Ejecutivo.",
+ "tema": "Estableciendo la estructura orgánica del Poder Ejecutivo.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

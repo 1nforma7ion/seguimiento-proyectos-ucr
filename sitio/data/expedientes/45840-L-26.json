@@ -2,6 +2,7 @@
  "numero": "45840/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Almada y Contrera, estableciendo los mecanismos para garantizar la confidencialidad, integridad, disponibilidad y neutralidad en el tratamiento de los datos personales recolectados por el Estado Provincial a través de sus plataformas digitales.",
+ "tema": "Estableciendo los mecanismos para garantizar la confidencialidad, integridad, disponibilidad y neutralidad en el tratamiento de los datos personales recolectados por el Estado Provincial a través de sus plataformas digitales.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

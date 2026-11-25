@@ -2,6 +2,7 @@
  "numero": "47570/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Bisotto, adhiriendo al Día Internacional para Proteger la Educación de los Ataques, que se conmemora cada 9 de septiembre.",
+ "tema": "Adhiriendo al Día Internacional para Proteger la Educación de los Ataques, que se conmemora cada 9 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

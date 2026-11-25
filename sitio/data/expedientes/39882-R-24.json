@@ -2,6 +2,7 @@
  "numero": "39882/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Ferrero, Austin, Valiente, Saliba, Nicolás, Contrera, Szpanin, Bisotto, Nigro, Gudiño, Jaimes, Luna, Molina y Bottasso, solicitando al Poder Ejecutivo la puesta en condiciones de la Ruta provincial N° 1, en el tramo que une las ciudades de San Francisco y Morteros.",
+ "tema": "Solicitando al Poder Ejecutivo la puesta en condiciones de la Ruta provincial N° 1, en el tramo que une las ciudades de San Francisco y Morteros.",
  "autores": [
   "Bria, Jose Alberto",
   "Ferrero, Alejandra",
@@ -32,7 +33,8 @@
    "fecha": "2025-08-25",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

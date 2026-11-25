@@ -2,6 +2,7 @@
  "numero": "46449/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas, Soardo y Szpanin, adhiriendo al 2º Festival del Asado Criollo, a desarrollarse el 7 de junio en la ciudad de Coronel Moldes, Dpto. Río Cuarto.",
+ "tema": "Adhiriendo al 2º Festival del Asado Criollo, a desarrollarse el 7 de junio en la ciudad de Coronel Moldes, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

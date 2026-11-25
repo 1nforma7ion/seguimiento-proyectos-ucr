@@ -2,6 +2,7 @@
  "numero": "38554/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Austin, Saliba, Briner, Bottasso, Bría, Contrera, Carignano, Szpanin y Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a problemas en las prestaciones del Programa Federal Incluir Salud - ex ProFe.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a problemas en las prestaciones del Programa Federal Incluir Salud - ex ProFe.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Austin, Brenda Lis",
@@ -27,7 +28,8 @@
    "fecha": "2024-08-21",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

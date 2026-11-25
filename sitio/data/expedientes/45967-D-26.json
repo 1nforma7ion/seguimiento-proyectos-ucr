@@ -2,6 +2,7 @@
  "numero": "45967/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Peirone, Botta, Contrera, Limia, Molina, Acuña y Presas, reconociendo al Club Atlético Talleres por la organización del Torneo Internacional Jóvenes Promesas, desarrollado en la provincia del 9 al 14 de febrero.",
+ "tema": "Reconociendo al Club Atlético Talleres por la organización del Torneo Internacional Jóvenes Promesas, desarrollado en la provincia del 9 al 14 de febrero.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -26,7 +27,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

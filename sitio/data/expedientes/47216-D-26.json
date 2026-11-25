@@ -2,6 +2,7 @@
  "numero": "47216/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Valiente, Briner y Nigro, declarando de Interés Legislativo al Gran Encuentro Musical Internacional, a desarrollarse del 18 al 20 de septiembre en las localidades de Justiniano Posse y Pozo del Molle, y en la ciudad de Villa María.",
+ "tema": "Declarando de Interés Legislativo al Gran Encuentro Musical Internacional, a desarrollarse del 18 al 20 de septiembre en las localidades de Justiniano Posse y Pozo del Molle, y en la ciudad de Villa María.",
  "autores": [
   "Valiente, Lucas German",
   "Briner, Carlos Edgardo",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

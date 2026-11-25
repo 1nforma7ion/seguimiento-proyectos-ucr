@@ -2,6 +2,7 @@
  "numero": "45008/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, rindiendo homenaje al ex Presidente Dr. Raúl Ricardo Alfonsín, en el marco del 42º aniversario de la restauración democrática en nuestro país.",
+ "tema": "Rindiendo homenaje al ex Presidente Dr. Raúl Ricardo Alfonsín, en el marco del 42º aniversario de la restauración democrática en nuestro país.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

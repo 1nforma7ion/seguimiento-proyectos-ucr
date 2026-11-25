@@ -2,6 +2,7 @@
  "numero": "45606/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Ferrero, Szpanin, Nigro, Nicolás, Gudiño, Jaimes, Bottasso y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la situación de vulnerabilidad ambiental y sanitaria de la localidad de Miramar de Ansenuza, Dpto. San Justo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la situación de vulnerabilidad ambiental y sanitaria de la localidad de Miramar de Ansenuza, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto",
   "Ferrero, Alejandra",
@@ -26,7 +27,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

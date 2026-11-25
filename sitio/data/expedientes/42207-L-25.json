@@ -2,6 +2,7 @@
  "numero": "42207/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Programa de Créditos a Jubilados y Pensionados para gastos iniciales de alquiler, a fin de otorgar financiamiento accesible a jubilados y pensionados para cubrir los costos iniciales asociados a la firma de contratos de alquiler.",
+ "tema": "Creando el Programa de Créditos a Jubilados y Pensionados para gastos iniciales de alquiler, a fin de otorgar financiamiento accesible a jubilados y pensionados para cubrir los costos iniciales asociados a la firma de contratos de alquiler.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

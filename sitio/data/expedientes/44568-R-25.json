@@ -2,6 +2,7 @@
  "numero": "44568/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Szpanin, Austin, Ferrero, Nicolás, Luna, Saliba, Grich, Molina y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados al cumplimiento de cupo obligatorio de personas con discapacidad en los ministerios, secretarías, agencias u otros organismos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados al cumplimiento de cupo obligatorio de personas con discapacidad en los ministerios, secretarías, agencias u otros organismos.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Szpanin, Ariela Yanina",
@@ -27,7 +28,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

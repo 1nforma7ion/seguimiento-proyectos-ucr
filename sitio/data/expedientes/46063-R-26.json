@@ -1,0 +1,81 @@
+{
+ "numero": "46063/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Valiente, solicitando al Poder Ejecutivo la reparación y repavimentación del tramo de la Ruta S-397, entre la localidad de Calchín Oeste y la Intersección con la Ruta 13, Dpto. Río Segundo.",
+ "tema": "Solicitando al Poder Ejecutivo la reparación y repavimentación del tramo de la Ruta S-397, entre la localidad de Calchín Oeste y la Intersección con la Ruta 13, Dpto. Río Segundo.",
+ "autores": [
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-04-20",
+  "ultimo_movimiento": {
+   "fecha": "2026-04-20",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46063%2FR%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "44010/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Contrera, Gispert y Peirone, derogando la Ley Nº 10694, de Fortalecimiento de la Solidaridad y Sostenibilidad del Sistema Previsional; restableciendo en todos sus términos la vigencia normativa de la Ley Nº 8024, Régimen General de Jubilaciones, Pensiones y Retiros para el Personal de la Administración Pública Provincial.",
+ "tema": "Derogando la Ley Nº 10694, de Fortalecimiento de la Solidaridad y Sostenibilidad del Sistema Previsional; restableciendo en todos sus términos la vigencia normativa de la Ley Nº 8024, Régimen General de Jubilaciones, Pensiones y Retiros para el Personal de la Administración Pública Provincial.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

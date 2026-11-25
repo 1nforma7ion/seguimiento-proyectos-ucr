@@ -2,6 +2,7 @@
  "numero": "38990/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Szpanin, Jaimes, Bisotto, Ferrero, Gvozdenovich, Valiente, Gudiño, Nicolás, Luna, Saliba, Briner, Bottasso, Bría y Contrera, modificando la Ley N° 7528 -Colegio de Kinesiólogos y Fisioterapeutas de la provincia-.",
+ "tema": "Modificando la Ley N° 7528 -Colegio de Kinesiólogos y Fisioterapeutas de la provincia-.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Jaimes, Mauricio Sebastian",
@@ -33,7 +34,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

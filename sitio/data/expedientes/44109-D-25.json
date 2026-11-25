@@ -2,6 +2,7 @@
  "numero": "44109/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Bría y Acevedo, adhiriendo al 125º aniversario de la ciudad de Las Varillas, Dpto. San Justo, y sus fiestas patronales en honor a Nuestra Señora del Rosario, a celebrarse el 7 de octubre.",
+ "tema": "Adhiriendo al 125º aniversario de la ciudad de Las Varillas, Dpto. San Justo, y sus fiestas patronales en honor a Nuestra Señora del Rosario, a celebrarse el 7 de octubre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Acevedo, Maria Del Rosario",
@@ -20,7 +21,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

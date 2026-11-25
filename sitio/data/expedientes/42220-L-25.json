@@ -2,6 +2,7 @@
  "numero": "42220/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, garantizando la implementación plena y efectiva de los derechos de acceso a la información ambiental, participación pública en los procesos de toma de decisiones ambientales y acceso a la justicia en asuntos ambientales y modificando las Leyes N° 7826 y Nº 10208.",
+ "tema": "Garantizando la implementación plena y efectiva de los derechos de acceso a la información ambiental, participación pública en los procesos de toma de decisiones ambientales y acceso a la justicia en asuntos ambientales y modificando las Leyes N° 7826 y Nº 10208.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

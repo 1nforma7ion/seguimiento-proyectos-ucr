@@ -2,6 +2,7 @@
  "numero": "42121/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Gvozdenovich, Ferrero, Contrera, Grich, Molina, Nicolás y Szpanin, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la firma Servicios y Consultoría. S.A. y CIA. de Gestión Administración y Fiscalización SA, Unión Transitoria, ex Kolektor.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la firma Servicios y Consultoría. S.A. y CIA. de Gestión Administración y Fiscalización SA, Unión Transitoria, ex Kolektor.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Gvozdenovich, Matias Pablo",
@@ -25,7 +26,8 @@
    "fecha": "2025-06-18",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

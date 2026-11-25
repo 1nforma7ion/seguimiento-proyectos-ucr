@@ -2,6 +2,7 @@
  "numero": "44399/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Austin y Szpanin, instituyendo el día 25 de junio de cada año como Día Provincial de las Altas Capacidades (AACC).",
+ "tema": "Instituyendo el día 25 de junio de cada año como Día Provincial de las Altas Capacidades (AACC).",
  "autores": [
   "Austin, Brenda Lis",
   "Szpanin, Ariela Yanina"
@@ -21,7 +22,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

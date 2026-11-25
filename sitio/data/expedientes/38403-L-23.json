@@ -2,6 +2,7 @@
  "numero": "38403/L/23",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Agrelo y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Coalición Cívica ARI, derogando la Ley N° 10930, que establece las reglas de funcionamiento necesarias para Tribunal de Cuentas de la provincia, ratificando la vigencia de la Ley N° 7630.",
+ "tema": "Derogando la Ley N° 10930, que establece las reglas de funcionamiento necesarias para Tribunal de Cuentas de la provincia, ratificando la vigencia de la Ley N° 7630.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Bloque UCR",
@@ -25,7 +26,8 @@
    "fecha": "2023-12-13",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2023-12-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

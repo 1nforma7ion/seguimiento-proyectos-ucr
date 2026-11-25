@@ -2,6 +2,7 @@
  "numero": "38702/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Gispert, Pereyra, Almada, Peirone, Bisotto, Szpanin, Ferrero, Gvozdenovich, Valiente, Nicolás, Saliba, Briner, Bottasso, Bría, Molina, Contrera, Carignano, Tamis, Sala y Rossi, reglamentando el proceso de transición del gobierno en toda gestión, regulando dicho período.",
+ "tema": "Reglamentando el proceso de transición del gobierno en toda gestión, regulando dicho período.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Gispert, Walter Oscar",
@@ -40,7 +41,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

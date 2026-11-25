@@ -2,6 +2,7 @@
  "numero": "45621/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, adhiriendo al Día Mundial de las enfermedades reumáticas en niños y jóvenes (Día de la palabra-Word day), que se conmemora cada 18 de marzo y a la jornada \"Los niños y jóvenes también tienen enfermedades reumáticas\", a desarrollarse el 19 de marzo en esta Legislatura.",
+ "tema": "Adhiriendo al Día Mundial de las enfermedades reumáticas en niños y jóvenes (Día de la palabra-Word day), que se conmemora cada 18 de marzo y a la jornada \"Los niños y jóvenes también tienen enfermedades reumáticas\", a desarrollarse el 19 de marzo en esta Legislatura.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

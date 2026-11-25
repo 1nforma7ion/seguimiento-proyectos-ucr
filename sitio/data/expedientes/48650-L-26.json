@@ -2,6 +2,7 @@
  "numero": "48650/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera y Bría incorporando al sistema educativo contenido obligatorio sobre respeto, protección y compasión hacia los animales, reconociéndolos como seres sintientes.",
+ "tema": "Proyecto de Ley, iniciado por los Legisladores Contrera y Bría incorporando al sistema educativo contenido obligatorio sobre respeto, protección y compasión hacia los animales, reconociéndolos como seres sintientes.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto"
@@ -20,7 +21,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43853/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Colonia Valtelina, Dpto. San Justo, a celebrarse el 8 de septiembre en honor a la Virgen Niña.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Colonia Valtelina, Dpto. San Justo, a celebrarse el 8 de septiembre en honor a la Virgen Niña.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

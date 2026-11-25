@@ -2,6 +2,7 @@
  "numero": "44180/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque PRO y los Legisladores Nigro y Bottasso, adhiriendo al 10º aniversario del Hermanamiento/Gemellaggio entre la ciudad de Oliva y la Comuna San Pietro Val Lemina de la provincia de Turín, República de Italia, a celebrarse el día 18 de octubre.",
+ "tema": "Adhiriendo al 10º aniversario del Hermanamiento/Gemellaggio entre la ciudad de Oliva y la Comuna San Pietro Val Lemina de la provincia de Turín, República de Italia, a celebrarse el día 18 de octubre.",
  "autores": [
   "Tamis, Oscar Humberto",
   "Sala, Ignacio Antonio",
@@ -22,7 +23,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

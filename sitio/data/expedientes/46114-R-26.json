@@ -2,6 +2,7 @@
  "numero": "46114/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, solicitando al Poder Ejecutivo disponga el diseño y construcción de garitas de espera para el transporte interurbano de pasajeros en puntos estratégicos de la red vial provincial, especialmente en el cruce la las rutas 1 y 17.",
+ "tema": "Solicitando al Poder Ejecutivo disponga el diseño y construcción de garitas de espera para el transporte interurbano de pasajeros en puntos estratégicos de la red vial provincial, especialmente en el cruce la las rutas 1 y 17.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

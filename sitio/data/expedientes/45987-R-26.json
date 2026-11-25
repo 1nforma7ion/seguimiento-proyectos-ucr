@@ -2,6 +2,7 @@
  "numero": "45987/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la implementación de la Ley Nº 10958, de Medidas de Emergencia Preventivas para Mitigar la Propagación de Incendios Forestales y/o Rurales en la provincia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la implementación de la Ley Nº 10958, de Medidas de Emergencia Preventivas para Mitigar la Propagación de Incendios Forestales y/o Rurales en la provincia.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

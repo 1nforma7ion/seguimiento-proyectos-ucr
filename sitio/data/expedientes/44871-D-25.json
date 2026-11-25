@@ -2,6 +2,7 @@
  "numero": "44871/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Nigro, Jaimes, Valiente, Nicolás, Saliba, Botta, Almada, Carignano, Ovejeros y Acevedo, adhiriendo al Día Internacional de las Personas con Discapacidad, que se celebra cada 3 de diciembre.",
+ "tema": "Adhiriendo al Día Internacional de las Personas con Discapacidad, que se celebra cada 3 de diciembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2025-12-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

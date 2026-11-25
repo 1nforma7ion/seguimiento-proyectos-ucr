@@ -2,6 +2,7 @@
  "numero": "38735/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, declarando a la ciudad de Marcos Juárez como Capital Provincial del Folklore.",
+ "tema": "Declarando a la ciudad de Marcos Juárez como Capital Provincial del Folklore.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

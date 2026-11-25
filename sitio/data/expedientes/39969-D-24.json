@@ -2,6 +2,7 @@
  "numero": "39969/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, expresando preocupación por la crisis que atraviesa el sistema de Transporte Público, producto de la quita intempestiva de subsidios nacionales y provinciales, reflejados a partir de enero; instando al Poder Ejecutivo que informe el costo tarifario de los boletos urbanos e interurbanos y reordene las partidas presupuestarias estatales sin perjudicar a los usuarios.",
+ "tema": "Expresando preocupación por la crisis que atraviesa el sistema de Transporte Público, producto de la quita intempestiva de subsidios nacionales y provinciales, reflejados a partir de enero; instando al Poder Ejecutivo que informe el costo tarifario de los boletos urbanos e interurbanos y reordene las partidas presupuestarias estatales sin perjudicar a los usuarios.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-25",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

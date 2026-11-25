@@ -2,6 +2,7 @@
  "numero": "45192/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre tasas de natalidad, matrimonios y mortalidad desde 2015 a 2025, así como de vacunación en el mismo periodo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre tasas de natalidad, matrimonios y mortalidad desde 2015 a 2025, así como de vacunación en el mismo periodo.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41818/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich y Contrera, solicitando al Poder Ejecutivo la revisión y adecuación de los incrementos en el Impuesto Inmobiliario Rural, elaborando un plan integral de mejoras en infraestructura, incluyendo caminos, escuelas y servicios básicos.",
+ "tema": "Solicitando al Poder Ejecutivo la revisión y adecuación de los incrementos en el Impuesto Inmobiliario Rural, elaborando un plan integral de mejoras en infraestructura, incluyendo caminos, escuelas y servicios básicos.",
  "autores": [
   "Grich, Ariel Denis",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

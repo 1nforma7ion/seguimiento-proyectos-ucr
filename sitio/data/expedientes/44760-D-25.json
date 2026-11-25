@@ -2,6 +2,7 @@
  "numero": "44760/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Acevedo y Botta, adhiriendo al Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora cada 25 de noviembre.",
+ "tema": "Adhiriendo al Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora cada 25 de noviembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Acevedo, Maria Del Rosario",
@@ -20,7 +21,8 @@
    "fecha": "2025-11-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

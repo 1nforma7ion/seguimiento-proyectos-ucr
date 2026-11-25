@@ -2,6 +2,7 @@
  "numero": "41775/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la transformación jurídica de la Lotería de Córdoba, detallando personal jerárquico y situación jurídica del proceso licitatorio para la concesión de slots y casinos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la transformación jurídica de la Lotería de Córdoba, detallando personal jerárquico y situación jurídica del proceso licitatorio para la concesión de slots y casinos.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

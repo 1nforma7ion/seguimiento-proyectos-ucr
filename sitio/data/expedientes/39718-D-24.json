@@ -2,6 +2,7 @@
  "numero": "39718/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Bisotto y el Bloque UCR, reconociendo al Partido de la Unión Cívica Radical en su 133° aniversario, que se celebra día 26 de junio y a los gobiernos radicales en Córdoba por su visión social, igualitaria, solidaria y equitativa.",
+ "tema": "Reconociendo al Partido de la Unión Cívica Radical en su 133° aniversario, que se celebra día 26 de junio y a los gobiernos radicales en Córdoba por su visión social, igualitaria, solidaria y equitativa.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Austin, Brenda Lis",
@@ -36,7 +37,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

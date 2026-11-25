@@ -2,6 +2,7 @@
  "numero": "48007/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Gudiño, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al programa \"Vivienda Semilla\".",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al programa \"Vivienda Semilla\".",
  "autores": [
   "Gudiño, Daniela Soledad"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

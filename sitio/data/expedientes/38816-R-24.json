@@ -2,6 +2,7 @@
  "numero": "38816/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bottasso, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Briner, Molina, Contrera y Carignano, solicitando el aumento de la frecuencia del transporte interurbano de pasajeros que conecta la localidad de Colonia Almada con las principales localidades de la zona en el Dpto. Tercero Arriba.",
+ "tema": "Solicitando el aumento de la frecuencia del transporte interurbano de pasajeros que conecta la localidad de Colonia Almada con las principales localidades de la zona en el Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Jaimes, Mauricio Sebastian",
@@ -31,7 +32,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

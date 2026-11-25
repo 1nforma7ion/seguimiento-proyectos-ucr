@@ -2,6 +2,7 @@
  "numero": "40228/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, adhiriendo al XXXIV Torneo Nacional de Mamis Hockey Categoría Mayores, a desarrollarse del 12 al 15 de septiembre en la ciudad de Córdoba.",
+ "tema": "Adhiriendo al XXXIV Torneo Nacional de Mamis Hockey Categoría Mayores, a desarrollarse del 12 al 15 de septiembre en la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40757/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Gloria Pereyra, Nicolás y Bría, solicitando al Poder Ejecutivo avance en la colocación de medidores para clientes del servicio de agua de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo avance en la colocación de medidores para clientes del servicio de agua de la ciudad de Córdoba.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -21,7 +22,8 @@
    "fecha": "2025-10-16",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39407/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Gvozdenovich, Busso, Nostrala, Austin, Chamorro, Fernández, Galo, Rébora, Rinaldi, Szpanin, Agrelo, Tamis, Knipscheer, Hernández Maqueda, Ferrero, Acevedo, Limia, Ovejeros, Stella Peralta, Tévez, Gudiño, Martoccia, Spaccesi y Bruno, modificando los artículos 7 y 67 de la Ley N° 5771, Registro de la Propiedad Inmueble-, disponiendo sistematizar la coexistencia e interrelación de los distintos documentos extendidos en soporte papel o electrónico en el ámbito de la actividad notarial de la provincia.",
+ "tema": "Modificando los artículos 7 y 67 de la Ley N° 5771, Registro de la Propiedad Inmueble-, disponiendo sistematizar la coexistencia e interrelación de los distintos documentos extendidos en soporte papel o electrónico en el ámbito de la actividad notarial de la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -42,7 +43,8 @@
    "fecha": "2024-11-01",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

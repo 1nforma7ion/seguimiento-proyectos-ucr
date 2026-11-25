@@ -2,6 +2,7 @@
  "numero": "47452/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Nigro, Navarro Alegre, Bruno, Bottasso y Molina, expresando beneplácito por el I Congreso de Comunicación Gubernamental para Gobiernos Locales, a desarrollarse los días 10 y 11 de septiembre en la ciudad de Villa María, Dpto. Gral. San Martín.",
+ "tema": "Expresando beneplácito por el I Congreso de Comunicación Gubernamental para Gobiernos Locales, a desarrollarse los días 10 y 11 de septiembre en la ciudad de Villa María, Dpto. Gral. San Martín.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Nigro, Alfredo Mariano",
@@ -23,7 +24,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

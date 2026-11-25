@@ -2,6 +2,7 @@
  "numero": "47885/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Programa Provincial de Prevención y Abordaje Integral de la Violencia Digital en Ámbitos Educativos - Ley Ema, en el marco de las leyes Provincial Nº 9870 y Nacional Nº 26206, de Educación.",
+ "tema": "Creando el Programa Provincial de Prevención y Abordaje Integral de la Violencia Digital en Ámbitos Educativos - Ley Ema, en el marco de las leyes Provincial Nº 9870 y Nacional Nº 26206, de Educación.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

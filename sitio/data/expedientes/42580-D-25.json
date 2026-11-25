@@ -2,6 +2,7 @@
  "numero": "42580/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ceballos Recalde, Almada, Jaimes, Molina, Rossi, Contrera, Botta y el Bloque Hacemos Unidos por Córdoba, reconociendo a la Comunidad La Unión, pueblo comechingón que habita en la región de Traslasierra, por su inscripción como comunidad originaria en su territorio ancestral, conforme a la Ley Nº 10316.",
+ "tema": "Reconociendo a la Comunidad La Unión, pueblo comechingón que habita en la región de Traslasierra, por su inscripción como comunidad originaria en su territorio ancestral, conforme a la Ley Nº 10316.",
  "autores": [
   "Ceballos Recalde, Mariano",
   "Bloque HACEMOS UNIDOS POR CORDOBA",
@@ -25,7 +26,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

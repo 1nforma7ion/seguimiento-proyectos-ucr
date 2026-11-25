@@ -2,6 +2,7 @@
  "numero": "35612/L/22",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gudiño, Carrillo, Cossar, De Ferrari Rueda, Jure y Garade Panetta, creando el Régimen de Promoción para Jóvenes Emprendedores de la provincia de Córdoba.",
+ "tema": "Creando el Régimen de Promoción para Jóvenes Emprendedores de la provincia de Córdoba.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Carrillo, Marisa Gladys",
@@ -26,7 +27,8 @@
    "fecha": "2026-08-12",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-12"
+  "caduca_el": "2027-08-12",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

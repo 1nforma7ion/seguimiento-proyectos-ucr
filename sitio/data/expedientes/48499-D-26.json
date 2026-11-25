@@ -2,6 +2,7 @@
  "numero": "48499/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Bloques Hacemos Unidos por Córodba, Unión Civica Radical, Frente Cívico Córdoba, PRO, Construyendo Córdoba, Córdoba, La Libertad Avanza, Encuentro Vecinal Córdoba, Mejor Futuro, Juntos por el Interior y Valores Republicanos, declarando Visitante Ilustre y Huésped de Honor a Su Santidad el Papa León XIV, en ocasión de su visita oficial a la provincia el día 10 de noviembre.",
+ "tema": "Declarando Visitante Ilustre y Huésped de Honor a Su Santidad el Papa León XIV, en ocasión de su visita oficial a la provincia el día 10 de noviembre.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Agost Carreño, Oscar",
@@ -31,7 +32,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

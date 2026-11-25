@@ -2,6 +2,7 @@
  "numero": "38885/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Austin, Bría, Briner, Contrera, Carignano, Ferrero, Gvozdenovich, Jaimes, Nicolás, Saliba, Szpanin, Peralta y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al Programa de Fortalecimiento Hospitalario, quiénes manejarán los fondos y criterios de designación de zonas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al Programa de Fortalecimiento Hospitalario, quiénes manejarán los fondos y criterios de designación de zonas.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Austin, Brenda Lis",
@@ -31,7 +32,8 @@
    "fecha": "2024-08-21",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

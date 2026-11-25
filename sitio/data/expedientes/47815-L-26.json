@@ -2,6 +2,7 @@
  "numero": "47815/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Nigro y Ferrero, adhiriendo la Provincia de Córdoba a la Ley Nacional Nº 27802, de Modernización Laboral y a su Decreto Reglamentario, en materia de simplificación y digitalización de la registración laboral.",
+ "tema": "Adhiriendo la Provincia de Córdoba a la Ley Nacional Nº 27802, de Modernización Laboral y a su Decreto Reglamentario, en materia de simplificación y digitalización de la registración laboral.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Ferrero, Alejandra"
@@ -21,7 +22,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

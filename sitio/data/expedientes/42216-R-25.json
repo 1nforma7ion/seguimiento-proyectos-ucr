@@ -2,6 +2,7 @@
  "numero": "42216/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Gvozdenovich y Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los avances en la reducción del 30% de las Agencias del Estado, cronograma previsto y destino de los trabajadores.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los avances en la reducción del 30% de las Agencias del Estado, cronograma previsto y destino de los trabajadores.",
  "autores": [
   "Austin, Brenda Lis",
   "Gvozdenovich, Matias Pablo",
@@ -20,7 +21,8 @@
    "fecha": "2025-11-12",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

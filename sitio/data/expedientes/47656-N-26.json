@@ -1,0 +1,81 @@
+{
+ "numero": "47656/N/26",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Bloque de la UCR, promoviendo Juicio Político en contra de la Presidenta de la Legislatura Provincial, en el entendimiento que ha incurrido en las causales de mal desempeño e indignidad en el ejercicio de sus funciones.",
+ "tema": "Nota remitida por el Bloque de la UCR, promoviendo Juicio Político en contra de la Presidenta de la Legislatura Provincial, en el entendimiento que ha incurrido en las causales de mal desempeño e indignidad en el ejercicio de sus funciones.",
+ "autores": [
+  "Bloque UCR"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-09-22",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47656%2FN%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

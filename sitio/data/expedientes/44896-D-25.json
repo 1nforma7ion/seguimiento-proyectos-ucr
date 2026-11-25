@@ -2,6 +2,7 @@
  "numero": "44896/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Gvozdenovich, Nigro, Nicolás, Grich, Molina y Contrera, expresando beneplácito por la trayectoria, el compromiso deportivo, recreativo e inclusivo, y la labor integral del Club de Polo San Alfonso del Talar.",
+ "tema": "Expresando beneplácito por la trayectoria, el compromiso deportivo, recreativo e inclusivo, y la labor integral del Club de Polo San Alfonso del Talar.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -26,7 +27,8 @@
    "fecha": "2025-12-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

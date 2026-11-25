@@ -2,6 +2,7 @@
  "numero": "48670/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Nicolás, Ferrero, Szpanin, Nigro, Carignano, Luna, Bottasso, Bría, Jaimes, Valiente, Gvozdenovich y Molina, estableciendo el Programa Provincial de Protección Integral, Salud y Sustento para Personas con Discapacidad en Situación de Orfandad, Incapacidad Sobreviniente o Ausencia Definitiva de Cuidadores Principales.",
+ "tema": "Estableciendo el Programa Provincial de Protección Integral, Salud y Sustento para Personas con Discapacidad en Situación de Orfandad, Incapacidad Sobreviniente o Ausencia Definitiva de Cuidadores Principales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nicolas, Miguel Osvaldo",
@@ -32,7 +33,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39972/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Briner, expresando preocupación por la interrupción del servicio de la “línea 101 – Policía”, en el radio urbano de la localidad de Ballesteros, Dpto. Unión, y áreas de influencia, instando al Poder Ejecutivo para que restablezca el servicio.",
+ "tema": "Expresando preocupación por la interrupción del servicio de la “línea 101 – Policía”, en el radio urbano de la localidad de Ballesteros, Dpto. Unión, y áreas de influencia, instando al Poder Ejecutivo para que restablezca el servicio.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

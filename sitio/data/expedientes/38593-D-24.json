@@ -2,6 +2,7 @@
  "numero": "38593/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo establezca una dependencia del Cuerpo de Vigilancia Especial en el sector de los barrios Yofre Sur, Yofre I y Los Pinos, en el marco del Sistema Integrado de Seguridad Pública y Seguridad Ciudadana.",
+ "tema": "Solicitando al Poder Ejecutivo establezca una dependencia del Cuerpo de Vigilancia Especial en el sector de los barrios Yofre Sur, Yofre I y Los Pinos, en el marco del Sistema Integrado de Seguridad Pública y Seguridad Ciudadana.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-02-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

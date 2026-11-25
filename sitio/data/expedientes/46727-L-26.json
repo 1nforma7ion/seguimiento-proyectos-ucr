@@ -2,6 +2,7 @@
  "numero": "46727/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agost Carreño y Contrera, creando el Programa de Acceso Digital Accesible al Certificado Único de Discapacidad.",
+ "tema": "Creando el Programa de Acceso Digital Accesible al Certificado Único de Discapacidad.",
  "autores": [
   "Agost Carreño, Oscar",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

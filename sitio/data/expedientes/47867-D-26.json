@@ -2,6 +2,7 @@
  "numero": "47867/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Internacional de la Paz, bajo el lema \"Invierte en la paz, para todos, en todas partes y todos los días\", a conmemorarse el 21 de septiembre.",
+ "tema": "Adhiriendo al Día Internacional de la Paz, bajo el lema \"Invierte en la paz, para todos, en todas partes y todos los días\", a conmemorarse el 21 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

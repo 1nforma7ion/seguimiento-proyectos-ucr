@@ -2,6 +2,7 @@
  "numero": "41210/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Contrera y Austin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a las medidas de remediación y restauración a implementar en zonas aledañas a las localidades de Salsacate y Los Túneles, luego de los últimos incendios que azotaron la región.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a las medidas de remediación y restauración a implementar en zonas aledañas a las localidades de Salsacate y Los Túneles, luego de los últimos incendios que azotaron la región.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Austin, Brenda Lis"
@@ -20,7 +21,8 @@
    "fecha": "2025-11-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42621/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Botta, Hernández Maqueda, Nostrala y Ferrero, declarando la Emergencia Habitacional en barrio Ejército Argentino de la ciudad de Córdoba, creando una Comisión de Emergencia para relevar daños de infraestructura y su origen.",
+ "tema": "Declarando la Emergencia Habitacional en barrio Ejército Argentino de la ciudad de Córdoba, creando una Comisión de Emergencia para relevar daños de infraestructura y su origen.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Botta, Patricia Isabel",
@@ -24,7 +25,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

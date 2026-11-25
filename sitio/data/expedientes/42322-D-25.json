@@ -2,6 +2,7 @@
  "numero": "42322/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Bisotto y Bría, reconociendo al equipo cordobés que participó del primer trasplante renal con máquinas de perfusión hipotérmicas que permiten preservar y optimizar los riñones antes del trasplante.",
+ "tema": "Reconociendo al equipo cordobés que participó del primer trasplante renal con máquinas de perfusión hipotérmicas que permiten preservar y optimizar los riñones antes del trasplante.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bisotto, Graciela Maria",
@@ -20,7 +21,8 @@
    "fecha": "2025-04-14",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-14"
  },
  "desconocidos": [],
  "linea_tiempo": [

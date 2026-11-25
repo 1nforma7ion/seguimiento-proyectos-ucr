@@ -2,6 +2,7 @@
  "numero": "47557/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso y Dagum, reconociendo la realización de la 96ª Fiesta del Cognome, celebrada el día 30 de agosto en la localidad de Colonia Almada, Dpto. Tercero Arriba.",
+ "tema": "Reconociendo la realización de la 96ª Fiesta del Cognome, celebrada el día 30 de agosto en la localidad de Colonia Almada, Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Dagum , Lilian Edamary"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

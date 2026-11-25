@@ -2,6 +2,7 @@
  "numero": "42824/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Bisotto, Carignano, Navarro Alegre, Suárez, Contrera, Peirone y Botta, estableciendo el taller \"Creando puentes\", con el objeto de formar en la Legislatura agentes de cambio que garanticen mayor accesibilidad y participación ciudadana.",
+ "tema": "Estableciendo el taller \"Creando puentes\", con el objeto de formar en la Legislatura agentes de cambio que garanticen mayor accesibilidad y participación ciudadana.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Carignano, Carlos Atilio",
@@ -25,7 +26,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

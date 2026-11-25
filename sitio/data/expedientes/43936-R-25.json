@@ -2,6 +2,7 @@
  "numero": "43936/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Contrera y Almada, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la seguridad vial y peatonal, mantenimiento y señalización de rutas periurbanas y suburbanas, especialmente de la Av. Malvinas de la ciudad de Córdoba, que coincide con la Ruta Provincial A188.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la seguridad vial y peatonal, mantenimiento y señalización de rutas periurbanas y suburbanas, especialmente de la Av. Malvinas de la ciudad de Córdoba, que coincide con la Ruta Provincial A188.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -20,7 +21,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

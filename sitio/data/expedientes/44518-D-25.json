@@ -2,6 +2,7 @@
  "numero": "44518/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, expresando beneplácito por el Día Internacional del Síndrome de Phelan-Mcdermid, que se conmemora cada 22 de octubre.",
+ "tema": "Expresando beneplácito por el Día Internacional del Síndrome de Phelan-Mcdermid, que se conmemora cada 22 de octubre.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

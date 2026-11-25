@@ -2,6 +2,7 @@
  "numero": "48689/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Nigro, Grich, Carignano, Jaimes, Molina y Nicolás, reconociendo al Rotary Club de Córdoba en la conmemoración de su centenario, a celebrarse el día 30 de noviembre.",
+ "tema": "Reconociendo al Rotary Club de Córdoba en la conmemoración de su centenario, a celebrarse el día 30 de noviembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nigro, Alfredo Mariano",
@@ -24,7 +25,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

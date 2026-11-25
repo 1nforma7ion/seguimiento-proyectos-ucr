@@ -2,6 +2,7 @@
  "numero": "44669/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Jaimes y Contrera, creando el Programa Provincial de Visibilización, Detección Temprana e Inclusión de Personas con Trastorno del Desarrollo del Lenguaje, con el objeto de promover el diagnóstico precoz, la intervención interdisciplinaria, la capacitación profesional y la concientización social sobre esta condición del neurodesarrollo.",
+ "tema": "Creando el Programa Provincial de Visibilización, Detección Temprana e Inclusión de Personas con Trastorno del Desarrollo del Lenguaje, con el objeto de promover el diagnóstico precoz, la intervención interdisciplinaria, la capacitación profesional y la concientización social sobre esta condición del neurodesarrollo.",
  "autores": [
   "Ferrero, Alejandra",
   "Jaimes, Mauricio Sebastian",
@@ -22,7 +23,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

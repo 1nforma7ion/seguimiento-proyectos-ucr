@@ -1,0 +1,99 @@
+{
+ "numero": "38463/D/23",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Nigro, adhiriendo a los 37° Carnavales Gigantes de la ciudad de Villa Nueva, Dpto. Gral. San Martín, a desarrollarse del 22 al 28 de enero de 2024.",
+ "tema": "Adhiriendo a los 37° Carnavales Gigantes de la ciudad de Villa Nueva, Dpto. Gral. San Martín, a desarrollarse del 22 al 28 de enero de 2024.",
+ "autores": [
+  "Nigro, Alfredo Mariano"
+ ],
+ "comisiones": [
+  "Turismo y su Relación con el Desarrollo Regional"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2023-12-20",
+  "ultimo_movimiento": {
+   "fecha": "2023-12-20",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2023-12-20"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": "2023-12-20",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 40 del Período 145"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 40 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27770",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=SKJP1TmxjZo="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38463%2FD%2F23",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

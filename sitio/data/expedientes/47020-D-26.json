@@ -2,6 +2,7 @@
  "numero": "47020/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Contrera, Knipscheer y Botta, reconociendo a la Federación Argentina de Deportes para Atletas con Síndrome de Down, por su labor institucional, y a su Secretario, el Sr. Germán Laborda.",
+ "tema": "Reconociendo a la Federación Argentina de Deportes para Atletas con Síndrome de Down, por su labor institucional, y a su Secretario, el Sr. Germán Laborda.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

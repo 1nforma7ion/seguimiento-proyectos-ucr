@@ -2,6 +2,7 @@
  "numero": "43761/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados a los municipios y comunas que recibieron fondos del Tesoro Provincial y del Fondo Complementario para Municipios y Comunas (FOCOM) durante el presente año.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados a los municipios y comunas que recibieron fondos del Tesoro Provincial y del Fondo Complementario para Municipios y Comunas (FOCOM) durante el presente año.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

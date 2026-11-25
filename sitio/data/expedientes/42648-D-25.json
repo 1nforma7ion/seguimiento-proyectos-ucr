@@ -2,6 +2,7 @@
  "numero": "42648/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Bría, Bisotto y Botta, adhiriendo al Día Nacional de los Jardines de Infantes y Día de la Maestra Jardinera, que se celebra cada 28 de mayo.",
+ "tema": "Adhiriendo al Día Nacional de los Jardines de Infantes y Día de la Maestra Jardinera, que se celebra cada 28 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria",
@@ -21,7 +22,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

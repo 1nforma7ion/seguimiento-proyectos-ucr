@@ -2,6 +2,7 @@
  "numero": "38827/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Spaccesi, Ferrero, Agrelo y Gvozdenovich, expresando compromiso con el denominado “Pacto del 25 de Mayo” convocado por el Sr. Presidente de la Nación, la predisposición al diálogo y la creación de consensos a fines de crear herramientas para mejorar la calidad de vida de los cordobeses.",
+ "tema": "Expresando compromiso con el denominado “Pacto del 25 de Mayo” convocado por el Sr. Presidente de la Nación, la predisposición al diálogo y la creación de consensos a fines de crear herramientas para mejorar la calidad de vida de los cordobeses.",
  "autores": [
   "Spaccesi, Agustin Alejandro",
   "Ferrero, Alejandra",
@@ -21,7 +22,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

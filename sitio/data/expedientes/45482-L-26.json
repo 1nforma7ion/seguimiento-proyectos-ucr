@@ -2,6 +2,7 @@
  "numero": "45482/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Szpanin, Nigro, Gvozdenovich, Jaimes, Luna, Grich, Bottasso, Bría, Molina, Contrera y Carignano, creando el Registro de Espacios destinados a la Comercialización de Estupefacientes en infracción a la Ley Nacional Nº 23737, dependiente del Fiscal General de la provincia.",
+ "tema": "Creando el Registro de Espacios destinados a la Comercialización de Estupefacientes en infracción a la Ley Nacional Nº 23737, dependiente del Fiscal General de la provincia.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Szpanin, Ariela Yanina",
@@ -43,7 +44,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

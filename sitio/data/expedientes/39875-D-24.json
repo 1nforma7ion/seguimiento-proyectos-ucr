@@ -2,6 +2,7 @@
  "numero": "39875/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Szpanin, Austin, Ferrero, Nigro, Valiente, Gudiño, Nicolás, Saliba, Molina, Contrera, Carignano, Torres Lima y Sala, adhiriendo al 3° Congreso de Bromatología de la provincia, a desarrollarse los días 22 y 23 de agosto en la ciudad de Alta Gracia, Dpto. Santa María.",
+ "tema": "Adhiriendo al 3° Congreso de Bromatología de la provincia, a desarrollarse los días 22 y 23 de agosto en la ciudad de Alta Gracia, Dpto. Santa María.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Szpanin, Ariela Yanina",
@@ -31,7 +32,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

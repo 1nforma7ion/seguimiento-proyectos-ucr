@@ -2,6 +2,7 @@
  "numero": "46897/C/26",
  "tipo": "otros",
  "extracto": "Cuestión de Privilegio, planteada por la Legisladora Brenda Lis Austin contra el Legislador Facundo Torres Lima.",
+ "tema": "Cuestión de Privilegio, planteada por la Legisladora Brenda Lis Austin contra el Legislador Facundo Torres Lima.",
  "autores": [],
  "comisiones": [
   "Asuntos Constitucionales, Justicia y Acuerdos"
@@ -16,7 +17,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

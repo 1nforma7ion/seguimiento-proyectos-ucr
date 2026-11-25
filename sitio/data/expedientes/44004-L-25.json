@@ -2,6 +2,7 @@
  "numero": "44004/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Contrera, Gispert y Peirone, modificando la Ley Nº 9277, de creación de la APROSS, en lo referido al aporte obligatorio mensual de jubilados y pensionados de la provincia.",
+ "tema": "Modificando la Ley Nº 9277, de creación de la APROSS, en lo referido al aporte obligatorio mensual de jubilados y pensionados de la provincia.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

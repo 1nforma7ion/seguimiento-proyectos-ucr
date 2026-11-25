@@ -2,6 +2,7 @@
  "numero": "38703/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna, Szpanin, Ferrero, Gvozdenovich, Valiente, Gudiño, Nicolás, Saliba, Grich, Briner, Bría y Contrera, modificando la Ley N° 10474, -Programa de Asistencia Integral Córdoba (PAICor) Gdor. Eduardo César Angeloz-, garantizando el financiamiento y la actualización de las partidas destinadas al cumplimiento de los objetivos para el que fue creado.",
+ "tema": "Modificando la Ley N° 10474, -Programa de Asistencia Integral Córdoba (PAICor) Gdor. Eduardo César Angeloz-, garantizando el financiamiento y la actualización de las partidas destinadas al cumplimiento de los objetivos para el que fue creado.",
  "autores": [
   "Luna, Fernando Javier",
   "Szpanin, Ariela Yanina",
@@ -32,7 +33,8 @@
    "fecha": "2025-02-28",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

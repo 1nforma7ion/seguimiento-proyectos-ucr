@@ -2,6 +2,7 @@
  "numero": "42974/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Austin, Bría y Peirone, reconociendo a los especialistas del CONICET, de la UNC y del Hospital Privado que lograron importantes avances para contribuir con terapias para frenar el crecimiento de tumores cerebrales.",
+ "tema": "Reconociendo a los especialistas del CONICET, de la UNC y del Hospital Privado que lograron importantes avances para contribuir con terapias para frenar el crecimiento de tumores cerebrales.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Austin, Brenda Lis",
@@ -21,7 +22,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

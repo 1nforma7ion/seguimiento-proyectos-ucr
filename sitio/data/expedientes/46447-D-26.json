@@ -2,6 +2,7 @@
  "numero": "46447/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Carignano, Nicolás, Luna Molina, Jaimes, Contrera, Valiente, Bría, Grosso, Saliba, Gispert y Alesandri, reconociendo al Club Atlético Belgrano de Córdoba por su histórica consagración como Campeón del Torneo Apertura 2026 del fútbol argentino.",
+ "tema": "Reconociendo al Club Atlético Belgrano de Córdoba por su histórica consagración como Campeón del Torneo Apertura 2026 del fútbol argentino.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Carignano, Carlos Atilio",
@@ -30,7 +31,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

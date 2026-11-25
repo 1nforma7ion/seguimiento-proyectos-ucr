@@ -2,6 +2,7 @@
  "numero": "47565/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a la 2ª Fiesta de la Comida de Campo, a desarrollarse el día 12 de septiembre en el Club Milessi Familiar y de Campo sito en el límite entre las ciudades de Brinkmann y Morteros; Dpto. San Justo.",
+ "tema": "Adhiriendo a la 2ª Fiesta de la Comida de Campo, a desarrollarse el día 12 de septiembre en el Club Milessi Familiar y de Campo sito en el límite entre las ciudades de Brinkmann y Morteros; Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

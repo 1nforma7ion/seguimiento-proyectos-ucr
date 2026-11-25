@@ -2,6 +2,7 @@
  "numero": "48673/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando su beneplácito por la distinción otorgada al Grand Master Ernesto Figueredo, IX Dan de Taekwon-Do ITF, con el premio a la “Mejor Propuesta Marcial”, en el marco de los Premios Full Contact TV, el 30 de septiembre de 2026.",
+ "tema": "Expresando su beneplácito por la distinción otorgada al Grand Master Ernesto Figueredo, IX Dan de Taekwon-Do ITF, con el premio a la “Mejor Propuesta Marcial”, en el marco de los Premios Full Contact TV, el 30 de septiembre de 2026.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

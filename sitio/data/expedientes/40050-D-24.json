@@ -2,6 +2,7 @@
  "numero": "40050/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por la 50° Exposición Ganadera e Industrial de la localidad de Vicuña Mackena, Dpto. Río Cuarto, desarrollada del 16 al 18 de agosto.",
+ "tema": "Expresando beneplácito por la 50° Exposición Ganadera e Industrial de la localidad de Vicuña Mackena, Dpto. Río Cuarto, desarrollada del 16 al 18 de agosto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

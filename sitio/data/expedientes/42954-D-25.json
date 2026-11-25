@@ -2,6 +2,7 @@
  "numero": "42954/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Quaglino y Bría, expresando beneplácito por el 75º aniversario del Hospital Córdoba, a celebrarse el día 1 de julio.",
+ "tema": "Expresando beneplácito por el 75º aniversario del Hospital Córdoba, a celebrarse el día 1 de julio.",
  "autores": [
   "Quaglino, Ileana",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

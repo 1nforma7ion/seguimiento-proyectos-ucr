@@ -2,6 +2,7 @@
  "numero": "39313/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bria, adhiriendo a las fiestas patronales de la localidad de Colonia Vignaud, Dpto. San Justo, a celebrarse el día 24 de mayo en honor a María Auxiliadora.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Colonia Vignaud, Dpto. San Justo, a celebrarse el día 24 de mayo en honor a María Auxiliadora.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

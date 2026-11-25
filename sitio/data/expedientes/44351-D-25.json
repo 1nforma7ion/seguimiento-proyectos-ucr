@@ -2,6 +2,7 @@
  "numero": "44351/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, expresando beneplácito por el 5º aniversario del cuerpo Bomberos Unidos Sin Fronteras, celebrado el pasado 30 de septiembre.",
+ "tema": "Expresando beneplácito por el 5º aniversario del cuerpo Bomberos Unidos Sin Fronteras, celebrado el pasado 30 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

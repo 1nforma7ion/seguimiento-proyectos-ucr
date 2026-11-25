@@ -2,6 +2,7 @@
  "numero": "47624/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas, Soardo, Ortíz y Pomiglio, reconociendo a la jugadora riocuartense Victoria Miranda, integrante del equipo argentino de hockey sobre césped, por la obtención del primer puesto en el campeonato mundial desarrollado en Países Bajos.",
+ "tema": "Reconociendo a la jugadora riocuartense Victoria Miranda, integrante del equipo argentino de hockey sobre césped, por la obtención del primer puesto en el campeonato mundial desarrollado en Países Bajos.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -22,7 +23,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

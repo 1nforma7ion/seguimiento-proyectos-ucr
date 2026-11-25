@@ -2,6 +2,7 @@
  "numero": "42199/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, exhortando al Poder Ejecutivo provincial a garantizar el cumplimiento del habeas corpus correctivo en relación a las condiciones de alojamiento en varios módulos del Complejo Carcelario de Bouwer.",
+ "tema": "Exhortando al Poder Ejecutivo provincial a garantizar el cumplimiento del habeas corpus correctivo en relación a las condiciones de alojamiento en varios módulos del Complejo Carcelario de Bouwer.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

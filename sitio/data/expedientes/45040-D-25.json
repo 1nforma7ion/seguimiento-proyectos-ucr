@@ -2,6 +2,7 @@
  "numero": "45040/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Contrera, Nigro, Gvozdenovich y Botta, reconociendo al periodista Miguel Clariá como Cordobés Destacado, por su trayectoria profesional y su contribución a la comunicación social y la cultura cordobesa.",
+ "tema": "Reconociendo al periodista Miguel Clariá como Cordobés Destacado, por su trayectoria profesional y su contribución a la comunicación social y la cultura cordobesa.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2025-12-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

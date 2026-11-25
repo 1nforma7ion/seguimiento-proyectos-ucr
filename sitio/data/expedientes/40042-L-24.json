@@ -2,6 +2,7 @@
  "numero": "40042/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Gispert, Gloria Pereyra, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Nicolás, Luna, Contrera, Carignano, Botta y Hernández Maqueda, regulando políticas de primera infancia.",
+ "tema": "Regulando políticas de primera infancia.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar",
@@ -34,7 +35,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

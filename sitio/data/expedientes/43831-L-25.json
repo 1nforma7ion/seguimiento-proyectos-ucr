@@ -2,6 +2,7 @@
  "numero": "43831/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Nicolás, Bría, Briner, Carignano, Contrera, Ferrero y Szpanin, suspendiendo la subasta judicial electrónica del helicóptero del Gobierno de la provincia descripto como Aeronave bimotor Airbus Helicopters AH y disponiendo la cesión gratuita del mismo a la Municipalidad de la ciudad de Córdoba, con cargo de prestar servicios de transporte de emergencias médicas, búsqueda y rescate y otras tareas de trabajo aéreo.",
+ "tema": "Suspendiendo la subasta judicial electrónica del helicóptero del Gobierno de la provincia descripto como Aeronave bimotor Airbus Helicopters AH y disponiendo la cesión gratuita del mismo a la Municipalidad de la ciudad de Córdoba, con cargo de prestar servicios de transporte de emergencias médicas, búsqueda y rescate y otras tareas de trabajo aéreo.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Bria, Jose Alberto",
@@ -27,7 +28,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

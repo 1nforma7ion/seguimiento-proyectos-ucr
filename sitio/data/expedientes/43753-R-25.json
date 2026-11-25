@@ -2,6 +2,7 @@
  "numero": "43753/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre contratos, convenios y adquisición de productos e insumos a la empresa Droguería Suizo Argentina S.A.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre contratos, convenios y adquisición de productos e insumos a la empresa Droguería Suizo Argentina S.A.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

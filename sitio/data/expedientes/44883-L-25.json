@@ -2,6 +2,7 @@
  "numero": "44883/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jurich, Carignano y el Bloque Hacemos Unidos por Córdoba, instituyendo el 29 de octubre de cada año como el Día Provincial de los Cuidados y el Apoyo, en adhesión a la conmemoración establecida por la ONU.",
+ "tema": "Instituyendo el 29 de octubre de cada año como el Día Provincial de los Cuidados y el Apoyo, en adhesión a la conmemoración establecida por la ONU.",
  "autores": [
   "Jurich, Silvina Dolores",
   "Bloque HACEMOS UNIDOS POR CORDOBA",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

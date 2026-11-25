@@ -2,6 +2,7 @@
  "numero": "39774/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Quaglino, Busso, Acevedo, Siciliano, Ovejeros, Gudiño, Bría, Szpanin, Rossi y Bruno, declarando de Interés Legislativo al 1° Congreso de Educación Humanista de la República Argentina, a desarrollarse del 30 de agosto al 1 de septiembre en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo al 1° Congreso de Educación Humanista de la República Argentina, a desarrollarse del 30 de agosto al 1 de septiembre en la ciudad de Córdoba.",
  "autores": [
   "Quaglino, Ileana",
   "Busso, Maria Victoria",
@@ -27,7 +28,8 @@
    "fecha": "2024-07-24",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42004/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Gispert, Peirone, Bría, Botta y Contrera, estableciendo un sistema unificado de historias clínicas electrónicas en la provincia, creando un Programa de Digitalización y Migración, e instando a explorar y promover el uso de tecnología blockchain.",
+ "tema": "Estableciendo un sistema unificado de historias clínicas electrónicas en la provincia, creando un Programa de Digitalización y Migración, e instando a explorar y promover el uso de tecnología blockchain.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -25,7 +26,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46089/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando la comparecencia (art. 92 R.I.) del interventor de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, Dr. Adrian Alberto Daniele, a la comisión de Legislación del Trabajo, Previsión y Seguridad Social",
+ "tema": "Solicitando la comparecencia (art. 92 R.I.) del interventor de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, Dr. Adrian Alberto Daniele, a la comisión de Legislación del Trabajo, Previsión y Seguridad Social",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

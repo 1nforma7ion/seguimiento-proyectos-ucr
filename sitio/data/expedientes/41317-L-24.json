@@ -2,6 +2,7 @@
  "numero": "41317/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Torres Lima, Busso, Ferrero, Knipscheer, Nigro, Tévez, Austin, Lorenzo, Nicolás, Saliba, Rinaldi, Galo, Sosa, Limia, Quaglino, Rossi, Gudiño, Martoccia, Nostrala y los Bloques PRO, Córdoba y Mejor Futuro, modificando los artículos 46, 46 bis, 46 ter y 46 quáter de la Ley N° 8465, Código Procesal Civil y Comercial.",
+ "tema": "Modificando los artículos 46, 46 bis, 46 ter y 46 quáter de la Ley N° 8465, Código Procesal Civil y Comercial.",
  "autores": [
   "Torres Lima, Facundo",
   "Busso, Maria Victoria",
@@ -40,7 +41,8 @@
    "fecha": "2025-11-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

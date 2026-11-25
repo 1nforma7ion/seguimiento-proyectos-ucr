@@ -2,6 +2,7 @@
  "numero": "38733/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación y rechazo por la voluntad del Gobierno Nacional de suspender la creación de la Universidad Nacional de Río Tercero, eliminando la posibilidad a miles de argentinos de acceder a una oferta educativa superior desde el interior provincial.",
+ "tema": "Expresando preocupación y rechazo por la voluntad del Gobierno Nacional de suspender la creación de la Universidad Nacional de Río Tercero, eliminando la posibilidad a miles de argentinos de acceder a una oferta educativa superior desde el interior provincial.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-02-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44521/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo la suspensión del II Congreso Nacional de Niñeces e Infancia Juventudes Trans, por no reflejar interés público ni neutralidad ideológica.",
+ "tema": "Solicitando al Poder Ejecutivo la suspensión del II Congreso Nacional de Niñeces e Infancia Juventudes Trans, por no reflejar interés público ni neutralidad ideológica.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39120/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Gloria Pereyra, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Bría, Contrera y Carignano, reconociendo la trayectoria de la Orquesta-Escuela Mediterránea, en su 10° aniversario, por su aporte en barrios vulnerables.",
+ "tema": "Reconociendo la trayectoria de la Orquesta-Escuela Mediterránea, en su 10° aniversario, por su aporte en barrios vulnerables.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -33,7 +34,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

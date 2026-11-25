@@ -2,6 +2,7 @@
  "numero": "41028/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Peirone, Gispert, Bría, Almada y Gloria Pereyra, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados a la situación salarial de los trabajadores del sector sanitario público.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados a la situación salarial de los trabajadores del sector sanitario público.",
  "autores": [
   "Peirone, Juan Pablo",
   "Gispert, Walter Oscar",
@@ -23,7 +24,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

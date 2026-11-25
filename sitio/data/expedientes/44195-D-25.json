@@ -2,6 +2,7 @@
  "numero": "44195/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Gvozdenovich, expresando beneplácito por el 3º Congreso de Educación Inclusiva “Par de Pares - A la par por una educación inclusiva”, a desarrollarse los días 3 y 4 de octubre en la ciudad de Corral de Bustos Ifflinger, bajo el lema “Trascendiendo fronteras”.",
+ "tema": "Expresando beneplácito por el 3º Congreso de Educación Inclusiva “Par de Pares - A la par por una educación inclusiva”, a desarrollarse los días 3 y 4 de octubre en la ciudad de Corral de Bustos Ifflinger, bajo el lema “Trascendiendo fronteras”.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

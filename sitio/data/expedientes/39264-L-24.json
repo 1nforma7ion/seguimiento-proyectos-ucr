@@ -2,6 +2,7 @@
  "numero": "39264/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Sala, Ferrero, Gvozdenovich, Nostrala, Contrera, Carignano, Nigro, Bisotto, Szpanin, Gispert, Peirone, Gloria Pereyra, Bría, Bottasso, Luna, Martoccia y Saliba, adhiriendo la provincia a las disposiciones de la Ley nacional N° 27709, -Ley Lucio-, que tiene por objeto la creación del Plan Federal de Capacitación de carácter continuo, permanente y obligatorio, sobre los derechos de los niños, niñas y adolescentes.",
+ "tema": "Adhiriendo la provincia a las disposiciones de la Ley nacional N° 27709, -Ley Lucio-, que tiene por objeto la creación del Plan Federal de Capacitación de carácter continuo, permanente y obligatorio, sobre los derechos de los niños, niñas y adolescentes.",
  "autores": [
   "Botta, Patricia Isabel",
   "Sala, Ignacio Antonio",
@@ -36,7 +37,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

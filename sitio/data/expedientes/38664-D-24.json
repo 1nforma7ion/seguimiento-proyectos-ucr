@@ -2,6 +2,7 @@
  "numero": "38664/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera y Carignano, declarando de Interés Legislativo el lanzamiento de las carreras de Licenciatura en Desarrollo de Negocios Inmobiliarios y la de Tecnicatura en Administración de la Propiedad Horizontal y Conjuntos Inmobiliarios por parte de la Universidad Siglo 21.",
+ "tema": "Declarando de Interés Legislativo el lanzamiento de las carreras de Licenciatura en Desarrollo de Negocios Inmobiliarios y la de Tecnicatura en Administración de la Propiedad Horizontal y Conjuntos Inmobiliarios por parte de la Universidad Siglo 21.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -33,7 +34,8 @@
    "fecha": "2024-02-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

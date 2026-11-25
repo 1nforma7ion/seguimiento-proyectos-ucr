@@ -2,6 +2,7 @@
  "numero": "38683/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Bloque UCR, declarando Área Natural Protegida de Interés Turístico a la Laguna La Margarita, sita en la localidad de Jovita, Dpto. General Roca.",
+ "tema": "Declarando Área Natural Protegida de Interés Turístico a la Laguna La Margarita, sita en la localidad de Jovita, Dpto. General Roca.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Bloque UCR"
@@ -21,7 +22,8 @@
    "fecha": "2026-06-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

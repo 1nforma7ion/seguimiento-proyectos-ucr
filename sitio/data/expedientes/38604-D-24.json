@@ -2,6 +2,7 @@
  "numero": "38604/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Bisotto, Gvozdenovich, Nigro, Saliba, Bria y Contrera, rechazando el aumento del 67% en el servicio de agua potable prestado por la Empresa Aguas Cordobesas S.A. aprobado por el ERSeP desde el mes de febrero de 2024.",
+ "tema": "Rechazando el aumento del 67% en el servicio de agua potable prestado por la Empresa Aguas Cordobesas S.A. aprobado por el ERSeP desde el mes de febrero de 2024.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Bisotto, Graciela Maria",
@@ -24,7 +25,8 @@
    "fecha": "2025-02-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

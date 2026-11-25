@@ -2,6 +2,7 @@
  "numero": "43566/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Almada, Contrera y Bloques del Frente Cívico de Córdoba, de la UCR, del Pro, de Encuentro Vecinal Córdoba, de Construyendo Córdoba, de Juntos por el Interior, de Valores Republicanos, de Partido demócrata y MST en el FITU Unidad, estableciendo la Ley \"Fede\", de formación obligatoria, concientización y abordaje integral del Trastorno del Espectro Autista (TEA).",
+ "tema": "Estableciendo la Ley \"Fede\", de formación obligatoria, concientización y abordaje integral del Trastorno del Espectro Autista (TEA).",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

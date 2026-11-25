@@ -2,6 +2,7 @@
  "numero": "48833/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito por la ExpoSET 2026 - Noche de la Técnica, a desarrollarse el día 19 de noviembre en la localidad de Cruz Alta, Dpto. Marcos Juárez.",
+ "tema": "Expresando beneplácito por la ExpoSET 2026 - Noche de la Técnica, a desarrollarse el día 19 de noviembre en la localidad de Cruz Alta, Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

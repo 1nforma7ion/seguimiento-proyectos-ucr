@@ -2,6 +2,7 @@
  "numero": "44785/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin y Carignano, instando al Poder Ejecutivo a incluir medidas de reducción impositiva a instituciones que tengan por finalidad tratamientos terapéuticos, capacitaciones y servicios destinados a personas con discapacidad.",
+ "tema": "Instando al Poder Ejecutivo a incluir medidas de reducción impositiva a instituciones que tengan por finalidad tratamientos terapéuticos, capacitaciones y servicios destinados a personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

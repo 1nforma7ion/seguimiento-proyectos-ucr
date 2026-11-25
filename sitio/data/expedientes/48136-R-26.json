@@ -2,6 +2,7 @@
  "numero": "48136/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Grosso, Austin y Agüero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la situación sanitaria derivada de la aplicación de productos fitosanitarios en campos linderos a barrios de la ciudad de Córdoba, en particular respecto del predio Estancia La Victoria.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la situación sanitaria derivada de la aplicación de productos fitosanitarios en campos linderos a barrios de la ciudad de Córdoba, en particular respecto del predio Estancia La Victoria.",
  "autores": [
   "Grosso, Gerardo Jose",
   "Austin, Brenda Lis",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

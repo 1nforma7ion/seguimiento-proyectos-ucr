@@ -2,6 +2,7 @@
  "numero": "41086/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Luna, Bisotto, Carignano y Contrera, reconociendo a la atleta María de los Ángeles González, por la obtención de las medallas de Oro y Plata, en distintas categorías de deportes adaptados, en los juegos Evita desarrollados del 6 al 8 de noviembre en la ciudad de Mar del Plata.",
+ "tema": "Reconociendo a la atleta María de los Ángeles González, por la obtención de las medallas de Oro y Plata, en distintas categorías de deportes adaptados, en los juegos Evita desarrollados del 6 al 8 de noviembre en la ciudad de Mar del Plata.",
  "autores": [
   "Luna, Fernando Javier",
   "Bisotto, Graciela Maria",
@@ -21,7 +22,8 @@
    "fecha": "2024-11-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

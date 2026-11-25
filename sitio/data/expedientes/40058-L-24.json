@@ -2,6 +2,7 @@
  "numero": "40058/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna, Szpanin, Austin, Ferrero, Gvozdenovich, Valiente, Nicolás, Briner, Bottasso, Molina, Contrera, Carignano, Gispert y Gloria Pereyra, creando el programa Incentivo a la Educación Permanente de Jóvenes y Adultos.",
+ "tema": "Creando el programa Incentivo a la Educación Permanente de Jóvenes y Adultos.",
  "autores": [
   "Luna, Fernando Javier",
   "Szpanin, Ariela Yanina",
@@ -33,7 +34,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

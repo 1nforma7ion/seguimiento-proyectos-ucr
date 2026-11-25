@@ -2,6 +2,7 @@
  "numero": "41960/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por la labor y trayectoria del Club Náutico Pescadores y Cazadores Hernando, tanto en su ciudad como en su sede de la localidad de Embalse.",
+ "tema": "Expresando beneplácito por la labor y trayectoria del Club Náutico Pescadores y Cazadores Hernando, tanto en su ciudad como en su sede de la localidad de Embalse.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

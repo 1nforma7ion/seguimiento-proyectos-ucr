@@ -2,6 +2,7 @@
  "numero": "47926/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Gispert y Carignano, promoviendo e incrementando las acciones destinadas a la reforestación de tabaquillos en las Sierras Grandes de la provincia, estableciendo exenciones impositivas para inmuebles afectados.",
+ "tema": "Promoviendo e incrementando las acciones destinadas a la reforestación de tabaquillos en las Sierras Grandes de la provincia, estableciendo exenciones impositivas para inmuebles afectados.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar",
@@ -20,7 +21,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

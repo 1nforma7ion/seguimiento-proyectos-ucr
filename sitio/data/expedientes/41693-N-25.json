@@ -1,0 +1,103 @@
+{
+ "numero": "41693/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por la Legisladora Szpanin, solicitando la rehabilitación del proyecto N° 38479/L/23, conforme el Art. 111 del Reglamento Interno.",
+ "tema": "Nota remitida por la Legisladora Szpanin, solicitando la rehabilitación del proyecto N° 38479/L/23, conforme el Art. 111 del Reglamento Interno.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-02-19",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-19",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 2 del Período 148"
+  },
+  {
+   "fecha": "2026-02-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 2 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-02-19"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41693%2FN%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

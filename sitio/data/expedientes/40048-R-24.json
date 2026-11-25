@@ -2,6 +2,7 @@
  "numero": "40048/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.), sobre diversos aspectos relacionados al personal policial que presta funciones en los Departamentos de la provincia, y respecto de traslados en servicios diarios.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.), sobre diversos aspectos relacionados al personal policial que presta funciones en los Departamentos de la provincia, y respecto de traslados en servicios diarios.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-18",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40723/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Peirone, Bría, Briner, Bisotto y el Bloque Frente Cívico de Córdoba, reconociendo al Hospital Privado por ser el primer nosocomio del interior del país acreditado en calidad y seguridad del paciente por la Joint Comission International.",
+ "tema": "Reconociendo al Hospital Privado por ser el primer nosocomio del interior del país acreditado en calidad y seguridad del paciente por la Joint Comission International.",
  "autores": [
   "Peirone, Juan Pablo",
   "Bria, Jose Alberto",
@@ -22,7 +23,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

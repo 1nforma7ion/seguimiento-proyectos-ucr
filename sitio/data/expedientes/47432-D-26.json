@@ -2,6 +2,7 @@
  "numero": "47432/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Nigro, Molina y Saliba, rindiendo homenaje al Diputado Nacional por la UCR Mario Abel Amaya, secuestrado por la dictadura el 17 de agosto de 1976.",
+ "tema": "Rindiendo homenaje al Diputado Nacional por la UCR Mario Abel Amaya, secuestrado por la dictadura el 17 de agosto de 1976.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41864/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Peirone, Contrera y Saliba, solicitando al Poder Ejecutivo que disponga un aumento en la sanción prevista en la Ley N° 9169, de Tránsito, para la infracción conocida como \"picadas ilegales\".",
+ "tema": "Solicitando al Poder Ejecutivo que disponga un aumento en la sanción prevista en la Ley N° 9169, de Tránsito, para la infracción conocida como \"picadas ilegales\".",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Peirone, Juan Pablo",
@@ -21,7 +22,8 @@
    "fecha": "2026-03-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-18"
+  "caduca_el": "2027-03-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

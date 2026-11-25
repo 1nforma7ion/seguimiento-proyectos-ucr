@@ -2,6 +2,7 @@
  "numero": "45031/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración. iniciado por los Legisladores Szpanin, Carignano y Luna, reconociendo a las jugadoras del Club Atlético Belgrano, campeonas del Torneo Femenino Primera División de Fútbol Argentino, AFA 2025.",
+ "tema": "Reconociendo a las jugadoras del Club Atlético Belgrano, campeonas del Torneo Femenino Primera División de Fútbol Argentino, AFA 2025.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Carignano, Carlos Atilio",
@@ -20,7 +21,8 @@
    "fecha": "2025-12-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

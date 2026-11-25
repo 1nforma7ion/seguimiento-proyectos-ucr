@@ -2,6 +2,7 @@
  "numero": "45492/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano y Bisotto, adhiriendo al Día Internacional de la Mujer, que se conmemora cada 8 de marzo.",
+ "tema": "Adhiriendo al Día Internacional de la Mujer, que se conmemora cada 8 de marzo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -20,7 +21,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

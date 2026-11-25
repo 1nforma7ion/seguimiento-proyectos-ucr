@@ -2,6 +2,7 @@
  "numero": "47168/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito por el 50º aniversario del Centro de Jubilados y Pensionados de Marcos Juárez.",
+ "tema": "Expresando beneplácito por el 50º aniversario del Centro de Jubilados y Pensionados de Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

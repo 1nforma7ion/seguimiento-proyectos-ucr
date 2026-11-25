@@ -2,6 +2,7 @@
  "numero": "42005/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Chamorro y Martoccia, declarando de Interés Legislativo la muestra Voces Calladas, a desarrollarse desde el día 26 de marzo en el edificio histórico de la Legislatura de Córdoba, reivindicando a los artistas y escritores censurados que forjaron a través de la cultura una bandera de democracia y libertad.",
+ "tema": "Declarando de Interés Legislativo la muestra Voces Calladas, a desarrollarse desde el día 26 de marzo en el edificio histórico de la Legislatura de Córdoba, reivindicando a los artistas y escritores censurados que forjaron a través de la cultura una bandera de democracia y libertad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2025-03-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

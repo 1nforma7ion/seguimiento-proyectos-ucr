@@ -2,6 +2,7 @@
  "numero": "39763/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Gispert, Gloria Pereyra, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Nicolás, Luna, Saliba, Bría, Molina, Contrera, Carignano y Hernández Maqueda, instando al Poder Ejecutivo a actualizar el haber mínimo que perciben los beneficiarios del Régimen General de Jubilaciones, Pensiones y Retiros de la provincia, y regularice los ajustes efectuados a través del Complemento Previsional Solidario.",
+ "tema": "Instando al Poder Ejecutivo a actualizar el haber mínimo que perciben los beneficiarios del Régimen General de Jubilaciones, Pensiones y Retiros de la provincia, y regularice los ajustes efectuados a través del Complemento Previsional Solidario.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar",
@@ -33,7 +34,8 @@
    "fecha": "2025-07-24",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

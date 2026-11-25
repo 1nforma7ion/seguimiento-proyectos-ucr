@@ -2,6 +2,7 @@
  "numero": "41332/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Nicolás y Contrera, instruyendo a los Senadores (Art. 104 inc. 5 C.P.) y solicitando a los Diputados Nacionales por Córdoba para que insten al Gobierno Nacional a disponer la repare la Autopista Nº 9 que une las ciudades de Córdoba con Rosario, atendiendo cuestiones de seguridad,",
+ "tema": "Instruyendo a los Senadores (Art. 104 inc. 5 C.P.) y solicitando a los Diputados Nacionales por Córdoba para que insten al Gobierno Nacional a disponer la repare la Autopista Nº 9 que une las ciudades de Córdoba con Rosario, atendiendo cuestiones de seguridad,",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -25,7 +26,8 @@
    "fecha": "2025-12-12",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

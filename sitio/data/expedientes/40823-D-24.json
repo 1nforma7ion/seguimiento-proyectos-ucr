@@ -2,6 +2,7 @@
  "numero": "40823/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, adhiriendo al mes de concientización sobre el Síndrome de Down, que se desarrolla cada año en octubre.",
+ "tema": "Adhiriendo al mes de concientización sobre el Síndrome de Down, que se desarrolla cada año en octubre.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

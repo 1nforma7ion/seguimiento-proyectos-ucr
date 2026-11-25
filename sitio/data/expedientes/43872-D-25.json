@@ -2,6 +2,7 @@
  "numero": "43872/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Bisotto y Contrera, reconociendo aL Sr. Gabriel \"Gabilo\"Figueroa por su trayectoria musical y su participación en el programa televisivo Buenas Noches Familia.",
+ "tema": "Reconociendo aL Sr. Gabriel \"Gabilo\"Figueroa por su trayectoria musical y su participación en el programa televisivo Buenas Noches Familia.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Bisotto, Graciela Maria",
@@ -20,7 +21,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

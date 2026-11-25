@@ -2,6 +2,7 @@
  "numero": "42855/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Cristina Pereyra y Bisotto, adhiriendo al Día mundial contra el Trabajo Infantil, que se celebra cada 12 de junio.",
+ "tema": "Adhiriendo al Día mundial contra el Trabajo Infantil, que se celebra cada 12 de junio.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Pereyra, Cristina Alicia",
@@ -20,7 +21,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

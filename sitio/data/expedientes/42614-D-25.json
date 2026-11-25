@@ -2,6 +2,7 @@
  "numero": "42614/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por el centenario del Club Atlético Independiente de la ciudad de Hernando, Dpto. Tercero Arriba.",
+ "tema": "Expresando beneplácito por el centenario del Club Atlético Independiente de la ciudad de Hernando, Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

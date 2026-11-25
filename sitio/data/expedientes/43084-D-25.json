@@ -2,6 +2,7 @@
  "numero": "43084/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin y Chamorro, rindiendo homenaje al Sr. Ezequiel Castro en el aniversario de su fallecimiento ocurrido el 14 de junio de 2022 en la ciudad de Córdoba.",
+ "tema": "Rindiendo homenaje al Sr. Ezequiel Castro en el aniversario de su fallecimiento ocurrido el 14 de junio de 2022 en la ciudad de Córdoba.",
  "autores": [
   "Austin, Brenda Lis",
   "Chamorro, Matias Ezequiel"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

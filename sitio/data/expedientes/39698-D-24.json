@@ -2,6 +2,7 @@
  "numero": "39698/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Gvozdenovich, Szpanin y Bottasso, adhiriendo al 67º aniversario de la escuela especial María Montessori de la ciudad de Córdoba, a celebrarse el día 1 de julio.",
+ "tema": "Adhiriendo al 67º aniversario de la escuela especial María Montessori de la ciudad de Córdoba, a celebrarse el día 1 de julio.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -22,7 +23,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

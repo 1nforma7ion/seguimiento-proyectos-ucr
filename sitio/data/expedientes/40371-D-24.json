@@ -2,6 +2,7 @@
  "numero": "40371/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando beneplácito por la realización de la 30º Feria de las Colectividades, a desarrollarse el día 16 de noviembre en la ciudad de Marcos Juárez.",
+ "tema": "Expresando beneplácito por la realización de la 30º Feria de las Colectividades, a desarrollarse el día 16 de noviembre en la ciudad de Marcos Juárez.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

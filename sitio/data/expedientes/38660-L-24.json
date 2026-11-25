@@ -2,6 +2,7 @@
  "numero": "38660/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Jaimes, Bisotto, Szpanin, Austin, Gvozdenovich, Nicolás, Luna, Molina, Contrera, Carignano, Nostrala, Gloria Pereyra, Peirone, Botta, Rossi y Hernández Maqueda, modificando los artículos 14, 20 y 21 e incorporando el artículo 20 bis a la Ley N° 10793, que regula el juego en línea.",
+ "tema": "Modificando los artículos 14, 20 y 21 e incorporando el artículo 20 bis a la Ley N° 10793, que regula el juego en línea.",
  "autores": [
   "Ferrero, Alejandra",
   "Jaimes, Mauricio Sebastian",
@@ -36,7 +37,8 @@
    "fecha": "2025-02-28",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

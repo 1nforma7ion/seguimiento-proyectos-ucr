@@ -2,6 +2,7 @@
  "numero": "47217/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los cambios efectuados en el Portal de Transparencia, afectando la accesibilidad a datos de la ejecución presupuestaria.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los cambios efectuados en el Portal de Transparencia, afectando la accesibilidad a datos de la ejecución presupuestaria.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

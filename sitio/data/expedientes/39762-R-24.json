@@ -2,6 +2,7 @@
  "numero": "39762/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Gispert, Gloria Pereyra, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Nicolás, Luna, Saliba, Bría, Molina, Contrera, Carignano y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al haber mínimo de jubilación en la provincia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al haber mínimo de jubilación en la provincia.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar",
@@ -33,7 +34,8 @@
    "fecha": "2024-09-18",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

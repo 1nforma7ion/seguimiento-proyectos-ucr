@@ -2,6 +2,7 @@
  "numero": "44901/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a la gira Galaico - Portuguesa 2026, que se desarrollará la Camerata Vocal Arsis del 27 de enero al 9 de febrero de 2026, representando a la ciudad de Río Cuarto por los países de España y Portugal.",
+ "tema": "Adhiriendo a la gira Galaico - Portuguesa 2026, que se desarrollará la Camerata Vocal Arsis del 27 de enero al 9 de febrero de 2026, representando a la ciudad de Río Cuarto por los países de España y Portugal.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

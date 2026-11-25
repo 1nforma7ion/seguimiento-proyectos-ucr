@@ -2,6 +2,7 @@
  "numero": "45422/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, instando al Poder Ejecutivo a impulsar el Plan de Cierre del yacimiento Schlagintweit, ex Complejo Minero Fabril Los Gigantes, presentado por la CONAE; remitiendo a la Comisión de Ambiente y Recursos Renovables de la Legislatura informes periódicos sobre el avance de las actividades.",
+ "tema": "Instando al Poder Ejecutivo a impulsar el Plan de Cierre del yacimiento Schlagintweit, ex Complejo Minero Fabril Los Gigantes, presentado por la CONAE; remitiendo a la Comisión de Ambiente y Recursos Renovables de la Legislatura informes periódicos sobre el avance de las actividades.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

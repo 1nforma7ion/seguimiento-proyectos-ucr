@@ -2,6 +2,7 @@
  "numero": "46880/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, LLamosas y Grich, expresando beneplácito por el cincuentenario de la declaración como Monumento Histórico Nacional de la Capilla de Nuestra Señora del Rosario de Tegua, Dpto. Río Cuarto, a conmemorarse el día 8 de julio.",
+ "tema": "Expresando beneplácito por el cincuentenario de la declaración como Monumento Histórico Nacional de la Capilla de Nuestra Señora del Rosario de Tegua, Dpto. Río Cuarto, a conmemorarse el día 8 de julio.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

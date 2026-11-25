@@ -2,6 +2,7 @@
  "numero": "42498/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Almada, adhiriendo a la Semana Internacional de la Educación Artística, a desarrollarse del 20 al 26 de mayo.",
+ "tema": "Adhiriendo a la Semana Internacional de la Educación Artística, a desarrollarse del 20 al 26 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -19,7 +20,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

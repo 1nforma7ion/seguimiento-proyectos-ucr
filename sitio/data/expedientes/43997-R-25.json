@@ -2,6 +2,7 @@
  "numero": "43997/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Almada, Contrera, Gispert y Peirone, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a alquileres de inmuebles por parte de la Apross tras el incendio de su sede central, así como fecha de puesta en funcionamiento de su edificio.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a alquileres de inmuebles por parte de la Apross tras el incendio de su sede central, así como fecha de puesta en funcionamiento de su edificio.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

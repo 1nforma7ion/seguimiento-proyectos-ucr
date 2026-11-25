@@ -2,6 +2,7 @@
  "numero": "43242/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) si se cumple con la entrega del informe anual de la Dirección de Control de la Conducta Policial a la Legislatura, leyes Nros. 9235 y 10437.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) si se cumple con la entrega del informe anual de la Dirección de Control de la Conducta Policial a la Legislatura, leyes Nros. 9235 y 10437.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

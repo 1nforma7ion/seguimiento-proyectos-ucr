@@ -2,6 +2,7 @@
  "numero": "43495/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Szpanin y Contrera, creando el Programa de Cantinas Escolares Saludables en los establecimientos educativos públicos y privados de la provincia de Córdoba.",
+ "tema": "Creando el Programa de Cantinas Escolares Saludables en los establecimientos educativos públicos y privados de la provincia de Córdoba.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

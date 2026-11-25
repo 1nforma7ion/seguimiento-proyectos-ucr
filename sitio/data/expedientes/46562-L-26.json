@@ -2,6 +2,7 @@
  "numero": "46562/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Nigro, Saliba, Nicolás y Carignano, creando Juzgados Especializados en la Protección de los Derechos de las Personas Mayores en el ámbito del Poder Judicial de la provincia.",
+ "tema": "Creando Juzgados Especializados en la Protección de los Derechos de las Personas Mayores en el ámbito del Poder Judicial de la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nigro, Alfredo Mariano",
@@ -23,7 +24,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

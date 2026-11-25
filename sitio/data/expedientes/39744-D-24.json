@@ -2,6 +2,7 @@
  "numero": "39744/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por los hechos de corrupción dentro de las fuerzas policiales de la provincia, requiriendo se extremen las medidas de control de idoneidad, ética, antecedentes y moralidad del personal, tanto policial como civil.",
+ "tema": "Expresando preocupación por los hechos de corrupción dentro de las fuerzas policiales de la provincia, requiriendo se extremen las medidas de control de idoneidad, ética, antecedentes y moralidad del personal, tanto policial como civil.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-04",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

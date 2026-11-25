@@ -1,0 +1,100 @@
+{
+ "numero": "38472/D/23",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Nicolás, solicitando la suspensión de la obra del nuevo edificio para el “Centro de Recepción de Procedimientos de Personas Aprendidas”, de barrio La France de la ciudad de Córdoba, proponiendo que la misma preste funciones de albergue para familiares de pacientes del Neonatal.",
+ "tema": "Solicitando la suspensión de la obra del nuevo edificio para el “Centro de Recepción de Procedimientos de Personas Aprendidas”, de barrio La France de la ciudad de Córdoba, proponiendo que la misma preste funciones de albergue para familiares de pacientes del Neonatal.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [
+  "Obras Públicas y Vivienda",
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2023-12-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-27",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-27"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 41 del Período 145"
+  },
+  {
+   "fecha": "2023-12-27",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 41 del Período 145"
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 41 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 41 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-12-27"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Seguridad · 6",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38472%2FD%2F23",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

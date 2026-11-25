@@ -2,6 +2,7 @@
  "numero": "46824/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Peirone, Grosso, Nigro, Contrera, Carignano, Botta y Molina, adhiriendo la provincia al Día Mundial de la Lucha contra la Esclerosis Lateral Amiotrófica (ELA), que se conmemora el 21 de junio de cada año.",
+ "tema": "Adhiriendo la provincia al Día Mundial de la Lucha contra la Esclerosis Lateral Amiotrófica (ELA), que se conmemora el 21 de junio de cada año.",
  "autores": [
   "Almada, Nancy Edith",
   "Peirone, Juan Pablo",
@@ -26,7 +27,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

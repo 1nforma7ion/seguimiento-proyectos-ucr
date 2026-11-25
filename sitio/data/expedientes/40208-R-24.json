@@ -1,0 +1,123 @@
+{
+ "numero": "40208/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Jaimes, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a casos de vulneración hacia la integridad sexual de niños, niñas y adolescentes, intervenciones y seguimiento, y respecto del funcionamiento de la línea 102 para denuncias.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a casos de vulneración hacia la integridad sexual de niños, niñas y adolescentes, intervenciones y seguimiento, y respecto del funcionamiento de la línea 102 para denuncias.",
+ "autores": [
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-09-04",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-13",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Normal",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 3967",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=VnYUq5OIvTA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40208%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

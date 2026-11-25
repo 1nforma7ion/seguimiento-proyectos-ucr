@@ -2,6 +2,7 @@
  "numero": "42401/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás y Gvozdenovich, solicitando al Sr. Fiscal General de la provincia a direccionar las actuaciones referidas al incendio de la sede de la APROSS a la fiscalía a cargo del Dr. José Bringas, quien investiga las supuestas estafas contra la institución.",
+ "tema": "Solicitando al Sr. Fiscal General de la provincia a direccionar las actuaciones referidas al incendio de la sede de la APROSS a la fiscalía a cargo del Dr. José Bringas, quien investiga las supuestas estafas contra la institución.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

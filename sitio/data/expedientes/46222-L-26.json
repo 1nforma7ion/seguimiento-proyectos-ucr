@@ -2,6 +2,7 @@
  "numero": "46222/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Bría, Briner, Valiente, Carignano, Nicolás y Almada, creando el Programa Provincial de Prevención y Lucha contra los Accidentes Cerebrovasculares - ACV.",
+ "tema": "Creando el Programa Provincial de Prevención y Lucha contra los Accidentes Cerebrovasculares - ACV.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

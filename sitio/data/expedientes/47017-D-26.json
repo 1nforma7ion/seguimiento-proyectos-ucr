@@ -2,6 +2,7 @@
  "numero": "47017/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Saliba, Valiente, Nicolás, Nigro, Molina, Gudiño, Ferrero, Bisotto y Bría, expresando beneplácito por el 75º aniversario de la empresa ARCOR, fundada el día 5 de julio de 1951 en la ciudad de Arroyito, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por el 75º aniversario de la empresa ARCOR, fundada el día 5 de julio de 1951 en la ciudad de Arroyito, Dpto. San Justo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -27,7 +28,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

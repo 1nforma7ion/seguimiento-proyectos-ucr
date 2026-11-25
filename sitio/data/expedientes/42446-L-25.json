@@ -2,6 +2,7 @@
  "numero": "42446/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Flores y los Bloques Hacemos Unidos por Córdoba, UCR y Frente Cívico de Córdoba, declarando Fiesta Provincial a la Fiesta de los Trabajadores, que se desarrolla anualmente en la localidad de Santa Elena, Dpto. Río Seco.",
+ "tema": "Declarando Fiesta Provincial a la Fiesta de los Trabajadores, que se desarrolla anualmente en la localidad de Santa Elena, Dpto. Río Seco.",
  "autores": [
   "Flores, Ernesto Ramon",
   "Bloque HACEMOS UNIDOS POR CORDOBA",
@@ -22,7 +23,8 @@
    "fecha": "2025-07-28",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

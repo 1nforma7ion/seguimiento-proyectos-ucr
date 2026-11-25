@@ -2,6 +2,7 @@
  "numero": "41159/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre recursos entregados, por Departamento, y respecto de lo presupuestado para el año 2025 del Fondo de Descentralización del Mantenimiento de Móviles y Edificios Policiales (FOMMEP).",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre recursos entregados, por Departamento, y respecto de lo presupuestado para el año 2025 del Fondo de Descentralización del Mantenimiento de Móviles y Edificios Policiales (FOMMEP).",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-11-20",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

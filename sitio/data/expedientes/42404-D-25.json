@@ -2,6 +2,7 @@
  "numero": "42404/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Contrera, Szpanin y Carignano, reconociendo a Nahiara Albornoz Rodríguez, niña de 9 años de edad de la ciudad de Hernando, por la creación y publicación del libro La Princesa Ana, escrito en sistema braille y con ilustraciones en relieve.",
+ "tema": "Reconociendo a Nahiara Albornoz Rodríguez, niña de 9 años de edad de la ciudad de Hernando, por la creación y publicación del libro La Princesa Ana, escrito en sistema braille y con ilustraciones en relieve.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44808/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Ferrero, Nicolás, Szpanin, Bría, Contrera y Saliba, solicitando al Poder Ejecutivo informe (art. 102 C.P.) si la provisión de agua potable en la provincia es apta para el consumo humano de acuerdo a los estándares considerados seguros por la Organización Mundial de la Salud y por los parámetros establecidos en la legislación vigente.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) si la provisión de agua potable en la provincia es apta para el consumo humano de acuerdo a los estándares considerados seguros por la Organización Mundial de la Salud y por los parámetros establecidos en la legislación vigente.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Ferrero, Alejandra",
@@ -15,16 +16,17 @@
   "Infraestructura y Servicios Públicos"
  ],
  "estado": {
-  "etapa": 2,
-  "etapa_nombre": "En estudio en comisión",
-  "resultado": null,
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
   "sobre_tablas": false,
   "ingreso": "2025-11-19",
   "ultimo_movimiento": {
-   "fecha": "2025-11-19",
-   "texto": "Pasó a estudio en comisión"
+   "fecha": "2026-11-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": "2026-11-19"
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [
@@ -47,6 +49,16 @@
    "fecha": "2025-11-19",
    "texto": "Pasó a estudio en comisión",
    "detalle": "Sesión Ordinaria 20 del Período 147"
+  },
+  {
+   "fecha": "2026-11-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
   }
  ],
  "eventos_crudos": [
@@ -77,9 +89,23 @@
    "sesion": "Sesión Ordinaria 20 del Período 147",
    "periodo": 147,
    "fecha": "2025-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-19"
   }
  ],
  "documentos": [],
  "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44808%2FR%2F25",
- "recolectado": "2026-11-24T14:23:06.892381-03:00"
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
 }

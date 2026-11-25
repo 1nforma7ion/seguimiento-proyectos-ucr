@@ -2,6 +2,7 @@
  "numero": "40368/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Valiente, Saliba, Bottasso, Molina, Contrera y Carignano, expresando beneplácito por el 152º aniversario de la agrupación gaucha Jinetes de la Virgen Cautiva de la localidad de Villa de María, Dpto. Río Seco.",
+ "tema": "Expresando beneplácito por el 152º aniversario de la agrupación gaucha Jinetes de la Virgen Cautiva de la localidad de Villa de María, Dpto. Río Seco.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

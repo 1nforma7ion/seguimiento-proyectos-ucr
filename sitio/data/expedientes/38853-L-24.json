@@ -2,6 +2,7 @@
  "numero": "38853/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Limia, Knipscheer, Lorenzo, Romero, Russo, Bisotto, Bría y Juez, modificando el artículo 1 de la Ley N° 10003, suspendiendo hasta el 31 de marzo de 2025 las ejecuciones que persigan subasta de bienes inmuebles de propiedad de las asociaciones civiles, clubes o entidades financieras sin fines de lucro, cualquiera fuere su causa.",
+ "tema": "Modificando el artículo 1 de la Ley N° 10003, suspendiendo hasta el 31 de marzo de 2025 las ejecuciones que persigan subasta de bienes inmuebles de propiedad de las asociaciones civiles, clubes o entidades financieras sin fines de lucro, cualquiera fuere su causa.",
  "autores": [
   "Botta, Patricia Isabel",
   "Limia, Luis Leonardo",
@@ -27,7 +28,8 @@
    "fecha": "2024-04-08",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

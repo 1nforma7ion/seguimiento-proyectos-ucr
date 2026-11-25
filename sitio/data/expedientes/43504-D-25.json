@@ -2,6 +2,7 @@
  "numero": "43504/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo al 119° aniversario de la localidad de Bulnes, Dpto. Río Cuarto, a celebrarse el 15 de agosto.",
+ "tema": "Adhiriendo al 119° aniversario de la localidad de Bulnes, Dpto. Río Cuarto, a celebrarse el 15 de agosto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

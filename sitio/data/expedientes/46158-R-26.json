@@ -2,6 +2,7 @@
  "numero": "46158/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Grosso, Briner y Botta, instruyendo a los Senadores (art. 104, inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba a presentar, impulsar o apoyar proyectos legislativos de limitación de acceso de menores de edad a redes sociales.",
+ "tema": "Instruyendo a los Senadores (art. 104, inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba a presentar, impulsar o apoyar proyectos legislativos de limitación de acceso de menores de edad a redes sociales.",
  "autores": [
   "Grosso, Gerardo Jose",
   "Briner, Carlos Edgardo",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

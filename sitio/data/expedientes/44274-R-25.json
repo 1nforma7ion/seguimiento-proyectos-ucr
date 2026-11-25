@@ -2,6 +2,7 @@
  "numero": "44274/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Gloria Pereyra, Almada, Nicolás y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) la situación institucional que atraviesa la comuna de Estancia Vieja, Dpto. Punilla, en virtud de la renuncia del tesorero comunal.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) la situación institucional que atraviesa la comuna de Estancia Vieja, Dpto. Punilla, en virtud de la renuncia del tesorero comunal.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

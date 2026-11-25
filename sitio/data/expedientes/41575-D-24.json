@@ -2,6 +2,7 @@
  "numero": "41575/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Briner, solicitando al Poder Ejecutivo que solucione la situación edilicia y operativa del IPET Nº 267 Antonio Graziano de la ciudad de Bell Ville, Dpto. Unión.",
+ "tema": "Solicitando al Poder Ejecutivo que solucione la situación edilicia y operativa del IPET Nº 267 Antonio Graziano de la ciudad de Bell Ville, Dpto. Unión.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

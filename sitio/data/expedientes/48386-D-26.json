@@ -2,6 +2,7 @@
  "numero": "48386/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Stella Peralta y los miembros de la comisión de Salud, adhiriendo a una nueva edición de “La Noche de las Vacunas”, a desarrollarse el día 30 de octubre en el Hospital Pediátrico del Niño Jesús de la ciudad de Córdoba.",
+ "tema": "Adhiriendo a una nueva edición de “La Noche de las Vacunas”, a desarrollarse el día 30 de octubre en el Hospital Pediátrico del Niño Jesús de la ciudad de Córdoba.",
  "autores": [
   "Peralta, Stella Maris",
   "Frias, Cristian Adrian",
@@ -26,7 +27,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

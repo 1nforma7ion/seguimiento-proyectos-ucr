@@ -1,0 +1,100 @@
+{
+ "numero": "41656/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Valiente, reconociendo a la periodista cordobesa Bárbara Anderson por su libro \"Los dos hemisferios de Lucca\", que fue llevado al cine y estrenado en la plataforma Netflix el 31 de enero pasado.",
+ "tema": "Reconociendo a la periodista cordobesa Bárbara Anderson por su libro \"Los dos hemisferios de Lucca\", que fue llevado al cine y estrenado en la plataforma Netflix el 31 de enero pasado.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-02-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29207",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=LQwR4c7MZVg="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41656%2FD%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "48700/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Bisotto, expresando beneplácito por el Día Internacional contra la Violencia y el Acoso en la Escuela, incluido el Ciberacoso, que se celebra el primer jueves de noviembre de cada año.",
+ "tema": "Expresando beneplácito por el Día Internacional contra la Violencia y el Acoso en la Escuela, incluido el Ciberacoso, que se celebra el primer jueves de noviembre de cada año.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

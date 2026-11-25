@@ -2,6 +2,7 @@
  "numero": "43950/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) la cantidad de denuncias efectuadas a proveedores de servicios o productos que tengan como causal el trato indigno a personas con discapacidad, detallando las que fueron realizadas en contra de organizadores de espectáculos públicos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) la cantidad de denuncias efectuadas a proveedores de servicios o productos que tengan como causal el trato indigno a personas con discapacidad, detallando las que fueron realizadas en contra de organizadores de espectáculos públicos.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46255/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Grich, Carignano, Bottasso, Gvozdenovich, Jaimes, Molina, Saliba, Valiente, Nicolás, Juez, Gloria Pereyra, Peirone, Hernández Maqueda, Rossi, Bisotto, Botta, Sala, Gudiño, Almada, Sebastián Peralta y Grosso, creando el Programa de Prevención y Tratamiento de Enfermedades de la Piel y del Cáncer de Piel, como política permanente de salud pública.",
+ "tema": "Creando el Programa de Prevención y Tratamiento de Enfermedades de la Piel y del Cáncer de Piel, como política permanente de salud pública.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -42,7 +43,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

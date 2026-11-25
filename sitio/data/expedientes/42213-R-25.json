@@ -2,6 +2,7 @@
  "numero": "42213/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Szpanin, Ferrero, Gvozdenovich y Contrera, modificando el Reglamento Interno, en lo referido a las actas de votación.",
+ "tema": "Modificando el Reglamento Interno, en lo referido a las actas de votación.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -23,7 +24,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

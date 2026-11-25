@@ -2,6 +2,7 @@
  "numero": "39114/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bottasso, Bisotto, Szpanin, Austin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Luna, Saliba, Grich, Molina y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la obra Gasoducto Manisero II.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la obra Gasoducto Manisero II.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Bisotto, Graciela Maria",
@@ -30,7 +31,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

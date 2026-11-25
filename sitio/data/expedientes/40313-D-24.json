@@ -2,6 +2,7 @@
  "numero": "40313/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Bría, reconociendo al tenista Gustavo Fernández por la obtención de la Medalla de Bronce en los Juegos Paralímpicos París 2024.",
+ "tema": "Reconociendo al tenista Gustavo Fernández por la obtención de la Medalla de Bronce en los Juegos Paralímpicos París 2024.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

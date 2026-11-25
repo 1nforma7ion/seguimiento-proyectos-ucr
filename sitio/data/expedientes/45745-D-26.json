@@ -2,6 +2,7 @@
  "numero": "45745/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Grich, Briner, Gudiño, Ferrero, Bría, Jaimes, Contrera, Szpanin, Carignano y Saliba, declarando de Interés Legislativo la labor realizada por el Equipo Argentino de Antropología Forense y por las instituciones que participaron en la identificación de los restos de doce personas desaparecidas durante la última dictadura cívico- militar.",
+ "tema": "Declarando de Interés Legislativo la labor realizada por el Equipo Argentino de Antropología Forense y por las instituciones que participaron en la identificación de los restos de doce personas desaparecidas durante la última dictadura cívico- militar.",
  "autores": [
   "Austin, Brenda Lis",
   "Grich, Ariel Denis",
@@ -28,7 +29,8 @@
    "fecha": "2026-03-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

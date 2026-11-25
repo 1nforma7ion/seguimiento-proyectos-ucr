@@ -2,6 +2,7 @@
  "numero": "40965/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Bottasso, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Nicolás, Luna, Saliba, Briner, Bría, Contrera, Carignano y Gispert, creando el Ente de Control y Evaluación de los Vehículos de Proyectos Únicos VPU Córdoba.",
+ "tema": "Creando el Ente de Control y Evaluación de los Vehículos de Proyectos Únicos VPU Córdoba.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Jaimes, Mauricio Sebastian",
@@ -33,7 +34,8 @@
    "fecha": "2025-10-30",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

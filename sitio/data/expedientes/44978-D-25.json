@@ -2,6 +2,7 @@
  "numero": "44978/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Molina, Contrera, Carignano, Botta y el Bloque UCR, expresando beneplácito por la declaración del Cuarteto Cordobés como Patrimonio Cultural Inmaterial de la Humanidad, dictaminado por la UNESCO.",
+ "tema": "Expresando beneplácito por la declaración del Cuarteto Cordobés como Patrimonio Cultural Inmaterial de la Humanidad, dictaminado por la UNESCO.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Molina, Victor Eduardo",
@@ -23,7 +24,8 @@
    "fecha": "2025-12-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

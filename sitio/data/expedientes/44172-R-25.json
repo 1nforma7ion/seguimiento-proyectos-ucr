@@ -2,6 +2,7 @@
  "numero": "44172/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Chamorro, Nigro, Bisotto y Stella Peralta, instruyendo a los Senadores (art. 104, inc.5 C.P. ) e instando a los Diputados Nacionales por Córdoba, para que impulsen el tratamiento y designación de las autoridades de la Defensoría de los Derechos de Niñas, Niños y Adolescentes, en cumplimiento de la Ley Nacional Nº 26061.",
+ "tema": "Instruyendo a los Senadores (art. 104, inc.5 C.P. ) e instando a los Diputados Nacionales por Córdoba, para que impulsen el tratamiento y designación de las autoridades de la Defensoría de los Derechos de Niñas, Niños y Adolescentes, en cumplimiento de la Ley Nacional Nº 26061.",
  "autores": [
   "Austin, Brenda Lis",
   "Chamorro, Matias Ezequiel",
@@ -22,7 +23,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

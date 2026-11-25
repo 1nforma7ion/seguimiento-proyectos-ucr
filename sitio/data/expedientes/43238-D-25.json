@@ -2,6 +2,7 @@
  "numero": "43238/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Almada, Carignano y Botta, expresando beneplácito por la creación de la Diplomatura Universitaria en Derechos, Diseño Universal y Convivencia para la Neurodivergencia y la Discapacidad, en la UNC.",
+ "tema": "Expresando beneplácito por la creación de la Diplomatura Universitaria en Derechos, Diseño Universal y Convivencia para la Neurodivergencia y la Discapacidad, en la UNC.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith",
@@ -21,7 +22,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

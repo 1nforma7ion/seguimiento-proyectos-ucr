@@ -2,6 +2,7 @@
  "numero": "41042/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Luna, Szpanin, Nicolás, Saliba, Bottasso, Contrera y Carignano, instando a la Secretaría de Transporte a adecuar el radio del Boleto Obrero Social a 100 kilómetros.",
+ "tema": "Instando a la Secretaría de Transporte a adecuar el radio del Boleto Obrero Social a 100 kilómetros.",
  "autores": [
   "Luna, Fernando Javier",
   "Szpanin, Ariela Yanina",
@@ -24,7 +25,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

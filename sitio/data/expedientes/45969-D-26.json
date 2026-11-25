@@ -2,6 +2,7 @@
  "numero": "45969/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Peirone, Molina, Contrera, Bisotto y Acuña, expresando beneplácito por la web cultural Puntos de Fuga, medio digital cordobés joven e independiente, y a su creadora, la periodista Guillermina Delupi.",
+ "tema": "Expresando beneplácito por la web cultural Puntos de Fuga, medio digital cordobés joven e independiente, y a su creadora, la periodista Guillermina Delupi.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -24,7 +25,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

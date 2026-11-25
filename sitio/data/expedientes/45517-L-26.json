@@ -2,6 +2,7 @@
  "numero": "45517/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Austin y Contrera, creando el Comité de Cuenca del Canal Maestro Sur de la ciudad de Córdoba, con el objeto de elaborar, coordinar y supervisar un Plan Integral de Operación y Gestión del mismo.",
+ "tema": "Creando el Comité de Cuenca del Canal Maestro Sur de la ciudad de Córdoba, con el objeto de elaborar, coordinar y supervisar un Plan Integral de Operación y Gestión del mismo.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

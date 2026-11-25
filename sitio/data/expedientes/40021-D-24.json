@@ -2,6 +2,7 @@
  "numero": "40021/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a la maratón denominada Morteros Capital de Ansenuza, a desarrollarse el día 8 de septiembre en la ciudad homónima del Dpto. San Justo.",
+ "tema": "Adhiriendo a la maratón denominada Morteros Capital de Ansenuza, a desarrollarse el día 8 de septiembre en la ciudad homónima del Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

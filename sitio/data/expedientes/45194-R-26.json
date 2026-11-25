@@ -2,6 +2,7 @@
  "numero": "45194/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el mantenimiento de las rutas provinciales y la gestión de convenios con municipios.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el mantenimiento de las rutas provinciales y la gestión de convenios con municipios.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

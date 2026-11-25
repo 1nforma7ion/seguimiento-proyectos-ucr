@@ -2,6 +2,7 @@
  "numero": "39318/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Carignano, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a los Programas del Plan Córdoba Mayor desde diciembre de 2023 .",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a los Programas del Plan Córdoba Mayor desde diciembre de 2023 .",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-07-24",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

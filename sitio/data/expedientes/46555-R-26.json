@@ -2,6 +2,7 @@
  "numero": "46555/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera y Molina, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos al Expte. Nº 0733-011330/2026, de licitación de la obra de sistematización del cauce del río Jesús María, en los Dptos. Colón y Totoral.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos al Expte. Nº 0733-011330/2026, de licitación de la obra de sistematización del cauce del río Jesús María, en los Dptos. Colón y Totoral.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Molina, Victor Eduardo"
@@ -20,7 +21,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

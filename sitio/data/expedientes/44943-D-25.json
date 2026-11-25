@@ -2,6 +2,7 @@
  "numero": "44943/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Valiente, Acevedo, Botta, Contrera, Jurich, Molina, Szpanin, Frías, Figueroa, Stella Peralta, Nigro, Carignano y Peirone, expresando beneplácito por el 30º aniversario de la Obra de María, que dio origen a Radio María Argentina.",
+ "tema": "Expresando beneplácito por el 30º aniversario de la Obra de María, que dio origen a Radio María Argentina.",
  "autores": [
   "Valiente, Lucas German",
   "Acevedo, Maria Del Rosario",
@@ -30,7 +31,8 @@
    "fecha": "2025-12-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

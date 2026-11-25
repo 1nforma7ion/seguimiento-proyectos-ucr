@@ -2,6 +2,7 @@
  "numero": "44541/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo el Congreso Nueva Perspectiva de la Justicia de Faltas, a desarrollarse el 28 de noviembre en la ciudad de Córdoba.",
+ "tema": "Reconociendo el Congreso Nueva Perspectiva de la Justicia de Faltas, a desarrollarse el 28 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

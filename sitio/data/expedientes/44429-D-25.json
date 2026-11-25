@@ -2,6 +2,7 @@
  "numero": "44429/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, declarando de Interés Legislativo el 2° Encuentro de Intercambio de Buenas Prácticas Europa-América Latina “Las Defensorías Universitarias y la cultura de buenas prácticas”, a desarrollarse del 3 al 7 de noviembre en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo el 2° Encuentro de Intercambio de Buenas Prácticas Europa-América Latina “Las Defensorías Universitarias y la cultura de buenas prácticas”, a desarrollarse del 3 al 7 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

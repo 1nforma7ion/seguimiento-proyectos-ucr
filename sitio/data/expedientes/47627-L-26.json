@@ -2,6 +2,7 @@
  "numero": "47627/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Jaimes, Almada, Nigro, Luna, Bria, Martoccia, Grosso, Agost Carreño, Sebastian Peralta, Bisotto, Szpanin Contrera y Peirone, creando el Sistema Integral Agostina de Prevención, Alerta Temprana, Detección, Intervención y Protección de Niñas, Niños y Adolescentes.",
+ "tema": "Creando el Sistema Integral Agostina de Prevención, Alerta Temprana, Detección, Intervención y Protección de Niñas, Niños y Adolescentes.",
  "autores": [
   "Botta, Patricia Isabel",
   "Jaimes, Mauricio Sebastian",
@@ -32,7 +33,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

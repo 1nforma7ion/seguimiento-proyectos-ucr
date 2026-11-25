@@ -2,6 +2,7 @@
  "numero": "41954/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Martoccia, Chamorro, Jurich, Acuña, Ovejeros y Rufeil, adhiriendo al 15° aniversario del Espacio para la Memoria, Promoción y Defensa de los DDHH Campo de la Ribera de la ciudad de Córdoba, inaugurado el día 24 de marzo de 2010.",
+ "tema": "Adhiriendo al 15° aniversario del Espacio para la Memoria, Promoción y Defensa de los DDHH Campo de la Ribera de la ciudad de Córdoba, inaugurado el día 24 de marzo de 2010.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -25,7 +26,8 @@
    "fecha": "2025-03-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

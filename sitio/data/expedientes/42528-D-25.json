@@ -2,6 +2,7 @@
  "numero": "42528/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por el 193º aniversario de la localidad de Achiras, Dpto. Río Cuarto, celebrado el pasado 9 de mayo.",
+ "tema": "Expresando beneplácito por el 193º aniversario de la localidad de Achiras, Dpto. Río Cuarto, celebrado el pasado 9 de mayo.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

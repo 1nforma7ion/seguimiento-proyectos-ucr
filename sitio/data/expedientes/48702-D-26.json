@@ -2,6 +2,7 @@
  "numero": "48702/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, expresando beneplácito por la creación del Registro de Comunidades de Pueblos Indígenas de la Provincia, conmemorado el día 11 de noviembre.",
+ "tema": "Expresando beneplácito por la creación del Registro de Comunidades de Pueblos Indígenas de la Provincia, conmemorado el día 11 de noviembre.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

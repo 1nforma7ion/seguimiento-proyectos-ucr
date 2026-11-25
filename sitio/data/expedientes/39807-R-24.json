@@ -2,6 +2,7 @@
  "numero": "39807/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Sr. Gobernador la suspensión de la entrada en vigencia del Decreto 262/2024, el que dispone un incremento del impuesto sobre los Ingresos Brutos para los monotributistas de la provincia.",
+ "tema": "Solicitando al Sr. Gobernador la suspensión de la entrada en vigencia del Decreto 262/2024, el que dispone un incremento del impuesto sobre los Ingresos Brutos para los monotributistas de la provincia.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-24",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

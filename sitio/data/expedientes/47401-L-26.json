@@ -2,6 +2,7 @@
  "numero": "47401/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Contrera, creando el programa Régimen de Jubilación con Continuidad Laboral, estableciendo beneficios fiscales y compatibilidades.",
+ "tema": "Creando el programa Régimen de Jubilación con Continuidad Laboral, estableciendo beneficios fiscales y compatibilidades.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

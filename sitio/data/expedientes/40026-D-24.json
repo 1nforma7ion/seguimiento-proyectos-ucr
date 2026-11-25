@@ -2,6 +2,7 @@
  "numero": "40026/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo al Sr. Luis Tessandori, destacado pintor argentino, en el año del 50º aniversario de su fallecimiento.",
+ "tema": "Reconociendo al Sr. Luis Tessandori, destacado pintor argentino, en el año del 50º aniversario de su fallecimiento.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

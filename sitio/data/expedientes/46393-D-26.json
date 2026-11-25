@@ -2,6 +2,7 @@
  "numero": "46393/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, reconociendo al politólogo y sociólogo Alfio Germán Acosta por su trayectoria académica, profesional y humana en el campo de las ciencias sociales y políticas.",
+ "tema": "Reconociendo al politólogo y sociólogo Alfio Germán Acosta por su trayectoria académica, profesional y humana en el campo de las ciencias sociales y políticas.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

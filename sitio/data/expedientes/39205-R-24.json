@@ -2,6 +2,7 @@
  "numero": "39205/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al Servicio Penitenciario (SPC) de la provincia, especialmente lo relativo a los equipos técnicos del área de salud, especificando protocolos de seguimiento y controles que reciben los internos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al Servicio Penitenciario (SPC) de la provincia, especialmente lo relativo a los equipos técnicos del área de salud, especificando protocolos de seguimiento y controles que reciben los internos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-07-24",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

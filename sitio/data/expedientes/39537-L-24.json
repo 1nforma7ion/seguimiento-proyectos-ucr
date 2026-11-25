@@ -2,6 +2,7 @@
  "numero": "39537/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Contrera y Gvozdenovich, reconociendo como Veteranos de Guerra Continentales a los soldados conscriptos clases 61, 62, 63, prorrogados y reincorporados con residencia dentro del territorio provincial que hayan estado bajo bandera de forma efectiva desde el 2 de abril al 14 de junio de 1982.",
+ "tema": "Reconociendo como Veteranos de Guerra Continentales a los soldados conscriptos clases 61, 62, 63, prorrogados y reincorporados con residencia dentro del territorio provincial que hayan estado bajo bandera de forma efectiva desde el 2 de abril al 14 de junio de 1982.",
  "autores": [
   "Ferrero, Alejandra",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "37135/D/23",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Rossi, Jure, Garade Panetta, De Ferrari Rueda y Gudiño, solicitando al Poder Ejecutivo confirme como titulares a los Secretarios Docentes de enseñanza primaria, que a la fecha revisten como interinos o suplentes, en cualquier categoría del escalafón.",
+ "tema": "Solicitando al Poder Ejecutivo confirme como titulares a los Secretarios Docentes de enseñanza primaria, que a la fecha revisten como interinos o suplentes, en cualquier categoría del escalafón.",
  "autores": [
   "Rossi, Dante Valentin",
   "Jure, Juan Ruben",
@@ -22,7 +23,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,100 @@
+{
+ "numero": "40855/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Valiente, reconociendo al Dr. Gabriel Rabinovich y su equipo de investigación, por los recientes descubrimientos realizados en conjunto con la Universidad de Oxford que probaron la eficacia de un anticuerpo para revertir el avance de la mielofibrosis.",
+ "tema": "Reconociendo al Dr. Gabriel Rabinovich y su equipo de investigación, por los recientes descubrimientos realizados en conjunto con la Universidad de Oxford que probaron la eficacia de un anticuerpo para revertir el avance de la mielofibrosis.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-10-30",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-30",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28838",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Sp8cWXpkyvA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40855%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

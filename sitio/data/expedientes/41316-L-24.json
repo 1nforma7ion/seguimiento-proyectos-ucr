@@ -2,6 +2,7 @@
  "numero": "41316/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Torres Lima, Nigro, Busso, Knipscheer, Tévez, Ferrero, Austin, Lorenzo, Nicolás, Saliba, Rinaldi, Galo, Sosa, Limia, Quaglino, Rossi, Gudiño, Martoccia, Nostrala y los Bloques PRO, Córdoba y Mejor Futuro, modificando el inciso 1) del artículo 35 de la Ley Nº 5805, Colegio de Abogados, referido a la conformación del patrimonio.",
+ "tema": "Modificando el inciso 1) del artículo 35 de la Ley Nº 5805, Colegio de Abogados, referido a la conformación del patrimonio.",
  "autores": [
   "Torres Lima, Facundo",
   "Nigro, Alfredo Mariano",
@@ -39,7 +40,8 @@
    "fecha": "2025-02-03",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

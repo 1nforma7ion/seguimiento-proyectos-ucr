@@ -2,6 +2,7 @@
  "numero": "42734/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Valiente y Austin, reconociendo a la Ing. Magalí Carro Pérez por ser elegida como la primera decana en 150 años de la Facultad de Ciencias Exactas de la Universidad Nacional de Córdoba.",
+ "tema": "Reconociendo a la Ing. Magalí Carro Pérez por ser elegida como la primera decana en 150 años de la Facultad de Ciencias Exactas de la Universidad Nacional de Córdoba.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Austin, Brenda Lis",
@@ -20,7 +21,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

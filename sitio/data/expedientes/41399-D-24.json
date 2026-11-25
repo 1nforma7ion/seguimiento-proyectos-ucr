@@ -1,0 +1,111 @@
+{
+ "numero": "41399/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Nicolás, reconociendo el programa Cara a Cara, con más de 50 años de vigencia en la pantalla cordobesa conducido por el periodista Gerardo Chaín.",
+ "tema": "Reconociendo el programa Cara a Cara, con más de 50 años de vigencia en la pantalla cordobesa conducido por el periodista Gerardo Chaín.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-12-12",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-12",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29275",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=LE3Mr2O_h_8="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41399%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

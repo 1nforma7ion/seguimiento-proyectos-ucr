@@ -2,6 +2,7 @@
  "numero": "39723/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Sr. Gobernador la suspensión de la Resolución 6 letra “D” de la Secretaría de Ingresos Públicos, que aplica un nuevo gravamen a la compra de productos agropecuarios con el Impuesto a los Ingresos Brutos desde el 1 de julio.",
+ "tema": "Solicitando al Sr. Gobernador la suspensión de la Resolución 6 letra “D” de la Secretaría de Ingresos Públicos, que aplica un nuevo gravamen a la compra de productos agropecuarios con el Impuesto a los Ingresos Brutos desde el 1 de julio.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-24",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

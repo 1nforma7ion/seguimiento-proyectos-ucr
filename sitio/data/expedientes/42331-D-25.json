@@ -2,6 +2,7 @@
  "numero": "42331/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Gabriela Mansilla y Bría, expresando beneplácito por la 3ª Vuelta Histórica Parque Nacional Ansenuza, desarrollada del 24 al 27 de abril en el Dpto. San Justo.",
+ "tema": "Expresando beneplácito por la 3ª Vuelta Histórica Parque Nacional Ansenuza, desarrollada del 24 al 27 de abril en el Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Mansilla, Gabriela Ruth",
@@ -20,7 +21,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

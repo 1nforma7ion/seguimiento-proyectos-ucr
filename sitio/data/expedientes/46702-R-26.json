@@ -2,6 +2,7 @@
  "numero": "46702/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la Licitación Pública de la obra “Pavimentación Camino a 60 Cuadras y Rotonda en 11 de Septiembre” de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la Licitación Pública de la obra “Pavimentación Camino a 60 Cuadras y Rotonda en 11 de Septiembre” de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

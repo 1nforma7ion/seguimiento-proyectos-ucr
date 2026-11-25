@@ -2,6 +2,7 @@
  "numero": "46274/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Almada y Contrera, garantizando el acceso a sistemas de comunicación aumentativa y alternativa en establecimientos comerciales con atención al público, así como en dependencias del Estado Provincial.",
+ "tema": "Garantizando el acceso a sistemas de comunicación aumentativa y alternativa en establecimientos comerciales con atención al público, así como en dependencias del Estado Provincial.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

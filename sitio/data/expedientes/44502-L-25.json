@@ -2,6 +2,7 @@
  "numero": "44502/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Bría, adhiriendo la provincia a Ley Nacional Nº 27797, de Calidad y Atención Sanitaria, reconocida como \"Ley Nicolás\".",
+ "tema": "Adhiriendo la provincia a Ley Nacional Nº 27797, de Calidad y Atención Sanitaria, reconocida como \"Ley Nicolás\".",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

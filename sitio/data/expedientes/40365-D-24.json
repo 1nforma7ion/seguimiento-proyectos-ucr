@@ -2,6 +2,7 @@
  "numero": "40365/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque de la UCR, expresando preocupación por los numerosos hechos delictivos que involucran a personal de la policía provincial.",
+ "tema": "Expresando preocupación por los numerosos hechos delictivos que involucran a personal de la policía provincial.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-10-30",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39031/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Luna, Jaimes, Bisotto, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Saliba, Bottasso, Bría, Contrera, Carignano, Gispert y Gloria Pereyra, adhiriendo al Plan de Desarrollo Regional Sostenible de la provincia de Córdoba, con el objetivo de mejorar la calidad de vida de sus habitantes a través del aprovechamiento de los recursos.",
+ "tema": "Adhiriendo al Plan de Desarrollo Regional Sostenible de la provincia de Córdoba, con el objetivo de mejorar la calidad de vida de sus habitantes a través del aprovechamiento de los recursos.",
  "autores": [
   "Luna, Fernando Javier",
   "Jaimes, Mauricio Sebastian",
@@ -35,7 +36,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

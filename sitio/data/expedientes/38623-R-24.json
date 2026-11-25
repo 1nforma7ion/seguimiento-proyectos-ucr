@@ -1,0 +1,95 @@
+{
+ "numero": "38623/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Molina y Peralta requiriendo al Poder Ejecutivo la incorporación de un servicio de obstetricia y partos en el Hospital Municipal de la localidad de Villa del Totoral.",
+ "tema": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Molina y Peralta requiriendo al Poder Ejecutivo la incorporación de un servicio de obstetricia y partos en el Hospital Municipal de la localidad de Villa del Totoral.",
+ "autores": [
+  "Agrelo, Rodrigo Maria",
+  "Molina, Victor Eduardo",
+  "Peralta, Sebastián Amadeo"
+ ],
+ "comisiones": [
+  "Salud Humana"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-02-14",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-17",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-17"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2025-02-17",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-17"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38623%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

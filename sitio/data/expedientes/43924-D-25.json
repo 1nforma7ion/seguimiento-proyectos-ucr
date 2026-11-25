@@ -2,6 +2,7 @@
  "numero": "43924/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Luna, Saliba, Bottasso, Bría, Molina, Contrera, Carignano, Córdoba Acosta y Almada, repudiando las declaraciones en contra del Sr. Senador Nacional por Córdoba, Dr. Luis Juez, sobre su situación familiar mezcladas con intereses políticos y la situación de discapacidad a nivel nacional.",
+ "tema": "Repudiando las declaraciones en contra del Sr. Senador Nacional por Córdoba, Dr. Luis Juez, sobre su situación familiar mezcladas con intereses políticos y la situación de discapacidad a nivel nacional.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -33,7 +34,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

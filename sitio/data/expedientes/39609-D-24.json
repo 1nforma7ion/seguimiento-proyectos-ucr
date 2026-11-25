@@ -2,6 +2,7 @@
  "numero": "39609/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Nostrala, Martoccia, Gloria Pereyra, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Luna, Saliba, Bría, Molina, Contrera y Botta, expresando beneplácito por el 100° aniversario de la escuela Cecilia Grierson, de la localidad de Los Cocos, Dpto. Punilla, a conmemorarse el día 23 de junio.",
+ "tema": "Expresando beneplácito por el 100° aniversario de la escuela Cecilia Grierson, de la localidad de Los Cocos, Dpto. Punilla, a conmemorarse el día 23 de junio.",
  "autores": [
   "Gispert, Walter Oscar",
   "Nostrala, Walter Norberto",
@@ -34,7 +35,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

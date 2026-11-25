@@ -2,6 +2,7 @@
  "numero": "47853/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Ferrero, Gudiño, Nicolás, Saliba, Grich, Bría, Molina, Botta, Grosso y Contrera, expresando beneplácito por el Día Nacional de las Personas Sordas, que se conmemora cada 19 de septiembre.",
+ "tema": "Expresando beneplácito por el Día Nacional de las Personas Sordas, que se conmemora cada 19 de septiembre.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

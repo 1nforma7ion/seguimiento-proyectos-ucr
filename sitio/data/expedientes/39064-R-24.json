@@ -2,6 +2,7 @@
  "numero": "39064/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Austin, Nigro, Nicolás, Saliba, Bría, Contrera, Carignano, Rossi, Hernández Maqueda y Agrelo, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente si contrató servicios u obras a empresas vinculadas con el Sr. Federico Máscolo, actualmente detenido por la Justicia Federal.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente si contrató servicios u obras a empresas vinculadas con el Sr. Federico Máscolo, actualmente detenido por la Justicia Federal.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -35,7 +36,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48172/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por el 30º aniversario de trayectoria artística de \"Los Hermanos Querro\", grupo folklórico de la ciudad de Río Tercero.",
+ "tema": "Expresando beneplácito por el 30º aniversario de trayectoria artística de \"Los Hermanos Querro\", grupo folklórico de la ciudad de Río Tercero.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

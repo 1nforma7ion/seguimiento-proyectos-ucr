@@ -2,6 +2,7 @@
  "numero": "47738/N/26",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Carignano, solicitando la rehabilitación (art. 111 R.I.) del proyecto Nº 43580/L/25.",
+ "tema": "Nota remitida por el Legislador Carignano, solicitando la rehabilitación (art. 111 R.I.) del proyecto Nº 43580/L/25.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-09-22",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

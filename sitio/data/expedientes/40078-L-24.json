@@ -2,6 +2,7 @@
  "numero": "40078/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Austin, Botta y el Bloque UCR, estableciendo una cláusula de garantía salarial para la protección y el sostenimiento del salario docente y del financiamiento del Sistema Educativo provincial en todos sus niveles y modalidades.",
+ "tema": "Estableciendo una cláusula de garantía salarial para la protección y el sostenimiento del salario docente y del financiamiento del Sistema Educativo provincial en todos sus niveles y modalidades.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -37,7 +38,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

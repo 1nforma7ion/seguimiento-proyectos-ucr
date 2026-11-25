@@ -2,6 +2,7 @@
  "numero": "39733/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el \"Plan de Prevención de la Ludopatía en Línea\" en el ámbito educativo de la provincia.",
+ "tema": "Creando el \"Plan de Prevención de la Ludopatía en Línea\" en el ámbito educativo de la provincia.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-12-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-29"
+  "caduca_el": "2026-12-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47560/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 138º aniversario de la localidad de La Francia, Dto. San Justo, y sus fiestas patronales, a celebrarse el día 24 de septiembre en honor a Nuestra Señora de la Merced.",
+ "tema": "Adhiriendo al 138º aniversario de la localidad de La Francia, Dto. San Justo, y sus fiestas patronales, a celebrarse el día 24 de septiembre en honor a Nuestra Señora de la Merced.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

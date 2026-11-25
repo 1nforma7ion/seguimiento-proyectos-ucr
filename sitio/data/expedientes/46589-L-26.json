@@ -2,6 +2,7 @@
  "numero": "46589/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por lsa Legisladoras Szpanin y Contrera, instituyendo la Semana Provincial de la Salud Mental, que se corresponderá con la semana del año del 10 de octubre.",
+ "tema": "Instituyendo la Semana Provincial de la Salud Mental, que se corresponderá con la semana del año del 10 de octubre.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

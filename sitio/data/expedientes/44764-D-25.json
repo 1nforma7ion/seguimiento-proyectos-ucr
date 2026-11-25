@@ -2,6 +2,7 @@
  "numero": "44764/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Bisotto, adhiriendo al Día Mundial del Aire Puro, que se celebra cada 20 de noviembre.",
+ "tema": "Adhiriendo al Día Mundial del Aire Puro, que se celebra cada 20 de noviembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2025-11-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

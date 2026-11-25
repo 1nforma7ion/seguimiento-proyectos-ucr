@@ -2,6 +2,7 @@
  "numero": "44853/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, suspendiendo la vigencia de la Ley Nº 10647 en el territorio del Departamento Marcos Juárez, disponiendo la exención por 10 años del impuesto inmobiliario rural a los productores del mencionado Departamento.",
+ "tema": "Suspendiendo la vigencia de la Ley Nº 10647 en el territorio del Departamento Marcos Juárez, disponiendo la exención por 10 años del impuesto inmobiliario rural a los productores del mencionado Departamento.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

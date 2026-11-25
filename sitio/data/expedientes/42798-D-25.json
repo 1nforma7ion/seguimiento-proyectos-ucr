@@ -2,6 +2,7 @@
  "numero": "42798/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, adhiriendo al Día del Periodista, que se celebra cada 7 de junio en homenaje a la fundación de La Gazeta de Buenos Aires en 1810.",
+ "tema": "Adhiriendo al Día del Periodista, que se celebra cada 7 de junio en homenaje a la fundación de La Gazeta de Buenos Aires en 1810.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

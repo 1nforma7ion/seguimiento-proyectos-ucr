@@ -2,6 +2,7 @@
  "numero": "41863/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, instando a la Sra. Presidenta de la Legislatura al cumplimiento del artículo 206 del Reglamento interno referido a la publicación de los diarios de sesiones.",
+ "tema": "Instando a la Sra. Presidenta de la Legislatura al cumplimiento del artículo 206 del Reglamento interno referido a la publicación de los diarios de sesiones.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44801/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Contrera, Martoccia y Szpanin, adhiriendo la provincia a la Ley Nacional Nº 27234, jornada anual “Educar en Igualdad: Prevención y Erradicación de la Violencia de Género”.",
+ "tema": "Adhiriendo la provincia a la Ley Nacional Nº 27234, jornada anual “Educar en Igualdad: Prevención y Erradicación de la Violencia de Género”.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Martoccia, Viviana Raquel Del Valle",
@@ -21,7 +22,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

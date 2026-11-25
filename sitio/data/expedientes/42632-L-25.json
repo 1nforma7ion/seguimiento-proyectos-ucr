@@ -2,6 +2,7 @@
  "numero": "42632/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Hernández Maqueda, Bottasso y Bría, modificando la Ley Nº 9277, creación de la APROSS, eliminando las afiliaciones obligatorias, directas o indirectas, estableciendo conformación del Directorio e ingresos de recursos.",
+ "tema": "Modificando la Ley Nº 9277, creación de la APROSS, eliminando las afiliaciones obligatorias, directas o indirectas, estableciendo conformación del Directorio e ingresos de recursos.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Bottasso, Gustavo Armando",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

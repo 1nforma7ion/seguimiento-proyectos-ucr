@@ -2,6 +2,7 @@
  "numero": "42364/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bisotto, Nigro, Valiente, Grich, Bruno, Tévez y Navarro Alegre, declarando de Interés Legislativo la publicación del libro Infraestructura vial y desarrollo regional, condiciones de viabilidad en el Sur de Córdoba, de los autores Edgardo Carniglia, Jorge De Prada, Mónica Donadoni, Gabriela Maldonado y Viviana Macchiarola.",
+ "tema": "Declarando de Interés Legislativo la publicación del libro Infraestructura vial y desarrollo regional, condiciones de viabilidad en el Sur de Córdoba, de los autores Edgardo Carniglia, Jorge De Prada, Mónica Donadoni, Gabriela Maldonado y Viviana Macchiarola.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Nigro, Alfredo Mariano",
@@ -24,7 +25,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

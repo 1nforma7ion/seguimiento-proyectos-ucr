@@ -2,6 +2,7 @@
  "numero": "39606/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Bisotto, Szpanin, Gvozdenovich, Bría y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la producción de árboles nativos, adjudicando listado de beneficiarios, la contribución con la Red de Viveros Agroforestales de la provincia y el informe de planillas presupuestarias.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la producción de árboles nativos, adjudicando listado de beneficiarios, la contribución con la Red de Viveros Agroforestales de la provincia y el informe de planillas presupuestarias.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Bisotto, Graciela Maria",
@@ -24,7 +25,8 @@
    "fecha": "2024-10-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

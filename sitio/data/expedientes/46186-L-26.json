@@ -2,6 +2,7 @@
  "numero": "46186/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Chamorro, Austin y Stella Peralta, creando un Protocolo de Actuación de las Fuerzas de Seguridad Pública y Seguridad Ciudadana en intervenciones con Niños, Niñas y Adolescentes.",
+ "tema": "Creando un Protocolo de Actuación de las Fuerzas de Seguridad Pública y Seguridad Ciudadana en intervenciones con Niños, Niñas y Adolescentes.",
  "autores": [
   "Chamorro, Matias Ezequiel",
   "Austin, Brenda Lis",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

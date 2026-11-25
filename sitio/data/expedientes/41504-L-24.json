@@ -2,6 +2,7 @@
  "numero": "41504/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Quaglino, Bruno, Bisotto, Brìa, Rossi, Szpanin, Nigro y el Bloque Hacemos Unidos por Còrdoba, reconociendo la condición de empleados bancarios a quienes fueron transferidos a la Lotería de la provincia S.E. a través de los Decretos del Poder Ejecutivo Nros. 2267/98 y 1228/99.",
+ "tema": "Reconociendo la condición de empleados bancarios a quienes fueron transferidos a la Lotería de la provincia S.E. a través de los Decretos del Poder Ejecutivo Nros. 2267/98 y 1228/99.",
  "autores": [
   "Quaglino, Ileana",
   "Bisotto, Graciela Maria",
@@ -25,7 +26,8 @@
    "fecha": "2025-02-03",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

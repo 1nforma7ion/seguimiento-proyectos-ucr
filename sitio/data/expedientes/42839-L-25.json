@@ -2,6 +2,7 @@
  "numero": "42839/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Contrera, reconociendo a los animales como seres sintientes y sujetos de especial atención, adecuando artículos del Código de Convivencia y del Código de Faltas.",
+ "tema": "Reconociendo a los animales como seres sintientes y sujetos de especial atención, adecuando artículos del Código de Convivencia y del Código de Faltas.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

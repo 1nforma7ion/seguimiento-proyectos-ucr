@@ -2,6 +2,7 @@
  "numero": "45372/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Gvozdenovich, Austin, Briner, Bottasso, Bría, Carignano, Contrera, Ferrero, Grich, Gudiño, Jaimes, Luna, Molina, Nicolás, Szpanin y Valiente, solicitando al Poder Ejecutivo informe (art. 102 C.P.) los motivos por los cuales el Banco de la Provincia de Córdoba S.A. ha decidido el cierre de las denominadas extensiones de mostrador y el retiro de las cajeros automáticos en distintas localidades.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) los motivos por los cuales el Banco de la Provincia de Córdoba S.A. ha decidido el cierre de las denominadas extensiones de mostrador y el retiro de las cajeros automáticos en distintas localidades.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Gvozdenovich, Matias Pablo",
@@ -34,7 +35,8 @@
    "fecha": "2026-02-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

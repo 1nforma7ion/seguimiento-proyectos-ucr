@@ -2,6 +2,7 @@
  "numero": "39502/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Ferrero, Bisotto, Jaimes, Luna, Saliba, Bottasso, Molina, Szpanin, Nigro, Austin, Gvozdenovich, Nicolás, Gudiño y Contrera, solicitando al Poder Ejecutivo construya los Accesos Norte de las ciudades de Morteros, Brinkmann, Porteña y Freyre, Dpto. San Justo, que se encuentran sobre la Ruta N° 1.",
+ "tema": "Solicitando al Poder Ejecutivo construya los Accesos Norte de las ciudades de Morteros, Brinkmann, Porteña y Freyre, Dpto. San Justo, que se encuentran sobre la Ruta N° 1.",
  "autores": [
   "Bria, Jose Alberto",
   "Ferrero, Alejandra",
@@ -32,7 +33,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

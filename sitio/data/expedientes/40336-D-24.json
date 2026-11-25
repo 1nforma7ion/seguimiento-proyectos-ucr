@@ -2,6 +2,7 @@
  "numero": "40336/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Gvozdenovich, Carignano, Bría y Botta, reconociendo los cordobeses integrantes del Seleccionado Argentino de Fútbol para Ciegos, Maximiliano Espinillo y Nahuel Heredia, por la obtención de la Medalla de Plata en los Juegos Paralímpicos de Paris 2024.",
+ "tema": "Reconociendo los cordobeses integrantes del Seleccionado Argentino de Fútbol para Ciegos, Maximiliano Espinillo y Nahuel Heredia, por la obtención de la Medalla de Plata en los Juegos Paralímpicos de Paris 2024.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -22,7 +23,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

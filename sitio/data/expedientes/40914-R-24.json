@@ -2,6 +2,7 @@
  "numero": "40914/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Gloria Pereyra, Peirone y Bría, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al último aumento de la tarifa de peaje, las razones técnicas informadas por la empresa Caminos de las Sierras y los fundamentos dados por el ERSeP para autorizarlo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al último aumento de la tarifa de peaje, las razones técnicas informadas por la empresa Caminos de las Sierras y los fundamentos dados por el ERSeP para autorizarlo.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -21,7 +22,8 @@
    "fecha": "2025-03-19",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

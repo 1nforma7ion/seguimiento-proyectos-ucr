@@ -2,6 +2,7 @@
  "numero": "39594/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, declarando de Interés Legislativo la 40° Fiesta nacional del Tango, a desarrollarse los días 19 y 20 de julio en la ciudad de La Falda, Dpto. Punilla.",
+ "tema": "Declarando de Interés Legislativo la 40° Fiesta nacional del Tango, a desarrollarse los días 19 y 20 de julio en la ciudad de La Falda, Dpto. Punilla.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

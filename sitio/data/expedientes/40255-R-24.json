@@ -1,0 +1,93 @@
+{
+ "numero": "40255/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Luna, solicitando al Gobierno provincial cumplimentar el Convenio Marco suscripto entre los vecinos del Barrio Residencial América de la ciudad de Cruz del Eje en el mes de marzo de 2006, realizando obras de pavimentación de las cuadras existentes, tendido de gas natural y ampliación de la red cloacal.",
+ "tema": "Solicitando al Gobierno provincial cumplimentar el Convenio Marco suscripto entre los vecinos del Barrio Residencial América de la ciudad de Cruz del Eje en el mes de marzo de 2006, realizando obras de pavimentación de las cuadras existentes, tendido de gas natural y ampliación de la red cloacal.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-09-04",
+  "ultimo_movimiento": {
+   "fecha": "2025-09-04",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-04"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2024-09-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 146"
+  },
+  {
+   "fecha": "2025-09-04",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-09-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40255%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

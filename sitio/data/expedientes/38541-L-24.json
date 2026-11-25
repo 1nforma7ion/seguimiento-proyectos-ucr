@@ -2,6 +2,7 @@
  "numero": "38541/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Szpanin, Fernández y Gvozdenovich, estableciendo la prevención, seguridad, rescate y salvamento acuático en el territorio provincial, la capacitación obligatoria de guardavidas, derogando la Ley N° 8939.",
+ "tema": "Estableciendo la prevención, seguridad, rescate y salvamento acuático en el territorio provincial, la capacitación obligatoria de guardavidas, derogando la Ley N° 8939.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Fernandez, Nadia Vanesa",
@@ -22,7 +23,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

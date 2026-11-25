@@ -2,6 +2,7 @@
  "numero": "41499/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Austin, Ferrero, Nigro, Bottasso, Bría, Molina y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre gastos y erogaciones por inspecciones en el extranjero, a cargo del oferente, referidas a las obras desarrolladas por la EPEC en las Estaciones Transformadoras de Alta Gracia Norte, del Oeste y en Bell Ville.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre gastos y erogaciones por inspecciones en el extranjero, a cargo del oferente, referidas a las obras desarrolladas por la EPEC en las Estaciones Transformadoras de Alta Gracia Norte, del Oeste y en Bell Ville.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Austin, Brenda Lis",
@@ -25,7 +26,8 @@
    "fecha": "2025-12-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

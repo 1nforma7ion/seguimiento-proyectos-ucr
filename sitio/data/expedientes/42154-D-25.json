@@ -2,6 +2,7 @@
  "numero": "42154/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Almada, Ovejeros y Szpanin, expresando beneplácito por el 30º aniversario de la Universidad Siglo 21, celebrado el pasado 16 de marzo.",
+ "tema": "Expresando beneplácito por el 30º aniversario de la Universidad Siglo 21, celebrado el pasado 16 de marzo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith",
@@ -21,7 +22,8 @@
    "fecha": "2025-04-09",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42130/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin y Gispert, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al suministro de agua y la administración de la cisterna de la localidad de Estancia Vieja, Dpto. Punilla.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al suministro de agua y la administración de la cisterna de la localidad de Estancia Vieja, Dpto. Punilla.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar"
@@ -19,7 +20,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

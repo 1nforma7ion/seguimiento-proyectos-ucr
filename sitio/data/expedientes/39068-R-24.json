@@ -2,6 +2,7 @@
  "numero": "39068/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Juez, Nostrala, Gispert, Martoccia, Gloria Pereyra, Almada, Peirone, Szpanin, Ferrero, Gvozdenovich, Nigro, Saliba, Briner, Bría, Contrera, Carignano, Botta, Tamis y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a la causa Odebrecht-Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a la causa Odebrecht-Córdoba.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Juez, Daniel Alejandro",
@@ -37,7 +38,8 @@
    "fecha": "2025-03-19",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40913/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gvozdenovich, Alesandri, Siciliano y Acevedo, reconociendo al sacerdote de la Iglesia Ortodoxa del Patriarcado Serbio, Aleksandar Maric, por su devoción y compromiso social.",
+ "tema": "Reconociendo al sacerdote de la Iglesia Ortodoxa del Patriarcado Serbio, Aleksandar Maric, por su devoción y compromiso social.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Alesandri, Carlos Federico",
@@ -21,7 +22,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

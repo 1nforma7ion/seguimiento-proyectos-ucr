@@ -2,6 +2,7 @@
  "numero": "42763/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Valiente, Navarro Alegre, Nigro, Bottasso, Jurich, Szpanin, Bisotto y Bría, declarando de Interés Legislativo la 19ª Feria Internacional del Mueble Argentino - FIMAR EXPO, a desarrollarse del 28 al 31 de mayo en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo la 19ª Feria Internacional del Mueble Argentino - FIMAR EXPO, a desarrollarse del 28 al 31 de mayo en la ciudad de Córdoba.",
  "autores": [
   "Valiente, Lucas German",
   "Navarro Alegre, Veronica Fatima",
@@ -25,7 +26,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

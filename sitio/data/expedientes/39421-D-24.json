@@ -2,6 +2,7 @@
  "numero": "39421/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Briner, Bisotto, Szpanin, Ferrero, Gvozdenovich, Valiente, Nicolás, Saliba, Bottasso, Carignano, Martoccia, Almada y Rossi, expresando beneplácito por el Día Nacional del Bombero Voluntario de la República Argentina, que se celebra el 2 de junio de cada año.",
+ "tema": "Expresando beneplácito por el Día Nacional del Bombero Voluntario de la República Argentina, que se celebra el 2 de junio de cada año.",
  "autores": [
   "Briner, Carlos Edgardo",
   "Bisotto, Graciela Maria",
@@ -30,7 +31,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

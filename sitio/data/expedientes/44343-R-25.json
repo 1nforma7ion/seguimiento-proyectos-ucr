@@ -2,6 +2,7 @@
  "numero": "44343/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, instando al Poder Ejecutivo a disponer se solucione la problemática de infraestructura de la escuela Cornelio Saavedra, ubicada en la autopista Córdoba-Pilar km 699.",
+ "tema": "Instando al Poder Ejecutivo a disponer se solucione la problemática de infraestructura de la escuela Cornelio Saavedra, ubicada en la autopista Córdoba-Pilar km 699.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

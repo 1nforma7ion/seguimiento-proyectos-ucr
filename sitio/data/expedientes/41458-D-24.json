@@ -2,6 +2,7 @@
  "numero": "41458/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich y el Bloque UCR, expresando beneplácito por el 41° aniversario del retorno a la Democracia, conmemorado el pasado 10 de diciembre.",
+ "tema": "Expresando beneplácito por el 41° aniversario del retorno a la Democracia, conmemorado el pasado 10 de diciembre.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Austin, Brenda Lis",
@@ -35,7 +36,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

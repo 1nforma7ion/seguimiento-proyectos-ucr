@@ -2,6 +2,7 @@
  "numero": "43646/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano y Almada, expresando beneplácito al proyecto Plantas y Plantitas Especiales para Vecinos Especiales, impulsado por el Centro Integral de Desarrollo Humano para Personas con Discapacidad.",
+ "tema": "Expresando beneplácito al proyecto Plantas y Plantitas Especiales para Vecinos Especiales, impulsado por el Centro Integral de Desarrollo Humano para Personas con Discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -20,7 +21,8 @@
    "fecha": "2025-08-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

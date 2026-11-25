@@ -2,6 +2,7 @@
  "numero": "41478/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) en detalle sobre la premura en llamar a Licitación Pública Nacional e Internacional, Resoluciones Nros.. 270 y 271 de Lotería de la provincia, para la explotación de slots en casinos y hoteles.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) en detalle sobre la premura en llamar a Licitación Pública Nacional e Internacional, Resoluciones Nros.. 270 y 271 de Lotería de la provincia, para la explotación de slots en casinos y hoteles.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-09",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

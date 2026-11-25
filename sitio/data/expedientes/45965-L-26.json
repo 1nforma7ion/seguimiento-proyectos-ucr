@@ -2,6 +2,7 @@
  "numero": "45965/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Nigro, Austin, Molina y Szpanin, modificando la Ley N° 8663 ,Ley de Coparticipación Impositiva, en lo referido a la integración del fondo coparticipable.",
+ "tema": "Modificando la Ley N° 8663 ,Ley de Coparticipación Impositiva, en lo referido a la integración del fondo coparticipable.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Austin, Brenda Lis",
@@ -23,7 +24,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

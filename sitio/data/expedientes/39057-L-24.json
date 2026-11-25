@@ -2,6 +2,7 @@
  "numero": "39057/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Briner, Bottasso, Bría y Contrera, autorizando la ejecución de la obra de \"Pavimentación, demarcación horizontal y señalización vertical” en el tramo que une la localidad de Villa Valeria, Dpto. General Roca, hasta el límite con la provincia de San Luis.",
+ "tema": "Autorizando la ejecución de la obra de \"Pavimentación, demarcación horizontal y señalización vertical” en el tramo que une la localidad de Villa Valeria, Dpto. General Roca, hasta el límite con la provincia de San Luis.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Jaimes, Mauricio Sebastian",
@@ -34,7 +35,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44510/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Acevedo, Bría, Eslava y Frías, reconociendo al Dr. Andrés Del Castillo por impulsar la especialidad posbásica en Mastología en el Hospital Nuevo San Roque de la ciudad de Córdoba.",
+ "tema": "Reconociendo al Dr. Andrés Del Castillo por impulsar la especialidad posbásica en Mastología en el Hospital Nuevo San Roque de la ciudad de Córdoba.",
  "autores": [
   "Acevedo, Maria Del Rosario",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40055/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Gvozdenovich, Ferrero, Nigro, Austin, Carignano, Bottasso, Nicolás y Saliba, solicitando Poder Ejecutivo Informe (Art. 102 C.P.) sobre la situación edilicia del IPEM Nº 82, Santiago Penna - Anexo Monte Ralo, Dpto. Santa María.",
+ "tema": "Solicitando Poder Ejecutivo Informe (Art. 102 C.P.) sobre la situación edilicia del IPEM Nº 82, Santiago Penna - Anexo Monte Ralo, Dpto. Santa María.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -27,7 +28,8 @@
    "fecha": "2025-05-28",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

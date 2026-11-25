@@ -2,6 +2,7 @@
  "numero": "42861/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por el Bloque UCR, manifestando preocupación ante la falta de entrega de banderas nacionales y de la provincia, oportunamente requeridas para destino institucional, solicitando una pronta solución al respecto.",
+ "tema": "Nota remitida por el Bloque UCR, manifestando preocupación ante la falta de entrega de banderas nacionales y de la provincia, oportunamente requeridas para destino institucional, solicitando una pronta solución al respecto.",
  "autores": [
   "Bloque UCR"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-06-11",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

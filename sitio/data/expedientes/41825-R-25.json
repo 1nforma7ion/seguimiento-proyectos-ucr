@@ -2,6 +2,7 @@
  "numero": "41825/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Hernández Maqueda, Bría, Juez y Martoccia, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los estudios de impacto ambiental presentados por la Municipalidad de Morteros y la Universidad Provincial de Córdoba al Ministerio de Ambiente y Economía Circular, para la apertura de una nueva sede universitaria en la mencionada ciudad del Dpto. San Justo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los estudios de impacto ambiental presentados por la Municipalidad de Morteros y la Universidad Provincial de Córdoba al Ministerio de Ambiente y Economía Circular, para la apertura de una nueva sede universitaria en la mencionada ciudad del Dpto. San Justo.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2025-04-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

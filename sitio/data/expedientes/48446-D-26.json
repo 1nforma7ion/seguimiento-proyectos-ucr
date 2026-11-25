@@ -2,6 +2,7 @@
  "numero": "48446/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, declarando de Interés Legislativo el proyecto de streaming educativo “Voces del Falla”, realizado por el Instituto Manuel de Falla de la ciudad de Alta Gracia, Dpto. Santa María.",
+ "tema": "Declarando de Interés Legislativo el proyecto de streaming educativo “Voces del Falla”, realizado por el Instituto Manuel de Falla de la ciudad de Alta Gracia, Dpto. Santa María.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

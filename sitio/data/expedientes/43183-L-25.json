@@ -2,6 +2,7 @@
  "numero": "43183/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo y Ferrero, disponiendo la intervención reconstructiva de la Policía de Córdoba por el plazo de dos años.",
+ "tema": "Disponiendo la intervención reconstructiva de la Policía de Córdoba por el plazo de dos años.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Ferrero, Alejandra"
@@ -20,7 +21,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

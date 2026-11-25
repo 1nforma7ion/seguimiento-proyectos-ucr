@@ -2,6 +2,7 @@
  "numero": "42176/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Nigro, Szpanin, Bottasso y Contrera, regulando el mecenazgo y patrocinio deportivo a disciplinas individuales o grupales y a instituciones deportivas.",
+ "tema": "Regulando el mecenazgo y patrocinio deportivo a disciplinas individuales o grupales y a instituciones deportivas.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Szpanin, Ariela Yanina",
@@ -23,7 +24,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

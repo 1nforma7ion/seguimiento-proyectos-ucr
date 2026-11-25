@@ -2,6 +2,7 @@
  "numero": "45950/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, instando al Poder Ejecutivo Provincial a evaluar y promover ante la Empresa Provincial de Energía de Córdoba (EPEC) la revisión de los mecanismos vigentes relativos a la suspensión del suministro eléctrico por falta de pago.",
+ "tema": "Instando al Poder Ejecutivo Provincial a evaluar y promover ante la Empresa Provincial de Energía de Córdoba (EPEC) la revisión de los mecanismos vigentes relativos a la suspensión del suministro eléctrico por falta de pago.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

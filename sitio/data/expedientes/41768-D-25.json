@@ -2,6 +2,7 @@
  "numero": "41768/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo al 70° aniversario del Club Recreativo Talleres de la localidad de Adelia María, Dpto. Río Cuarto, celebrado el pasado 15 de febrero,",
+ "tema": "Adhiriendo al 70° aniversario del Club Recreativo Talleres de la localidad de Adelia María, Dpto. Río Cuarto, celebrado el pasado 15 de febrero,",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

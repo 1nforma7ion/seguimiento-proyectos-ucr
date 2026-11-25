@@ -2,6 +2,7 @@
  "numero": "42468/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Carignano, Almada y Agrelo, solicitando al Poder Ejecutivo que implemente medidas urgentes para mitigar la difícil situación económica que soportan las clínicas especializadas, los institutos privados y los centros de rehabilitación que prestan servicios a personas con discapacidad.",
+ "tema": "Solicitando al Poder Ejecutivo que implemente medidas urgentes para mitigar la difícil situación económica que soportan las clínicas especializadas, los institutos privados y los centros de rehabilitación que prestan servicios a personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-13",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

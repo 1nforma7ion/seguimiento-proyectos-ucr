@@ -2,6 +2,7 @@
  "numero": "43204/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Programa de Asistencia a Víctimas de Delitos, PAVID, con el objetivo de brindar contención, asesoramiento y acompañamiento a personas que hayan sido víctimas de hechos delictivos.",
+ "tema": "Creando el Programa de Asistencia a Víctimas de Delitos, PAVID, con el objetivo de brindar contención, asesoramiento y acompañamiento a personas que hayan sido víctimas de hechos delictivos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-05-29",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

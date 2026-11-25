@@ -2,6 +2,7 @@
  "numero": "44689/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Austin, Valiente, Nicolás, Molina, Contrera y el Bloque UCR, reconociendo a la Universidad Nacional de Córdoba por el 25º aniversario de la Declaración de la Manzana Jesuítica y las Estancias Jesuíticas de Córdoba como Patrimonio Cultural de la Humanidad por parte de la UNESCO, a conmemorarse el 29 de noviembre.",
+ "tema": "Reconociendo a la Universidad Nacional de Córdoba por el 25º aniversario de la Declaración de la Manzana Jesuítica y las Estancias Jesuíticas de Córdoba como Patrimonio Cultural de la Humanidad por parte de la UNESCO, a conmemorarse el 29 de noviembre.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Austin, Brenda Lis",
@@ -24,7 +25,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42414/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ovejeros y Carignano, expresando beneplácito por el 125º aniversario del centro educativo de nivel primario Juan Bautista Alberdi, de la ciudad de Marcos Juárez, celebrado el 28 de abril.",
+ "tema": "Expresando beneplácito por el 125º aniversario del centro educativo de nivel primario Juan Bautista Alberdi, de la ciudad de Marcos Juárez, celebrado el 28 de abril.",
  "autores": [
   "Ovejeros, Pablo Cesar",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41434/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Limia y Bría, adhiriendo a la 13ª Fiesta Nacional del Cordero Serrano, a desarrollarse el día 8 de febrero de 2025 en la ciudad de Tanti, Dpto. Punilla.",
+ "tema": "Adhiriendo a la 13ª Fiesta Nacional del Cordero Serrano, a desarrollarse el día 8 de febrero de 2025 en la ciudad de Tanti, Dpto. Punilla.",
  "autores": [
   "Limia, Luis Leonardo",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-12-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41477/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tamis, Bottasso, Sala, Botta y Peirone, adhiriendo a la 62ª Fiesta Nacional de la Navidad Gaucha, a desarrollarse los días 13 y 14 de diciembre en la ciudad de Oliva, Dpto. Tercero Arriba.",
+ "tema": "Adhiriendo a la 62ª Fiesta Nacional de la Navidad Gaucha, a desarrollarse los días 13 y 14 de diciembre en la ciudad de Oliva, Dpto. Tercero Arriba.",
  "autores": [
   "Tamis, Oscar Humberto",
   "Bottasso, Gustavo Armando",
@@ -22,7 +23,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

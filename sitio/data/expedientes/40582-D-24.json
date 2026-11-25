@@ -2,6 +2,7 @@
  "numero": "40582/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría, Gudiño, Quaglino y Tévez, expresando beneplácito por el 2° Congreso de Estudiantes de Primaria: \"La salud mental es un tema de todos\".",
+ "tema": "Expresando beneplácito por el 2° Congreso de Estudiantes de Primaria: \"La salud mental es un tema de todos\".",
  "autores": [
   "Bria, Jose Alberto",
   "Gudiño, Daniela Soledad",
@@ -21,7 +22,8 @@
    "fecha": "2024-10-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

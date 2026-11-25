@@ -2,6 +2,7 @@
  "numero": "44680/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Bottasso, adhiriendo al Día de la Conmemoración y Homenaje a las Víctimas del Atentado a la Fábrica Militar de Río Tercero, rindiendo homenaje a las personas fallecidas, heridas y afectadas y reafirmando el compromiso del Estado con la memoria, verdad y justicia.",
+ "tema": "Adhiriendo al Día de la Conmemoración y Homenaje a las Víctimas del Atentado a la Fábrica Militar de Río Tercero, rindiendo homenaje a las personas fallecidas, heridas y afectadas y reafirmando el compromiso del Estado con la memoria, verdad y justicia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bottasso, Gustavo Armando"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

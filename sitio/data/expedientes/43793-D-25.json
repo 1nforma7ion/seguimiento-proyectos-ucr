@@ -2,6 +2,7 @@
  "numero": "43793/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, reconociendo a Dante Nicola Rho, nadador oriundo de Morteros, Dpto. San Justo, medallista en los Juegos Panamericanos Juniors 2025 desarrollados en la ciudad de Asunción, República de Paraguay.",
+ "tema": "Reconociendo a Dante Nicola Rho, nadador oriundo de Morteros, Dpto. San Justo, medallista en los Juegos Panamericanos Juniors 2025 desarrollados en la ciudad de Asunción, República de Paraguay.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46873/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Briner, solicitando al Poder Ejecutivo Nacional que impulse acciones de políticas públicas y modificaciones normativas que propendan a fortalecer la vacunación de la población.",
+ "tema": "Solicitando al Poder Ejecutivo Nacional que impulse acciones de políticas públicas y modificaciones normativas que propendan a fortalecer la vacunación de la población.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

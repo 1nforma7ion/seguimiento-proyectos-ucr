@@ -2,6 +2,7 @@
  "numero": "42031/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Gvozdenovich, solicitando la carga de los Despachos de Minoría (Art. 100 del R.I:) correspondientes a los proyectos Nros: 388814/L/24, 39010/L/24, 39862/R/24 y 41681/L/25 obrantes en la Relatoría de la Comisión de Economía y Presupuesto.",
+ "tema": "Nota remitida por el Legislador Gvozdenovich, solicitando la carga de los Despachos de Minoría (Art. 100 del R.I:) correspondientes a los proyectos Nros: 388814/L/24, 39010/L/24, 39862/R/24 y 41681/L/25 obrantes en la Relatoría de la Comisión de Economía y Presupuesto.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

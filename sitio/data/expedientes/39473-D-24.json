@@ -2,6 +2,7 @@
  "numero": "39473/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Briner, adhiriendo al 150° aniversario de la Sociedad Helvecia de Socorros Mutuos de la ciudad de Córdoba, sede social de la colectividad suiza, a conmemorarse el día 15 de agosto.",
+ "tema": "Adhiriendo al 150° aniversario de la Sociedad Helvecia de Socorros Mutuos de la ciudad de Córdoba, sede social de la colectividad suiza, a conmemorarse el día 15 de agosto.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Briner, Carlos Edgardo"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

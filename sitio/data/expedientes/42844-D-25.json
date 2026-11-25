@@ -2,6 +2,7 @@
  "numero": "42844/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por la 4ª Mackenna Educa 2025, jornada desarrollada el pasado 3 de junio en la localidad homónima del Dpto. Río Cuarto.",
+ "tema": "Expresando beneplácito por la 4ª Mackenna Educa 2025, jornada desarrollada el pasado 3 de junio en la localidad homónima del Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

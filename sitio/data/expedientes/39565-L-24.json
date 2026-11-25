@@ -2,6 +2,7 @@
  "numero": "39565/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Nicolás, Gudiño, Contrera, Ferrero, Gvozdenovich y Bottasso, estableciendo el mecanismo local de prevención de la tortura y otros tratos o penas crueles, inhumanos o degradantes.",
+ "tema": "Estableciendo el mecanismo local de prevención de la tortura y otros tratos o penas crueles, inhumanos o degradantes.",
  "autores": [
   "Austin, Brenda Lis",
   "Nicolas, Miguel Osvaldo",
@@ -26,7 +27,8 @@
    "fecha": "2025-06-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

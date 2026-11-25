@@ -2,6 +2,7 @@
  "numero": "43341/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Szpanin, Gispert, Gloria Pereyra y Sala, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los turnos que diariamente otorga y al funcionamiento de los equipos de radioterapia del Hospital Oncológico Prof, José Miguel Urrutia de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los turnos que diariamente otorga y al funcionamiento de los equipos de radioterapia del Hospital Oncológico Prof, José Miguel Urrutia de la ciudad de Córdoba.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Szpanin, Ariela Yanina",
@@ -22,7 +23,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

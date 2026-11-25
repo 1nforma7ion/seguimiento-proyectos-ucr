@@ -2,6 +2,7 @@
  "numero": "48081/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, Llamosas y Grich, adhiriendo a la 2ª Fiesta de la Empanada y la Cerveza Artesanal, a desarrollarse los días 21 y 22 de noviembre en la localidad de Alpa Corral, Dpto. Río Cuarto.",
+ "tema": "Adhiriendo a la 2ª Fiesta de la Empanada y la Cerveza Artesanal, a desarrollarse los días 21 y 22 de noviembre en la localidad de Alpa Corral, Dpto. Río Cuarto.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

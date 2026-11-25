@@ -2,6 +2,7 @@
  "numero": "47075/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando la estrategia provincial para la prevención de muertes y lesiones graves por siniestros viales denominada “Visión Cero”.",
+ "tema": "Creando la estrategia provincial para la prevención de muertes y lesiones graves por siniestros viales denominada “Visión Cero”.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

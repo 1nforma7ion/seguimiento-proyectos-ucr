@@ -2,6 +2,7 @@
  "numero": "48691/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, reconociendo al ingeniero biomédico riotercerense, Dr. Ezequiel Simeoni, por haber sido distinguido especialmente por el Consejo Cultural Mundial -World Cultural Council, en la categoría «Jóvenes Investigadores».",
+ "tema": "Reconociendo al ingeniero biomédico riotercerense, Dr. Ezequiel Simeoni, por haber sido distinguido especialmente por el Consejo Cultural Mundial -World Cultural Council, en la categoría «Jóvenes Investigadores».",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

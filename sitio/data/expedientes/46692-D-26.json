@@ -2,6 +2,7 @@
  "numero": "46692/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legislador Tévez y Bría, expresando beneplácito por la Entronización de la Virgen de Itatí, y por la 1ª Fiesta del Chamamé, a desarrollarse el día 9 de julio en el paraje Colonia 10 de Julio, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por la Entronización de la Virgen de Itatí, y por la 1ª Fiesta del Chamamé, a desarrollarse el día 9 de julio en el paraje Colonia 10 de Julio, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

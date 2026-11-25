@@ -2,6 +2,7 @@
  "numero": "40337/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al IV Seminario de Capacitación de Rotaract Argentina, a desarrollarse los días 28 y 29 de septiembre en la ciudad de Villa Carlos Paz, Dpto. Punilla.",
+ "tema": "Adhiriendo al IV Seminario de Capacitación de Rotaract Argentina, a desarrollarse los días 28 y 29 de septiembre en la ciudad de Villa Carlos Paz, Dpto. Punilla.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

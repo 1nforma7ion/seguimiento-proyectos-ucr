@@ -2,6 +2,7 @@
  "numero": "45419/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, rechazando las amenazas intimidatorias que recibió el fotógrafo Jorge Peñaranda de la Voz del Interior el pasado 10 de febrero, mientras trabajaba tomando fotos de la Planta Dioxitek de la ciudad de Córdoba.",
+ "tema": "Rechazando las amenazas intimidatorias que recibió el fotógrafo Jorge Peñaranda de la Voz del Interior el pasado 10 de febrero, mientras trabajaba tomando fotos de la Planta Dioxitek de la ciudad de Córdoba.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

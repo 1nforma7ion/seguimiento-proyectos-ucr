@@ -2,6 +2,7 @@
  "numero": "41207/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Carignano, Contrera, Jurich, Suárez, Navarro Alegre, Romero, Acevedo, Cristina Pereyra, Presas, Bisotto, Peirone y Gispert, reconociendo a Yolanda \"Yoli\" Roldán por la obtención del segundo puesto en el Campeonato Argentino de Bochas para Ciegos, disputado en la localidad de Marull, Dpto. San Justo.",
+ "tema": "Reconociendo a Yolanda \"Yoli\" Roldán por la obtención del segundo puesto en el Campeonato Argentino de Bochas para Ciegos, disputado en la localidad de Marull, Dpto. San Justo.",
  "autores": [
   "Almada, Nancy Edith",
   "Carignano, Carlos Atilio",
@@ -30,7 +31,8 @@
    "fecha": "2024-11-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

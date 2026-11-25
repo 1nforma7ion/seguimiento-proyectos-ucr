@@ -2,6 +2,7 @@
  "numero": "48496/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito por encuentro de fútbol inclusivo denominado 1ª Copa Neder - Nicola INCLUSIVA, a desarrollarse el día 31 de octubre en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por encuentro de fútbol inclusivo denominado 1ª Copa Neder - Nicola INCLUSIVA, a desarrollarse el día 31 de octubre en la ciudad de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

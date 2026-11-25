@@ -2,6 +2,7 @@
  "numero": "41970/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero y el Bloque UCR, instando al Poder Ejecutivo para que se pronuncie sobre la peligrosa y preocupante desaparición del niño Lian Gael Flores Soraide, en la localidad de Ballesteros Sud, Dpto. Unión.",
+ "tema": "Instando al Poder Ejecutivo para que se pronuncie sobre la peligrosa y preocupante desaparición del niño Lian Gael Flores Soraide, en la localidad de Ballesteros Sud, Dpto. Unión.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

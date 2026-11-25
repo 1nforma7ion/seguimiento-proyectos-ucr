@@ -2,6 +2,7 @@
  "numero": "46018/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (art. 102 C.P.) el estado real de la prestación del servicio de transporte interurbano de pasajeros en el corredor Sierras Chicas, los mecanismos de control ejercidos por la autoridad competente y las medidas adoptadas o planificadas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) el estado real de la prestación del servicio de transporte interurbano de pasajeros en el corredor Sierras Chicas, los mecanismos de control ejercidos por la autoridad competente y las medidas adoptadas o planificadas.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

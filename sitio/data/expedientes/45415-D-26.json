@@ -2,6 +2,7 @@
  "numero": "45415/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Luna, Bisotto y Austin, reconociendo a los integrantes de los cuerpos de Bomberos Voluntarios de los cuarteles de la localidad de San Marcos Sierras y de las ciudades de Cruz del Eje y Villa de Soto, por su actuación en los incendios ocurridos en la región patagónica argentina.",
+ "tema": "Reconociendo a los integrantes de los cuerpos de Bomberos Voluntarios de los cuarteles de la localidad de San Marcos Sierras y de las ciudades de Cruz del Eje y Villa de Soto, por su actuación en los incendios ocurridos en la región patagónica argentina.",
  "autores": [
   "Luna, Fernando Javier",
   "Bisotto, Graciela Maria",
@@ -20,7 +21,8 @@
    "fecha": "2026-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

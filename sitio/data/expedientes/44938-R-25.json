@@ -2,6 +2,7 @@
  "numero": "44938/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin y Agrelo, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la ejecución presupuestaria y la situación actual del PAICor.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la ejecución presupuestaria y la situación actual del PAICor.",
  "autores": [
   "Austin, Brenda Lis",
   "Agrelo, Rodrigo Maria"
@@ -19,7 +20,8 @@
    "fecha": "2025-12-11",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-11"
+  "caduca_el": "2026-12-11",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

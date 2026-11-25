@@ -2,6 +2,7 @@
  "numero": "40437/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Botta, Carignano y Contrera, expresando beneplácito al equipo nacional de deportistas que participaron en los Juegos Paralímpicos en Paris 2024, en especial a los cordobeses Maximiliano Espinillo y Nahuel Heredia, por sus medallas de plata junto al equipo de los Murciélagos, Gustavo Fernández medalla de bronce en tenis y Fernando Vázquez medalla de bronce en salto en largo.",
+ "tema": "Expresando beneplácito al equipo nacional de deportistas que participaron en los Juegos Paralímpicos en Paris 2024, en especial a los cordobeses Maximiliano Espinillo y Nahuel Heredia, por sus medallas de plata junto al equipo de los Murciélagos, Gustavo Fernández medalla de bronce en tenis y Fernando Vázquez medalla de bronce en salto en largo.",
  "autores": [
   "Botta, Patricia Isabel",
   "Carignano, Carlos Atilio",
@@ -21,7 +22,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

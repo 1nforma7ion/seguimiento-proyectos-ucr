@@ -2,6 +2,7 @@
  "numero": "42646/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Nigro y Nicolás, creando Juzgados especializados en la Protección de los Derechos de las Personas Mayores.",
+ "tema": "Creando Juzgados especializados en la Protección de los Derechos de las Personas Mayores.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nigro, Alfredo Mariano",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

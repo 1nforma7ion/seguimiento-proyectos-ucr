@@ -2,6 +2,7 @@
  "numero": "39156/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Bloque Construyendo Córdoba y los Legisladores Gispert, Gvozdenovich, Briner y Carignano, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre diversos aspectos referidos a los prestadores del servicio público interurbano de pasajeros regulados por la Ley N° 8669; y detalle el cumplimiento del Pacto Fiscal del año 2018 respecto a los subsidios.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre diversos aspectos referidos a los prestadores del servicio público interurbano de pasajeros regulados por la Ley N° 8669; y detalle el cumplimiento del Pacto Fiscal del año 2018 respecto a los subsidios.",
  "autores": [
   "Rossi, Dante Valentin",
   "Gispert, Walter Oscar",
@@ -23,7 +24,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48698/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo disponga la eliminación de las Líneas de Reducción de Velocidad (LRV) en la calzada de la Ruta Provincial Nº 14, carril ascendente entre las calles Tucumán y San José de la localidad de Villa Icho Cruz, Dpto. Punilla, dotando también de seguridad vial a las inmediaciones del IPEM Nº 117 \"Dante Bonati\".",
+ "tema": "Solicitando al Poder Ejecutivo disponga la eliminación de las Líneas de Reducción de Velocidad (LRV) en la calzada de la Ruta Provincial Nº 14, carril ascendente entre las calles Tucumán y San José de la localidad de Villa Icho Cruz, Dpto. Punilla, dotando también de seguridad vial a las inmediaciones del IPEM Nº 117 \"Dante Bonati\".",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

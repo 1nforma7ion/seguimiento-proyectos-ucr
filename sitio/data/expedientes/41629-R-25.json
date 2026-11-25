@@ -2,6 +2,7 @@
  "numero": "41629/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Nostrala, Gvozdenovich, Ferrero y Hernández Maqueda, disponiendo la realización de una Consulta Popular sobre privatización de los casinos existentes, la creación de nuevos casinos e instalación de nuevos salones con máquinas tragamonedas.",
+ "tema": "Disponiendo la realización de una Consulta Popular sobre privatización de los casinos existentes, la creación de nuevos casinos e instalación de nuevos salones con máquinas tragamonedas.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Nostrala, Walter Norberto",
@@ -22,7 +23,8 @@
    "fecha": "2026-02-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

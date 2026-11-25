@@ -2,6 +2,7 @@
  "numero": "48414/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Bottasso y Carignano, expresando beneplácito al “Campamento Esperanza”, a desarrollarse los días 30 y 31 de octubre, y 1 de noviembre en Los Potreros, Dpto. Tercero Arriba.",
+ "tema": "Expresando beneplácito al “Campamento Esperanza”, a desarrollarse los días 30 y 31 de octubre, y 1 de noviembre en Los Potreros, Dpto. Tercero Arriba.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bottasso, Gustavo Armando",
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

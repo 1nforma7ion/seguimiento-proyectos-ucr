@@ -2,6 +2,7 @@
  "numero": "39878/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Bría, Briner, Gvozdenovich, Szpanin, Austin, Ferrero, Nigro, Carignano, Gudiño, Rossi, Gloria Pereyra, Bisotto, Bottasso, Peirone, Valiente, Nicolás, Saliba, Molina, Sebastián Peralta y Martoccia, solicitando al Poder Ejecutivo que incorpore en el Presupuesto 2025, obras de remediación, entubamiento y canalización del desagüe a cielo abierto en el predio del Hospital Misericordia de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo que incorpore en el Presupuesto 2025, obras de remediación, entubamiento y canalización del desagüe a cielo abierto en el predio del Hospital Misericordia de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto",
@@ -39,7 +40,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39299/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Nostrala, Gispert, Martoccia, Gloria Pereyra, Almada, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Gudiño, Saliba, Briner, Bottasso, Molina, Contrera, Carignano, Botta y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre el ingreso de una persona al edificio del Centro Cívico el pasado 28 de abril, motivos de su no detención en el momento y respecto del funcionamiento de los sistemas de seguridad y de videocámaras.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre el ingreso de una persona al edificio del Centro Cívico el pasado 28 de abril, motivos de su no detención en el momento y respecto del funcionamiento de los sistemas de seguridad y de videocámaras.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Nostrala, Walter Norberto",
@@ -40,7 +41,8 @@
    "fecha": "2025-03-19",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

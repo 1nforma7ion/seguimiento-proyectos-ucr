@@ -2,6 +2,7 @@
  "numero": "45186/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la falta de agua en la localidad de Bialet Massé y en el Valle de Punilla.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la falta de agua en la localidad de Bialet Massé y en el Valle de Punilla.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

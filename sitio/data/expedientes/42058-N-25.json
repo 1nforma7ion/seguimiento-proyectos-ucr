@@ -1,0 +1,103 @@
+{
+ "numero": "42058/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Nicolás, solicitando la rehabilitación del proyecto Nº 38687/L/24, conforme el art. 111 del Reglamento Interno.",
+ "tema": "Nota remitida por el Legislador Nicolás, solicitando la rehabilitación del proyecto Nº 38687/L/24, conforme el art. 111 del Reglamento Interno.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-03-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-19",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por nota",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Nota",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42058%2FN%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

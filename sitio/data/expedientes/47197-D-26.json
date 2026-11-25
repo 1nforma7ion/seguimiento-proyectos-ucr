@@ -2,6 +2,7 @@
  "numero": "47197/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soardo, adhiriendo al 120º aniversario de la localidad de Bulnes, Dpto. Río Cuarto, a celebrarse el día 15 de agosto.",
+ "tema": "Adhiriendo al 120º aniversario de la localidad de Bulnes, Dpto. Río Cuarto, a celebrarse el día 15 de agosto.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

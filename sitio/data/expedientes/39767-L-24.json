@@ -2,6 +2,7 @@
  "numero": "39767/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Almada, Ferrero, Carignano, Luna, Bisotto, Bottasso, Valiente, Jaimes, Saliba, Molina, Gispert, Gvozdenovih, Bría y Agrelo, modificando la Ley N° 8624, Comisión Provincial de Discapacidad, en lo referido a su integración, funciones, estructura económica, creación de un Registro y el seguimiento de pacientes.",
+ "tema": "Modificando la Ley N° 8624, Comisión Provincial de Discapacidad, en lo referido a su integración, funciones, estructura económica, creación de un Registro y el seguimiento de pacientes.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -34,7 +35,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

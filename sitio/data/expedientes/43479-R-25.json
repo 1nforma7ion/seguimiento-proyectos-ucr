@@ -2,6 +2,7 @@
  "numero": "43479/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legislador Nicolás, Jaimes, Szpanin, Ferrero, Nigro, Contrera y Carignano, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a las compras y descuentos de uniformes en la Escuela de Cadetes de Suboficiales Manuel Belgrano.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a las compras y descuentos de uniformes en la Escuela de Cadetes de Suboficiales Manuel Belgrano.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -24,7 +25,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

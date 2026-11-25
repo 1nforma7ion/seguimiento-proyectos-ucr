@@ -2,6 +2,7 @@
  "numero": "40795/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gvozdenovich y Carignano, adhiriendo al 25° aniversario del Centro Universitario Asociación Civil de la ciudad de Marcos Juárez, que se celebra en el mes de octubre.",
+ "tema": "Adhiriendo al 25° aniversario del Centro Universitario Asociación Civil de la ciudad de Marcos Juárez, que se celebra en el mes de octubre.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48384/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Stella Peralta y los miembros de la comisión de Salud, declarando de Interés Legislativo el X Simposio “Oportunidades y límites: la IA en la investigación con seres humanos”, a realizarse el día 25 de noviembre en la Legislatura de Córdoba.",
+ "tema": "Declarando de Interés Legislativo el X Simposio “Oportunidades y límites: la IA en la investigación con seres humanos”, a realizarse el día 25 de noviembre en la Legislatura de Córdoba.",
  "autores": [
   "Peralta, Stella Maris",
   "Frias, Cristian Adrian",
@@ -26,7 +27,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

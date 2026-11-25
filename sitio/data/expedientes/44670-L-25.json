@@ -2,6 +2,7 @@
  "numero": "44670/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Jaimes y Contrera, declarando el 30 de septiembre de cada año como Día provincial del Trastorno del Desarrollo del Lenguaje, adhiriendo al Día Internacional de la mencionada condición, con el objetivo de visibilizarla, promover su detección temprana y fomentar la inclusión social y educativa de las personas afectadas.",
+ "tema": "Declarando el 30 de septiembre de cada año como Día provincial del Trastorno del Desarrollo del Lenguaje, adhiriendo al Día Internacional de la mencionada condición, con el objetivo de visibilizarla, promover su detección temprana y fomentar la inclusión social y educativa de las personas afectadas.",
  "autores": [
   "Ferrero, Alejandra",
   "Jaimes, Mauricio Sebastian",
@@ -22,7 +23,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

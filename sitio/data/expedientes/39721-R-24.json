@@ -2,6 +2,7 @@
  "numero": "39721/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Mejor Futuro, solicitando al Ministerio de Salud la compra de un tomógrafo de alta resolución para asignarlo al Hospital Regional San Vicente de Paul de la ciudad de Villa del Rosario, Dpto. Río Segundo.",
+ "tema": "Solicitando al Ministerio de Salud la compra de un tomógrafo de alta resolución para asignarlo al Hospital Regional San Vicente de Paul de la ciudad de Villa del Rosario, Dpto. Río Segundo.",
  "autores": [
   "Valiente, Lucas German",
   "Jaimes, Mauricio Sebastian",
@@ -49,7 +50,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

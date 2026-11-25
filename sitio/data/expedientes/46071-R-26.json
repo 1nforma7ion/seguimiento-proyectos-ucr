@@ -1,0 +1,109 @@
+{
+ "numero": "46071/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Grosso, Jaimes, Peirone, Almada y Botta, solicitando al Poder Ejecutivo Informe (art. 102 C.P.) sobre diversos aspectos relacionados al operativo policial en la inauguración del alto nivel ubicado en el ingreso del Barrio Valle Escondido de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo Informe (art. 102 C.P.) sobre diversos aspectos relacionados al operativo policial en la inauguración del alto nivel ubicado en el ingreso del Barrio Valle Escondido de la ciudad de Córdoba.",
+ "autores": [
+  "Grosso, Gerardo Jose",
+  "Jaimes, Mauricio Sebastian",
+  "Peirone, Juan Pablo",
+  "Almada, Nancy Edith",
+  "Botta, Patricia Isabel"
+ ],
+ "comisiones": [
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2026-04-20",
+  "ultimo_movimiento": {
+   "fecha": "2026-06-25",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": "2026-04-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 6 del Período 148"
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  },
+  {
+   "fecha": "2026-06-25",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 10 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 6 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 10 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-06-25"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46071%2FR%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

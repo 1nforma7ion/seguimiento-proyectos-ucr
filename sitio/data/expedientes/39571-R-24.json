@@ -2,6 +2,7 @@
  "numero": "39571/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Bisotto, Carignano y Contrera, instando al Poder Ejecutivo para que proceda a reglamentar y publicar en el Boletín Oficial la Ley N° 10446, que adhiere a la Ley Nacional N° 27306 de Abordaje Integral e Interdisciplinario de los Sujetos con Dificultades Específicas de Aprendizaje.",
+ "tema": "Instando al Poder Ejecutivo para que proceda a reglamentar y publicar en el Boletín Oficial la Ley N° 10446, que adhiere a la Ley Nacional N° 27306 de Abordaje Integral e Interdisciplinario de los Sujetos con Dificultades Específicas de Aprendizaje.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bisotto, Graciela Maria",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

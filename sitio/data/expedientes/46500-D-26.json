@@ -2,6 +2,7 @@
  "numero": "46500/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soardo, expresando beneplácito por las fiestas patronales de la localidad de Sampacho, Dpto. Río Cuarto, a celebrarse el 20 de junio en honor a Nuestra Señora de la Consolata.",
+ "tema": "Expresando beneplácito por las fiestas patronales de la localidad de Sampacho, Dpto. Río Cuarto, a celebrarse el 20 de junio en honor a Nuestra Señora de la Consolata.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

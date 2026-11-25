@@ -2,6 +2,7 @@
  "numero": "46800/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 134º aniversario y las fiestas patronales de la comuna de Colonia Anita, Dpto. San Justo, a celebrarse el día 26 de julio en honor a Santa Ana.",
+ "tema": "Adhiriendo al 134º aniversario y las fiestas patronales de la comuna de Colonia Anita, Dpto. San Justo, a celebrarse el día 26 de julio en honor a Santa Ana.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

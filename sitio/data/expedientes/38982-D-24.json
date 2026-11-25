@@ -2,6 +2,7 @@
  "numero": "38982/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Bisotto, Briner y Gvozdenovich, solicitando al Gobierno Nacional que acelere y culmine el proceso de investigación, que desarrolla el Laboratorio de Control de Mosquitos del Departamento de Aplicaciones Agropecuarias de la CNEA, sobre la manera de limitar la población de Aedes aegypti, vector que transmite las enfermedades de Dengue, Zika y Chikungunya, mediante la Técnica del Insecto Estéril (TIE).",
+ "tema": "Solicitando al Gobierno Nacional que acelere y culmine el proceso de investigación, que desarrolla el Laboratorio de Control de Mosquitos del Departamento de Aplicaciones Agropecuarias de la CNEA, sobre la manera de limitar la población de Aedes aegypti, vector que transmite las enfermedades de Dengue, Zika y Chikungunya, mediante la Técnica del Insecto Estéril (TIE).",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria",
@@ -21,7 +22,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

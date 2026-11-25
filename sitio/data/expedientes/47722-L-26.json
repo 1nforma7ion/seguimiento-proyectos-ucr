@@ -2,6 +2,7 @@
  "numero": "47722/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grosso, Botta, Austin, Brinner y Jaimes, prohibiendo la cría, reproducción, tráfico y tenencia de perros potencialmente peligrosos, creando el Registro Provincial de Perros Potencialmente Peligrosos, y modificando la Ley Nº 10326, Código de Convivencia Ciudadana.",
+ "tema": "Prohibiendo la cría, reproducción, tráfico y tenencia de perros potencialmente peligrosos, creando el Registro Provincial de Perros Potencialmente Peligrosos, y modificando la Ley Nº 10326, Código de Convivencia Ciudadana.",
  "autores": [
   "Grosso, Gerardo Jose",
   "Botta, Patricia Isabel",
@@ -23,7 +24,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,143 @@
+{
+ "numero": "38861/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por las Legisladoras Fernández, Quiñonez, Quaglino y Szpanin, regulando la actividad náutica, creando el Registro provincial de Infractores y Accidentes Náuticos, la Comisión provincial de Seguridad Náutica y Costera, Medio Ambiente y Saneamiento Hídrico, derogando las leyes Nros. 5040 y 6345, y modificando la Ley N° 8264.",
+ "tema": "Regulando la actividad náutica, creando el Registro provincial de Infractores y Accidentes Náuticos, la Comisión provincial de Seguridad Náutica y Costera, Medio Ambiente y Saneamiento Hídrico, derogando las leyes Nros. 5040 y 6345, y modificando la Ley N° 8264.",
+ "autores": [
+  "Fernandez, Nadia Vanesa",
+  "Quiñonez, Natalia Soledad",
+  "Quaglino, Ileana",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Seguridad",
+  "Ambiente y Recursos Renovables",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-22",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-22",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-11-22"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Seguridad · 9",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Legislación General · 28",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho Compatibilizado (11/13/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11005",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=IN7WlcOywqo="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38861%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

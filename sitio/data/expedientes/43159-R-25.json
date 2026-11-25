@@ -2,6 +2,7 @@
  "numero": "43159/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la situación habitacional de 1500 vecinos del barrio Ejército Argentino de la ciudad de Córdoba, con hundimientos de pisos, grietas en las paredes, humedades y fugas de gas, medidas planificadas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la situación habitacional de 1500 vecinos del barrio Ejército Argentino de la ciudad de Córdoba, con hundimientos de pisos, grietas en las paredes, humedades y fugas de gas, medidas planificadas.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

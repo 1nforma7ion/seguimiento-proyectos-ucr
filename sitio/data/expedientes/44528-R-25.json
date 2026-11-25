@@ -2,6 +2,7 @@
  "numero": "44528/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Carignano, solicitando al Poder Ejecutivo disponga la canalización del curso de agua en el límite entre las localidades de Arias y Cavanagh, Dpto. Marcos Juárez, en una extensión aproximada de 3.300 metros, con el objetivo de evitar el anegamiento de la Ruta Provincial Nº 12 en días de lluvias.",
+ "tema": "Solicitando al Poder Ejecutivo disponga la canalización del curso de agua en el límite entre las localidades de Arias y Cavanagh, Dpto. Marcos Juárez, en una extensión aproximada de 3.300 metros, con el objetivo de evitar el anegamiento de la Ruta Provincial Nº 12 en días de lluvias.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44379/N/25",
  "tipo": "otros",
  "extracto": "Nota del Legislador Gvozdenovich, solicitando la rehabilitación de los Proyectos Nros. 40192/R24; 40173/R/24; 40171/R/24; 39956/D/24; 39803/L/24; 39457/R/24; 39188/R/24; 39190/R/24; 38762/R/24; 38568/L/24 y 38411/L/23, conforme el art. 111 del R.I.",
+ "tema": "Solicitando la rehabilitación de los Proyectos Nros. 40192/R24; 40173/R/24; 40171/R/24; 39956/D/24; 39803/L/24; 39457/R/24; 39188/R/24; 39190/R/24; 38762/R/24; 38568/L/24 y 38411/L/23, conforme el art. 111 del R.I.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-10-29",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

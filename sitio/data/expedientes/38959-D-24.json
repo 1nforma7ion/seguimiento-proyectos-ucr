@@ -2,6 +2,7 @@
  "numero": "38959/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Briner, Bría, Contrera, Carignano, Hernández Maqueda y Limia, reconociendo al Ingeniero Mecánico Tomas Liendro por su desempeño, premiado por la NASA, en el certamen mundial “International Space Apps Challenge” de tecnología avanzada.",
+ "tema": "Reconociendo al Ingeniero Mecánico Tomas Liendro por su desempeño, premiado por la NASA, en el certamen mundial “International Space Apps Challenge” de tecnología avanzada.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -41,7 +42,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

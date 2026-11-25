@@ -2,6 +2,7 @@
  "numero": "43235/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Sr. Gobernador que declare de nulidad absoluta el proceso licitatorio de la Lotería de Córdoba SA para la explotación de juegos slots, casinos y hoteles por considerarlo extemporáneo.",
+ "tema": "Solicitando al Sr. Gobernador que declare de nulidad absoluta el proceso licitatorio de la Lotería de Córdoba SA para la explotación de juegos slots, casinos y hoteles por considerarlo extemporáneo.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

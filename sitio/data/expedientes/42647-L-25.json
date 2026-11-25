@@ -2,6 +2,7 @@
  "numero": "42647/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Nicolás, Nigro, Ferrero, Szpanin, Bría, Carignano, Almada, Saliba, Martoccia, Chamorro, Acuña, Suárez y Bisotto, modificando la Ley Nº 7741, creación de la Defensoría del Pueblo, incorporando competencias referidas a adultos mayores y personas con discapacidad.",
+ "tema": "Modificando la Ley Nº 7741, creación de la Defensoría del Pueblo, incorporando competencias referidas a adultos mayores y personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nicolas, Miguel Osvaldo",
@@ -33,7 +34,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

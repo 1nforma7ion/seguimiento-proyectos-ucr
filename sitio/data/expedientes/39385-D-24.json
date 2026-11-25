@@ -2,6 +2,7 @@
  "numero": "39385/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Hernández Maqueda, Szpanin, Contrera y Almada, expresando beneplácito por la prohibición del servicio de cuidacoches en la ciudad de Villa María, Dpto. Gral. San Martín, y la instauración de un sistema de estacionamiento medido sin intermediarios.",
+ "tema": "Expresando beneplácito por la prohibición del servicio de cuidacoches en la ciudad de Villa María, Dpto. Gral. San Martín, y la instauración de un sistema de estacionamiento medido sin intermediarios.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

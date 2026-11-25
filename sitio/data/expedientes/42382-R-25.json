@@ -2,6 +2,7 @@
  "numero": "42382/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Hernández Maqueda y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) la situación actual de los profesionales de la salud respecto a los aranceles que reciben de mutuales y obras sociales, así como el plazo que transcurre hasta que los pagos se hacen efectivos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) la situación actual de los profesionales de la salud respecto a los aranceles que reciben de mutuales y obras sociales, así como el plazo que transcurre hasta que los pagos se hacen efectivos.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

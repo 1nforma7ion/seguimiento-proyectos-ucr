@@ -2,6 +2,7 @@
  "numero": "41745/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Bottasso, Gvozdenovich, Nicolás, Molina, Carignano, Nigro, Bría, Almada, Botta y los Bloques Construyendo Córdoba, Mejor Futuro, Creo en Córdoba y Encuentro Vecinal Córdoba, creando salas de estimulación multisensorial en los niveles inicial, primario y secundario de todas las escuelas de educación especial y común, de gestión pública y privada, capacitando a los docentes en contención emocional.",
+ "tema": "Creando salas de estimulación multisensorial en los niveles inicial, primario y secundario de todas las escuelas de educación especial y común, de gestión pública y privada, capacitando a los docentes en contención emocional.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -36,7 +37,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

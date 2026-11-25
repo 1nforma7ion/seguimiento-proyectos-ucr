@@ -2,6 +2,7 @@
  "numero": "45889/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grich, Soardo, Llamosas, Busso y Saliba, declarando Fiesta Provincial a la Fiesta Regional del Camino Rural, que se celebra cada año en la localidad de La Tosquita, Dpto. Río Cuarto.",
+ "tema": "Declarando Fiesta Provincial a la Fiesta Regional del Camino Rural, que se celebra cada año en la localidad de La Tosquita, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Soardo, Leonor Jorgelina",
@@ -23,7 +24,8 @@
    "fecha": "2026-05-29",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

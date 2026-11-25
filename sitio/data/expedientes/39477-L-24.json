@@ -2,6 +2,7 @@
  "numero": "39477/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Siciliano, Fernández, Acuña, Jaimes, Molina, Botta, Nicolás, Ferrero, Contrera, Briner, Carignano, Bría, Nigro, Szpanin y los Bloques Frente Cívico de Córdoba, Construyendo Córdoba, Creo en Córdoba y Mejor Futuro, regulando la gestión, conservación, investigación, difusión y promoción del patrimonio natural, histórico y cultural material e inmaterial custodiado por los museos de la provincia, creando el Registro Provincial de Museos.",
+ "tema": "Regulando la gestión, conservación, investigación, difusión y promoción del patrimonio natural, histórico y cultural material e inmaterial custodiado por los museos de la provincia, creando el Registro Provincial de Museos.",
  "autores": [
   "Almada, Nancy Edith",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -38,7 +39,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

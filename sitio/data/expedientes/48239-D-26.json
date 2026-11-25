@@ -2,6 +2,7 @@
  "numero": "48239/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Navarro Alegre, expresando beneplácito por el 25º aniversario de la Federación CONVERGER, que nuclea a instituciones que brindan servicios a personas con discapacidad.",
+ "tema": "Expresando beneplácito por el 25º aniversario de la Federación CONVERGER, que nuclea a instituciones que brindan servicios a personas con discapacidad.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

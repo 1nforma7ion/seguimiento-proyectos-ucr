@@ -2,6 +2,7 @@
  "numero": "40491/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Carignano, Szpanin, Grich, Bottasso, Bría, Valiente, Nicolás, Saliba, Botta, Agrelo, Almada, Stella Peralta, Cristina Pereyra, Suárez, Alesandri, Hernández Maqueda, Bisotto y Frías, instituyendo la primera semana del mes de octubre de cada año, como Semana de la Concientización y de Acciones de Capacitación sobre la Parálisis Cerebral.",
+ "tema": "Instituyendo la primera semana del mes de octubre de cada año, como Semana de la Concientización y de Acciones de Capacitación sobre la Parálisis Cerebral.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -38,7 +39,8 @@
    "fecha": "2024-11-22",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

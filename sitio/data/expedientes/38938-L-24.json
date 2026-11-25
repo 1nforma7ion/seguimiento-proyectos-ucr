@@ -2,6 +2,7 @@
  "numero": "38938/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Szpanin, Nigro, Gvozdenovich, Ferrero, Nicolás, Bisotto, Jaimes, Luna, Grich, Briner, Bottasso, Bría, Molina, Contrera y Carignano, modificando el artículo 202 e incorporando la exención impositiva sobre Ingresos Brutos a Cooperativas constituidas bajo la Ley Nacional Nº 20337, Art. 241, inc. 32) de la Ley Nº 6006 y sus modificatorias - Código Tributario Provincial.",
+ "tema": "Modificando el artículo 202 e incorporando la exención impositiva sobre Ingresos Brutos a Cooperativas constituidas bajo la Ley Nacional Nº 20337, Art. 241, inc. 32) de la Ley Nº 6006 y sus modificatorias - Código Tributario Provincial.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Szpanin, Ariela Yanina",
@@ -35,7 +36,8 @@
    "fecha": "2026-09-02",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-02"
+  "caduca_el": "2027-09-02",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

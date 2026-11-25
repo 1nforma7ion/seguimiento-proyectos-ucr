@@ -2,6 +2,7 @@
  "numero": "39741/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin y Bría, expresando beneplácito por la 20ª Reunión Argentina de Ornitología, a desarrollarse del 24 al 27 de septiembre en la localidad de Miramar, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por la 20ª Reunión Argentina de Ornitología, a desarrollarse del 24 al 27 de septiembre en la localidad de Miramar, Dpto. San Justo.",
  "autores": [
   "Austin, Brenda Lis",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

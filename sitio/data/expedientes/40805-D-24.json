@@ -2,6 +2,7 @@
  "numero": "40805/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque UCR, adhiriendo al Festival de la Empanada Más Rica de Córdoba, a desarrollarse el día 3 de noviembre en localidad de Villa de María, Departamento Río Seco.",
+ "tema": "Adhiriendo al Festival de la Empanada Más Rica de Córdoba, a desarrollarse el día 3 de noviembre en localidad de Villa de María, Departamento Río Seco.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47439/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Pomiglio, Llamosas, Soardo y Ortíz, expresando beneplácito por el centenario del Club Deportivo Recreativo Elenense de la localidad de Elena, Dpto. Río Cuarto, celebrado el pasado 18 de agosto",
+ "tema": "Expresando beneplácito por el centenario del Club Deportivo Recreativo Elenense de la localidad de Elena, Dpto. Río Cuarto, celebrado el pasado 18 de agosto",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -21,7 +22,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

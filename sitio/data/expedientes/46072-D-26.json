@@ -2,6 +2,7 @@
  "numero": "46072/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich y el Bloque UCR, expresando preocupación ante la situación de amenazas de violencia en establecimientos educativos de la provincia, solicitando campaña de concientización y prevención de este tipo de conductas.",
+ "tema": "Expresando preocupación ante la situación de amenazas de violencia en establecimientos educativos de la provincia, solicitando campaña de concientización y prevención de este tipo de conductas.",
  "autores": [
   "Grich, Ariel Denis",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2026-04-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

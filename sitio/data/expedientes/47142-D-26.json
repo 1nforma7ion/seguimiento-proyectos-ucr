@@ -2,6 +2,7 @@
  "numero": "47142/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Internacional de los Pueblos Indígenas, que se celebra cada 9 de agosto.",
+ "tema": "Adhiriendo al Día Internacional de los Pueblos Indígenas, que se celebra cada 9 de agosto.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

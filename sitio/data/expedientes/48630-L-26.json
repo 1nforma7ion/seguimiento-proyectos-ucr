@@ -2,6 +2,7 @@
  "numero": "48630/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, creando el Régimen de Atención y Asistencia Integral del Lupus y otras enfermedades reumáticas con el objeto de garantizar la protección integral de la salud de las personas que padecen dicha enfermedad y promover la mejora de su calidad de vida.",
+ "tema": "Creando el Régimen de Atención y Asistencia Integral del Lupus y otras enfermedades reumáticas con el objeto de garantizar la protección integral de la salud de las personas que padecen dicha enfermedad y promover la mejora de su calidad de vida.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-11-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-04"
+  "caduca_el": "2027-11-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

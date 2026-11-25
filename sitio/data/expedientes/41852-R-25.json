@@ -2,6 +2,7 @@
  "numero": "41852/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a los establecimientos penitenciarios de la provincia y respecto de las acciones adoptadas en función del reciente fallo dictado por la Cámara Federal de Casación Penal-Sala IV del 19/12/24.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a los establecimientos penitenciarios de la provincia y respecto de las acciones adoptadas en función del reciente fallo dictado por la Cámara Federal de Casación Penal-Sala IV del 19/12/24.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-07-01",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

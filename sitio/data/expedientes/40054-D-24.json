@@ -2,6 +2,7 @@
  "numero": "40054/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Briner, declarando de Interés Legislativo al Taller de Reciclado de Juguetes de Mirta y Picasso de la ciudad de Bell Ville, Dpto. Unión.",
+ "tema": "Declarando de Interés Legislativo al Taller de Reciclado de Juguetes de Mirta y Picasso de la ciudad de Bell Ville, Dpto. Unión.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Briner, Carlos Edgardo"
@@ -19,7 +20,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

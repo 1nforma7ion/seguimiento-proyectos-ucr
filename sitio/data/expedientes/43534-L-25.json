@@ -2,6 +2,7 @@
  "numero": "43534/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Nigro, Carignano y Contrera, modificando la Ley 10.928 - modificatoria del Código Tributario -, en lo referido a automotores de propiedad exclusiva de personas con discapacidad.",
+ "tema": "Modificando la Ley 10.928 - modificatoria del Código Tributario -, en lo referido a automotores de propiedad exclusiva de personas con discapacidad.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Carignano, Carlos Atilio",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44128/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Contrera y Almada, solicitando al Ministerio de Seguridad que, en el marco del Operativo Verano y demás dispositivos vigentes, se disponga mayor presencia y controles policiales en las zonas de alta concentración gastronómica y hotelera de la ciudad de Córdoba y demás ciudades turísticas.",
+ "tema": "Solicitando al Ministerio de Seguridad que, en el marco del Operativo Verano y demás dispositivos vigentes, se disponga mayor presencia y controles policiales en las zonas de alta concentración gastronómica y hotelera de la ciudad de Córdoba y demás ciudades turísticas.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -19,7 +20,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

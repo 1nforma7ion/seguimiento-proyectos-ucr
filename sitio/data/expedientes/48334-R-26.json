@@ -2,6 +2,7 @@
  "numero": "48334/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Juez, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Ferrero, Nicolás y Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre presuntas irregularidades denunciadas en la administración de recursos destinados a las cooperativas de reciclado vinculadas al Ente Córdoba Obras y Servicios.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre presuntas irregularidades denunciadas en la administración de recursos destinados a las cooperativas de reciclado vinculadas al Ente Córdoba Obras y Servicios.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -27,7 +28,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

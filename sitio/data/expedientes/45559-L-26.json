@@ -2,6 +2,7 @@
  "numero": "45559/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin y el Bloque UCR, creando el Sistema Provincial de Control de Depósitos de Residuos Radiactivos y No Radiactivos Peligrosos.",
+ "tema": "Creando el Sistema Provincial de Control de Depósitos de Residuos Radiactivos y No Radiactivos Peligrosos.",
  "autores": [
   "Austin, Brenda Lis",
   "Bloque UCR"
@@ -20,7 +21,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

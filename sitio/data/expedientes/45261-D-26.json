@@ -2,6 +2,7 @@
  "numero": "45261/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Eslava, Flores, Gvozdenovich, Almada y Nicolás, adhiriendo al 42° Festival de la Palma, a desarrollarse el 20 y 21 de febrero en la localidad de San Francisco del Chañar, Dpto. Sobremonte.",
+ "tema": "Adhiriendo al 42° Festival de la Palma, a desarrollarse el 20 y 21 de febrero en la localidad de San Francisco del Chañar, Dpto. Sobremonte.",
  "autores": [
   "Eslava, Marcelo Alejandro Jose",
   "Almada, Nancy Edith",
@@ -22,7 +23,8 @@
    "fecha": "2026-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43366/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por el 25° aniversario del IPEM N° 435 de la localidad de La Carlina \"El Potosí\", Dpto. Río Cuarto,",
+ "tema": "Expresando beneplácito por el 25° aniversario del IPEM N° 435 de la localidad de La Carlina \"El Potosí\", Dpto. Río Cuarto,",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

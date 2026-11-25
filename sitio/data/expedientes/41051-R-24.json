@@ -2,6 +2,7 @@
  "numero": "41051/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Valiente, Szpanin, Nigro, Ferrero, Nicolás, Saliba, Bría, Molina, Contrera, Martoccia, Gispert y Carmen Pereyra, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con casos de triquinosis detectados en localidades de la provincia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados con casos de triquinosis detectados en localidades de la provincia.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Valiente, Lucas German",
@@ -31,7 +32,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45198/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grosso, Botta, Hernández Maqueda, Almada, Ferrero, Briner, Peirone y Gvozdenovich, adhiriendo la provincia a la Ley Nacional Nº 27611, de Atención y Cuidado Integral de la Salud durante el Embarazo y la Primera Infancia.",
+ "tema": "Adhiriendo la provincia a la Ley Nacional Nº 27611, de Atención y Cuidado Integral de la Salud durante el Embarazo y la Primera Infancia.",
  "autores": [
   "Grosso, Gerardo Jose",
   "Botta, Patricia Isabel",
@@ -26,7 +27,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

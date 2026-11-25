@@ -2,6 +2,7 @@
  "numero": "46598/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gloria Pereyra, Peirone, Nostrala, Gispert, Martoccia, Austin, Jaimes, Szpanin, Ferrero, Nicolás y Grosso, modificando la Ley Nº 9396, en lo referido al mecanismo de designación y la duración del mandato del Defensor de los Derechos de Niñas, Niños y Adolescentes.",
+ "tema": "Modificando la Ley Nº 9396, en lo referido al mecanismo de designación y la duración del mandato del Defensor de los Derechos de Niñas, Niños y Adolescentes.",
  "autores": [
   "Pereyra, Carmen Gloria",
   "Peirone, Juan Pablo",
@@ -29,7 +30,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

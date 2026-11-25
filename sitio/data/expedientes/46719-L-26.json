@@ -2,6 +2,7 @@
  "numero": "46719/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Ferrero, Nigro, Nicolás, Saliba, Grich, Bottasso, Bría, Molina y Contrera, creando el Digesto de Normativa sobre Discapacidad de la provincia de Córdoba.",
+ "tema": "Creando el Digesto de Normativa sobre Discapacidad de la provincia de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

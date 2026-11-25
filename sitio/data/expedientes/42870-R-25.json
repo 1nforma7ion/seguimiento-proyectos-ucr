@@ -2,6 +2,7 @@
  "numero": "42870/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero, Bría y Gispert, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el fortalecimiento del Hospital de La Falda, la construcción del Hospital Regional en Villa Carlos Paz y respecto de la atención de partos en el Valle de Punilla.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el fortalecimiento del Hospital de La Falda, la construcción del Hospital Regional en Villa Carlos Paz y respecto de la atención de partos en el Valle de Punilla.",
  "autores": [
   "Ferrero, Alejandra",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

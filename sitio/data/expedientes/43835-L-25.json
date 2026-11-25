@@ -2,6 +2,7 @@
  "numero": "43835/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba y Grich, incorporando el art. 71 bis a la Ley N° 10326, Código de Convivencia Ciudadana, duplicando el máximo de la sanción cuando, sin incurrir en delito contra la propiedad, se deteriore o afecte una explotación agropecuaria.",
+ "tema": "Incorporando el art. 71 bis a la Ley N° 10326, Código de Convivencia Ciudadana, duplicando el máximo de la sanción cuando, sin incurrir en delito contra la propiedad, se deteriore o afecte una explotación agropecuaria.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Grich, Ariel Denis"
@@ -22,7 +23,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

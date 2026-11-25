@@ -1,0 +1,154 @@
+{
+ "numero": "40844/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Jaimes, estableciendo la obligatoriedad de visibilizar las líneas 102 y 137 en centros y plataformas educativos, deportivos y redes sociales en espacios concurridos por niños, niñas y adolescentes, así como en los medios de comunicación, incluyendo formatos Braille, e instituyendo una línea de mensajería WhatsApp gratuita, todo ello para prevención de maltrato y abuso sexual.",
+ "tema": "Estableciendo la obligatoriedad de visibilizar las líneas 102 y 137 en centros y plataformas educativos, deportivos y redes sociales en espacios concurridos por niños, niñas y adolescentes, así como en los medios de comunicación, incluyendo formatos Braille, e instituyendo una línea de mensajería WhatsApp gratuita, todo ello para prevención de maltrato y abuso sexual.",
+ "autores": [
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-10-30",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2024-10-30",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 17 del Período 146"
+  },
+  {
+   "fecha": "2025-10-30",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 17 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40844%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

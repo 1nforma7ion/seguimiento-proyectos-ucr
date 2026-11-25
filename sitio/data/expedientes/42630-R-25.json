@@ -1,0 +1,106 @@
+{
+ "numero": "42630/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por los Legisladores Luna y Molina, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los montos de Coparticipación Federal y los que hacen a los ingresos propios de la provincia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los montos de Coparticipación Federal y los que hacen a los ingresos propios de la provincia.",
+ "autores": [
+  "Luna, Fernando Javier",
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-28",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": "2025-05-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 9 del Período 147"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 9 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-05-28"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42630%2FR%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

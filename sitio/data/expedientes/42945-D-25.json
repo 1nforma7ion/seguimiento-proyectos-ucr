@@ -2,6 +2,7 @@
  "numero": "42945/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Gloria Pereyra, Almada, Szpanin y Ferrero, reconociendo la 2ª Feria del Libro a desarrollarse del 26 al 29 de junio en la localidad de Valle Hermoso, Dpto. Punilla.",
+ "tema": "Reconociendo la 2ª Feria del Libro a desarrollarse del 26 al 29 de junio en la localidad de Valle Hermoso, Dpto. Punilla.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -22,7 +23,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

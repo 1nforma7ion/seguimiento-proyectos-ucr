@@ -2,6 +2,7 @@
  "numero": "48520/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque de la UCR, solidarizándose con el mandatario español y con los medios de comunicación nacionales e internacionales, reafirmando la importancia del respeto institucional, la libertad de expresión y de prensa como pilares de la democracia.",
+ "tema": "Reafirmando la importancia del respeto institucional, la libertad de expresión y de prensa como pilares de la democracia.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

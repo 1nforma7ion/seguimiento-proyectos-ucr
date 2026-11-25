@@ -1,0 +1,95 @@
+{
+ "numero": "38912/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Luna, eximiendo del cobro del impuesto inmobiliario rural a los productores que se aboquen a actividades ganaderas, caprinas, ovinas y bovinas, agrícolas, frutihortícolas y apícolas en el Dpto. Cruz del Eje por 5 meses, prorrogando el canon de agua, reduciendo el costo de las vacunas del plan obligatorio y celebrando un convenio con el Banco de la Provincia de Córdoba para habilitar una línea de crédito con tasa de interés subsidiada.",
+ "tema": "Eximiendo del cobro del impuesto inmobiliario rural a los productores que se aboquen a actividades ganaderas, caprinas, ovinas y bovinas, agrícolas, frutihortícolas y apícolas en el Dpto. Cruz del Eje por 5 meses, prorrogando el canon de agua, reduciendo el costo de las vacunas del plan obligatorio y celebrando un convenio con el Banco de la Provincia de Córdoba para habilitar una línea de crédito con tasa de interés subsidiada.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Agricultura y Ganaderia",
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2024-04-03",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 146"
+  },
+  {
+   "fecha": "2025-04-03",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-04-03"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38912%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

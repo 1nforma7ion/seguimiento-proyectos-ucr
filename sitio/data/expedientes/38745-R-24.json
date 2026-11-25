@@ -2,6 +2,7 @@
  "numero": "38745/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Bloques Frente Cívico Córdoba, UCR, Construyendo Córdoba y Coalición Cívica ARI, y los Legisladores Sala y Botta, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a las precipitaciones, el impacto por las crecidas de los ríos, servicios de alertas tempranas ante crecidas, zonas de riesgo hídrico, vigilancia y monitoreo de los ríos y cantidad de decesos a causa de crecidas en los dos últimos años.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a las precipitaciones, el impacto por las crecidas de los ríos, servicios de alertas tempranas ante crecidas, zonas de riesgo hídrico, vigilancia y monitoreo de los ríos y cantidad de decesos a causa de crecidas en los dos últimos años.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Jaimes, Mauricio Sebastian",
@@ -49,7 +50,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

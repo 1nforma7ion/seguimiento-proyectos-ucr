@@ -2,6 +2,7 @@
  "numero": "46674/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba y Contrera, estableciendo la obligación de instalación de domos de video vigilancia en los accesos a establecimientos educativos, de gestión pública y privada.",
+ "tema": "Estableciendo la obligación de instalación de domos de video vigilancia en los accesos a establecimientos educativos, de gestión pública y privada.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

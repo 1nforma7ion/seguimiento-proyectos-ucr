@@ -2,6 +2,7 @@
  "numero": "46021/N/26",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Briner, solicitando la rehabilitación del Proyecto N° 42129/L/25, conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por el Legislador Briner, solicitando la rehabilitación del Proyecto N° 42129/L/25, conforme el art. 111 del R.I.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-04-20",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

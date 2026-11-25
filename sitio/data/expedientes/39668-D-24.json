@@ -2,6 +2,7 @@
  "numero": "39668/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, expresando beneplácito por las fiestas patronales de la localidad de Colonia Anita, Dpto. San Justo, a celebrarse el día 26 de julio en honor a Santa Ana.",
+ "tema": "Expresando beneplácito por las fiestas patronales de la localidad de Colonia Anita, Dpto. San Justo, a celebrarse el día 26 de julio en honor a Santa Ana.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

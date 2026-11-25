@@ -2,6 +2,7 @@
  "numero": "38763/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Chamorro y Contrera, declarando de Interés Legislativo el 14° Juicio por delitos de lesa humanidad caratulado \"Adela María González y otros\" que se tramita en la ciudad de Córdoba, fundado en hechos ocurridos en el marco del ejercicio del terrorismo de Estado.",
+ "tema": "Declarando de Interés Legislativo el 14° Juicio por delitos de lesa humanidad caratulado \"Adela María González y otros\" que se tramita en la ciudad de Córdoba, fundado en hechos ocurridos en el marco del ejercicio del terrorismo de Estado.",
  "autores": [
   "Chamorro, Matias Ezequiel",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2024-03-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46350/N/26",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Austin, solicitando la rehabilitación de los expedientes Nros. 40940/L/24, 40548/L/24, 40042/L/24, 42187/L/25 y 41783/L/25, conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por la Legisladora Austin, solicitando la rehabilitación de los expedientes Nros. 40940/L/24, 40548/L/24, 40042/L/24, 42187/L/25 y 41783/L/25, conforme el art. 111 del R.I.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

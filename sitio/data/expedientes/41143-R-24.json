@@ -2,6 +2,7 @@
  "numero": "41143/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Juez, Martoccia, Gloria Pereyra, Almada, Peirone, Szpanin, Ferrero, Nigro, Gudiño, Nicolás, Bría, Molina, Contrera y Sala, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) los motivos por los cuales se cierra el profesorado de Biología en la ciudad de Deán Funes, Dpto. Ischilín, y si está previsto que los alumnos que se encontraban cursando sus estudios puedan finalizar los mismos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) los motivos por los cuales se cierra el profesorado de Biología en la ciudad de Deán Funes, Dpto. Ischilín, y si está previsto que los alumnos que se encontraban cursando sus estudios puedan finalizar los mismos.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -32,7 +33,8 @@
    "fecha": "2025-03-05",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

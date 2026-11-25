@@ -2,6 +2,7 @@
  "numero": "42445/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Nacional de la Lucha contra la Violencia Institucional, que se celebra cada 8 de mayo.",
+ "tema": "Adhiriendo al Día Nacional de la Lucha contra la Violencia Institucional, que se celebra cada 8 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

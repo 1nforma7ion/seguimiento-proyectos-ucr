@@ -2,6 +2,7 @@
  "numero": "43597/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando el Poder Ejecutivo informe (Art. 102 C.P.) sobre proceso de selección y criterios técnicos en la designación del Sr. Pedro Patricio Zacarías Yanzi Aspell como Presidente del Tribunal de Conducta de las Fuerzas de Seguridad.",
+ "tema": "Solicitando el Poder Ejecutivo informe (Art. 102 C.P.) sobre proceso de selección y criterios técnicos en la designación del Sr. Pedro Patricio Zacarías Yanzi Aspell como Presidente del Tribunal de Conducta de las Fuerzas de Seguridad.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-11-12",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

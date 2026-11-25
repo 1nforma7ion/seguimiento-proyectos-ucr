@@ -2,6 +2,7 @@
  "numero": "44644/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Szpanin, Acevedo y Bisotto, expresando beneplácito por el Día Nacional de las/os Afroargentinas/os y de la Cultura Afro, que se conmemora cada 8 de noviembre.",
+ "tema": "Expresando beneplácito por el Día Nacional de las/os Afroargentinas/os y de la Cultura Afro, que se conmemora cada 8 de noviembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

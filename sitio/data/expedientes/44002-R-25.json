@@ -2,6 +2,7 @@
  "numero": "44002/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Almada, Contrera, Gispert y Peirone, solicitando al Poder Ejecutivo informe (art. 102 C.P.), sobre diversos aspectos referidos al cumplimiento de la Ley Nacional Nº 26689 y de la Ley Provincial Nº 10388, de pacientes con enfermedades pocos frecuentes.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.), sobre diversos aspectos referidos al cumplimiento de la Ley Nacional Nº 26689 y de la Ley Provincial Nº 10388, de pacientes con enfermedades pocos frecuentes.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

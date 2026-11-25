@@ -2,6 +2,7 @@
  "numero": "41132/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Rossi y Carignano, reconociendo al deportista Leonardo Seculini, integrante del equipo de básquet “Los Gladiadores”, por consagrarse Campeón en el 3º torneo de Básquet BAS21 para personas con Síndrome de Down, desarrollado del 7 al 10 noviembre en la ciudad de Concepción del Uruguay, provincia de Entre Ríos.",
+ "tema": "Reconociendo al deportista Leonardo Seculini, integrante del equipo de básquet “Los Gladiadores”, por consagrarse Campeón en el 3º torneo de Básquet BAS21 para personas con Síndrome de Down, desarrollado del 7 al 10 noviembre en la ciudad de Concepción del Uruguay, provincia de Entre Ríos.",
  "autores": [
   "Rossi, Dante Valentin",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

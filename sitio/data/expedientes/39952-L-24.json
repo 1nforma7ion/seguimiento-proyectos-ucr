@@ -2,6 +2,7 @@
  "numero": "39952/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Bloque UCR, modificando al 0.00 % la alícuota establecida por las Leyes Nros. 10929 y 6006 (Ley 10928) para el Impuesto sobre los Ingresos Brutos de la actividad 351191 Producción de Energía Eléctrica mediante Biomasa.",
+ "tema": "Modificando al 0.00 % la alícuota establecida por las Leyes Nros. 10929 y 6006 (Ley 10928) para el Impuesto sobre los Ingresos Brutos de la actividad 351191 Producción de Energía Eléctrica mediante Biomasa.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bloque UCR"
@@ -20,7 +21,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42369/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero y Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la construcción de un nuevo edificio como sede central de la policía en la ciudad de San Francisco, Dpto. San Justo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la construcción de un nuevo edificio como sede central de la policía en la ciudad de San Francisco, Dpto. San Justo.",
  "autores": [
   "Ferrero, Alejandra",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-01",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

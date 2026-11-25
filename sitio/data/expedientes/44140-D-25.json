@@ -2,6 +2,7 @@
  "numero": "44140/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, declarando de Interés Legislativo las IV Jornadas Haciendo Universidades Feministas, RUGE-CIN: Tramar, resistir, insistir; Políticas de género que construyen en red, a desarrollarse el 6 y 7 de noviembre en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo las IV Jornadas Haciendo Universidades Feministas, RUGE-CIN: Tramar, resistir, insistir; Políticas de género que construyen en red, a desarrollarse el 6 y 7 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

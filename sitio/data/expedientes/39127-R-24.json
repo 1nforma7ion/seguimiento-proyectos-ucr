@@ -2,6 +2,7 @@
  "numero": "39127/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Nostrala, Gvozdenovich, Tamis y Saliba, solicitando al Tribunal de Cuentas de la provincia que efectúe una auditoría del Fideicomiso para el Desarrollo Agropecuario -creado por Ley N° 10697-desde el año 2020 .",
+ "tema": "Solicitando al Tribunal de Cuentas de la provincia que efectúe una auditoría del Fideicomiso para el Desarrollo Agropecuario -creado por Ley N° 10697-desde el año 2020 .",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Nostrala, Walter Norberto",
@@ -22,7 +23,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

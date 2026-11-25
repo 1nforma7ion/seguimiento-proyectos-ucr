@@ -2,6 +2,7 @@
  "numero": "44012/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Bría, Briner y Almada, solicitando al Poder Ejecutivo informa (art. 102 C.P.9 sobre el funcionamiento del Registro Único de Gestión de Prestadores de Servicios de Salud.",
+ "tema": "Solicitando al Poder Ejecutivo informa (art. 102 C.P.9 sobre el funcionamiento del Registro Único de Gestión de Prestadores de Servicios de Salud.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

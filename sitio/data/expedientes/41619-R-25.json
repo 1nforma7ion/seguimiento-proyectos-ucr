@@ -2,6 +2,7 @@
  "numero": "41619/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Szpanin y Contrera, solicitando al Sr. Gobernador la realización de una campaña de concientización sobre educación vial por rutas provinciales y nacionales, como así también los requerimientos exigidos por la Policía Caminera para transitar en la provincia.",
+ "tema": "Solicitando al Sr. Gobernador la realización de una campaña de concientización sobre educación vial por rutas provinciales y nacionales, como así también los requerimientos exigidos por la Policía Caminera para transitar en la provincia.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

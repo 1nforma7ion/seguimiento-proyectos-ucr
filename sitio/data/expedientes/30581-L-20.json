@@ -2,6 +2,7 @@
  "numero": "30581/L/20",
  "tipo": "ley",
  "extracto": "ADHIRIENDO LA PROVINCIA DE CÓRDOBA A LA LEY NACIONAL N° 27043, QUE DECLARA DE INTERÉS NACIONAL EL ABORDAJE INTEGRAL E INTERDISCIPLINARIO DE LAS PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA T.E.A.",
+ "tema": "ADHIRIENDO LA PROVINCIA DE CÓRDOBA A LA LEY NACIONAL N° 27043, QUE DECLARA DE INTERÉS NACIONAL EL ABORDAJE INTEGRAL E INTERDISCIPLINARIO DE LAS PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA T.E.A.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Caffaratti, Maria Elisa",
@@ -23,7 +24,8 @@
    "fecha": "2025-11-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-11-19"
+  "caduca_el": "2026-11-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

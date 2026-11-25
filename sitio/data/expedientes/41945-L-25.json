@@ -2,6 +2,7 @@
  "numero": "41945/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Szpanin, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera, Carignano y Bisotto, modificando el Convenio 27/16 del “Acuerdo Federal”, celebrado en la Mesa Provincia - Municipios, aprobado por Ley N° 10347, en lo referido al Fofindes.",
+ "tema": "Modificando el Convenio 27/16 del “Acuerdo Federal”, celebrado en la Mesa Provincia - Municipios, aprobado por Ley N° 10347, en lo referido al Fofindes.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Szpanin, Ariela Yanina",
@@ -34,7 +35,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

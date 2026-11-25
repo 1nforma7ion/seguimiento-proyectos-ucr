@@ -2,6 +2,7 @@
  "numero": "38814/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Szpanin, Nigro, Gvozdenovich, Ferrero, Nicolás, Gudiño, Bisotto, Jaimes, Luna, Grich, Briner, Bottasso, Bría, Contrera y Carignano, fijando una alícuota diferencial del Impuesto sobre los Ingresos Brutos, establecida en el Anexo I y en los artículos 40 y 41 de la Ley N° 10929, -Impositiva-, para las actividades y servicios agropecuarios, independientemente del nivel de ingresos.",
+ "tema": "Fijando una alícuota diferencial del Impuesto sobre los Ingresos Brutos, establecida en el Anexo I y en los artículos 40 y 41 de la Ley N° 10929, -Impositiva-, para las actividades y servicios agropecuarios, independientemente del nivel de ingresos.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Szpanin, Ariela Yanina",
@@ -35,7 +36,8 @@
    "fecha": "2026-09-02",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-02"
+  "caduca_el": "2027-09-02",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

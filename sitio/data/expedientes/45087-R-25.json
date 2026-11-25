@@ -2,6 +2,7 @@
  "numero": "45087/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo disponga lo necesario ´para solucionar los problemas de infraestructura del centro de educación Madre Teresa de Calcuta de barrio Las Lilas de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo disponga lo necesario ´para solucionar los problemas de infraestructura del centro de educación Madre Teresa de Calcuta de barrio Las Lilas de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-23",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-23"
+  "caduca_el": "2026-12-23",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

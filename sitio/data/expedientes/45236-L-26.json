@@ -2,6 +2,7 @@
  "numero": "45236/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Tévez, Contrera y Carignano, regulando las actividades terapéuticas y asistidas con animales, considerándolas complementarias dentro de los tratamientos convencionales.",
+ "tema": "Regulando las actividades terapéuticas y asistidas con animales, considerándolas complementarias dentro de los tratamientos convencionales.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

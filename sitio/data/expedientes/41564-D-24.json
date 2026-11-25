@@ -2,6 +2,7 @@
  "numero": "41564/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Navarro Alegre y Contrera,, expresando beneplácito por el logro deportivo de Nicolás Varas, por la obtención del 2º lugar en el primer Abierto Argentino de Golf Adaptado en categoría Neto, en el torneo desarrollado del 16 al 18 de noviembre.",
+ "tema": "Expresando beneplácito por el logro deportivo de Nicolás Varas, por la obtención del 2º lugar en el primer Abierto Argentino de Golf Adaptado en categoría Neto, en el torneo desarrollado del 16 al 18 de noviembre.",
  "autores": [
   "Navarro Alegre, Veronica Fatima",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2024-12-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

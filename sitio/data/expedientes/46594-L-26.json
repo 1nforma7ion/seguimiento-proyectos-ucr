@@ -2,6 +2,7 @@
  "numero": "46594/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agost Carreño y Contrera, creando el Programa Provincial de Telemedicina Rural y Acceso Sanitario Digital, destinado a integrar digitalmente a las poblaciones rurales, alejadas o con dificultades de acceso a hospitales y centros especializados.",
+ "tema": "Creando el Programa Provincial de Telemedicina Rural y Acceso Sanitario Digital, destinado a integrar digitalmente a las poblaciones rurales, alejadas o con dificultades de acceso a hospitales y centros especializados.",
  "autores": [
   "Agost Carreño, Oscar",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

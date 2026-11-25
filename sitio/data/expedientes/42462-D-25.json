@@ -2,6 +2,7 @@
  "numero": "42462/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Acuña y Austin, adhiriendo al encuentro MINKA del campo de Recreación 2025, a desarrollarse los días 10 y 11 de mayo en la ciudad de Córdoba.",
+ "tema": "Adhiriendo al encuentro MINKA del campo de Recreación 2025, a desarrollarse los días 10 y 11 de mayo en la ciudad de Córdoba.",
  "autores": [
   "Acuña, Karen Belen",
   "Austin, Brenda Lis"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

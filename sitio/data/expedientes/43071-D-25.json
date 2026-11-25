@@ -2,6 +2,7 @@
  "numero": "43071/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Austin y Contrera, declarando de Interés Legislativo la publicación del Informe de Seguimiento a la provincia, valorando sus observaciones, advertencias y recomendaciones realizados para la prevención de la tortura y otros tratos o penas crueles, inhumanos y/o degradantes espacios de encierro.",
+ "tema": "Declarando de Interés Legislativo la publicación del Informe de Seguimiento a la provincia, valorando sus observaciones, advertencias y recomendaciones realizados para la prevención de la tortura y otros tratos o penas crueles, inhumanos y/o degradantes espacios de encierro.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

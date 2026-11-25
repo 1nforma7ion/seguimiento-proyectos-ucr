@@ -2,6 +2,7 @@
  "numero": "45599/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bria, expresando beneplácito por el 20° aniversario del hermanamiento entre la ciudad de Morteros y la ciudad de Caselle Torinese.",
+ "tema": "Expresando beneplácito por el 20° aniversario del hermanamiento entre la ciudad de Morteros y la ciudad de Caselle Torinese.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

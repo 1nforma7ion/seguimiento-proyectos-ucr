@@ -2,6 +2,7 @@
  "numero": "40506/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Peirone, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Grich, Bottasso, Bría, Contrera, Carignano, Rossi, Sebastián Peralta, Hernández Maqueda y Bisotto, solicitando al Poder Ejecutivo que requiera el apoyo del Sistema Nacional de Manejo del Fuego, conforme el artículo 27 de la Ley Nacional N° 26815; instruyendo a los Senadores Nacionales por Córdoba, (Art. 104 inc. 5 C.P.) e instando a los Diputados Nacionales por Córdoba para que soliciten la declaración de Zona de Desastre y de Emergencia Nacional Ambiental, Económica, Social y Productiva en las áreas y localidades afectadas por los recientes incendios.",
+ "tema": "Solicitando al Poder Ejecutivo que requiera el apoyo del Sistema Nacional de Manejo del Fuego, conforme el artículo 27 de la Ley Nacional N° 26815; instruyendo a los Senadores Nacionales por Córdoba, (Art. 104 inc. 5 C.P.) e instando a los Diputados Nacionales por Córdoba para que soliciten la declaración de Zona de Desastre y de Emergencia Nacional Ambiental, Económica, Social y Productiva en las áreas y localidades afectadas por los recientes incendios.",
  "autores": [
   "Austin, Brenda Lis",
   "Peirone, Juan Pablo",
@@ -37,7 +38,8 @@
    "fecha": "2025-10-02",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

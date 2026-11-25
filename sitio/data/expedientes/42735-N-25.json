@@ -2,6 +2,7 @@
  "numero": "42735/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por los Bloques Encuentro Vecinal Córdoba, Frente Cívico de Córdoba, Mejor Futuro y los Legisladores Ferrero, Gvozdenovich, Saliba, Szpanin, Contrera, Luna, Nigro, Austin, Bría y Bottasso, solicitando se agreguen al temario concertado para la Sesión Especial convocada para el día 28 de mayo, Proyectos de Ley y de Resolución relacionados a la temática a tratar; caso contrario se cite a Sesión Especial para el mismo día en horario inmediatamente posterior, conforme el art. 26 del R.I.",
+ "tema": "Nota remitida por los Bloques Encuentro Vecinal Córdoba, Frente Cívico de Córdoba, Mejor Futuro y los Legisladores Ferrero, Gvozdenovich, Saliba, Szpanin, Contrera, Luna, Nigro, Austin, Bría y Bottasso, solicitando se agreguen al temario concertado para la Sesión Especial convocada para el día 28 de mayo, Proyectos de Ley y de Resolución relacionados a la temática a tratar; caso contrario se cite a Sesión Especial para el mismo día en horario inmediatamente posterior, conforme el art. 26 del R.I.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Juez, Daniel Alejandro",
@@ -34,7 +35,8 @@
    "fecha": "2025-05-28",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47111/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados con la Licitación Pública correspondiente a la obra de puesta en valor y refuncionalización de la Estación Terminal de Ómnibus Córdoba T1 – Etapa 2.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados con la Licitación Pública correspondiente a la obra de puesta en valor y refuncionalización de la Estación Terminal de Ómnibus Córdoba T1 – Etapa 2.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41885/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, expresando beneplácito por el 120° aniversario del Rotary International, celebrado el pasado 23 de febrero.",
+ "tema": "Expresando beneplácito por el 120° aniversario del Rotary International, celebrado el pasado 23 de febrero.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

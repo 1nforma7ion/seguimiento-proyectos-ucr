@@ -2,6 +2,7 @@
  "numero": "44480/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a las 2° Jornadas de Derecho: A 10 años de la Unificación del Código Civil y Comercial de la Nación, a desarrollarse el 29 y 30 de octubre en la ciudad de Río Cuarto.",
+ "tema": "Adhiriendo a las 2° Jornadas de Derecho: A 10 años de la Unificación del Código Civil y Comercial de la Nación, a desarrollarse el 29 y 30 de octubre en la ciudad de Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44173/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Echevarría, Agrelo, Martoccia y Austin, instando al Poder Ejecutivo a remover, anular o inhabilitar las instalaciones artificiales (azudes)irregularmente construidos sobre el río Tiu Mayu, para garantizar el acceso al agua potable a los pobladores de las localidades de La Granja; Dpto. Colón y de La Cumbre, Dpto. Punilla.",
+ "tema": "Instando al Poder Ejecutivo a remover, anular o inhabilitar las instalaciones artificiales (azudes)irregularmente construidos sobre el río Tiu Mayu, para garantizar el acceso al agua potable a los pobladores de las localidades de La Granja; Dpto. Colón y de La Cumbre, Dpto. Punilla.",
  "autores": [
   "Echevarria, Luciana Gabriela",
   "Agrelo, Rodrigo Maria",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

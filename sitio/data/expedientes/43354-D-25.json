@@ -2,6 +2,7 @@
  "numero": "43354/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bria y Tévez, adhiriendo al 133° aniversario de la ciudad de Morteros, a conmemorarse el 15 de agosto y a sus fiestas patronales a celebrarse el 12 de agosto, en honor a la Virgen de la Asunción.",
+ "tema": "Adhiriendo al 133° aniversario de la ciudad de Morteros, a conmemorarse el 15 de agosto y a sus fiestas patronales a celebrarse el 12 de agosto, en honor a la Virgen de la Asunción.",
  "autores": [
   "Bria, Jose Alberto",
   "Tevez, Gustavo Alejandro"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

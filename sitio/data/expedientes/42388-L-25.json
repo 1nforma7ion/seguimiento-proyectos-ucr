@@ -2,6 +2,7 @@
  "numero": "42388/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, declarando Monumento Natural Provincial al ejemplar de quebracho blanco ubicado en la Avenida Luchesse de la ciudad de Villa Allende, Dpto. Colón.",
+ "tema": "Declarando Monumento Natural Provincial al ejemplar de quebracho blanco ubicado en la Avenida Luchesse de la ciudad de Villa Allende, Dpto. Colón.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

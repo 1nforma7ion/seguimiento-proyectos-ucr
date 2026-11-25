@@ -2,6 +2,7 @@
  "numero": "39097/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Carignano, Bruno y Navarro Alegre, adhiriendo a las Jornadas \"Hablemos de Autismo\", a desarrollarse los días 19 y 20 de abril en la localidad de Arroyo Cabral, Dpto. General San Martín.",
+ "tema": "Adhiriendo a las Jornadas \"Hablemos de Autismo\", a desarrollarse los días 19 y 20 de abril en la localidad de Arroyo Cabral, Dpto. General San Martín.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Carignano, Carlos Atilio",
@@ -21,7 +22,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

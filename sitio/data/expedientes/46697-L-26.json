@@ -2,6 +2,7 @@
  "numero": "46697/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Nigro y Saliba, modificando la Ley Nº 7741, del Defensor del Pueblo, ampliando derechos emergentes y reconociendo nuevas diversidades sociales en el ámbito de la Defensoría.",
+ "tema": "Modificando la Ley Nº 7741, del Defensor del Pueblo, ampliando derechos emergentes y reconociendo nuevas diversidades sociales en el ámbito de la Defensoría.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nigro, Alfredo Mariano",
@@ -21,7 +22,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

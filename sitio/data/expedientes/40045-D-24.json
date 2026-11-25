@@ -2,6 +2,7 @@
  "numero": "40045/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando beneplácito por el 130º aniversario de la localidad de Camilo Aldao, Dpto. Marcos Juárez, a celebrarse el día 5 de septiembre.",
+ "tema": "Expresando beneplácito por el 130º aniversario de la localidad de Camilo Aldao, Dpto. Marcos Juárez, a celebrarse el día 5 de septiembre.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2024-08-21",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

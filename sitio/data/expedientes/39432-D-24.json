@@ -2,6 +2,7 @@
  "numero": "39432/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Luna, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Saliba, Bottasso, Contrera, Martoccia, Gloria Pereyra, Rossi y Sebastían Peralta, reconociendo al oficial Miguel Páez y al cabo Álvaro Quevedo, por asistir a una nena de 3 años de edad que se había ahogado y salvarle la vida.",
+ "tema": "Reconociendo al oficial Miguel Páez y al cabo Álvaro Quevedo, por asistir a una nena de 3 años de edad que se había ahogado y salvarle la vida.",
  "autores": [
   "Luna, Fernando Javier",
   "Jaimes, Mauricio Sebastian",
@@ -34,7 +35,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

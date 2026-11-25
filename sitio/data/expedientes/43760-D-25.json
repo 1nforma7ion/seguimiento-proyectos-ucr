@@ -2,6 +2,7 @@
  "numero": "43760/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, rechazando cualquier acción que implique la transferencia, cesión, modificación del dominio o desafectación como área protegida de la Reserva Natural de la Defensa La Calera, solicitando el cese de acciones que pongan en riesgo su integridad ambiental, social y cultural.",
+ "tema": "Rechazando cualquier acción que implique la transferencia, cesión, modificación del dominio o desafectación como área protegida de la Reserva Natural de la Defensa La Calera, solicitando el cese de acciones que pongan en riesgo su integridad ambiental, social y cultural.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

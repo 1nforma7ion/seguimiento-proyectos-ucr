@@ -2,6 +2,7 @@
  "numero": "39578/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo a la Asociación Civil \"Maestros con Huellas\" de la ciudad de San Francisco, Dpto. San Justo, por su labor y compromiso en la educación de los ciudadanos, fomentando acciones de inclusión social y desarrollo humano de niños, niñas y adolescentes.",
+ "tema": "Reconociendo a la Asociación Civil \"Maestros con Huellas\" de la ciudad de San Francisco, Dpto. San Justo, por su labor y compromiso en la educación de los ciudadanos, fomentando acciones de inclusión social y desarrollo humano de niños, niñas y adolescentes.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

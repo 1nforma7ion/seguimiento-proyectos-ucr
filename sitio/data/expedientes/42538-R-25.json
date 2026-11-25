@@ -2,6 +2,7 @@
  "numero": "42538/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera y Nicolás, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados a las demoliciones en el Monumento Nacional de la ex Cárcel San Martín de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados a las demoliciones en el Monumento Nacional de la ex Cárcel San Martín de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nicolas, Miguel Osvaldo"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-13",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

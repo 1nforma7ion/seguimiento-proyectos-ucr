@@ -2,6 +2,7 @@
  "numero": "43726/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Contrera, Ferrero, Molina, Szpanin, Gispert y Martoccia, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la amortización de deuda que corresponde a la Administración Central y a la Agencia Córdoba de Inversión y Financiamiento SEM en los periodos 2025, 2026 y 2027.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la amortización de deuda que corresponde a la Administración Central y a la Agencia Córdoba de Inversión y Financiamiento SEM en los periodos 2025, 2026 y 2027.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Contrera, Ines Mercedes",
@@ -24,7 +25,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

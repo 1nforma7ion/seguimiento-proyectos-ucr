@@ -2,6 +2,7 @@
  "numero": "39459/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bisotto, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Saliba, Bottasso, Molina, Contrera, Juez, Gispert, Martoccia, Carmen Pereyra, Botta, Rossi y Agrelo, solicitando al Sr. Gobernador que disponga, de manera urgente a través de la EPEC, se implemente una tarifa diferencial de consumo eléctrico para Pymes, Comercios y Pequeñas Industrias.",
+ "tema": "Solicitando al Sr. Gobernador que disponga, de manera urgente a través de la EPEC, se implemente una tarifa diferencial de consumo eléctrico para Pymes, Comercios y Pequeñas Industrias.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Jaimes, Mauricio Sebastian",
@@ -37,7 +38,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

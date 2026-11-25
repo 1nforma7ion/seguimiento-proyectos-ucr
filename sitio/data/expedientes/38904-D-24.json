@@ -2,6 +2,7 @@
  "numero": "38904/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Bottasso, Molina, Contrera, Carignano, Hernández Maqueda, Nostrala, Saliba y Gispert, solicitando al Poder Ejecutivo el cumplimiento del artículo 6º de la Ley N° 8836, -Modernización del Estado-, sobre la integración del Directorio u órgano de administración, en las entidades, empresas o sociedades en las que el Estado posea mayoría del capital social.",
+ "tema": "Solicitando al Poder Ejecutivo el cumplimiento del artículo 6º de la Ley N° 8836, -Modernización del Estado-, sobre la integración del Directorio u órgano de administración, en las entidades, empresas o sociedades en las que el Estado posea mayoría del capital social.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -31,7 +32,8 @@
    "fecha": "2026-04-14",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-14"
  },
  "desconocidos": [],
  "linea_tiempo": [

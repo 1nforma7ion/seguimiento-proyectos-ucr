@@ -2,6 +2,7 @@
  "numero": "39646/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Agrelo, Hernández Maqueda, Gvozdenovich, Ferrero, Botta y Nostrala, repudiando las agresiones sufridas por el Sr. Intendente de la ciudad de La Calera el pasado 14 de junio, efectuadas por personas vinculadas a la gestión municipal que lo precediera.",
+ "tema": "Repudiando las agresiones sufridas por el Sr. Intendente de la ciudad de La Calera el pasado 14 de junio, efectuadas por personas vinculadas a la gestión municipal que lo precediera.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Hernandez Maqueda, Gregorio",
@@ -23,7 +24,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

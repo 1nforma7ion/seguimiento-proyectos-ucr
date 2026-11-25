@@ -2,6 +2,7 @@
  "numero": "47088/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, estableciendo la reestructuración del Gabinete Provincial, reduciendo ministerios, secretarías con rango ministerial y estructuras equivalentes.",
+ "tema": "Estableciendo la reestructuración del Gabinete Provincial, reduciendo ministerios, secretarías con rango ministerial y estructuras equivalentes.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

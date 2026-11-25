@@ -2,6 +2,7 @@
  "numero": "41623/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Szpanin y Contrera, solicitando al Sr. Gobernador realice campañas de concientización y prevención de ahogamientos y comportamiento en espejos de agua en la provincia.",
+ "tema": "Solicitando al Sr. Gobernador realice campañas de concientización y prevención de ahogamientos y comportamiento en espejos de agua en la provincia.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

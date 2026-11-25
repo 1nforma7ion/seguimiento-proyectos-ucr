@@ -2,6 +2,7 @@
  "numero": "44393/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Presas y Bottasso, declarando de Interés Legislativo las 47° Jornadas Latinoamericanas de Derecho Aeronáutico y Espacial y al 16° Congreso Internacional de Derecho Aeronáutico, a desarrollarse del 5 al 7 de noviembre en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo las 47° Jornadas Latinoamericanas de Derecho Aeronáutico y Espacial y al 16° Congreso Internacional de Derecho Aeronáutico, a desarrollarse del 5 al 7 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Presas, Luciana Maria",
   "Bottasso, Gustavo Armando"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

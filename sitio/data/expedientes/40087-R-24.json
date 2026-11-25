@@ -2,6 +2,7 @@
  "numero": "40087/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, dejando parcialmente sin efecto a la Resolución 215/24 del Ministerio de Seguridad y el comprobante emitido por el Ministerio de Seguridad a la Policía de la provincia, atento el fallecimiento de la Sra. Susana Montoya y el procesamiento de su hijo Fernando Albareda.",
+ "tema": "Dejando parcialmente sin efecto a la Resolución 215/24 del Ministerio de Seguridad y el comprobante emitido por el Ministerio de Seguridad a la Policía de la provincia, atento el fallecimiento de la Sra. Susana Montoya y el procesamiento de su hijo Fernando Albareda.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

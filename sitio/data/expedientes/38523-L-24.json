@@ -1,0 +1,238 @@
+{
+ "numero": "38523/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Szpanin, modificando los artículos 4° y 11° de la Ley N° 10564, -Plan Conectividad Córdoba-, con la finalidad de humanizar las gestiones online para la realización de trámites en entidades públicas o prestadoras de servicios públicos.",
+ "tema": "Modificando los artículos 4° y 11° de la Ley N° 10564, -Plan Conectividad Córdoba-, con la finalidad de humanizar las gestiones online para la realización de trámites en entidades públicas o prestadoras de servicios públicos.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Tecnología, Innovación y Economía del Conocimiento",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-02-14",
+  "ultimo_movimiento": {
+   "fecha": "2026-07-08",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2025-02-14",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2026-02-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38523%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

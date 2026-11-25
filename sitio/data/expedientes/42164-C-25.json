@@ -2,6 +2,7 @@
  "numero": "42164/C/25",
  "tipo": "otros",
  "extracto": "Cuestión de Privilegio, planteada por la Legisladora Ferrero.",
+ "tema": "Cuestión de Privilegio, planteada por la Legisladora Ferrero.",
  "autores": [],
  "comisiones": [
   "Asuntos Constitucionales, Justicia y Acuerdos"
@@ -16,7 +17,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

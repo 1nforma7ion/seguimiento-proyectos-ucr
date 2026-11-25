@@ -2,6 +2,7 @@
  "numero": "44741/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Gudiño, solicitando la rehabilitación del Proyecto N° 30581/L/20 conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por la Legisladora Gudiño, solicitando la rehabilitación del Proyecto N° 30581/L/20 conforme el art. 111 del R.I.",
  "autores": [
   "Gudiño, Daniela Soledad"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-11-19",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

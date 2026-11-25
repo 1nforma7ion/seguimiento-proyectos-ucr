@@ -2,6 +2,7 @@
  "numero": "44818/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de resolución, iniciado por los Legisladores Contrera, Szpanin, Nigro, Molina, Botta, Martoccia, Gloria Pereyra y Bottasso, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la construcción de los polideportivos desarrollados en el marco del Programa 100 Polideportivos Sociales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la construcción de los polideportivos desarrollados en el marco del Programa 100 Polideportivos Sociales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -25,7 +26,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

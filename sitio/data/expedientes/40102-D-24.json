@@ -1,0 +1,119 @@
+{
+ "numero": "40102/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Saliba, Acevedo, Bisotto y Presas, declarando de Interés Legislativo la Feria nacional de Artesanías y Música Popular de la localidad de Huinca Renancó, Dpto. Gral. Roca.",
+ "tema": "Declarando de Interés Legislativo la Feria nacional de Artesanías y Música Popular de la localidad de Huinca Renancó, Dpto. Gral. Roca.",
+ "autores": [
+  "Saliba, Oscar Elias Mario",
+  "Acevedo, Maria Del Rosario",
+  "Bisotto, Graciela Maria",
+  "Presas, Luciana Maria"
+ ],
+ "comisiones": [
+  "Turismo"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-08-21",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-20",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-11-20",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 19 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 101 del Reglamento",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 19 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Art. 101",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión por Art. 101 (11/20/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28999",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=l1eQAc4Eb_k="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40102%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

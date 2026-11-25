@@ -2,6 +2,7 @@
  "numero": "42175/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, instruyendo a los Senadores (art. 104 inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba para que soliciten la desclasificación de los expedientes relacionados con las causas de las explosiones ocurridas en el año 1995 en La Fabrica Militar de la ciudad de Río Tercero, y del expediente del contrabando de armas a Ecuador y Croacia, realizado entre los años 1991 y 1995.",
+ "tema": "Instruyendo a los Senadores (art. 104 inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba para que soliciten la desclasificación de los expedientes relacionados con las causas de las explosiones ocurridas en el año 1995 en La Fabrica Militar de la ciudad de Río Tercero, y del expediente del contrabando de armas a Ecuador y Croacia, realizado entre los años 1991 y 1995.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-09",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

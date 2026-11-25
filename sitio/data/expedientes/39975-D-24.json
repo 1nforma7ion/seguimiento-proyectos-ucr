@@ -2,6 +2,7 @@
  "numero": "39975/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Navarro Alegre, Bruno y Nigro, adhiriendo al 1° Foro público-privado de biocombustibles de la provincia,",
+ "tema": "Adhiriendo al 1° Foro público-privado de biocombustibles de la provincia,",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Navarro Alegre, Veronica Fatima",
@@ -21,7 +22,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

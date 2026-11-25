@@ -2,6 +2,7 @@
  "numero": "40931/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bria, adhiriendo al 50° aniversario de la Asociación Civil Familia Piamontesa, a celebrarse del 1 al 3 de noviembre en la ciudad de San Francisco, Dpto. San Justo.",
+ "tema": "Adhiriendo al 50° aniversario de la Asociación Civil Familia Piamontesa, a celebrarse del 1 al 3 de noviembre en la ciudad de San Francisco, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

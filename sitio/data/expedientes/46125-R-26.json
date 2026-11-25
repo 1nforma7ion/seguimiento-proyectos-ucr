@@ -1,0 +1,87 @@
+{
+ "numero": "46125/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Saliba, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la tragedia vial ocurrida el pasado 19 de abril, en la autovía 5, a la altura del kilómetro 25, entre la localidad de Villa Del Prado y la rotonda de ingreso a la ciudad de Alta Gracia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a la tragedia vial ocurrida el pasado 19 de abril, en la autovía 5, a la altura del kilómetro 25, entre la localidad de Villa Del Prado y la rotonda de ingreso a la ciudad de Alta Gracia.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-05-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-05-05",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 7 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 7 del Período 148"
+  },
+  {
+   "fecha": "2026-05-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 7 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 7 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 7 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 7 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-05"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Infraestructura y Servicios Públicos · 28",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46125%2FR%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

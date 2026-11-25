@@ -2,6 +2,7 @@
  "numero": "39493/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich y Carignano, solicitando al Poder Ejecutivo se intensifiquen los controles policiales en la localidad de Corral de Bustos-Infflinger para atender la ola de asaltos que azotan a la comunidad.",
+ "tema": "Solicitando al Poder Ejecutivo se intensifiquen los controles policiales en la localidad de Corral de Bustos-Infflinger para atender la ola de asaltos que azotan a la comunidad.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

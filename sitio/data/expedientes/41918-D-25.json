@@ -2,6 +2,7 @@
  "numero": "41918/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando consternación por la Resolución 187/2025 de la Agencia Nacional de Discapacidad ANDIS, por representar un retroceso contra la dignidad de las personas con discapacidad.",
+ "tema": "Expresando consternación por la Resolución 187/2025 de la Agencia Nacional de Discapacidad ANDIS, por representar un retroceso contra la dignidad de las personas con discapacidad.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

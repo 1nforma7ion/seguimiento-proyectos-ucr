@@ -2,6 +2,7 @@
  "numero": "47846/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soardo, adhiriendo a la 59ª Fiesta Provincial de la Ganadería de Coronel Moldes, Dpto. Río Cuarto, a desarrollarse del 26 al 28 de septiembre.",
+ "tema": "Adhiriendo a la 59ª Fiesta Provincial de la Ganadería de Coronel Moldes, Dpto. Río Cuarto, a desarrollarse del 26 al 28 de septiembre.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

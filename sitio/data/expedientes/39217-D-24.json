@@ -2,6 +2,7 @@
  "numero": "39217/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, y todos los Legisladores de la Cámara, reconociendo a la Asociación Deportiva Atenas por la inauguración del Estadio \"Estructura Pretensa-Atenas\" desarrollada el pasado 6 de mayo en la ciudad de Córdoba.",
+ "tema": "Reconociendo a la Asociación Deportiva Atenas por la inauguración del Estadio \"Estructura Pretensa-Atenas\" desarrollada el pasado 6 de mayo en la ciudad de Córdoba.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bloque ENCUENTRO VECINAL CÓRDOBA",
@@ -63,7 +64,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

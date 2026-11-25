@@ -2,6 +2,7 @@
  "numero": "41943/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Gloria Pereyra, Almada, Jaimes, Szpanin, Ferrero, Nicolás, Grich, Bottasso y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al accionar de la Policía de la provincia respecto a las denominadas \"picadas\" en las vías de acceso a la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al accionar de la Policía de la provincia respecto a las denominadas \"picadas\" en las vías de acceso a la ciudad de Córdoba.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -27,7 +28,8 @@
    "fecha": "2025-11-12",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

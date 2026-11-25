@@ -2,6 +2,7 @@
  "numero": "38844/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Hernández Maqueda, Ferrero, Nostrala, Botta, Gvozdenovich y Rossi, estableciendo la despersonalización de la publicidad oficial del gobierno de la provincia.",
+ "tema": "Estableciendo la despersonalización de la publicidad oficial del gobierno de la provincia.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Ferrero, Alejandra",
@@ -24,7 +25,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

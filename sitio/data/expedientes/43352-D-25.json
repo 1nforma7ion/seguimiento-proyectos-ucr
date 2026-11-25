@@ -2,6 +2,7 @@
  "numero": "43352/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Contrera y Bría, expresando beneplácito por la presentación del libro \"Los dos hemisferios de Lucca\" de la periodista Bárbara Anderson, desarrollada el pasado 23 de julio en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la presentación del libro \"Los dos hemisferios de Lucca\" de la periodista Bárbara Anderson, desarrollada el pasado 23 de julio en la ciudad de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

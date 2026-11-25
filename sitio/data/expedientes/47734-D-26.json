@@ -2,6 +2,7 @@
  "numero": "47734/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas, Soardo y Ortíz, adhiriendo a la 37ª Exposición Agrícola, Ganadera, Industrial, Comercial, Artesanal y de Transporte de Adelia María, Dpto. Río Cuarto, a desarrollarse del 1 al 4 de octubre.",
+ "tema": "Adhiriendo a la 37ª Exposición Agrícola, Ganadera, Industrial, Comercial, Artesanal y de Transporte de Adelia María, Dpto. Río Cuarto, a desarrollarse del 1 al 4 de octubre.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -21,7 +22,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

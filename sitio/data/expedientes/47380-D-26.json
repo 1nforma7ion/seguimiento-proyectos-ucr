@@ -2,6 +2,7 @@
  "numero": "47380/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por el 25º aniversario de creación de la Fundación Maní Argentino.",
+ "tema": "Expresando beneplácito por el 25º aniversario de creación de la Fundación Maní Argentino.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

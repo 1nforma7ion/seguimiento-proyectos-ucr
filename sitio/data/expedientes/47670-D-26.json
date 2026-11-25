@@ -2,6 +2,7 @@
  "numero": "47670/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, Grich, Llamosas y Ceballos Recalde, expresando beneplácito por la realización de la Expo Ganadera del centro, a desarrollarse los días 17 y 18 de septiembre en n el Centro de Convenciones Córdoba.",
+ "tema": "Expresando beneplácito por la realización de la Expo Ganadera del centro, a desarrollarse los días 17 y 18 de septiembre en n el Centro de Convenciones Córdoba.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Grich, Ariel Denis",
@@ -21,7 +22,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

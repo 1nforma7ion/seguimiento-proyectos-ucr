@@ -2,6 +2,7 @@
  "numero": "38568/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gvozdenovich y Rinaldi, declarando a la localidad de Arias, Dpto. Marcos Juárez, como \"Capital Provincial de los Carnavales\".",
+ "tema": "Declarando a la localidad de Arias, Dpto. Marcos Juárez, como \"Capital Provincial de los Carnavales\".",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Rinaldi, Julieta"
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

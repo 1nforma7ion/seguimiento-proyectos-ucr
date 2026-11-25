@@ -2,6 +2,7 @@
  "numero": "45487/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Bottasso, estableciendo el Régimen de Promoción de Vientres Bovinos, destinado a fomentar la inversión productiva, la incorporación de genética, la sanidad, la sustentabilidad del rodeo de cría y la correcta aplicación de criterios impositivos vinculados a la actividad ganadera en la provincia.",
+ "tema": "Estableciendo el Régimen de Promoción de Vientres Bovinos, destinado a fomentar la inversión productiva, la incorporación de genética, la sanidad, la sustentabilidad del rodeo de cría y la correcta aplicación de criterios impositivos vinculados a la actividad ganadera en la provincia.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46185/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Soardo y Llamosas, adhiriendo al 70º aniversario de la capilla de la localidad de Monte de los Gauchos, Dpto. Río Cuarto, en honor a San Isidro Labrador, a celebrarse el 13 de mayo.",
+ "tema": "Adhiriendo al 70º aniversario de la capilla de la localidad de Monte de los Gauchos, Dpto. Río Cuarto, en honor a San Isidro Labrador, a celebrarse el 13 de mayo.",
  "autores": [
   "Grich, Ariel Denis",
   "Soardo, Leonor Jorgelina",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

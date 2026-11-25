@@ -2,6 +2,7 @@
  "numero": "39190/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Gispert, Almada, Hernández Maqueda, Szpanin, Ferrero, Nigro, Gudiño, Nicolás, Briner, Bría y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al funcionamiento, organigrama, partida presupuestaria, funcionarios, estructura orgánica, etc. de los denominados Centros Cívicos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al funcionamiento, organigrama, partida presupuestaria, funcionarios, estructura orgánica, etc. de los denominados Centros Cívicos.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Gispert, Walter Oscar",
@@ -29,7 +30,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

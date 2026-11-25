@@ -2,6 +2,7 @@
  "numero": "39082/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, adhiriendo al 103° aniversario del Arias Football Club, a conmemorarse el día 21 de abril en la localidad homónima del Dpto. Marcos Juárez.",
+ "tema": "Adhiriendo al 103° aniversario del Arias Football Club, a conmemorarse el día 21 de abril en la localidad homónima del Dpto. Marcos Juárez.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

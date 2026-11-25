@@ -2,6 +2,7 @@
  "numero": "47319/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por la 50º Fiesta del Día del Niño del Barrio Progreso de la localidad de Berrotarán, Dpto. Río Cuarto, a celebrarse el día 16 de agosto.",
+ "tema": "Expresando beneplácito por la 50º Fiesta del Día del Niño del Barrio Progreso de la localidad de Berrotarán, Dpto. Río Cuarto, a celebrarse el día 16 de agosto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

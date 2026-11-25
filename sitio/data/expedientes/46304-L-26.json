@@ -2,6 +2,7 @@
  "numero": "46304/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Ferrero, Grich, Molina, Contrera y Szpanin, garantizando la accesibilidad digital universal, asegurando el pleno derecho de personas con discapacidad, mayores y de quienes enfrenten barreras de acceso digital.",
+ "tema": "Garantizando la accesibilidad digital universal, asegurando el pleno derecho de personas con discapacidad, mayores y de quienes enfrenten barreras de acceso digital.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Ferrero, Alejandra",
@@ -24,7 +25,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

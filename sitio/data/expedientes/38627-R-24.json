@@ -2,6 +2,7 @@
  "numero": "38627/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la Unidad de Contención del Aprehendido (UCA) de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la Unidad de Contención del Aprehendido (UCA) de la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2024-11-13",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

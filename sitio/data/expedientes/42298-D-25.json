@@ -2,6 +2,7 @@
  "numero": "42298/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Navarro Alegre y los Bloques Hacemos Unidos por Córdoba y UCR, adhiriendo al recuerdo del 110° aniversario del genocidio armenio, reconocido por Ley Nacional Nº 26199 y Ley Provincial Nº 9315, declarando el 24 de abril como Día de Acción por la Tolerancia y el Respeto entre los Pueblos.",
+ "tema": "Adhiriendo al recuerdo del 110° aniversario del genocidio armenio, reconocido por Ley Nacional Nº 26199 y Ley Provincial Nº 9315, declarando el 24 de abril como Día de Acción por la Tolerancia y el Respeto entre los Pueblos.",
  "autores": [
   "Navarro Alegre, Veronica Fatima",
   "Bloque HACEMOS UNIDOS POR CORDOBA",
@@ -20,7 +21,8 @@
    "fecha": "2025-04-14",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-14"
  },
  "desconocidos": [],
  "linea_tiempo": [

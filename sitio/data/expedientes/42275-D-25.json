@@ -2,6 +2,7 @@
  "numero": "42275/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, adhiriendo al Día del Kinesiólogo, que se celebra el 13 de abril conmemorando la creación de la primera escuela de la especialidad.",
+ "tema": "Adhiriendo al Día del Kinesiólogo, que se celebra el 13 de abril conmemorando la creación de la primera escuela de la especialidad.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-09",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

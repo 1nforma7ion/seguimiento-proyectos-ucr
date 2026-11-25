@@ -2,6 +2,7 @@
  "numero": "46821/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo disponga se repare la infraestructura y se provea de servicios acordes a las necesidades básicas de uso en la escuela Antártida Argentina de barrio Los Pino de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo disponga se repare la infraestructura y se provea de servicios acordes a las necesidades básicas de uso en la escuela Antártida Argentina de barrio Los Pino de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

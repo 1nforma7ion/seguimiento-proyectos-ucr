@@ -2,6 +2,7 @@
  "numero": "44383/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, reconociendo al 3° congreso de estudiantes de primaria: La ESI, aprender para decidir, a desarrollarse el 17 de octubre en la ciudad de Morteros, Dpto. San Justo.",
+ "tema": "Reconociendo al 3° congreso de estudiantes de primaria: La ESI, aprender para decidir, a desarrollarse el 17 de octubre en la ciudad de Morteros, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

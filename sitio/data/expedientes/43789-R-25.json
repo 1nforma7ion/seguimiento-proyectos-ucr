@@ -2,6 +2,7 @@
  "numero": "43789/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la disposición, ejecución y destino de los fondos entregados como fortalecimientos económicos a instituciones que trabajan con personas discapacitadas, en el marco de la Ley Nº 10928.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la disposición, ejecución y destino de los fondos entregados como fortalecimientos económicos a instituciones que trabajan con personas discapacitadas, en el marco de la Ley Nº 10928.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

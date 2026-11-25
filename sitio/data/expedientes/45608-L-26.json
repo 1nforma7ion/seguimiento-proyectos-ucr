@@ -2,6 +2,7 @@
  "numero": "45608/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Bría, Szpanin, Nigro, Austin, Nicolás, Jaimes, Luna, Saliba, Bottasso, Contrera y Carignano, declarando el estado de Emergencia Sanitaria por el plazo de 12 meses, con el objeto asegurar la continuidad de las prestaciones básicas de salud, la operatividad de las guardias médicas y el sistema de traslados en el interior provincial.",
+ "tema": "Declarando el estado de Emergencia Sanitaria por el plazo de 12 meses, con el objeto asegurar la continuidad de las prestaciones básicas de salud, la operatividad de las guardias médicas y el sistema de traslados en el interior provincial.",
  "autores": [
   "Bria, Jose Alberto",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

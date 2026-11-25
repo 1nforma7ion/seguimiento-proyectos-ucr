@@ -2,6 +2,7 @@
  "numero": "44479/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich y Carignano, solicitando al Poder Ejecutivo que provea de presencia policial permanente a la localidad de Colonia Barge, Dpto. Marcos Juárez.",
+ "tema": "Solicitando al Poder Ejecutivo que provea de presencia policial permanente a la localidad de Colonia Barge, Dpto. Marcos Juárez.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

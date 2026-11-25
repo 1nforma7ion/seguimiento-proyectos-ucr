@@ -2,6 +2,7 @@
  "numero": "43265/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Acevedo, Bisotto, Grich, Valiente y Bría, expresando beneplácito por el 50° aniversario de la Cámara Argentina del Maní.",
+ "tema": "Expresando beneplácito por el 50° aniversario de la Cámara Argentina del Maní.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Acevedo, Maria Del Rosario",
@@ -23,7 +24,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,188 @@
+{
+ "numero": "38624/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Nicolás, modificando los artículos 2, 23, 59, 60, 61, 84, 87, 120, inciso 4° del 150 y 195 del Reglamento Interno de la Legislatura.",
+ "tema": "Modificando los artículos 2, 23, 59, 60, 61, 84, 87, 120, inciso 4° del 150 y 195 del Reglamento Interno de la Legislatura.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [
+  "Asuntos Constitucionales, Justicia y Acuerdos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-02-28",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-05",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2024-02-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 146"
+  },
+  {
+   "fecha": "2025-02-28",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató con despacho de comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Normal con Despacho Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (3/5/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 4055",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=POhcO4gRDlA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38624%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

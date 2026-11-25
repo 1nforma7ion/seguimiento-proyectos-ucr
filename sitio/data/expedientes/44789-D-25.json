@@ -2,6 +2,7 @@
  "numero": "44789/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Ovejeros y Bría, adhiriendo al Centenario del centro educativo de nivel primario Jerónimo Luis de Cabrera de la localidad de Miramar de Ansenuza, Dpto. San Justo, a celebrarse el 20 de noviembre.",
+ "tema": "Adhiriendo al Centenario del centro educativo de nivel primario Jerónimo Luis de Cabrera de la localidad de Miramar de Ansenuza, Dpto. San Justo, a celebrarse el 20 de noviembre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2025-11-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

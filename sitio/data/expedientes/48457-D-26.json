@@ -2,6 +2,7 @@
  "numero": "48457/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Rossi, Briner y Sebastián Peralta, repudiando los insultos y expresiones agraviantes del Presidente de la Nación, Javier Milei, contra periodistas.",
+ "tema": "Repudiando los insultos y expresiones agraviantes del Presidente de la Nación, Javier Milei, contra periodistas.",
  "autores": [
   "Rossi, Dante Valentin",
   "Briner, Carlos Edgardo",
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

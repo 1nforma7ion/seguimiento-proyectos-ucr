@@ -2,6 +2,7 @@
  "numero": "40502/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Briner, instando al Poder Ejecutivo a declarar la Emergencia Ambiental por consecuencia de los incendios forestales.",
+ "tema": "Instando al Poder Ejecutivo a declarar la Emergencia Ambiental por consecuencia de los incendios forestales.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-02",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

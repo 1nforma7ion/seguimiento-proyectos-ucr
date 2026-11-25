@@ -1,0 +1,93 @@
+{
+ "numero": "40083/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por la Legisladora Szpanin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos de la empresa Caminos de las Sierras S.A. referidos al plan de obras ejecutado en el año 2023 y el previsto para el año 2024.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos de la empresa Caminos de las Sierras S.A. referidos al plan de obras ejecutado en el año 2023 y el previsto para el año 2024.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Obras Públicas y Vivienda"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-08-21",
+  "ultimo_movimiento": {
+   "fecha": "2025-08-21",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2024-08-21",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 146"
+  },
+  {
+   "fecha": "2025-08-21",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-08-21"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-08-21"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40083%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

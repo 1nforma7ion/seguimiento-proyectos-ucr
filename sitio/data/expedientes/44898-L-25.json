@@ -2,6 +2,7 @@
  "numero": "44898/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Austin, Ferrero, Nigro, Nicolás, Luna, Saliba, Grich, Bria y Molina, prohibiendo el uso de materiales no degradables para la envoltura de diplomas, certificados, reconocimientos, presentes institucionales y cualquier otra entrega oficial realizada por parte del Estado provincial, sus organismos, dependencias, entes autárquicos, sociedades del Estado y cualquier entidad estatal.",
+ "tema": "Prohibiendo el uso de materiales no degradables para la envoltura de diplomas, certificados, reconocimientos, presentes institucionales y cualquier otra entrega oficial realizada por parte del Estado provincial, sus organismos, dependencias, entes autárquicos, sociedades del Estado y cualquier entidad estatal.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

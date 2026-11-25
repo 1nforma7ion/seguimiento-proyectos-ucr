@@ -2,6 +2,7 @@
  "numero": "43644/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Contrera y Almada, solicitando al Poder Ejecutivo se solucione la situación que atraviesan más de 80 familias del sector este del Barrio Industrial Oeste de la ciudad de Córdoba, quienes desde hace 15 años carecen del servicio básico de agua potable.",
+ "tema": "Solicitando al Poder Ejecutivo se solucione la situación que atraviesan más de 80 familias del sector este del Barrio Industrial Oeste de la ciudad de Córdoba, quienes desde hace 15 años carecen del servicio básico de agua potable.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

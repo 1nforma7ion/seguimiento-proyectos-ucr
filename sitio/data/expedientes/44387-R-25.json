@@ -2,6 +2,7 @@
  "numero": "44387/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Nigro, Carignano, Gvozdenovich, Bría, Jaimes y Saliba, solicitando al Poder Ejecutivo que se construya una biblioteca y un espacio para los equipos de orientación escolar, en el edificio ubicado entre la escuela primaria Dr. Benito Soria y el CENI Provincia de Misiones en barrio Vicor de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo que se construya una biblioteca y un espacio para los equipos de orientación escolar, en el edificio ubicado entre la escuela primaria Dr. Benito Soria y el CENI Provincia de Misiones en barrio Vicor de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

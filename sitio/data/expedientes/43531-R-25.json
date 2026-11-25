@@ -2,6 +2,7 @@
  "numero": "43531/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Almada, Contrera y el Bloque Frente Cívico de Córdoba, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al examen de nivelación para los acompañantes terapéuticos en la provincia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al examen de nivelación para los acompañantes terapéuticos en la provincia.",
  "autores": [
   "Almada, Nancy Edith",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -20,7 +21,8 @@
    "fecha": "2025-11-12",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

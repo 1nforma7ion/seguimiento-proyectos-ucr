@@ -2,6 +2,7 @@
  "numero": "39755/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Hernández Maqueda y Austin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al avance y estado actual de la Etapa I del Acueducto Biprovincial Santa Fe-Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al avance y estado actual de la Etapa I del Acueducto Biprovincial Santa Fe-Córdoba.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Austin, Brenda Lis"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-24",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

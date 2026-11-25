@@ -2,6 +2,7 @@
  "numero": "44460/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a los festejos conmemorativos del 30º aniversario de sanción de la Carta Orgánica Municipal de la ciudad de Morteros, Dpto. San Justo, acontecido el 31 de octubre de 1995.",
+ "tema": "Adhiriendo a los festejos conmemorativos del 30º aniversario de sanción de la Carta Orgánica Municipal de la ciudad de Morteros, Dpto. San Justo, acontecido el 31 de octubre de 1995.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

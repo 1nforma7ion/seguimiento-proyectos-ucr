@@ -2,6 +2,7 @@
  "numero": "42187/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin y el Bloque UCR, garantizando el ejercicio del Derecho de Acceso a la Información Pública y derogando la Ley Nº 8803.",
+ "tema": "Garantizando el ejercicio del Derecho de Acceso a la Información Pública y derogando la Ley Nº 8803.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -36,7 +37,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

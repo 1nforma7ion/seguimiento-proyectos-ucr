@@ -2,6 +2,7 @@
  "numero": "46384/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Grosso, Peirone, Gispert, Jaimes y Contrera, declarando la Emergencia Sanitaria en Salud Mental de la Niñez y la Adolescencia por exposición a entornos digitales nocivos.",
+ "tema": "Declarando la Emergencia Sanitaria en Salud Mental de la Niñez y la Adolescencia por exposición a entornos digitales nocivos.",
  "autores": [
   "Almada, Nancy Edith",
   "Grosso, Gerardo Jose",
@@ -24,7 +25,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

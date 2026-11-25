@@ -1,0 +1,81 @@
+{
+ "numero": "45176/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Luna, solicitando al Poder Ejecutivo disponga la reparación del Camino Provincial T196-01, en el tramo que une Alto de los Quebrachos con la localidad de La Batea.",
+ "tema": "Solicitando al Poder Ejecutivo disponga la reparación del Camino Provincial T196-01, en el tramo que une Alto de los Quebrachos con la localidad de La Batea.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-02-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45176%2FR%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

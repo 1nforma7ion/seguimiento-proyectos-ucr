@@ -2,6 +2,7 @@
  "numero": "41136/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich y los Bloques Frente Cívico de Córdoba y Mejor Futuro, solicitando a la Presidencia de la Legislatura que evalúe los reclamos del Sindicato de Empleados Legislativos, haciendo una propuesta salarial acorde con los índices de la inflación anual.",
+ "tema": "Solicitando a la Presidencia de la Legislatura que evalúe los reclamos del Sindicato de Empleados Legislativos, haciendo una propuesta salarial acorde con los índices de la inflación anual.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -20,7 +21,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

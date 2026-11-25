@@ -2,6 +2,7 @@
  "numero": "40631/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Gvozdenovich, Luna, Grich, Ferrero, Saliba, Gudiño, Carignano, Nicolás, Molina, Contrera, Szpanin, Jaimes y Bloque UCR, expresando preocupación por la grave situación que atraviesan los trabajadores del sistema universitario público argentino, exhortando al Poder Ejecutivo Nacional a garantizar la Ley de Financiamiento de Universitario sancionada el pasado 13 de septiembre por el H. Congreso Nacional, y adhiriendo a la Segunda Marcha Federal Universitaria convocada para el 2 de octubre.",
+ "tema": "Expresando preocupación por la grave situación que atraviesan los trabajadores del sistema universitario público argentino, exhortando al Poder Ejecutivo Nacional a garantizar la Ley de Financiamiento de Universitario sancionada el pasado 13 de septiembre por el H. Congreso Nacional, y adhiriendo a la Segunda Marcha Federal Universitaria convocada para el 2 de octubre.",
  "autores": [
   "Austin, Brenda Lis",
   "Gvozdenovich, Matias Pablo",
@@ -35,7 +36,8 @@
    "fecha": "2024-10-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

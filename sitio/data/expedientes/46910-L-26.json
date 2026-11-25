@@ -2,6 +2,7 @@
  "numero": "46910/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los legisladores Nigro, Bría y Contrera, modificando el inciso e) del artículo 2º de la Ley Nº 9223 -Sistema de Beneficios Sociales para Veteranos de Guerra de Malvinas.",
+ "tema": "Modificando el inciso e) del artículo 2º de la Ley Nº 9223 -Sistema de Beneficios Sociales para Veteranos de Guerra de Malvinas.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

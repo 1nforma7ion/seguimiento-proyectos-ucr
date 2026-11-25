@@ -2,6 +2,7 @@
  "numero": "46398/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Valiente, Molina, Eslava, Grich, Romero, Tévez, Szpanin, Soardo, Figueroa, Ceballos Recalde, Flores, Rufeil, Presas, Rébora y los Bloques UCR, Frente Cívico de Córdoba, PRO, Córdoba, Mejor Futuro y Juntos por el Interior, declarando \"Ciudad Belgraniana\" a la ciudad de Pilar, Dpto. Río Segundo.",
+ "tema": "Declarando \"Ciudad Belgraniana\" a la ciudad de Pilar, Dpto. Río Segundo.",
  "autores": [
   "Valiente, Lucas German",
   "Molina, Victor Eduardo",
@@ -40,7 +41,8 @@
    "fecha": "2026-06-10",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-10"
  },
  "desconocidos": [],
  "linea_tiempo": [

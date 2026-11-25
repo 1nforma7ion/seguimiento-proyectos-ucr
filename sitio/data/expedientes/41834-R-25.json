@@ -2,6 +2,7 @@
  "numero": "41834/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Grich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a los caminos afectados por las lluvias e inundaciones en las localidades de Santa Flora, San Ambrosio, La Gilda, La Carolina y Villa Sarmiento.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a los caminos afectados por las lluvias e inundaciones en las localidades de Santa Flora, San Ambrosio, La Gilda, La Carolina y Villa Sarmiento.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

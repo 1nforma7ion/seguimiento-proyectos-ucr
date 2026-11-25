@@ -2,6 +2,7 @@
  "numero": "38941/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Luna, Saliba, Grich, Bottasso, Bría, Molina, Contrera y Carignano, expresando beneplácito por el 40° aniversario del Paicor, celebrado el pasado 31 de marzo y creado por el Gobernador Eduardo César Angeloz, quien tuvo una visión social en tiempos de crisis y cuyo programa permanece hasta el presente.",
+ "tema": "Expresando beneplácito por el 40° aniversario del Paicor, celebrado el pasado 31 de marzo y creado por el Gobernador Eduardo César Angeloz, quien tuvo una visión social en tiempos de crisis y cuyo programa permanece hasta el presente.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -33,7 +34,8 @@
    "fecha": "2024-04-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

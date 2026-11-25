@@ -1,0 +1,92 @@
+{
+ "numero": "47935/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Blangino, Stella Peralta, Lorenzo, Acuña, Rinaldi, Presas, Navarro Alegre, LUna Quaglino y Ceballos Recalde, estableciendo el Régimen Provincial para la Promoción y Protección de la Salud Digital de Niñas, Niños y Adolescentes.",
+ "tema": "Estableciendo el Régimen Provincial para la Promoción y Protección de la Salud Digital de Niñas, Niños y Adolescentes.",
+ "autores": [
+  "Blangino, Juan Jose",
+  "Peralta, Stella Maris",
+  "Lorenzo, Carlos Mariano",
+  "Acuña, Karen Belen",
+  "Rinaldi, Julieta",
+  "Presas, Luciana Maria",
+  "Navarro Alegre, Veronica Fatima",
+  "Luna, Fernando Javier",
+  "Quaglino, Ileana",
+  "Ceballos Recalde, Mariano"
+ ],
+ "comisiones": [
+  "Promoción y Defensa de los Derechos de la Niñez, Adolescencia y Familia",
+  "Educación",
+  "Tecnología, Innovación y Economía del Conocimiento"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-09-22",
+  "ultimo_movimiento": {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  },
+  {
+   "fecha": "2026-09-22",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-09-22"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47935%2FL%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

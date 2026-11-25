@@ -2,6 +2,7 @@
  "numero": "39479/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Briner, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Molina, Contrera, Carignano, Botta, Juez, Gispert, Martoccia, Gloria Pereyra, Peirone, Rossi y Hernández Maqueda, solicitando al Poder Ejecutivo proceda al mejoramiento de la Ruta N° 6, en el tramo que une las localidades de Justiniano Posse y Ordóñez, Dpto. Unión.",
+ "tema": "Solicitando al Poder Ejecutivo proceda al mejoramiento de la Ruta N° 6, en el tramo que une las localidades de Justiniano Posse y Ordóñez, Dpto. Unión.",
  "autores": [
   "Briner, Carlos Edgardo",
   "Jaimes, Mauricio Sebastian",
@@ -40,7 +41,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

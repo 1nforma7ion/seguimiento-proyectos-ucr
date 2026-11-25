@@ -2,6 +2,7 @@
  "numero": "43330/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a la 51° Exposición Agroindustrial y Ganadera, a desarrollarse del 15 al 17 de agosto en la localidad de Vicuña Mackenna, Dpto. Río Cuarto.",
+ "tema": "Adhiriendo a la 51° Exposición Agroindustrial y Ganadera, a desarrollarse del 15 al 17 de agosto en la localidad de Vicuña Mackenna, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

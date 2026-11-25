@@ -2,6 +2,7 @@
  "numero": "42616/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna, Austin, Nigro, Saliba, Szpanin y Martoccia, creando el apartado Iniciativa Popular en la plataforma Ciudadano Digital, CiDi, modificando la Ley Nº 7811.",
+ "tema": "Creando el apartado Iniciativa Popular en la plataforma Ciudadano Digital, CiDi, modificando la Ley Nº 7811.",
  "autores": [
   "Luna, Fernando Javier",
   "Austin, Brenda Lis",
@@ -24,7 +25,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

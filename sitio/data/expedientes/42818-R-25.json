@@ -2,6 +2,7 @@
  "numero": "42818/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo se arbitren los medios para eliminar las barreras físicas y se coloquen sanitarios adecuados en la escuela especial María Montessori de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo se arbitren los medios para eliminar las barreras físicas y se coloquen sanitarios adecuados en la escuela especial María Montessori de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

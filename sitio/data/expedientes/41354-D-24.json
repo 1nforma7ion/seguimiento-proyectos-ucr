@@ -1,0 +1,99 @@
+{
+ "numero": "41354/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, expresando beneplácito por la intervención artística testimonial \"Cuando el río suena\", a desarrollarse el día 15 de febrero de 2025 en el marco del 10º aniversario del aluvión en la cuenca de Sierras Chicas.",
+ "tema": "Expresando beneplácito por la intervención artística testimonial \"Cuando el río suena\", a desarrollarse el día 15 de febrero de 2025 en el marco del 10º aniversario del aluvión en la cuenca de Sierras Chicas.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-12-12",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-12",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-12",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": "2024-12-12",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 21 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 21 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-12"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29086",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=TyztP9aItfQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41354%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

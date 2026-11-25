@@ -2,6 +2,7 @@
  "numero": "45519/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por el ingreso de nuevos empleados al Gobierno Provincial en calidad de funcionarios.",
+ "tema": "Expresando preocupación por el ingreso de nuevos empleados al Gobierno Provincial en calidad de funcionarios.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

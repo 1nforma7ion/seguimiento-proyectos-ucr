@@ -2,6 +2,7 @@
  "numero": "38560/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, adhiriendo a la Ley Nacional N° 27155, que regula el Ejercicio Profesional de los Guardavidas.",
+ "tema": "Adhiriendo a la Ley Nacional N° 27155, que regula el Ejercicio Profesional de los Guardavidas.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

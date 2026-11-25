@@ -2,6 +2,7 @@
  "numero": "41614/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin y Ovejeros, expresando beneplácito al acuerdo entre Israel y la Organización Hamas, que declara el cese de los ataques en la zona de Gaza, la liberación de rehenes y el comienzo de las negociaciones para el fin del conflicto.",
+ "tema": "Expresando beneplácito al acuerdo entre Israel y la Organización Hamas, que declara el cese de los ataques en la zona de Gaza, la liberación de rehenes y el comienzo de las negociaciones para el fin del conflicto.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -20,7 +21,8 @@
    "fecha": "2025-02-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46986/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración iniciado por los Legisladores Tévez y Bría, adhiriendo al Día del Inmigrante Piemontés, a celebrarse el 16 de agosto en la ciudad de Brinkmann, Dpto. San Justo.",
+ "tema": "Adhiriendo al Día del Inmigrante Piemontés, a celebrarse el 16 de agosto en la ciudad de Brinkmann, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

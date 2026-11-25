@@ -2,6 +2,7 @@
  "numero": "46203/N/26",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Contrera, solicitando la rehabilitación del Proyecto Nº 42153/L/25, conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por la Legisladora Contrera, solicitando la rehabilitación del Proyecto Nº 42153/L/25, conforme el art. 111 del R.I.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-05-05",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

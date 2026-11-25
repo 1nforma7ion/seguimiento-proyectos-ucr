@@ -2,6 +2,7 @@
  "numero": "44609/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, expresando preocupación por la situación que atraviesa la salud en toda la provincia, especialmente por la falta de especialistas y la precarización laboral de los hospitales de la localidad de Balnearia y de las ciudades de Brinkmann y Morteros.",
+ "tema": "Expresando preocupación por la situación que atraviesa la salud en toda la provincia, especialmente por la falta de especialistas y la precarización laboral de los hospitales de la localidad de Balnearia y de las ciudades de Brinkmann y Morteros.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43809/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Gvozdenovich y Nigro, rechazando la represión ejercida por la policía de la provincia contra los periodistas que cubrían la manifestación de la Asociación de Trabajadores del Estado el pasado 27 de agosto en la ciudad de Córdoba.",
+ "tema": "Rechazando la represión ejercida por la policía de la provincia contra los periodistas que cubrían la manifestación de la Asociación de Trabajadores del Estado el pasado 27 de agosto en la ciudad de Córdoba.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -22,7 +23,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

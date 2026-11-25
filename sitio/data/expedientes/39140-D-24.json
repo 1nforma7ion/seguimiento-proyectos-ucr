@@ -2,6 +2,7 @@
  "numero": "39140/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Juez, Gispert, Gloria Pereyra, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Nicolás, Luna, Saliba, Bría, Molina, Contrera, Carignano y Sala, declarando de Interés Legislativo a La Noche de las Lecturas, evento que promueve la cultura literaria articulando actividades en toda la provincia, a desarrollarse el día 8 de junio,",
+ "tema": "Declarando de Interés Legislativo a La Noche de las Lecturas, evento que promueve la cultura literaria articulando actividades en toda la provincia, a desarrollarse el día 8 de junio,",
  "autores": [
   "Almada, Nancy Edith",
   "Juez, Daniel Alejandro",
@@ -37,7 +38,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

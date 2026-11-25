@@ -2,6 +2,7 @@
  "numero": "45493/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al 60º aniversario de la escuela Cornelio Saavedra de camino a Villa Posse de la ciudad de Córdoba, a celebrarse el 21 de marzo.",
+ "tema": "Adhiriendo al 60º aniversario de la escuela Cornelio Saavedra de camino a Villa Posse de la ciudad de Córdoba, a celebrarse el 21 de marzo.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

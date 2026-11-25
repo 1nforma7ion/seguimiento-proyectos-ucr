@@ -2,6 +2,7 @@
  "numero": "40075/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gispert, Juez, Nostrala, Gloria Pereyra, Almada, Jaimes, Austin, Valiente, Nicolás, Luna, Saliba, Briner, Bottasso, Bría, Molina, Contrera, Botta, Sala y Bisotto, estableciendo que la publicidad de los actos, programas, obras, servicios y campañas de los órganos públicos de los Poderes Ejecutivo, Legislativo y Judicial, debe tener carácter informativo, educativo y/o de orientación social, quedando prohibida la incorporación de nombres de funcionarios que supongan cualquier tipo de promoción personal.",
+ "tema": "Estableciendo que la publicidad de los actos, programas, obras, servicios y campañas de los órganos públicos de los Poderes Ejecutivo, Legislativo y Judicial, debe tener carácter informativo, educativo y/o de orientación social, quedando prohibida la incorporación de nombres de funcionarios que supongan cualquier tipo de promoción personal.",
  "autores": [
   "Gispert, Walter Oscar",
   "Juez, Daniel Alejandro",
@@ -37,7 +38,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

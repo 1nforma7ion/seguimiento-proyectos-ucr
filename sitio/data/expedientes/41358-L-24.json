@@ -2,6 +2,7 @@
  "numero": "41358/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Briner, declarando la necesidad de reforma parcial de la Constitución de la provincia en los términos del Art. 196 , promoviendo modificar la estructura del Poder Legislativo reimplantando el régimen bicameral.",
+ "tema": "Declarando la necesidad de reforma parcial de la Constitución de la provincia en los términos del Art. 196 , promoviendo modificar la estructura del Poder Legislativo reimplantando el régimen bicameral.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-12-17",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-17"
+  "caduca_el": "2026-12-17",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

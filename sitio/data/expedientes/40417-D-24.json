@@ -2,6 +2,7 @@
  "numero": "40417/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Peirone, Acevedo, Bría, Briner, Szpanin, Bisotto, Knipscheer y el Bloque Frente Cívico de Córdoba, reconociendo al pediatra y autor literario, Dr. Enrique Orschanski, por su trayectoria y aporte en la reflexión y compresión de las infancias.",
+ "tema": "Reconociendo al pediatra y autor literario, Dr. Enrique Orschanski, por su trayectoria y aporte en la reflexión y compresión de las infancias.",
  "autores": [
   "Peirone, Juan Pablo",
   "Acevedo, Maria Del Rosario",
@@ -25,7 +26,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

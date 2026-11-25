@@ -2,6 +2,7 @@
  "numero": "40950/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso y los Bloques UCR y Frente Cívico de Córdoba, declarando de Interés Legislativo a la Fundación Maní Argentino, por su trabajo de investigación científica plasmado en un artículo sobre el carbón del maní publicado por la revista Plant Diseas.",
+ "tema": "Declarando de Interés Legislativo a la Fundación Maní Argentino, por su trabajo de investigación científica plasmado en un artículo sobre el carbón del maní publicado por la revista Plant Diseas.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -20,7 +21,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44156/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero, Peirone y el Bloque UCR, instruyendo al Poder Ejecutivo a modificar los protocolos y registros vinculados al Examen Médico para la Mediana y Alta Competencia - EMMAC.",
+ "tema": "Instruyendo al Poder Ejecutivo a modificar los protocolos y registros vinculados al Examen Médico para la Mediana y Alta Competencia - EMMAC.",
  "autores": [
   "Ferrero, Alejandra",
   "Peirone, Juan Pablo",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

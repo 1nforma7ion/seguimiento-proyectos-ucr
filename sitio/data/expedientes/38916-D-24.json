@@ -2,6 +2,7 @@
  "numero": "38916/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Briner, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nicolás, Grich, Bottasso, Molina, Contrera y Carignano, solicitando al Sr. Ministro de Salud disponga la ubicación de puestos sanitarios alternativos, móviles o no, para la detección del dengue en el ámbito provincial, monitoreando la asistencia profesional de pacientes, redistribuyendo los recursos humanos y materiales conforme amerite la evolución de la actual epidemia.",
+ "tema": "Solicitando al Sr. Ministro de Salud disponga la ubicación de puestos sanitarios alternativos, móviles o no, para la detección del dengue en el ámbito provincial, monitoreando la asistencia profesional de pacientes, redistribuyendo los recursos humanos y materiales conforme amerite la evolución de la actual epidemia.",
  "autores": [
   "Briner, Carlos Edgardo",
   "Jaimes, Mauricio Sebastian",
@@ -28,7 +29,8 @@
    "fecha": "2025-04-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

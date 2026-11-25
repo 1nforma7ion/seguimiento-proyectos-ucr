@@ -2,6 +2,7 @@
  "numero": "40233/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 114º aniversario y a las fiestas patronales de la localidad de Sacanta, Dpto. San Justo, a celebrarse el día 29 de septiembre en honor a San Miguel Arcángel.",
+ "tema": "Adhiriendo al 114º aniversario y a las fiestas patronales de la localidad de Sacanta, Dpto. San Justo, a celebrarse el día 29 de septiembre en honor a San Miguel Arcángel.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

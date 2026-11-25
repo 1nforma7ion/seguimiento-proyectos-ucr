@@ -2,6 +2,7 @@
  "numero": "47328/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 115º aniversario de la localidad de El Arañado, Dpto. San Justo, y a sus fiestas patronales, a celebrarse el día 14 de septiembre.",
+ "tema": "Adhiriendo al 115º aniversario de la localidad de El Arañado, Dpto. San Justo, y a sus fiestas patronales, a celebrarse el día 14 de septiembre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

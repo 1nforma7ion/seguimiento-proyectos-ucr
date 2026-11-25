@@ -2,6 +2,7 @@
  "numero": "47373/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Peirone, Bría, Briner y el Bloque Frente Cívico, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados a casos notificados, políticas públicas, programas y acciones referidas a contagios por sífilis.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados a casos notificados, políticas públicas, programas y acciones referidas a contagios por sífilis.",
  "autores": [
   "Peirone, Juan Pablo",
   "Bria, Jose Alberto",
@@ -21,7 +22,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

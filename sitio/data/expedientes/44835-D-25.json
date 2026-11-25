@@ -1,0 +1,100 @@
+{
+ "numero": "44835/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Navarro Alegre y Nigro, reconociendo al Consorcio Caminero N° 44 de la localidad de Etruria, Dpto. General San Martín, en el marco de su 69° aniversario a celebrarse el 18 de diciembre.",
+ "tema": "Reconociendo al Consorcio Caminero N° 44 de la localidad de Etruria, Dpto. General San Martín, en el marco de su 69° aniversario a celebrarse el 18 de diciembre.",
+ "autores": [
+  "Navarro Alegre, Veronica Fatima",
+  "Nigro, Alfredo Mariano"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-12-03",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-03",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": "2025-12-03",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 21 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 21 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-03"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30654",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=W8oopedslk8="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44835%2FD%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "44626/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo al centenario del centro educativo Tte. Gral. Eduardo Racedo de la ciudad de Río Cuarto, a celebrarse el día 14 de noviembre.",
+ "tema": "Adhiriendo al centenario del centro educativo Tte. Gral. Eduardo Racedo de la ciudad de Río Cuarto, a celebrarse el día 14 de noviembre.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

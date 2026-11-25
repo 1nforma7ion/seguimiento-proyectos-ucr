@@ -2,6 +2,7 @@
  "numero": "47400/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, reconociendo al programa televisivo \"Huellas\" en el marco de su 22º aniversario de labor solidaria y cultural, a conmemorarse el día 17 de septiembre.",
+ "tema": "Reconociendo al programa televisivo \"Huellas\" en el marco de su 22º aniversario de labor solidaria y cultural, a conmemorarse el día 17 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

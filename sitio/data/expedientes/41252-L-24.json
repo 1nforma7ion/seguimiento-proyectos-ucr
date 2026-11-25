@@ -2,6 +2,7 @@
  "numero": "41252/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Hernández Maqueda, Ferrero, Nicolás, Bisotto. Peirone, Sala, Botta, Almada y Contrera, derogando los artículos 1º y 2º de la Ley Nº 9448, por el que se denominó Museo Superior de Bellas Artes Evita al Museo Palacio Ferreyra.",
+ "tema": "Derogando los artículos 1º y 2º de la Ley Nº 9448, por el que se denominó Museo Superior de Bellas Artes Evita al Museo Palacio Ferreyra.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Ferrero, Alejandra",
@@ -27,7 +28,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

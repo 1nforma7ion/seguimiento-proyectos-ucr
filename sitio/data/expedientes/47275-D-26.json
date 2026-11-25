@@ -2,6 +2,7 @@
  "numero": "47275/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Gvozdenovich, expresando beneplácito por el 27º Campeonato Mundial de Billar de 5 Quillas, a desarrollarse del 26 al 30 de agosto en la ciudad de Marcos Juárez.",
+ "tema": "Expresando beneplácito por el 27º Campeonato Mundial de Billar de 5 Quillas, a desarrollarse del 26 al 30 de agosto en la ciudad de Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

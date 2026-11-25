@@ -2,6 +2,7 @@
  "numero": "47481/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 140º aniversario de la localidad de Colonia Iturraspe, Dpto. San Justo, a celebrarse el día 9 de septiembre.",
+ "tema": "Adhiriendo al 140º aniversario de la localidad de Colonia Iturraspe, Dpto. San Justo, a celebrarse el día 9 de septiembre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

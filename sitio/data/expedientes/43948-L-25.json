@@ -2,6 +2,7 @@
  "numero": "43948/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Botta, Carignano, Almada, Contrera, Bría, Sebastián Peralta, Rossi, Szpanin y Grich, regulando la equinoterapia como disciplina terapéutica de habilitación y rehabilitación.",
+ "tema": "Regulando la equinoterapia como disciplina terapéutica de habilitación y rehabilitación.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Botta, Patricia Isabel",
@@ -28,7 +29,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

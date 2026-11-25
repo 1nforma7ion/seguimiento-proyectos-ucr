@@ -2,6 +2,7 @@
  "numero": "40036/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo que solucione la problemática de infraestructura que presenta la escuela Capital Federal de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo que solucione la problemática de infraestructura que presenta la escuela Capital Federal de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

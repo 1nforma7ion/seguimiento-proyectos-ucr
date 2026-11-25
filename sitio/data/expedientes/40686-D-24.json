@@ -2,6 +2,7 @@
  "numero": "40686/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Gvozdenovich, expresando beneplácito por el 80° aniversario del Instituto Hellen Keller, celebrado el pasado 17 de septiembre en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por el 80° aniversario del Instituto Hellen Keller, celebrado el pasado 17 de septiembre en la ciudad de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

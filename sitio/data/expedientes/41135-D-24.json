@@ -2,6 +2,7 @@
  "numero": "41135/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Jaimes, Szpanin, Ferrero, Gvozdenovich, Valiente, Nicolás, Bottasso, Contrera, Carignano y Bría, expresando beneplácito por el 238° aniversario de la ciudad de Río Cuarto, Capital Alterna de la provincia, celebrado el pasado 11 de noviembre.",
+ "tema": "Expresando beneplácito por el 238° aniversario de la ciudad de Río Cuarto, Capital Alterna de la provincia, celebrado el pasado 11 de noviembre.",
  "autores": [
   "Grich, Ariel Denis",
   "Jaimes, Mauricio Sebastian",
@@ -28,7 +29,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

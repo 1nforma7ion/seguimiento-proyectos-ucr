@@ -2,6 +2,7 @@
  "numero": "41562/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al manejo de la vacuna contra el dengue y las medidas de prevención y control adoptadas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al manejo de la vacuna contra el dengue y las medidas de prevención y control adoptadas.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45437/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo al 26º Cosquín Rock, desarrollado el 14 y 15 de febrero en la localidad de Santa María de Punilla, por su trascendencia cultural y su consolidación como evento de impacto económico, social, ambiental y turístico.",
+ "tema": "Reconociendo al 26º Cosquín Rock, desarrollado el 14 y 15 de febrero en la localidad de Santa María de Punilla, por su trascendencia cultural y su consolidación como evento de impacto económico, social, ambiental y turístico.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

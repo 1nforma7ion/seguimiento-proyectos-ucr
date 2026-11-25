@@ -2,6 +2,7 @@
  "numero": "41959/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre costos, participación estatal y de la municipalidad de la ciudad de Córdoba, y aportes financieros para la realización del encuentro del Seleccionado Nacional de Rugby y el Seleccionado de Nueva Zelanda, a desarrollarse el día 16 de agosto.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre costos, participación estatal y de la municipalidad de la ciudad de Córdoba, y aportes financieros para la realización del encuentro del Seleccionado Nacional de Rugby y el Seleccionado de Nueva Zelanda, a desarrollarse el día 16 de agosto.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

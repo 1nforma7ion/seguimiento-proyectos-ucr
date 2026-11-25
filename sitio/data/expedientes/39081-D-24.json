@@ -2,6 +2,7 @@
  "numero": "39081/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Fernández, Almada, Quaglino, Quiñonez, Tévez, Saliba, Peirone, Acevedo, Szpanin, Contrera, Chamorro, Figueroa, Heredia, Sala, y Spaccesi, expresando beneplácito por la participación de la comitiva de la provincia de Córdoba en el operativo realizado el pasado mes de febrero en el incendio ocurrido en el Parque Nacional Los Alerces de la provincia de Chubut.",
+ "tema": "Expresando beneplácito por la participación de la comitiva de la provincia de Córdoba en el operativo realizado el pasado mes de febrero en el incendio ocurrido en el Parque Nacional Los Alerces de la provincia de Chubut.",
  "autores": [
   "Fernandez, Nadia Vanesa",
   "Almada, Nancy Edith",
@@ -32,7 +33,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

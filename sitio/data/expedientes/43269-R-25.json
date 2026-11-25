@@ -2,6 +2,7 @@
  "numero": "43269/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo que adopte medidas para garantizar el resguardo y protección del sitio sagrado Camchira, ubicado en la localidad de Cerro Azul.",
+ "tema": "Solicitando al Poder Ejecutivo que adopte medidas para garantizar el resguardo y protección del sitio sagrado Camchira, ubicado en la localidad de Cerro Azul.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

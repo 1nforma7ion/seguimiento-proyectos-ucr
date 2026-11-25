@@ -1,0 +1,94 @@
+{
+ "numero": "38629/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Luna, derogando la modificación del artículo 26 de la Ley N° 10679, -Modificaciones al Código Tributario provincial-, a fines de retrotraer el límite del 5% sobre el importe neto total facturado a cada usuario por los servicios de provisión, distribución y transporte y peaje de energía eléctrica en cada período liquidado.",
+ "tema": "Derogando la modificación del artículo 26 de la Ley N° 10679, -Modificaciones al Código Tributario provincial-, a fines de retrotraer el límite del 5% sobre el importe neto total facturado a cada usuario por los servicios de provisión, distribución y transporte y peaje de energía eléctrica en cada período liquidado.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Economia y Presupuesto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-02-14",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-17",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-17"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-02-14",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2025-02-17",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-02-17"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38629%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

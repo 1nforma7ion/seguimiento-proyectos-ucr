@@ -2,6 +2,7 @@
  "numero": "39079/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Saliba, Grich, Briner, Bottasso, Molina, Contrera, Carignano y Peirone, creando el Régimen de Atención al Lupus y otras enfermedades reumáticas, garantizando la integridad de la salud a las personas que sufren las mismas.",
+ "tema": "Creando el Régimen de Atención al Lupus y otras enfermedades reumáticas, garantizando la integridad de la salud a las personas que sufren las mismas.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -36,7 +37,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

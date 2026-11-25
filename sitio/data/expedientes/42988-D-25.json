@@ -2,6 +2,7 @@
  "numero": "42988/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por la situación que atraviesa el sistema de atención a personas con discapacidad en la provincia, exhortando al Poder Ejecutivo a garantizar sus derechos.",
+ "tema": "Expresando preocupación por la situación que atraviesa el sistema de atención a personas con discapacidad en la provincia, exhortando al Poder Ejecutivo a garantizar sus derechos.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

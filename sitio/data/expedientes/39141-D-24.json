@@ -2,6 +2,7 @@
  "numero": "39141/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Nicolás, Luna, Grich, Briner, Bottaso, Molina, Contrera y Carignano, expresando preocupación ante la grave situación financiera que atraviesa el sistema universitario público, exhortando al Poder Ejecutivo Nacional y al Honorable Congreso de la Nación a garantizar el financiamiento de manera adecuada; adhiriendo a la \"Marcha en defensa de la Educación y del Sistema Universitario Público Argentino\", realizada el 23 de abril.",
+ "tema": "Expresando preocupación ante la grave situación financiera que atraviesa el sistema universitario público, exhortando al Poder Ejecutivo Nacional y al Honorable Congreso de la Nación a garantizar el financiamiento de manera adecuada; adhiriendo a la \"Marcha en defensa de la Educación y del Sistema Universitario Público Argentino\", realizada el 23 de abril.",
  "autores": [
   "Austin, Brenda Lis",
   "Bisotto, Graciela Maria",
@@ -31,7 +32,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

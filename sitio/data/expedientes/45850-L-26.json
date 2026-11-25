@@ -2,6 +2,7 @@
  "numero": "45850/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gvozdenovich, Szpanin, Nigro, Nicolás, Luna, Molina y Contrera, modificando el art. 56 de la Ley Nº 5542, de Marcas y Señales, referido a la documentación para el tránsito de animales.",
+ "tema": "Modificando el art. 56 de la Ley Nº 5542, de Marcas y Señales, referido a la documentación para el tránsito de animales.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Szpanin, Ariela Yanina",
@@ -25,7 +26,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

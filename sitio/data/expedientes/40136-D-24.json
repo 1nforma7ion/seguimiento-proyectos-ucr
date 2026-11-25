@@ -2,6 +2,7 @@
  "numero": "40136/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero y el Bloque UCR, rechazando la actitud del ex Presidente de la Nación por estar involucrado en un caso de violencia de género; y también la actitud del Sr. Gobernador de la provincia por mantener en su cargo al Ministro de Cooperativas y Mutuales, quien también se encuentra involucrado en un supuesto hecho de similares características.",
+ "tema": "Rechazando la actitud del ex Presidente de la Nación por estar involucrado en un caso de violencia de género; y también la actitud del Sr. Gobernador de la provincia por mantener en su cargo al Ministro de Cooperativas y Mutuales, quien también se encuentra involucrado en un supuesto hecho de similares características.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

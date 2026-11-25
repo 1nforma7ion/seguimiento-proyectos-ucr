@@ -2,6 +2,7 @@
  "numero": "38697/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Valiente, Szpanin, Nigro, Austin, Gvozdenovich, Ferrero, Nicolás, Gudiño, Bisotto, Jaimes, Grich, Briner, Bottasso, Bría, Molina y Contrera, autorizando la ejecución de la obra de \"Pavimentación, Demarcación Horizontal y Señalización Vertical”, en el tramo que une la localidad de Villa Sarmiento con la Ruta Nacional Nº 7, en el Dpto. General Roca.",
+ "tema": "Autorizando la ejecución de la obra de \"Pavimentación, Demarcación Horizontal y Señalización Vertical”, en el tramo que une la localidad de Villa Sarmiento con la Ruta Nacional Nº 7, en el Dpto. General Roca.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Valiente, Lucas German",
@@ -36,7 +37,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

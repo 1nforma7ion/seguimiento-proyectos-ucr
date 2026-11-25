@@ -2,6 +2,7 @@
  "numero": "43996/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero y Gispert, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la rotura de la impermeabilización del dique en la mina de uranio abandonada en el complejo fabril Los Gigantes, medidas adoptadas, monitoreo e intervenciones.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la rotura de la impermeabilización del dique en la mina de uranio abandonada en el complejo fabril Los Gigantes, medidas adoptadas, monitoreo e intervenciones.",
  "autores": [
   "Ferrero, Alejandra",
   "Gispert, Walter Oscar"
@@ -20,7 +21,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

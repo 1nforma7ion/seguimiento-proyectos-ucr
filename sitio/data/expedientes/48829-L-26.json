@@ -2,6 +2,7 @@
  "numero": "48829/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de ley, iniciado por los Legisladores Austin, Szpanin, Ferrero, Nigro, Nicolás, Luna Bría, Molina, Contrera y Carignano, modificando la Ley Nº 8663, Régimen de Coparticipación Impositiva entre Provincia, Municipios y Comunas, en lo referido a la integración de los recursos coparticipables.",
+ "tema": "Modificando la Ley Nº 8663, Régimen de Coparticipación Impositiva entre Provincia, Municipios y Comunas, en lo referido a la integración de los recursos coparticipables.",
  "autores": [
   "Austin, Brenda Lis",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

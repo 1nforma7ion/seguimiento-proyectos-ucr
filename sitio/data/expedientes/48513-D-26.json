@@ -2,6 +2,7 @@
  "numero": "48513/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Agüero, Almada, Jaimes y Molina, reconociendo a la escritora, docente y gestora cultural cordobesa Lilia María Lardone, fallecida el pasado 31 de agosto.",
+ "tema": "Reconociendo a la escritora, docente y gestora cultural cordobesa Lilia María Lardone, fallecida el pasado 31 de agosto.",
  "autores": [
   "Aguero, Noelia Beatriz",
   "Almada, Nancy Edith",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

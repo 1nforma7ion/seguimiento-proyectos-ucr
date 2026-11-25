@@ -2,6 +2,7 @@
  "numero": "41773/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Briner, Austin y Ovejeros, expresando beneplácito a la Dra. Sandra Myrna Díaz, bióloga, docente e investigadora cordobesa de la UNC y del CONICET, quién fue galardonada con el premio Tyler al Logro Ambiental.",
+ "tema": "Expresando beneplácito a la Dra. Sandra Myrna Díaz, bióloga, docente e investigadora cordobesa de la UNC y del CONICET, quién fue galardonada con el premio Tyler al Logro Ambiental.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Briner, Carlos Edgardo",
@@ -21,7 +22,8 @@
    "fecha": "2025-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

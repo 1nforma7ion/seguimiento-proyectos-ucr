@@ -2,6 +2,7 @@
  "numero": "44505/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Carignano, Bría, Luna, Bottasso, Gvozdenovich, Valiente, Saliba, Molina, Rossi y Bisotto, reconociendo al Dr. Leandro Hipólito Illia, quien reconstruyó, a través de su libro \"Arturo Illia. Mi padre\", la figura del expresidente.",
+ "tema": "Reconociendo al Dr. Leandro Hipólito Illia, quien reconstruyó, a través de su libro \"Arturo Illia. Mi padre\", la figura del expresidente.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -30,7 +31,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

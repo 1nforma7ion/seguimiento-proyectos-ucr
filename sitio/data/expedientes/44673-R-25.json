@@ -2,6 +2,7 @@
  "numero": "44673/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos las condiciones de seguridad, cobertura médica y organización del torneo nacional de natación realizado en la pileta olímpica Georgina Bardach del Estadio Mario Alberto Kempes, el pasado 9 de noviembre, en cuyo marco falleció un competidor de 73 años.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos las condiciones de seguridad, cobertura médica y organización del torneo nacional de natación realizado en la pileta olímpica Georgina Bardach del Estadio Mario Alberto Kempes, el pasado 9 de noviembre, en cuyo marco falleció un competidor de 73 años.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

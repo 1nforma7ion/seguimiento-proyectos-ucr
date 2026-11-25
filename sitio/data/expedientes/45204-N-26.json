@@ -1,0 +1,79 @@
+{
+ "numero": "45204/N/26",
+ "tipo": "otros",
+ "extracto": "Nota remitida por la Legisladora Szpanin, solicitando la rehabilitación del Proyecto N° 41156/R/24 conforme el art. 111 del RI.",
+ "tema": "Nota remitida por la Legisladora Szpanin, solicitando la rehabilitación del Proyecto N° 41156/R/24 conforme el art. 111 del RI.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-02-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-04",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null,
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-02-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45204%2FN%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

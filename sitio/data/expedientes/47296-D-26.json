@@ -2,6 +2,7 @@
  "numero": "47296/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Valiente, Szpanin, Molina, Bría y Lorenzo, expresando beneplácito por la visita a la República Argentina y a la Provincia de Córdoba de Su Santidad Papa León XIV, a desarrollarse del 8 al 11 de noviembre.",
+ "tema": "Expresando beneplácito por la visita a la República Argentina y a la Provincia de Córdoba de Su Santidad Papa León XIV, a desarrollarse del 8 al 11 de noviembre.",
  "autores": [
   "Valiente, Lucas German",
   "Szpanin, Ariela Yanina",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

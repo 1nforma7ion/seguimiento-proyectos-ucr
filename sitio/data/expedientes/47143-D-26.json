@@ -2,6 +2,7 @@
  "numero": "47143/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Mundial de la Prevención de Incendios Forestales, que se conmemora el 18 de agosto de cada año.",
+ "tema": "Adhiriendo al Día Mundial de la Prevención de Incendios Forestales, que se conmemora el 18 de agosto de cada año.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

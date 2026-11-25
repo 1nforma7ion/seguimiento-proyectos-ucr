@@ -2,6 +2,7 @@
  "numero": "41336/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Contrera, reconociendo el trabajo de la Mesa de Inclusión de la Legislatura de Córdoba en el marco del Día Internacional de las Personas con Discapacidad, que se celebra el 3 de diciembre de cada año.",
+ "tema": "Reconociendo el trabajo de la Mesa de Inclusión de la Legislatura de Córdoba en el marco del Día Internacional de las Personas con Discapacidad, que se celebra el 3 de diciembre de cada año.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2025-12-12",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

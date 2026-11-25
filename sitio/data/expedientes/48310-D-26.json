@@ -2,6 +2,7 @@
  "numero": "48310/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por el 114º aniversario de la localidad de Elena, Dpto. Río Cuarto, celebrado el día 19 de octubre.",
+ "tema": "Expresando beneplácito por el 114º aniversario de la localidad de Elena, Dpto. Río Cuarto, celebrado el día 19 de octubre.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44886/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, reconociendo a la Asociación Atlética Estudiantes de Río Cuarto por su histórico ascenso a la Primera División del Fútbol Argentino.",
+ "tema": "Reconociendo a la Asociación Atlética Estudiantes de Río Cuarto por su histórico ascenso a la Primera División del Fútbol Argentino.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39455/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Hernández Maqueda, Rossi, Ferrero y Szpanin, expresando beneplácito por el 19° aniversario de Canal C, conmemorado el pasado 10 de mayo, resaltando el compromiso del medio y de cada uno de sus integrantes en informar a la ciudadanía con profesionalismo y objetividad.",
+ "tema": "Expresando beneplácito por el 19° aniversario de Canal C, conmemorado el pasado 10 de mayo, resaltando el compromiso del medio y de cada uno de sus integrantes en informar a la ciudadanía con profesionalismo y objetividad.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Rossi, Dante Valentin",
@@ -21,7 +22,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

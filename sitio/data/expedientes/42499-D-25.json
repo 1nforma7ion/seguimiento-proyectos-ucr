@@ -2,6 +2,7 @@
  "numero": "42499/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Almada y Jurich, adhiriendo al 12º Festival Internacional de Teatro Breve, que se desarrolla en el mes de mayo en la ciudad de Córdoba.",
+ "tema": "Adhiriendo al 12º Festival Internacional de Teatro Breve, que se desarrolla en el mes de mayo en la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith",
@@ -20,7 +21,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

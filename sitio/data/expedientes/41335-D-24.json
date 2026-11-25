@@ -2,6 +2,7 @@
  "numero": "41335/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Szpanin, Gvozdenovich y Contrera, expresando beneplácito por la participación de Delfina Villarreal en competencias internacionales de natación adaptada.",
+ "tema": "Expresando beneplácito por la participación de Delfina Villarreal en competencias internacionales de natación adaptada.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2025-12-12",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

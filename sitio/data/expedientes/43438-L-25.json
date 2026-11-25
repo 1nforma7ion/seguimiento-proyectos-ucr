@@ -2,6 +2,7 @@
  "numero": "43438/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo y Ferrero, estableciendo la reducción de un treinta por ciento (30%) del pago de Impuesto Inmobiliario Urbano.",
+ "tema": "Estableciendo la reducción de un treinta por ciento (30%) del pago de Impuesto Inmobiliario Urbano.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Ferrero, Alejandra"
@@ -20,7 +21,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

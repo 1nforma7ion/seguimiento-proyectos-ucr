@@ -2,6 +2,7 @@
  "numero": "40921/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Ferrero, Nigro, Valiente, Saliba, Bría y Contrera, reconociendo a las empresas cordobesas que resultaron ganadoras del 2° concurso nacional, donde se premiaron a los mejores quesos, dulces de leches y mantecas, desarrollado en el mes de octubre en la ciudad de Paraná, provincia de Entre Ríos.",
+ "tema": "Reconociendo a las empresas cordobesas que resultaron ganadoras del 2° concurso nacional, donde se premiaron a los mejores quesos, dulces de leches y mantecas, desarrollado en el mes de octubre en la ciudad de Paraná, provincia de Entre Ríos.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Ferrero, Alejandra",
@@ -24,7 +25,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

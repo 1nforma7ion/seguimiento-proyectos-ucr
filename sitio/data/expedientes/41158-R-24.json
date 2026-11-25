@@ -2,6 +2,7 @@
  "numero": "41158/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre fondos entregados y por entregar a escuelas del interior provincial, así como lo presupuestado para el año 2025, del Fondo para la Descentralización del Mantenimiento de Edificios Escolares Provinciales (FODEMEEP).",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre fondos entregados y por entregar a escuelas del interior provincial, así como lo presupuestado para el año 2025, del Fondo para la Descentralización del Mantenimiento de Edificios Escolares Provinciales (FODEMEEP).",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-07-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

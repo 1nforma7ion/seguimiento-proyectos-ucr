@@ -2,6 +2,7 @@
  "numero": "42639/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Szpanin y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados a la APROSS en lo referido a balances, afiliados y reformas edilicias propuestas después del incendio del 18 de abril.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados a la APROSS en lo referido a balances, afiliados y reformas edilicias propuestas después del incendio del 18 de abril.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

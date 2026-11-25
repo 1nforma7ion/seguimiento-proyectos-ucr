@@ -2,6 +2,7 @@
  "numero": "44897/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Nigro, Valiente, Nicolás, Luna, Saliba, Bria y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados al funcionamiento de la Red Hospitalaria Provincial.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados al funcionamiento de la Red Hospitalaria Provincial.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -27,7 +28,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

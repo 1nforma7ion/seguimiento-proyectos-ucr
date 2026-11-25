@@ -1,0 +1,99 @@
+{
+ "numero": "41574/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Nigro, reconociendo a los 38º Carnavales Gigantes de Villa Nueva, a desarrollarse del 20 al 26 de febrero en la mencionada ciudad del Dpto. Gral San Martín.",
+ "tema": "Reconociendo a los 38º Carnavales Gigantes de Villa Nueva, a desarrollarse del 20 al 26 de febrero en la mencionada ciudad del Dpto. Gral San Martín.",
+ "autores": [
+  "Nigro, Alfredo Mariano"
+ ],
+ "comisiones": [
+  "Turismo"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-12-27",
+  "ultimo_movimiento": {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-27"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-27",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": "2024-12-27",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 23 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 23 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-27"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29171",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=XSwGFFlXQVQ="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41574%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

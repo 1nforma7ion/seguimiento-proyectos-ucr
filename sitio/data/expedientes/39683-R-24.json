@@ -2,6 +2,7 @@
  "numero": "39683/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin y Jaimes, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al servicio interurbano que opera en la ruta que conecta la localidad de San Clemente con la ciudad de Alta Gracia y con la localidad de Potrero de Garay, Dpto. Santa María.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al servicio interurbano que opera en la ruta que conecta la localidad de San Clemente con la ciudad de Alta Gracia y con la localidad de Potrero de Garay, Dpto. Santa María.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

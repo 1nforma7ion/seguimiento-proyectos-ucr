@@ -2,6 +2,7 @@
  "numero": "39623/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, derogando el Decreto N° 1112/2004 y toda otra normativa que otorgue competencia a la Administración Pública provincial, para extraer fondos depositados en cuentas bancarias sin previa autorización, dejando sin efecto la adhesión al Sistema de Recaudación y Control de Acreditaciones Bancarias (SIRCREB).",
+ "tema": "Derogando el Decreto N° 1112/2004 y toda otra normativa que otorgue competencia a la Administración Pública provincial, para extraer fondos depositados en cuentas bancarias sin previa autorización, dejando sin efecto la adhesión al Sistema de Recaudación y Control de Acreditaciones Bancarias (SIRCREB).",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -10,16 +11,17 @@
   "Legislación General"
  ],
  "estado": {
-  "etapa": 2,
-  "etapa_nombre": "En estudio en comisión",
-  "resultado": null,
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
   "sobre_tablas": false,
   "ingreso": "2024-06-19",
   "ultimo_movimiento": {
-   "fecha": "2025-11-19",
-   "texto": "Pasó a estudio en comisión"
+   "fecha": "2026-11-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": "2026-11-19"
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [
@@ -72,6 +74,16 @@
    "fecha": "2025-11-19",
    "texto": "Pasó a estudio en comisión",
    "detalle": "Sesión Ordinaria 20 del Período 147"
+  },
+  {
+   "fecha": "2026-11-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
   }
  ],
  "eventos_crudos": [
@@ -144,9 +156,23 @@
    "sesion": "Sesión Ordinaria 20 del Período 147",
    "periodo": 147,
    "fecha": "2025-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-19"
   }
  ],
  "documentos": [],
  "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39623%2FL%2F24",
- "recolectado": "2026-11-24T14:23:06.892381-03:00"
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
 }

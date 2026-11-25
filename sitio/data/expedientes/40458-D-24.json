@@ -2,6 +2,7 @@
  "numero": "40458/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, expresando beneplácito por la inauguración del Parque Solar Fotovoltaico Comunitario de CoopMorteros, a desarrollarse el día 24 de septiembre en el marco del 65º aniversario de la institución.",
+ "tema": "Expresando beneplácito por la inauguración del Parque Solar Fotovoltaico Comunitario de CoopMorteros, a desarrollarse el día 24 de septiembre en el marco del 65º aniversario de la institución.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

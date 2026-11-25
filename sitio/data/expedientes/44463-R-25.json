@@ -2,6 +2,7 @@
  "numero": "44463/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Gvozdenovich, Bría y Briner, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al estado operativo, antigüedad y distribución del equipamiento tecnológico en las áreas de radiología o diagnóstico por imagen de los hospitales provinciales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al estado operativo, antigüedad y distribución del equipamiento tecnológico en las áreas de radiología o diagnóstico por imagen de los hospitales provinciales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

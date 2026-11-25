@@ -2,6 +2,7 @@
  "numero": "44598/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por el 34º Campeonato Argentino de Menores en Frontón, a desarrollarse del 7 al 9 de noviembre en la localidad de Vicuña Mackenna, Dpto. Río Cuarto.",
+ "tema": "Expresando beneplácito por el 34º Campeonato Argentino de Menores en Frontón, a desarrollarse del 7 al 9 de noviembre en la localidad de Vicuña Mackenna, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

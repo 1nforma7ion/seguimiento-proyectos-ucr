@@ -2,6 +2,7 @@
  "numero": "45545/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Rossi, Szpanin, Rinaldi, Gispert, Bisotto, Ferrero, Bría, Briner,Navarro Alegre, Blangino y Valiente, expresando beneplácito por el 70º aniversario de la Universidad Católica de Córdoba, a conmemorarse el 8 de junio.",
+ "tema": "Expresando beneplácito por el 70º aniversario de la Universidad Católica de Córdoba, a conmemorarse el 8 de junio.",
  "autores": [
   "Rossi, Dante Valentin",
   "Szpanin, Ariela Yanina",
@@ -28,7 +29,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41933/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Botta, Contrera y el Bloque PRO, expresando preocupación por el vacío legal existente en la subrogación de vientre, demostrado en los hechos que tomaron protagonismo público en la semana del 20 de febrero en la ciudad de Córdoba.",
+ "tema": "Expresando preocupación por el vacío legal existente en la subrogación de vientre, demostrado en los hechos que tomaron protagonismo público en la semana del 20 de febrero en la ciudad de Córdoba.",
  "autores": [
   "Botta, Patricia Isabel",
   "Sala, Ignacio Antonio",
@@ -21,7 +22,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

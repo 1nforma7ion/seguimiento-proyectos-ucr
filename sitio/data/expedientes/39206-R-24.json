@@ -2,6 +2,7 @@
  "numero": "39206/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Bisotto, Botta, Contrera y Szpanin, instando al Poder Ejecutivo a instrumentar campañas de prevención intensivas y periódicas sobre riesgos de intoxicación por monóxido de carbono y por deficientes conexiones de gas y electricidad en viviendas particulares.",
+ "tema": "Instando al Poder Ejecutivo a instrumentar campañas de prevención intensivas y periódicas sobre riesgos de intoxicación por monóxido de carbono y por deficientes conexiones de gas y electricidad en viviendas particulares.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Bisotto, Graciela Maria",
@@ -22,7 +23,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

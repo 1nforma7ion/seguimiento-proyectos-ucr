@@ -2,6 +2,7 @@
  "numero": "42250/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Echevarría, Ferrero, Botta, Agrelo, Nostrala, Rossi, Alesandri, Bisotto, Jurich y Bloque UCR, regulando el ejercicio profesional de la Musicoterapia en la provincia de Córdoba.",
+ "tema": "Regulando el ejercicio profesional de la Musicoterapia en la provincia de Córdoba.",
  "autores": [
   "Echevarria, Luciana Gabriela",
   "Ferrero, Alejandra",
@@ -29,7 +30,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

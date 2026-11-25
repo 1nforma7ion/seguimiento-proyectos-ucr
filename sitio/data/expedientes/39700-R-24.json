@@ -2,6 +2,7 @@
  "numero": "39700/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo la implementación, a través de la EPEC, de un sistema más intensivo vía web para que los usuarios cordobeses puedan acceder desde su celular o computadora al Registro de Acceso de Subsidios de Energía (RASE) para la recategorización nacional de tarifas.",
+ "tema": "Solicitando al Poder Ejecutivo la implementación, a través de la EPEC, de un sistema más intensivo vía web para que los usuarios cordobeses puedan acceder desde su celular o computadora al Registro de Acceso de Subsidios de Energía (RASE) para la recategorización nacional de tarifas.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-06-26",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

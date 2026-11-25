@@ -2,6 +2,7 @@
  "numero": "39053/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, expresando beneplácito por el 50º aniversario del IPEM N° 174 Trinidad Moreno de la ciudad de Córdoba, celebrado el pasado 24 de marzo.",
+ "tema": "Expresando beneplácito por el 50º aniversario del IPEM N° 174 Trinidad Moreno de la ciudad de Córdoba, celebrado el pasado 24 de marzo.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

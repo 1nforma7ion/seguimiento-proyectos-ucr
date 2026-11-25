@@ -2,6 +2,7 @@
  "numero": "46438/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al centenario del Club Sportivo Balnearia de la mencionada localidad del Dpto. San Justo, a celebrarse el 6 de junio.",
+ "tema": "Adhiriendo al centenario del Club Sportivo Balnearia de la mencionada localidad del Dpto. San Justo, a celebrarse el 6 de junio.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

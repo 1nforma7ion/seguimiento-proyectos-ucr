@@ -2,6 +2,7 @@
  "numero": "43237/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Martoccia, Austin, Chamorro y Acuña, expresando beneplácito por la restitución de la identidad del nieto número 140, anunciada por la Abuelas de Plaza de Mayo el pasado 7 de julio.",
+ "tema": "Expresando beneplácito por la restitución de la identidad del nieto número 140, anunciada por la Abuelas de Plaza de Mayo el pasado 7 de julio.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Martoccia, Viviana Raquel Del Valle",
@@ -22,7 +23,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

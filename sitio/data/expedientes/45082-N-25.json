@@ -1,0 +1,79 @@
+{
+ "numero": "45082/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por la Legisladora Szpanin, solicitando la rehabilitación de los Proyectos Nros. 40810/L/24, 41029/R/24 y 41156/R/24, conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por la Legisladora Szpanin, solicitando la rehabilitación de los Proyectos Nros. 40810/L/24, 41029/R/24 y 41156/R/24, conforme el art. 111 del R.I.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-23",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-23",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null,
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 24 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 24 del Período 147"
+  },
+  {
+   "fecha": "2025-12-23",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 24 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 24 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-12-23"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45082%2FN%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

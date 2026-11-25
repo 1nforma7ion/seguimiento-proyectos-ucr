@@ -2,6 +2,7 @@
  "numero": "46443/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Llamosas, Grich y Soardo, declarando de Interés Legislativo a la fiesta “Sabores y Saberes”, a desarrollarse el 25 de mayo en la localidad de Las Higueras, Dpto. Río Cuarto.",
+ "tema": "Declarando de Interés Legislativo a la fiesta “Sabores y Saberes”, a desarrollarse el 25 de mayo en la localidad de Las Higueras, Dpto. Río Cuarto.",
  "autores": [
   "Llamosas, Juan Manuel",
   "Grich, Ariel Denis",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

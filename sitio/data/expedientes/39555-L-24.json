@@ -2,6 +2,7 @@
  "numero": "39555/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Gispert, Rossi y Jaimes, modificando la Ley N°10941, Autoridad de Cuencas, con el propósito de resguardar de los derechos de acceso a la información ambiental y la participación pública en la toma de decisiones.",
+ "tema": "Modificando la Ley N°10941, Autoridad de Cuencas, con el propósito de resguardar de los derechos de acceso a la información ambiental y la participación pública en la toma de decisiones.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar",
@@ -22,7 +23,8 @@
    "fecha": "2024-09-06",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

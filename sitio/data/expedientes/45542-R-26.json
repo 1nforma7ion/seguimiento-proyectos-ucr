@@ -2,6 +2,7 @@
  "numero": "45542/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legisladores Nigro, citando al Sr. Ministro de Economía y Gestión Pública (art. 101 C.P.) para que informe sobre diversos aspectos referidos a la contratación de la firma Servicios y Consultoría S.A. y CIA. de Gestión Administración y Fiscalización S.A. Servicios.",
+ "tema": "Citando al Sr. Ministro de Economía y Gestión Pública (art. 101 C.P.) para que informe sobre diversos aspectos referidos a la contratación de la firma Servicios y Consultoría S.A. y CIA. de Gestión Administración y Fiscalización S.A. Servicios.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

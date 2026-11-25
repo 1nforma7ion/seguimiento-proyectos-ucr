@@ -2,6 +2,7 @@
  "numero": "42670/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Bría, Frías, Ceballos Recalde, Bisotto y Botta, expresando beneplácito por el Día mundial contra el Melanoma, que se celebra cada 23 de mayo.",
+ "tema": "Expresando beneplácito por el Día mundial contra el Melanoma, que se celebra cada 23 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto",
@@ -23,7 +24,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

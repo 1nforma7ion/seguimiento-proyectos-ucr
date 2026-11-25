@@ -2,6 +2,7 @@
  "numero": "38985/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Juez, Nostrala, Gispert, Gloria Pereyra, Peirone, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Briner, Bría, Molina, Contrera y Carignano, declarando de Interés Legislativo el 1° Foro Provincial de Gestores de Cultura y Turismo, desarrollado el pasado 26 de marzo en el auditorio de la Democracia de esta Legislatura.",
+ "tema": "Declarando de Interés Legislativo el 1° Foro Provincial de Gestores de Cultura y Turismo, desarrollado el pasado 26 de marzo en el auditorio de la Democracia de esta Legislatura.",
  "autores": [
   "Almada, Nancy Edith",
   "Juez, Daniel Alejandro",
@@ -39,7 +40,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

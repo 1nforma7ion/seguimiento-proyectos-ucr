@@ -2,6 +2,7 @@
  "numero": "38978/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bottasso, Martoccia, Gloria Pereyra, Almada, Peirone y Bloque UCR, solicitando al Poder Ejecutivo convoque a la Comisión Provincial de Emergencia Agropecuaria, -Ley N° 7121- y realice relevamientos de afectación de cultivos de maíz producidas por el insecto vector de la bacteria Spiroplasma kunkeli, el Dalbulus Maidis; instando se declare la situación de emergencia o catástrofe por Dpto., según corresponda.",
+ "tema": "Solicitando al Poder Ejecutivo convoque a la Comisión Provincial de Emergencia Agropecuaria, -Ley N° 7121- y realice relevamientos de afectación de cultivos de maíz producidas por el insecto vector de la bacteria Spiroplasma kunkeli, el Dalbulus Maidis; instando se declare la situación de emergencia o catástrofe por Dpto., según corresponda.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Szpanin, Ariela Yanina",
@@ -30,7 +31,8 @@
    "fecha": "2024-08-21",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

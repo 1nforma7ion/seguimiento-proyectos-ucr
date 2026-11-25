@@ -2,6 +2,7 @@
  "numero": "44169/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gudiño, Acevedo y Blangino, expresando beneplácito por el 80º aniversario del Centro Juvenil Agrario Cooperativista Sportivo Belgrano Unión Social de la localidad de La Para, Dpto. Río Primero, a celebrarse el día 9 de octubre.",
+ "tema": "Expresando beneplácito por el 80º aniversario del Centro Juvenil Agrario Cooperativista Sportivo Belgrano Unión Social de la localidad de La Para, Dpto. Río Primero, a celebrarse el día 9 de octubre.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Acevedo, Maria Del Rosario",
@@ -20,7 +21,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

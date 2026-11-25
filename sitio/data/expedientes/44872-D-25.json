@@ -2,6 +2,7 @@
  "numero": "44872/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Nigro, Jaimes, Valiente, Nicolás, Martoccia, Jurich y Romero, expresando beneplácito por el Día Internacional de los Derechos Humanos, que se celebra cada 10 de diciembre.",
+ "tema": "Expresando beneplácito por el Día Internacional de los Derechos Humanos, que se celebra cada 10 de diciembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2025-12-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

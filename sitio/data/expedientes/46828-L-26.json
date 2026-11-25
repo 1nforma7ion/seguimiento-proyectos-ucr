@@ -2,6 +2,7 @@
  "numero": "46828/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Briner, reglamentando las internas abiertas, simultáneas y obligatorias; modificando las Leyes Nros. 9571, Código Electoral Provincial; 9572, Régimen Jurídico de los Partidos Políticos; 8643, Creación del Juzgado Electoral Provincial; y 9840, Creación del Fuero Electoral Provincial.",
+ "tema": "Reglamentando las internas abiertas, simultáneas y obligatorias; modificando las Leyes Nros. 9571, Código Electoral Provincial; 9572, Régimen Jurídico de los Partidos Políticos; 8643, Creación del Juzgado Electoral Provincial; y 9840, Creación del Fuero Electoral Provincial.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

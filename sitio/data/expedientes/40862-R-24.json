@@ -2,6 +2,7 @@
  "numero": "40862/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo dispongan los recursos necesarios para la reparación y reacondicionamiento del dispensario donde funcionan los consultorios externos del Hospital Misericordia de la ciudad de Córdoba; en caso de no poder cumplimentarse, sean contempladas e incluidas en las partidas del presupuesto provincial 2025.",
+ "tema": "Solicitando al Poder Ejecutivo dispongan los recursos necesarios para la reparación y reacondicionamiento del dispensario donde funcionan los consultorios externos del Hospital Misericordia de la ciudad de Córdoba; en caso de no poder cumplimentarse, sean contempladas e incluidas en las partidas del presupuesto provincial 2025.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-10-30",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

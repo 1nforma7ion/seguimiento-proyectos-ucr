@@ -2,6 +2,7 @@
  "numero": "40953/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Luna, Gudiño y Botta, expresando preocupación por la suspensión de los pasajes gratuitos para personas con discapacidad, otorgados por la Ley nacional N° 22431, por parte de las Empresas de Transporte de Media y Larga distancia,",
+ "tema": "Expresando preocupación por la suspensión de los pasajes gratuitos para personas con discapacidad, otorgados por la Ley nacional N° 22431, por parte de las Empresas de Transporte de Media y Larga distancia,",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -22,7 +23,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

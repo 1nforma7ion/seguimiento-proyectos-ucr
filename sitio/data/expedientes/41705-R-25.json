@@ -2,6 +2,7 @@
  "numero": "41705/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Martoccia, Gloria Pereyra, Almada, Peirone, Szpanin, Ferrero, Nicolás, Grich y Bisotto, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la Dirección de Cuenca del Lago San Roque.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la Dirección de Cuenca del Lago San Roque.",
  "autores": [
   "Gispert, Walter Oscar",
   "Martoccia, Viviana Raquel Del Valle",
@@ -27,7 +28,8 @@
    "fecha": "2025-06-11",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

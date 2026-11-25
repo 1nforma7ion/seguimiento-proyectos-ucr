@@ -2,6 +2,7 @@
  "numero": "41889/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano y Almada, reconociendo las tareas desarrolladas por la Red de Vida Independiente de Córdoba -REVIC-, promoviendo los derechos de las personas con discapacidad.",
+ "tema": "Reconociendo las tareas desarrolladas por la Red de Vida Independiente de Córdoba -REVIC-, promoviendo los derechos de las personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -20,7 +21,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

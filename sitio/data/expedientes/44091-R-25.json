@@ -2,6 +2,7 @@
  "numero": "44091/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Contrera y Almada, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la conectividad en establecimientos educativos en zonas rurales, inhóspitas, de montaña y urbanas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la conectividad en establecimientos educativos en zonas rurales, inhóspitas, de montaña y urbanas.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -19,7 +20,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

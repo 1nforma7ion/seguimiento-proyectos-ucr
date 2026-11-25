@@ -2,6 +2,7 @@
  "numero": "42402/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el estado en que se encuentra la regularización dominial de los asentamientos denominados Nuestro Hogar I, II y III de la ciudad de Córdoba, y si mantiene litigio con la Cooperativa de Vivienda, Crédito y Consumo Nuestro Hogar Ltda.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el estado en que se encuentra la regularización dominial de los asentamientos denominados Nuestro Hogar I, II y III de la ciudad de Córdoba, y si mantiene litigio con la Cooperativa de Vivienda, Crédito y Consumo Nuestro Hogar Ltda.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

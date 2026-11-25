@@ -2,6 +2,7 @@
  "numero": "38849/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Nicolás, Saliba, Briner, Bría, Molina, Contrera, Carignano, Gloria Pereyra, Botta y Hernández Maqueda, manifestando preocupación y acompañamiento a todos los vecinos de la ciudad de Rosario, por los hechos acontecidos recientemente y la escalada de violencia que están viviendo a causa del avance del narcotráfico.",
+ "tema": "Manifestando preocupación y acompañamiento a todos los vecinos de la ciudad de Rosario, por los hechos acontecidos recientemente y la escalada de violencia que están viviendo a causa del avance del narcotráfico.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Jaimes, Mauricio Sebastian",
@@ -35,7 +36,8 @@
    "fecha": "2024-03-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

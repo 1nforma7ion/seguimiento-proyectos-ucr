@@ -2,6 +2,7 @@
  "numero": "47406/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Austin, Carignano, Bottasso, Jaimes, Molina, Nicolás, Saliba y Nigro, modificando la Ley Nº 8560, de Tránsito, en lo referido al uso obligatorio de luces y a la utilización de luces adicionales.",
+ "tema": "Modificando la Ley Nº 8560, de Tránsito, en lo referido al uso obligatorio de luces y a la utilización de luces adicionales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -28,7 +29,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

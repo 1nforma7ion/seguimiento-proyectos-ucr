@@ -2,6 +2,7 @@
  "numero": "44600/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo que entregue un incentivo económico para el Club Sportivo Ciénaga del Coro, Departamento Minas, para el desarrollo de su infraestructura y su calidad competitiva.",
+ "tema": "Solicitando al Poder Ejecutivo que entregue un incentivo económico para el Club Sportivo Ciénaga del Coro, Departamento Minas, para el desarrollo de su infraestructura y su calidad competitiva.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

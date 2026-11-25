@@ -2,6 +2,7 @@
  "numero": "40366/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque de la UCR, rechazando las declaraciones de los Sres. Presidente Provisorio de la Legislatura y Presidente del Bloque de Hacemos Unidos por Córdoba en sus cuestionamientos al Sr. Presidente del Bloque de la UCR de la H. Cámara de Diputados de la Nación en el tratamiento del veto a la Ley de Movilidad Jubilatoria.",
+ "tema": "Rechazando las declaraciones de los Sres. Presidente Provisorio de la Legislatura y Presidente del Bloque de Hacemos Unidos por Córdoba en sus cuestionamientos al Sr. Presidente del Bloque de la UCR de la H. Cámara de Diputados de la Nación en el tratamiento del veto a la Ley de Movilidad Jubilatoria.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

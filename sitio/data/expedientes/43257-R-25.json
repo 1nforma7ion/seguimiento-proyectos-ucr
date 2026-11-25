@@ -2,6 +2,7 @@
  "numero": "43257/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo la ejecución del reparto de los ATP en los municipios y comunas de forma equitativa por habitantes, y que coparticipe las tasas de afectación específica recaudadas.",
+ "tema": "Solicitando al Poder Ejecutivo la ejecución del reparto de los ATP en los municipios y comunas de forma equitativa por habitantes, y que coparticipe las tasas de afectación específica recaudadas.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

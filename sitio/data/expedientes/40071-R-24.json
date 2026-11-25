@@ -2,6 +2,7 @@
  "numero": "40071/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, citando al Sr. Ministro de Seguridad (Art. 101 C.P.) para que informe sobre la indemnización a la Sra Susana Montoya y al Sr. Fernando Albareda, indicando si hay casos similares y respecto de más beneficiarios en los últimos 24 meses con pagos extraordinarios en el marco de la Ley Nº 9728, de Personal Policial.",
+ "tema": "Citando al Sr. Ministro de Seguridad (Art. 101 C.P.) para que informe sobre la indemnización a la Sra Susana Montoya y al Sr. Fernando Albareda, indicando si hay casos similares y respecto de más beneficiarios en los últimos 24 meses con pagos extraordinarios en el marco de la Ley Nº 9728, de Personal Policial.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

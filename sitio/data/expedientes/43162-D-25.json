@@ -2,6 +2,7 @@
  "numero": "43162/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Gloria Pereyra, Almada, Peirone, Szpanin, Ferrero, Nicolás, Bottasso, Molina, Contrera y Ovejeros, reconociendo el centenario de la escuela Juan Bautista Azopardo de la ciudad de Santa María de Punilla, celebrado el pasado 18 de junio.",
+ "tema": "Reconociendo el centenario de la escuela Juan Bautista Azopardo de la ciudad de Santa María de Punilla, celebrado el pasado 18 de junio.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -28,7 +29,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

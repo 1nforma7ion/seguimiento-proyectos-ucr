@@ -2,6 +2,7 @@
  "numero": "45892/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bisotto, Contrera y Knipscheer, reconociendo a los Héroes de Malvinas en el 44º aniversario de la gesta que marcó nuestra historia, honrando su valor y valentía.",
+ "tema": "Reconociendo a los Héroes de Malvinas en el 44º aniversario de la gesta que marcó nuestra historia, honrando su valor y valentía.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

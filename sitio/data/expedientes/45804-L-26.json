@@ -2,6 +2,7 @@
  "numero": "45804/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Bisotto, Grich y Llamosas, declarando Fiesta Provincial a la celebración en honor al Señor de la Buena Muerte, que se desarrolla del 1 al 3 de mayo de cada año, en la localidad de Reducción, Dpto. Juárez Celman.",
+ "tema": "Declarando Fiesta Provincial a la celebración en honor al Señor de la Buena Muerte, que se desarrolla del 1 al 3 de mayo de cada año, en la localidad de Reducción, Dpto. Juárez Celman.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Grich, Ariel Denis",
@@ -21,7 +22,8 @@
    "fecha": "2026-04-09",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39702/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, rechazando la actitud de la Sra. Vicegobernadora de la provincia de cercenar la libertad de expresión en cada debate en las sesiones legislativas.",
+ "tema": "Rechazando la actitud de la Sra. Vicegobernadora de la provincia de cercenar la libertad de expresión en cada debate en las sesiones legislativas.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-06-26",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

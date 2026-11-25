@@ -2,6 +2,7 @@
  "numero": "40315/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Bría, reconociendo a Maximiliano Espinillo y Nahuel Heredia, integrantes cordobeses del equipo de fútbol para ciegos de Argentina por la obtención de la Medalla de Plata en los Juegos Paralímpicos París 2024.",
+ "tema": "Reconociendo a Maximiliano Espinillo y Nahuel Heredia, integrantes cordobeses del equipo de fútbol para ciegos de Argentina por la obtención de la Medalla de Plata en los Juegos Paralímpicos París 2024.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

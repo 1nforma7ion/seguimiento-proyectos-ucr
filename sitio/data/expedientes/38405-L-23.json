@@ -2,6 +2,7 @@
  "numero": "38405/L/23",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Hernández Maqueda y los Bloques UCR, Frente Cívico de Córdoba, PRO y Construyendo Córdoba, derogando la Ley N° 9122, -Tribunales del Fuero Penal Económico y Anticorrupción-, y el Capítulo II del Título III de la Ley N° 8835, -Carta del Ciudadano-; instruyendo al Fiscal General y al Tribunal Superior de Justicia a reubicar al personal afectado a los órganos antes referidos.",
+ "tema": "Derogando la Ley N° 9122, -Tribunales del Fuero Penal Económico y Anticorrupción-, y el Capítulo II del Título III de la Ley N° 8835, -Carta del Ciudadano-; instruyendo al Fiscal General y al Tribunal Superior de Justicia a reubicar al personal afectado a los órganos antes referidos.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Peralta, Sebastián Amadeo",
@@ -29,7 +30,8 @@
    "fecha": "2023-12-20",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2023-12-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

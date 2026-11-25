@@ -2,6 +2,7 @@
  "numero": "38536/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Szpanin, Contrera, Gvozdenovich, Ferrero, Carignano, Valiente, Nicolás, Luna, Bottasso, Molina y Agrelo, incorporando el artículo 3 bis a la Ley N° 10728, estableciendo que la oferta de actividades de capacitación, sensibilización y educación a prestadores de servicios vinculados a personas con discapacidad sea abierta a la comunidad en general.",
+ "tema": "Incorporando el artículo 3 bis a la Ley N° 10728, estableciendo que la oferta de actividades de capacitación, sensibilización y educación a prestadores de servicios vinculados a personas con discapacidad sea abierta a la comunidad en general.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes",
@@ -29,7 +30,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41035/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo que informe (Art. 102 C.P.) sobre diversos aspectos referidos al predio en el que funcionaba el polideportivo del IPEM Nº 174 Trinidad Moreno de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo que informe (Art. 102 C.P.) sobre diversos aspectos referidos al predio en el que funcionaba el polideportivo del IPEM Nº 174 Trinidad Moreno de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-12",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

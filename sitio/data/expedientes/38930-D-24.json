@@ -2,6 +2,7 @@
  "numero": "38930/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Rossi, Peralta y Grich, solicitando al Poder Ejecutivo la apertura de un centro de atención presencial de la Dirección General de Rentas en la ciudad de Río Cuarto.",
+ "tema": "Solicitando al Poder Ejecutivo la apertura de un centro de atención presencial de la Dirección General de Rentas en la ciudad de Río Cuarto.",
  "autores": [
   "Rossi, Dante Valentin",
   "Peralta, Sebastián Amadeo",
@@ -20,7 +21,8 @@
    "fecha": "2025-04-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

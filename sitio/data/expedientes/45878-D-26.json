@@ -2,6 +2,7 @@
  "numero": "45878/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito por el 75º aniversario del nivel secundario y el 50º aniversario de la modalidad especial del Instituto Privado Dalmacio Vélez Sársfield de la localidad de Justiniano Posse, Dpto. Marcos Juárez.",
+ "tema": "Expresando beneplácito por el 75º aniversario del nivel secundario y el 50º aniversario de la modalidad especial del Instituto Privado Dalmacio Vélez Sársfield de la localidad de Justiniano Posse, Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

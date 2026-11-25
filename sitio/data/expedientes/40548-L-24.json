@@ -2,6 +2,7 @@
  "numero": "40548/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Valiente, Carignano, Briner, Contrera, Molina, Grich, Nicolás, Bottasso, Bría, Jaimes, Nigro, Szpanin, Gvozdenovich y Saliba, creando una Fiscalía de Instrucción Móvil Ambiental en cada una de las sedes judiciales de las ciudades de Córdoba, Villa Carlos Paz, Río Cuarto, Marcos Juárez, Villa María, San Francisco, Villa Dolores, Cruz del Eje, Laboulaye, Deán Funes y Río Tercero, y modificando la Ley N° 7826, Orgánica del Ministerio Público Fiscal.",
+ "tema": "Creando una Fiscalía de Instrucción Móvil Ambiental en cada una de las sedes judiciales de las ciudades de Córdoba, Villa Carlos Paz, Río Cuarto, Marcos Juárez, Villa María, San Francisco, Villa Dolores, Cruz del Eje, Laboulaye, Deán Funes y Río Tercero, y modificando la Ley N° 7826, Orgánica del Ministerio Público Fiscal.",
  "autores": [
   "Austin, Brenda Lis",
   "Valiente, Lucas German",
@@ -33,7 +34,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42368/N/25",
  "tipo": "otros",
  "extracto": "Nota del Legislador Gvozdenovich, reiterando la solicitud efectuada mediante el Expte. 41554/N/24, de fecha 20 de diciembre de 2024, por el cual se requiere reemplazar a la Legisladora Bisotto por el Legislador Bottasso en la Comisión de Deportes.",
+ "tema": "Reiterando la solicitud efectuada mediante el Expte. 41554/N/24, de fecha 20 de diciembre de 2024, por el cual se requiere reemplazar a la Legisladora Bisotto por el Legislador Bottasso en la Comisión de Deportes.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

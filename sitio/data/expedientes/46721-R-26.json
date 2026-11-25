@@ -2,6 +2,7 @@
  "numero": "46721/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera y Saliba, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la Licitación Pública Expte. Nº 0733-011639/2026 “Acueducto Productivo para el Desarrollo Territorial de la zona Sur de Córdoba. Etapa I. (Dpto. Pte. Roque Sáenz Peña. Córdoba)”.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la Licitación Pública Expte. Nº 0733-011639/2026 “Acueducto Productivo para el Desarrollo Territorial de la zona Sur de Córdoba. Etapa I. (Dpto. Pte. Roque Sáenz Peña. Córdoba)”.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Saliba, Oscar Elias Mario"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

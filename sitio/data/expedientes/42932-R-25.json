@@ -2,6 +2,7 @@
  "numero": "42932/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los Programas Hacelo Girar, Pulmones Verdes, Aprende Circular, Guardianes de la Cuenca e Impulsa, relacionados a la gestión y tratamiento de residuos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre los Programas Hacelo Girar, Pulmones Verdes, Aprende Circular, Guardianes de la Cuenca e Impulsa, relacionados a la gestión y tratamiento de residuos.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

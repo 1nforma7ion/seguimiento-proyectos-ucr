@@ -2,6 +2,7 @@
  "numero": "41588/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grich y Gvozdenovich, prohibiendo la instalación y explotación de máquinas de juego \"Slots\" desde el 1 de enero de 2028, suspendiendo procesos licitatorios o de renovación existentes, promoviendo el cierre de salas de juego.",
+ "tema": "Prohibiendo la instalación y explotación de máquinas de juego \"Slots\" desde el 1 de enero de 2028, suspendiendo procesos licitatorios o de renovación existentes, promoviendo el cierre de salas de juego.",
  "autores": [
   "Grich, Ariel Denis",
   "Gvozdenovich, Matias Pablo"
@@ -21,7 +22,8 @@
    "fecha": "2025-12-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

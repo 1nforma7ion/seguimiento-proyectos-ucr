@@ -2,6 +2,7 @@
  "numero": "38832/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Briner, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Valiente, Nicolás, Luna, Saliba, Bría, Molina, Contrera, Carignano, Gispert, Gloria Pereyra, Rossi , Botta y Hernández Maqueda, estableciendo la Campaña Gratuita de Vacunación contra el Dengue en todo el territorio provincial.",
+ "tema": "Estableciendo la Campaña Gratuita de Vacunación contra el Dengue en todo el territorio provincial.",
  "autores": [
   "Briner, Carlos Edgardo",
   "Jaimes, Mauricio Sebastian",
@@ -37,7 +38,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

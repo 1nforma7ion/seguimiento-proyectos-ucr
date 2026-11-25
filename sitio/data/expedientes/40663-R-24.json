@@ -2,6 +2,7 @@
  "numero": "40663/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Bisotto, Sebastián Peralta, Bottasso, Contrera, Gudiño, Luna, Molina, Nicolás, Szpanin y Valiente, solicitando al Poder Ejecutivo que arbitre los medios necesarios para la repavimentación de la Ruta Provincial Nº 2 en el tramo que une la Ruta Nacional 158 hasta la localidad de Pampayasta.",
+ "tema": "Solicitando al Poder Ejecutivo que arbitre los medios necesarios para la repavimentación de la Ruta Provincial Nº 2 en el tramo que une la Ruta Nacional 158 hasta la localidad de Pampayasta.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bisotto, Graciela Maria",
@@ -28,7 +29,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

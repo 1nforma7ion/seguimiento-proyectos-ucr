@@ -2,6 +2,7 @@
  "numero": "43910/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Contrera y Almada, estableciendo el uso y colocación de pictogramas en espacios públicos y privados, con el objeto de facilitar la accesibilidad de información a personas con discapacidad.",
+ "tema": "Estableciendo el uso y colocación de pictogramas en espacios públicos y privados, con el objeto de facilitar la accesibilidad de información a personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith"
@@ -20,7 +21,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44998/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legislador Bottasso, Bría, Peirone, Carignano Contreras, declarando de interés provincial la práctica del Newcom como actividad física y deportiva en la provincia.",
+ "tema": "Declarando de interés provincial la práctica del Newcom como actividad física y deportiva en la provincia.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Bria, Jose Alberto",
@@ -23,7 +24,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47329/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Colonia Prosperidad, Dpto. San Justo, a celebrarse el día 8 de septiembre.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Colonia Prosperidad, Dpto. San Justo, a celebrarse el día 8 de septiembre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

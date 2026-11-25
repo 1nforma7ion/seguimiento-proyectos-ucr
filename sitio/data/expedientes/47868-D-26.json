@@ -2,6 +2,7 @@
  "numero": "47868/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Navarro Alegre, adhiriendo al Día Nacional de los Derechos de las Niñas, Niños y Adolescentes, a conmemorarse el 27 de septiembre.",
+ "tema": "Adhiriendo al Día Nacional de los Derechos de las Niñas, Niños y Adolescentes, a conmemorarse el 27 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Navarro Alegre, Veronica Fatima"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

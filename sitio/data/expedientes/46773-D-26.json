@@ -2,6 +2,7 @@
  "numero": "46773/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Acuña, Contrera, Jurich, Szpanin y Stella Peralta, reconociendo a la Escuela de Cuarteto Inclusivo de Córdoba por su propuesta artística y formativa.",
+ "tema": "Reconociendo a la Escuela de Cuarteto Inclusivo de Córdoba por su propuesta artística y formativa.",
  "autores": [
   "Acuña, Karen Belen",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

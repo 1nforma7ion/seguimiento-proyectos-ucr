@@ -2,6 +2,7 @@
  "numero": "38665/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera y Carignano, solicitando a los Legisladores Nacionales por Córdoba a interceder ante el Gobierno Nacional para lograr una reducción de los impuestos nacionales a las empresas productoras de útiles escolares, con el fin de disminuir el costo del material didáctico para los alumnos del nivel primario.",
+ "tema": "Solicitando a los Legisladores Nacionales por Córdoba a interceder ante el Gobierno Nacional para lograr una reducción de los impuestos nacionales a las empresas productoras de útiles escolares, con el fin de disminuir el costo del material didáctico para los alumnos del nivel primario.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -34,7 +35,8 @@
    "fecha": "2024-02-28",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42927/N/25",
  "tipo": "otros",
  "extracto": "Nota de los Legisladores Sala, Botta, Tamis, Gvozdenovich, Ferrero, Austin, Nostrala, Almada, Gispert, Juez, Martoccia, Peirone y Gloria Pereyra, solicitando que se convoque para la Sesión Especial del 10 de junio, a los Rectores de las Universidades Nacionales con sede en la provincia.",
+ "tema": "Solicitando que se convoque para la Sesión Especial del 10 de junio, a los Rectores de las Universidades Nacionales con sede en la provincia.",
  "autores": [
   "Sala, Ignacio Antonio",
   "Botta, Patricia Isabel",
@@ -28,7 +29,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

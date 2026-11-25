@@ -2,6 +2,7 @@
  "numero": "44889/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Nigro, Contrera, Jaimes, Valiente, Szpanin, Luna, Saliba, Carignano y Nicolás, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al Plan Cordobés de Radicación de Médicos en el Interior.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos al Plan Cordobés de Radicación de Médicos en el Interior.",
  "autores": [
   "Bria, Jose Alberto",
   "Nigro, Alfredo Mariano",
@@ -27,7 +28,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39592/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo a la 24° Fiesta nacional del Locro, a desarrollarse el día 7 de julio en la localidad de Los Romeros, Dpto. San Javier.",
+ "tema": "Adhiriendo a la 24° Fiesta nacional del Locro, a desarrollarse el día 7 de julio en la localidad de Los Romeros, Dpto. San Javier.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

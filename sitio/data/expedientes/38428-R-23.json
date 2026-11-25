@@ -2,6 +2,7 @@
  "numero": "38428/R/23",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Austin, Bisotto, Bría, Contrera, Carignano, Ferrero, Luna, Nicolás, Saliba y Szpanin, citando al Sr. Ministro de Economía y Gestión Pública, para que informe (Art. 101 C.P.) sobre las previsiones adoptadas por el Gobierno provincial ante la devaluación del dólar y la deuda pública.",
+ "tema": "Citando al Sr. Ministro de Economía y Gestión Pública, para que informe (Art. 101 C.P.) sobre las previsiones adoptadas por el Gobierno provincial ante la devaluación del dólar y la deuda pública.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Austin, Brenda Lis",
@@ -28,7 +29,8 @@
    "fecha": "2024-12-20",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

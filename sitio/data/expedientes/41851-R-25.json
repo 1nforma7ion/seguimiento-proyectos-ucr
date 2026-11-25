@@ -2,6 +2,7 @@
  "numero": "41851/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre las denuncias presentas en los últimos 5 años ante organismos estatales por presuntos hechos de violencia institucional cometidos por las fuerzas de seguridad de la provincia, incluída la Unidad de Contención del Aprehendido y otros establecimientos penitenciarios; medidas adoptadas y protocolos de actuación.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre las denuncias presentas en los últimos 5 años ante organismos estatales por presuntos hechos de violencia institucional cometidos por las fuerzas de seguridad de la provincia, incluída la Unidad de Contención del Aprehendido y otros establecimientos penitenciarios; medidas adoptadas y protocolos de actuación.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-01",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

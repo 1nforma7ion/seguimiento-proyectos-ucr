@@ -2,6 +2,7 @@
  "numero": "45396/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Nigro, Bottasso, Gvozdenovich, Bría, Jaimes, Molina, Saliba y Nicolás, solicitando al Poder Ejecutivo la asignación de móviles policiales para reforzar las tareas de prevención en la localidad de Bouwer, Dpto. Santa María; la restitución y puesta en funcionamiento del destacamento policial y que sea elevado al rango de \"subcomisaría\".",
+ "tema": "Solicitando al Poder Ejecutivo la asignación de móviles policiales para reforzar las tareas de prevención en la localidad de Bouwer, Dpto. Santa María; la restitución y puesta en funcionamiento del destacamento policial y que sea elevado al rango de \"subcomisaría\".",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -27,7 +28,8 @@
    "fecha": "2026-02-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

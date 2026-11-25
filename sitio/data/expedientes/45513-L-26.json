@@ -1,0 +1,125 @@
+{
+ "numero": "45513/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Limia, Szpanin y Bisotto, modificando la Ley Nº 10003, suspendiendo hasta el 31 de marzo de 2027 las ejecuciones de bienes inmuebles propiedad de las asociaciones civiles, clubes o entidades sin fines de lucro, cuyo objeto social sea la promoción, difusión o realización de prácticas deportivas, recreativas o comunitarias.",
+ "tema": "Modificando la Ley Nº 10003, suspendiendo hasta el 31 de marzo de 2027 las ejecuciones de bienes inmuebles propiedad de las asociaciones civiles, clubes o entidades sin fines de lucro, cuyo objeto social sea la promoción, difusión o realización de prácticas deportivas, recreativas o comunitarias.",
+ "autores": [
+  "Botta, Patricia Isabel",
+  "Limia, Luis Leonardo",
+  "Szpanin, Ariela Yanina",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Deportes",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-03-05",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-18",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 3 del Período 148"
+  },
+  {
+   "fecha": "2026-03-18",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 4 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 3 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 4 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-03-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Deportes · 23",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (3/18/2026)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11109",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=vIzy9GaMOUc="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45513%2FL%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "38728/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Jaimes, Bisotto, Szpanin, Ferrero, Nicolás, Briner, Contrera y Carignano, citando al Sr. Ministro de Infraestructura y Servicios Públicos para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la construcción del Centro de Desarrollo Infantil en la localidad de Isla Verde, Dpto. Marcos Juárez.",
+ "tema": "Citando al Sr. Ministro de Infraestructura y Servicios Públicos para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la construcción del Centro de Desarrollo Infantil en la localidad de Isla Verde, Dpto. Marcos Juárez.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Jaimes, Mauricio Sebastian",
@@ -27,7 +28,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

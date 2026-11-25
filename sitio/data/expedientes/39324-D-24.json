@@ -2,6 +2,7 @@
  "numero": "39324/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Bisotto, Szpanin, Gvozdenovich, Bottasso y Briner, adhiriendo al Día Nacional de los Jardines de Infantes y Día de la Maestra Jardinera, en memoria de Rosario Vera Peñaloza.",
+ "tema": "Adhiriendo al Día Nacional de los Jardines de Infantes y Día de la Maestra Jardinera, en memoria de Rosario Vera Peñaloza.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bisotto, Graciela Maria",
@@ -23,7 +24,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

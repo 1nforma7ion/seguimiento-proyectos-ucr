@@ -2,6 +2,7 @@
  "numero": "44174/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Bloque UCR, eliminando el Fuero Penal Económico y Anticorrupción, creado por la Ley Nº 8835; y sustituyendo el artículo 2º de la Ley Nº 9182, de Juicio por Jurados.",
+ "tema": "Eliminando el Fuero Penal Económico y Anticorrupción, creado por la Ley Nº 8835; y sustituyendo el artículo 2º de la Ley Nº 9182, de Juicio por Jurados.",
  "autores": [
   "Austin, Brenda Lis",
   "Bloque UCR"
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

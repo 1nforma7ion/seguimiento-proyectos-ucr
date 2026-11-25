@@ -2,6 +2,7 @@
  "numero": "40951/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso y los Bloques UCR y Frente Cívico de Córdoba, adhiriendo a la 69° Fiesta nacional del Maní, a desarrollarse del 8 al 10 de noviembre en la ciudad de Hernando, Dpto. Tercero Arriba.",
+ "tema": "Adhiriendo a la 69° Fiesta nacional del Maní, a desarrollarse del 8 al 10 de noviembre en la ciudad de Hernando, Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Bloque UCR",
@@ -20,7 +21,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44030/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Gudiño, Szpanin, Saliba, Luna, Molina, Ferrero, Contrera, Jaimes, Nicolás, Nigro, Córdoba Acosta, Heredia, Alesandri, Sebastián Peralta, Juez, Martoccia, Gispert, Romero y Bría, garantizando los derechos reconocidos de prevención y prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes, creando un mecanismo Local al efecto en el marco de la Ley Nacional Nº 26827.",
+ "tema": "Garantizando los derechos reconocidos de prevención y prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes, creando un mecanismo Local al efecto en el marco de la Ley Nacional Nº 26827.",
  "autores": [
   "Austin, Brenda Lis",
   "Gudiño, Daniela Soledad",
@@ -39,7 +40,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

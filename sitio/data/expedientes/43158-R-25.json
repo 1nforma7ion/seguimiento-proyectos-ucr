@@ -2,6 +2,7 @@
  "numero": "43158/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Gvozdenovich, Ferrero, Austin, Contrera, Nigro, Nicolás, Molina, Saliba, Grich, Carignano, Jaimes, Bottasso, Bría y Luna, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la detención del jefe de la Policía Caminera y los demás integrantes de dicha fuerza, detallando medidas adoptadas y responsabilidades políticas que pudieran corresponder.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la detención del jefe de la Policía Caminera y los demás integrantes de dicha fuerza, detallando medidas adoptadas y responsabilidades políticas que pudieran corresponder.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Gvozdenovich, Matias Pablo",
@@ -32,7 +33,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

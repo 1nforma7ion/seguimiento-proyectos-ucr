@@ -2,6 +2,7 @@
  "numero": "41795/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre hechos de inseguridad registrados en la ciudad de Córdoba, especialmente en los barrios Güemes, Nueva Córdoba y Ciudad Universitaria, detallando las zonas designadas como rojas, y las tareas de la FPA.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre hechos de inseguridad registrados en la ciudad de Córdoba, especialmente en los barrios Güemes, Nueva Córdoba y Ciudad Universitaria, detallando las zonas designadas como rojas, y las tareas de la FPA.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

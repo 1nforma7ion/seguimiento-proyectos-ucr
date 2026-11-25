@@ -2,6 +2,7 @@
  "numero": "38412/L/23",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero, Gvozdenovich, Szpanin, Bisotto, Gudiño, Rossi y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba, Coalición Cívica ARI y Juntos por el Interior, modificando los artículos 6, 9, 46, 49, 51, 58 y 59 de la Ley N° 8024, Régimen de Jubilaciones, Pensiones y Retiros de la provincia; y derogando los artículos 29, 32, 33 y 35 de la Ley N° 10694, de Fortalecimiento del Sistema Previsional, y el artículo 63 de la Ley N° 10928, Código Tributario 2024.",
+ "tema": "Modificando los artículos 6, 9, 46, 49, 51, 58 y 59 de la Ley N° 8024, Régimen de Jubilaciones, Pensiones y Retiros de la provincia; y derogando los artículos 29, 32, 33 y 35 de la Ley N° 10694, de Fortalecimiento del Sistema Previsional, y el artículo 63 de la Ley N° 10928, Código Tributario 2024.",
  "autores": [
   "Ferrero, Alejandra",
   "Gvozdenovich, Matias Pablo",
@@ -25,7 +26,8 @@
    "fecha": "2024-12-18",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

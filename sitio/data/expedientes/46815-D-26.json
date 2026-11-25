@@ -2,6 +2,7 @@
  "numero": "46815/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Botta, expresando beneplácito al tenista cordobés Nicolás Argüello, por la obtención de dos medallas de plata en los Down Syndrome World Championships, Bulgaria 2026.",
+ "tema": "Expresando beneplácito al tenista cordobés Nicolás Argüello, por la obtención de dos medallas de plata en los Down Syndrome World Championships, Bulgaria 2026.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Botta, Patricia Isabel"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

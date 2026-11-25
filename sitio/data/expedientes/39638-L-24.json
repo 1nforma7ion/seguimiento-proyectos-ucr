@@ -1,0 +1,245 @@
+{
+ "numero": "39638/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Szpanin, modificando el artículo 3° de la Ley N° 10823, adhesión a la Ley Nacional Nº 27621, de Implementación de la Educación Ambiental Integral en la República Argentina, estableciendo que las autoridades de aplicación implementarán acciones de educación y gestión en concordancia con las Leyes Nros. 10208, ley Provincial Ambiental, 10463, ley provincial de Riesgo de Desastre y 8906, ley Provincial de Defensa Civil.",
+ "tema": "Modificando el artículo 3° de la Ley N° 10823, adhesión a la Ley Nacional Nº 27621, de Implementación de la Educación Ambiental Integral en la República Argentina, estableciendo que las autoridades de aplicación implementarán acciones de educación y gestión en concordancia con las Leyes Nros. 10208, ley Provincial Ambiental, 10463, ley provincial de Riesgo de Desastre y 8906, ley Provincial de Defensa Civil.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Seguridad",
+  "Educación",
+  "Ambiente y Recursos Renovables"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-06-26",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-06-26",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": "2024-06-26",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 9 del Período 146"
+  },
+  {
+   "fecha": "2025-06-26",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  },
+  {
+   "fecha": "2026-08-05",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 12 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 9 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-06-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-06-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 12 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-05"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Seguridad · 23",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39638%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

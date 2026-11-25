@@ -2,6 +2,7 @@
  "numero": "38695/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Nigro, Gvozdenovich, Austin, Briner, Bisotto, Bottasso, Bría, Carignano, Contrera, Ferrero, Grich, Gudiño, Jaimes, Molina, Nicolás, Szpanin y Valiente, reconociendo la memoria del exgobernador de la provincia, Dr. Amadeo Sabattini, al conmemorarse el 64º aniversario de su fallecimiento el 29 de febrero.",
+ "tema": "Reconociendo la memoria del exgobernador de la provincia, Dr. Amadeo Sabattini, al conmemorarse el 64º aniversario de su fallecimiento el 29 de febrero.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Gvozdenovich, Matias Pablo",
@@ -34,7 +35,8 @@
    "fecha": "2024-02-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

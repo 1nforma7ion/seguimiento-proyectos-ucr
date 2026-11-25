@@ -2,6 +2,7 @@
  "numero": "43979/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo a los hermanos Clara Toutain y Adolfo José Toutain, arpista y violonchelista, respectivamente, destacándolos como impulsores y fundadores de la Orquesta Sinfónica de Córdoba.",
+ "tema": "Reconociendo a los hermanos Clara Toutain y Adolfo José Toutain, arpista y violonchelista, respectivamente, destacándolos como impulsores y fundadores de la Orquesta Sinfónica de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

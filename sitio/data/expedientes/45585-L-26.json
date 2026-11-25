@@ -2,6 +2,7 @@
  "numero": "45585/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Agost Carreño y Contrera, modificando la Ley N° 9848, de Protección de la Salud Mental, creando el Órgano de Revisión de Salud Mental, en cumplimiento de lo dispuesto por la Ley Nacional N° 26657.",
+ "tema": "Modificando la Ley N° 9848, de Protección de la Salud Mental, creando el Órgano de Revisión de Salud Mental, en cumplimiento de lo dispuesto por la Ley Nacional N° 26657.",
  "autores": [
   "Austin, Brenda Lis",
   "Agost Carreño, Oscar",
@@ -22,7 +23,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43425/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Stella Peralta, Acevedo y Contrera, declarando de Interés Legislativo el Seminario Internacional \"(Con)vivir\" en clave de derechos de infancias y adolescencias, a desarrollarse el 7 de agosto en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo el Seminario Internacional \"(Con)vivir\" en clave de derechos de infancias y adolescencias, a desarrollarse el 7 de agosto en la ciudad de Córdoba.",
  "autores": [
   "Peralta, Stella Maris",
   "Acevedo, Maria Del Rosario",
@@ -20,7 +21,8 @@
    "fecha": "2025-07-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

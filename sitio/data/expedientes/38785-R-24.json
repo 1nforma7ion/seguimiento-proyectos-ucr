@@ -2,6 +2,7 @@
  "numero": "38785/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Nostrala, Martoccia, Gloria Pereyra, Almada, Peirone, Jaimes, Bissotto, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bria, Contrera, Contrera, Carignano, Botta, Rossi y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la construcción de escuelas PROA.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la construcción de escuelas PROA.",
  "autores": [
   "Gispert, Walter Oscar",
   "Nostrala, Walter Norberto",
@@ -42,7 +43,8 @@
    "fecha": "2024-07-24",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

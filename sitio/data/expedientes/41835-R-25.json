@@ -2,6 +2,7 @@
  "numero": "41835/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich y Nostrala, solicitando al Poder Ejecutivo que contemple la propuesta realizada por la Asamblea de la Sociedad Rural de Río Cuarto, en lo referido a los montos del Impuesto Inmobiliario Rural.",
+ "tema": "Solicitando al Poder Ejecutivo que contemple la propuesta realizada por la Asamblea de la Sociedad Rural de Río Cuarto, en lo referido a los montos del Impuesto Inmobiliario Rural.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Nostrala, Walter Norberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

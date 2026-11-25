@@ -2,6 +2,7 @@
  "numero": "46152/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ovejeros y Contrera, estableciendo normas obligatorias de seguridad en la instalación, uso y mantenimiento de arcos de fútbol, arcos de handball y estructuras deportivas análogas en todos los establecimientos educativos de gestión pública y privada, de todos los niveles y modalidades.",
+ "tema": "Estableciendo normas obligatorias de seguridad en la instalación, uso y mantenimiento de arcos de fútbol, arcos de handball y estructuras deportivas análogas en todos los establecimientos educativos de gestión pública y privada, de todos los niveles y modalidades.",
  "autores": [
   "Ovejeros, Pablo Cesar",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

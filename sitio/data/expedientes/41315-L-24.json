@@ -2,6 +2,7 @@
  "numero": "41315/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Torres Lima, Nigro, Busso, Knipscheer, Tévez, Ferrero, Austin, Lorenzo, Nicolás, Saliba, Rinaldi, Galo, Sosa, Limia, Quaglino, Rossi, Gudiño. Martoccia, Nostrala y los Bloques PRO, Córdoba y Mejor Futuro, modificando diversos artículos y textos de la Ley N° 9459, Código arancelario para abogados y procuradores.",
+ "tema": "Modificando diversos artículos y textos de la Ley N° 9459, Código arancelario para abogados y procuradores.",
  "autores": [
   "Torres Lima, Facundo",
   "Nigro, Alfredo Mariano",
@@ -40,7 +41,8 @@
    "fecha": "2025-07-28",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

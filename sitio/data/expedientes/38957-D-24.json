@@ -2,6 +2,7 @@
  "numero": "38957/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, adhiriendo al 110º aniversario de la Escuela Bernardino Rivadavia de la ciudad de Hernando, Dpto. Tercero Arriba.",
+ "tema": "Adhiriendo al 110º aniversario de la Escuela Bernardino Rivadavia de la ciudad de Hernando, Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-04-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

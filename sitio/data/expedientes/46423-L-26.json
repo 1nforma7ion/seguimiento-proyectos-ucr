@@ -2,6 +2,7 @@
  "numero": "46423/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Bottasso, Carignano, Ferrero, Contrera, Nigro, Szpanin, Jaimes, Saliba, Bría y Gvozdenovich, transparentando el ingreso de agentes al sector público provincial, fortaleciendo la sostenibilidad financiera de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba.",
+ "tema": "Transparentando el ingreso de agentes al sector público provincial, fortaleciendo la sostenibilidad financiera de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba.",
  "autores": [
   "Austin, Brenda Lis",
   "Bottasso, Gustavo Armando",
@@ -30,7 +31,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47749/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, declarando de Interés Legislativo a la 4ª Women in Data Science (WiDS) Worldwide - Chapter Córdoba, a desarrollarse los días 3 y 4 de noviembre en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo a la 4ª Women in Data Science (WiDS) Worldwide - Chapter Córdoba, a desarrollarse los días 3 y 4 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

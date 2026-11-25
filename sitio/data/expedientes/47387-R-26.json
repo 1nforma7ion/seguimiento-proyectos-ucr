@@ -2,6 +2,7 @@
  "numero": "47387/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero y Gispert, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la ejecución y costo final estimado de la Autovía Alternativa a la Ruta Nacional Nº 38.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la ejecución y costo final estimado de la Autovía Alternativa a la Ruta Nacional Nº 38.",
  "autores": [
   "Ferrero, Alejandra",
   "Gispert, Walter Oscar"
@@ -19,7 +20,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

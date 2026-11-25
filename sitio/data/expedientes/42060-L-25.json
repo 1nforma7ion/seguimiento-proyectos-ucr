@@ -1,0 +1,107 @@
+{
+ "numero": "42060/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Luna, derogando el Inc. 5 del art. 3º de la Ley Nº 10928, Código Tributario, el art. 30 bis de la Ley Nº 10679, de creación del FODEP y el Decreto Nº 40/2022, todos referidos a la alícuota por los servicios de provisión, distribución, transporte y peaje de energía eléctrica.",
+ "tema": "Derogando el Inc. 5 del art. 3º de la Ley Nº 10928, Código Tributario, el art. 30 bis de la Ley Nº 10679, de creación del FODEP y el Decreto Nº 40/2022, todos referidos a la alícuota por los servicios de provisión, distribución, transporte y peaje de energía eléctrica.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos",
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-03-19",
+  "ultimo_movimiento": {
+   "fecha": "2026-03-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": "2026-03-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-03-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-03-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-03-19"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=42060%2FL%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

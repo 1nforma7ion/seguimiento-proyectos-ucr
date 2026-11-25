@@ -2,6 +2,7 @@
  "numero": "42072/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la compra de uniformes al Sr. Martínez Godoy Facundo Saul, de la localidad de San Marcos Sud, Dpto. Unión.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la compra de uniformes al Sr. Martínez Godoy Facundo Saul, de la localidad de San Marcos Sud, Dpto. Unión.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

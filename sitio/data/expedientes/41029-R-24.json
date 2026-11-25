@@ -2,6 +2,7 @@
  "numero": "41029/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Bría, Luna, Contrera, Jaimes, Gudiño, Valiente y Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre protocolos y recursos de los procesos de revinculación familiar en los cuales interviene la Secretaría de Niñez, Adolescencia y Familia (SeNAF), en particular respecto del caso Aralí Vivas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre protocolos y recursos de los procesos de revinculación familiar en los cuales interviene la Secretaría de Niñez, Adolescencia y Familia (SeNAF), en particular respecto del caso Aralí Vivas.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bria, Jose Alberto",
@@ -25,7 +26,8 @@
    "fecha": "2025-12-23",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-23"
+  "caduca_el": "2026-12-23",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

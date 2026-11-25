@@ -2,6 +2,7 @@
  "numero": "43784/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Córdoba Acosta, Austin y Szpanin, creando el Sistema Provincial de Gestión de Colillas de Cigarrillo, teniendo por objeto prevenir la contaminación de suelos y cuerpos de agua, reducir basura dispersa en espacios públicos y mitigar riesgos de incendios.",
+ "tema": "Creando el Sistema Provincial de Gestión de Colillas de Cigarrillo, teniendo por objeto prevenir la contaminación de suelos y cuerpos de agua, reducir basura dispersa en espacios públicos y mitigar riesgos de incendios.",
  "autores": [
   "Cordoba Acosta, Maria Constanza",
   "Austin, Brenda Lis",
@@ -21,7 +22,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

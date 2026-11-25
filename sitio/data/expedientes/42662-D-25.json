@@ -2,6 +2,7 @@
  "numero": "42662/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Almada y Jaimes, adhiriendo al Día mundial del Acogimiento Familiar, a celebrarse el día 31 de mayo.",
+ "tema": "Adhiriendo al Día mundial del Acogimiento Familiar, a celebrarse el día 31 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith",
@@ -20,7 +21,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

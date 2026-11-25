@@ -2,6 +2,7 @@
  "numero": "41007/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Szpanin y Martoccia y el Bloque Frente Cívico de Córdoba, expresando pesar por el fallecimiento de Mirta Acuña de Baravalle, referente de los Derechos Humanos y una de las fundadoras de Madres de Plaza de Mayo.",
+ "tema": "Expresando pesar por el fallecimiento de Mirta Acuña de Baravalle, referente de los Derechos Humanos y una de las fundadoras de Madres de Plaza de Mayo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

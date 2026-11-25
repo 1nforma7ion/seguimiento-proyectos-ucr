@@ -2,6 +2,7 @@
  "numero": "48517/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Molina y el Bloque Unión Cívica Radical, expresando beneplácito por la elección del periodista Carlos Jornet, Director Periodístico del diario La Voz del Interior, como Presidente de la Sociedad Interamericana de Prensa.",
+ "tema": "Expresando beneplácito por la elección del periodista Carlos Jornet, Director Periodístico del diario La Voz del Interior, como Presidente de la Sociedad Interamericana de Prensa.",
  "autores": [
   "Molina, Victor Eduardo",
   "Ferrero, Alejandra",
@@ -35,7 +36,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

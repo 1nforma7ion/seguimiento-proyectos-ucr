@@ -2,6 +2,7 @@
  "numero": "44478/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Austin y Contrera, reconociendo como Visitante Ilustre de la provincia a la Dra. Roberta Clarke, actual Comisionada y Relatora sobre los Derechos de las Mujeres en la Comisión Interamericana de Derechos Humanos.",
+ "tema": "Reconociendo como Visitante Ilustre de la provincia a la Dra. Roberta Clarke, actual Comisionada y Relatora sobre los Derechos de las Mujeres en la Comisión Interamericana de Derechos Humanos.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

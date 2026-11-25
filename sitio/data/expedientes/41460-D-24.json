@@ -2,6 +2,7 @@
  "numero": "41460/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, expresando beneplácito por la obtención del Campeonato Panamericano de Pádel, por parte de las deportistas Lorena Garnero y Aldana Bambicha, el pasado 8 de diciembre en la ciudad de Mar del Plata.",
+ "tema": "Expresando beneplácito por la obtención del Campeonato Panamericano de Pádel, por parte de las deportistas Lorena Garnero y Aldana Bambicha, el pasado 8 de diciembre en la ciudad de Mar del Plata.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

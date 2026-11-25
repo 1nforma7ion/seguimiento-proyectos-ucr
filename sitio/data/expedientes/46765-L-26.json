@@ -2,6 +2,7 @@
  "numero": "46765/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Jaimes, Ferrero, Nigro, Valiente, Nicolás, Saliba, Grich, Bottasso, Molina, Contrera y Grosso, instituyendo la “Semana Provincial de la Salud Mental”, a celebrarse anualmente durante la semana que comprende el 10 de octubre, en consonancia con el Día Mundial de la Salud Mental.",
+ "tema": "Instituyendo la “Semana Provincial de la Salud Mental”, a celebrarse anualmente durante la semana que comprende el 10 de octubre, en consonancia con el Día Mundial de la Salud Mental.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

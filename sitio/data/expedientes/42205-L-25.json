@@ -2,6 +2,7 @@
  "numero": "42205/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, disponiendo que en el incremento del Impuesto Inmobiliario Rural se tome como referencia para el año 2025 el Índice de Precios al Consumidor (IPC) como el porcentaje máximo permitido, promoviendo la incorporación de dos Legisladores al Directorio del Fideicomiso para el Desarrollo Agropecuario.",
+ "tema": "Disponiendo que en el incremento del Impuesto Inmobiliario Rural se tome como referencia para el año 2025 el Índice de Precios al Consumidor (IPC) como el porcentaje máximo permitido, promoviendo la incorporación de dos Legisladores al Directorio del Fideicomiso para el Desarrollo Agropecuario.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

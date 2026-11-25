@@ -2,6 +2,7 @@
  "numero": "45944/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Saliba, Bría, Nigro, Carignano y Valiente, garantizando el ascenso y descenso prioritario de estudiantes con discapacidad, disponiendo un espacio exclusivo en los establecimientos educativos de todos los niveles y modalidades de gestión pública y privada.",
+ "tema": "Garantizando el ascenso y descenso prioritario de estudiantes con discapacidad, disponiendo un espacio exclusivo en los establecimientos educativos de todos los niveles y modalidades de gestión pública y privada.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

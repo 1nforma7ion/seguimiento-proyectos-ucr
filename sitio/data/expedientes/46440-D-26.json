@@ -2,6 +2,7 @@
  "numero": "46440/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Quaglino y Bría, expresando beneplácito por la realización del 8º Congreso Argentino de Otorrinolaringología y Especialidades Conexas, a desarrollarse del 14 al 16 de agosto en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la realización del 8º Congreso Argentino de Otorrinolaringología y Especialidades Conexas, a desarrollarse del 14 al 16 de agosto en la ciudad de Córdoba.",
  "autores": [
   "Quaglino, Ileana",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

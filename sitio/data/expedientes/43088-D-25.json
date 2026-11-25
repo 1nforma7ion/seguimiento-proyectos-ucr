@@ -2,6 +2,7 @@
  "numero": "43088/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Austin y Bisotto, reconociendo a la Universidad Nacional de Córdoba, por integrar el top 10 del ranking latinoamericano 2025, siendo un hito para la educación pública en nuestra provincia y país.",
+ "tema": "Reconociendo a la Universidad Nacional de Córdoba, por integrar el top 10 del ranking latinoamericano 2025, siendo un hito para la educación pública en nuestra provincia y país.",
  "autores": [
   "Austin, Brenda Lis",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

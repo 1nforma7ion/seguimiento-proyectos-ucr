@@ -2,6 +2,7 @@
  "numero": "42209/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre las negociaciones que desarrolla con el Gobierno Nacional para la adquisición de la Fábrica Argentina de Aviones (FAdeA).",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre las negociaciones que desarrolla con el Gobierno Nacional para la adquisición de la Fábrica Argentina de Aviones (FAdeA).",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

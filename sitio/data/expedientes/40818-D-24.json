@@ -2,6 +2,7 @@
  "numero": "40818/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Gloria Pereyra, Presas, Suárez, Frias, Acevedo, Tévez, Quaglino, Blangino, Torres Lima, Heredia, Rébora, Romero, Russo, Acuña, Jurich, Stella Peralta, Jaimes, Szpanin, Ferrero, Valiente, Gudiño, Nicolás, Saliba, Briner, Molina, Bría, Contrera, Carignano, Botta, Sala, Rossi, Alesandri, Bruno, Hernández Maqueda y Bisotto, reconociendo a la Fundación Amazonas por su labor con mujeres operadas de cáncer de mama.",
+ "tema": "Reconociendo a la Fundación Amazonas por su labor con mujeres operadas de cáncer de mama.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -54,7 +55,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42449/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gvozdenovich y Carignano, expresando beneplácito al deportista profesional Gastón Alejandro Medina, oriundo de la localidad de Arias, primer cordobés en cruzar el Río de la Plata el pasado 25 de marzo.",
+ "tema": "Expresando beneplácito al deportista profesional Gastón Alejandro Medina, oriundo de la localidad de Arias, primer cordobés en cruzar el Río de la Plata el pasado 25 de marzo.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

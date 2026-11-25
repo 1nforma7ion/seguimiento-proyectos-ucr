@@ -2,6 +2,7 @@
  "numero": "46499/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por el 337º aniversario de la localidad de Punta del Agua, Dpto. Tercero Arriba.",
+ "tema": "Expresando beneplácito por el 337º aniversario de la localidad de Punta del Agua, Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

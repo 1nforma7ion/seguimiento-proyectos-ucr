@@ -2,6 +2,7 @@
  "numero": "42642/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Szpanin, Gvozdenovich y Contrera, rechazando la represión policial sufrida por el Sindicato de Empleados Públicos, en la manifestación del día 14 de mayo.",
+ "tema": "Rechazando la represión policial sufrida por el Sindicato de Empleados Públicos, en la manifestación del día 14 de mayo.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

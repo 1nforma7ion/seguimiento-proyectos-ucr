@@ -2,6 +2,7 @@
  "numero": "45531/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba y Contrera, modificando la Ley Nº 7741, Defensor del Pueblo, referido a funciones y atribuciones.",
+ "tema": "Modificando la Ley Nº 7741, Defensor del Pueblo, referido a funciones y atribuciones.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

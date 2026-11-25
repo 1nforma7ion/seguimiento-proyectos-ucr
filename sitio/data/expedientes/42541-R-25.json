@@ -2,6 +2,7 @@
  "numero": "42541/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la contratación del Servicio de Alojamiento destinado a Víctimas de Violencia de Género, Expte. Nº 0727-057645/2025.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados a la contratación del Servicio de Alojamiento destinado a Víctimas de Violencia de Género, Expte. Nº 0727-057645/2025.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-13",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

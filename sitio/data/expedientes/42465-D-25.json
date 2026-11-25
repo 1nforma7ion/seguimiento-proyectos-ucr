@@ -2,6 +2,7 @@
  "numero": "42465/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Szpanin, Ferrero, Gvozdenovich y Grich, reconociendo la labor artística y creativa de Gustavo Emanuel Simes, joven historietista de la localidad de Villa Giardino, Dpto. Punilla.",
+ "tema": "Reconociendo la labor artística y creativa de Gustavo Emanuel Simes, joven historietista de la localidad de Villa Giardino, Dpto. Punilla.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Szpanin, Ariela Yanina",
@@ -22,7 +23,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

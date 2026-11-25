@@ -2,6 +2,7 @@
  "numero": "46017/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el proceso y estado de regularización dominial en que se encuentran los beneficiarios del Programa Hogar Clase Media Marqués de Sobremonte, de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el proceso y estado de regularización dominial en que se encuentran los beneficiarios del Programa Hogar Clase Media Marqués de Sobremonte, de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

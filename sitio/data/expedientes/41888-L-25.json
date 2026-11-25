@@ -2,6 +2,7 @@
  "numero": "41888/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, disolviendo el Tribunal de Conducta Policial de la provincia, creando una Secretaría de Transición con un plazo de 6 meses para la resolución urgente de todas las causas pendientes.",
+ "tema": "Disolviendo el Tribunal de Conducta Policial de la provincia, creando una Secretaría de Transición con un plazo de 6 meses para la resolución urgente de todas las causas pendientes.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

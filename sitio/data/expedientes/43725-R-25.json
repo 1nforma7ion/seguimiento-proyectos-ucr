@@ -2,6 +2,7 @@
  "numero": "43725/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Contrera, Ferrero, Szpanin, Gispert y Martoccia, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el gasto administrativo destinado a la rehabilitación y mantenimiento de rutas, remitiendo balances de los últimos tres años de Caminos de las Sierras S.A.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el gasto administrativo destinado a la rehabilitación y mantenimiento de rutas, remitiendo balances de los últimos tres años de Caminos de las Sierras S.A.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Contrera, Ines Mercedes",
@@ -23,7 +24,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

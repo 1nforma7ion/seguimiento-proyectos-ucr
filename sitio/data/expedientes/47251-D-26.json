@@ -2,6 +2,7 @@
  "numero": "47251/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Llamosas, Grich y Soardo, expresando beneplácito por la presentación del libro \"\"El Cementerio San Pedro - Tierra Sagrada - Historia de la Necrópolis de Elena\", del Lic. Miguel Ángel Tréspidi, a desarrollarse el día 13 de agosto en la localidad de Elena; Dpto. Río Cuarto.",
+ "tema": "Expresando beneplácito por la presentación del libro \"\"El Cementerio San Pedro - Tierra Sagrada - Historia de la Necrópolis de Elena\", del Lic. Miguel Ángel Tréspidi, a desarrollarse el día 13 de agosto en la localidad de Elena; Dpto. Río Cuarto.",
  "autores": [
   "Llamosas, Juan Manuel",
   "Grich, Ariel Denis",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

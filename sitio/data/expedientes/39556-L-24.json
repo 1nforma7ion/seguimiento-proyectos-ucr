@@ -2,6 +2,7 @@
  "numero": "39556/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Hernández Maqueda y Ferrero, modificando la Ley N° 8435, Orgánica del Poder Judicial, estableciendo a futuro un límite de edad para la duración del mandato de los jueces.",
+ "tema": "Modificando la Ley N° 8435, Orgánica del Poder Judicial, estableciendo a futuro un límite de edad para la duración del mandato de los jueces.",
  "autores": [
   "Austin, Brenda Lis",
   "Hernandez Maqueda, Gregorio",
@@ -21,7 +22,8 @@
    "fecha": "2025-06-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41203/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Almada, Bría, Carignano, Jurich, Cristina Pereyra, Romero, Navarro Alegre, Peirone, Suárez y Bisotto, expresando preocupación por las medidas económicas de recorte implementadas por el Gobierno Nacional, que afectan la atención de las personas con discapacidad.",
+ "tema": "Expresando preocupación por las medidas económicas de recorte implementadas por el Gobierno Nacional, que afectan la atención de las personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith",
@@ -28,7 +29,8 @@
    "fecha": "2024-11-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

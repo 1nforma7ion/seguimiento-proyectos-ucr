@@ -2,6 +2,7 @@
  "numero": "44913/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, estableciendo que la existencia de deuda alimentaria firme, líquida y exigible, ya sea por sentencia judicial, auto o resolución judicial y/u homologación entre las partes, producirá la exclusión automática del acceso o mantenimiento de bonificaciones, exenciones, descuentos, reducciones, incentivos o cualquier tratamiento preferencial en tributos provinciales.",
+ "tema": "Estableciendo que la existencia de deuda alimentaria firme, líquida y exigible, ya sea por sentencia judicial, auto o resolución judicial y/u homologación entre las partes, producirá la exclusión automática del acceso o mantenimiento de bonificaciones, exenciones, descuentos, reducciones, incentivos o cualquier tratamiento preferencial en tributos provinciales.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2025-12-11",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-11"
+  "caduca_el": "2026-12-11",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

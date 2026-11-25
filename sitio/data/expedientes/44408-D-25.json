@@ -2,6 +2,7 @@
  "numero": "44408/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Almada y Contrera, reconociendo a la Sra. Susana “Coqui” Dutto por su trayectoria artística y cultural y por la obtención del Premio Martín Fierro Federal 2025 al Mejor Programa Infantil con su ciclo radial “Me extraña, araña”, emitido por Radio Universidad Nacional de Córdoba.",
+ "tema": "Reconociendo a la Sra. Susana “Coqui” Dutto por su trayectoria artística y cultural y por la obtención del Premio Martín Fierro Federal 2025 al Mejor Programa Infantil con su ciclo radial “Me extraña, araña”, emitido por Radio Universidad Nacional de Córdoba.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

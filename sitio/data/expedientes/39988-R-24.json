@@ -2,6 +2,7 @@
  "numero": "39988/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a los hechos ocurridos el pasado 28 de junio en la Ruta Nacional Nº 8 que involucró a dos agentes de la policía y respecto a políticas de formación de los agentes de la Policía Caminera.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a los hechos ocurridos el pasado 28 de junio en la Ruta Nacional Nº 8 que involucró a dos agentes de la policía y respecto a políticas de formación de los agentes de la Policía Caminera.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-10-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

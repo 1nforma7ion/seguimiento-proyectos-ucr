@@ -2,6 +2,7 @@
  "numero": "38989/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Jaimes, Bisotto, Austin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Luna, Briner, Bría, Molina y Contrera, solicitando al Poder Ejecutivo disponga en el lapso de 48 horas la conformación del Comité de Seguimiento conforme el artículo 3º de la Ley Nº 9666 y su modificatoria Ley Nº 10338 -Aprobación del Plan Director de Lucha contra el Dengue-; instando a la provisión de repelentes y vacunas a la población en general y de riesgo en particular.",
+ "tema": "Solicitando al Poder Ejecutivo disponga en el lapso de 48 horas la conformación del Comité de Seguimiento conforme el artículo 3º de la Ley Nº 9666 y su modificatoria Ley Nº 10338 -Aprobación del Plan Director de Lucha contra el Dengue-; instando a la provisión de repelentes y vacunas a la población en general y de riesgo en particular.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

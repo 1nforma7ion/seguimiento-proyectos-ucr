@@ -2,6 +2,7 @@
  "numero": "39823/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría, Valiente, Szpanin, Ferrero, Gudiño, Bisotto, Jaimes, Luna, Saliba, Bottasso, Contrera y Tévez, expresando beneplácito por la 1° Fiesta del Comercio y la Hotelería, desarrollada el día 21 de julio en la localidad de Miramar, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por la 1° Fiesta del Comercio y la Hotelería, desarrollada el día 21 de julio en la localidad de Miramar, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto",
   "Valiente, Lucas German",
@@ -29,7 +30,8 @@
    "fecha": "2024-07-24",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

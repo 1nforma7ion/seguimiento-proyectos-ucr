@@ -1,0 +1,111 @@
+{
+ "numero": "41760/R/25",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por la Legisladora Szpanin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a atropellamientos de fauna silvestre en las rutas provinciales .",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a atropellamientos de fauna silvestre en las rutas provinciales .",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Ambiente y Recursos Renovables"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-02-19",
+  "ultimo_movimiento": {
+   "fecha": "2025-04-30",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2025-02-19",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 2 del Período 147"
+  },
+  {
+   "fecha": "2025-04-30",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 7 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por acuerdo de los bloques",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 2 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 7 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-04-30"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Acuerdo De Los Bloques",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Ambiente y Recursos Renovables · 10",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41760%2FR%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

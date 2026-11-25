@@ -1,0 +1,91 @@
+{
+ "numero": "48708/N/26",
+ "tipo": "otros",
+ "extracto": "Nota del Legislador Saliba, solicitando la rehabilitación, en virtud de lo establecido por el art. 111 del R.I., de los proyectos Nros. 39063/R/24, 39401/R/24, 40159/R/24, 42375/R/25, 43835/L/25 y 44282/L/25.",
+ "tema": "Solicitando la rehabilitación, en virtud de lo establecido por el art. 111 del R.I., de los proyectos Nros. 39063/R/24, 39401/R/24, 40159/R/24, 42375/R/25, 43835/L/25 y 44282/L/25.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2026-11-18",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-18",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por acuerdo de los bloques",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Acuerdo De Los Bloques",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48708%2FN%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

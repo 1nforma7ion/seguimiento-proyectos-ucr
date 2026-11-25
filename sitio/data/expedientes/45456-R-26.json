@@ -2,6 +2,7 @@
  "numero": "45456/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Jaimes, Szpanin, Nigro, Nicolás, Bría, Contrera y Bisotto, instruyendo a los Senadores Nacionales por Córdoba (art. 104, inc. 5 de C.P.) para que insten al Gobierno Nacional a disponer la reparación, mantenimiento y puesta en condiciones de la Autopista Nacional Córdoba-Rosario, en el tramo entre la ciudad de Pilar y el límite interprovincial con la provincia de Santa Fe.",
+ "tema": "Instruyendo a los Senadores Nacionales por Córdoba (art. 104, inc. 5 de C.P.) para que insten al Gobierno Nacional a disponer la reparación, mantenimiento y puesta en condiciones de la Autopista Nacional Córdoba-Rosario, en el tramo entre la ciudad de Pilar y el límite interprovincial con la provincia de Santa Fe.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Jaimes, Mauricio Sebastian",
@@ -25,7 +26,8 @@
    "fecha": "2026-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

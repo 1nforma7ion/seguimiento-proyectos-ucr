@@ -2,6 +2,7 @@
  "numero": "41145/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Valiente, Szpanin, Nigro, Gvozdenovich, Ferrero, Gudiño, Bisotto, Grich, Bottasso, Bría, Contrera, Carignano, Martoccia, Nostrala y Almada, modificando los artículos 53 y 54 inc. 1) de la Ley N° 9571, Código electoral, eliminando la opción o el tramo \"voto lista completa\".",
+ "tema": "Modificando los artículos 53 y 54 inc. 1) de la Ley N° 9571, Código electoral, eliminando la opción o el tramo \"voto lista completa\".",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Valiente, Lucas German",
@@ -34,7 +35,8 @@
    "fecha": "2025-12-17",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-17"
+  "caduca_el": "2026-12-17",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

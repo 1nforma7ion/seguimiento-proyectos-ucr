@@ -2,6 +2,7 @@
  "numero": "48405/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la ejecución presupuestaria de los Programas Educativos Foet, Infraestructura Escuelas, Infod y Fortec@Cba durante el ejercicio 2026.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la ejecución presupuestaria de los Programas Educativos Foet, Infraestructura Escuelas, Infod y Fortec@Cba durante el ejercicio 2026.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

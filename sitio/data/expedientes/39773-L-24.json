@@ -2,6 +2,7 @@
  "numero": "39773/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gvozdenovich, Szpanin, Ferrero, Gudiño, Nicolás, Saliba, Bría, Contrera, Juez y Gloria Pereyra, derogando la Ley N° 10793, que regula el juego en línea en la provincia.",
+ "tema": "Derogando la Ley N° 10793, que regula el juego en línea en la provincia.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2024-09-18",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

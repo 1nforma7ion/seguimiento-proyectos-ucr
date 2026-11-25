@@ -2,6 +2,7 @@
  "numero": "41030/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando pesar por la muerte de la niña Aralí Vivas de la ciudad de Binkmann, Dpto. San Justo, instando a las autoridades nacionales y provinciales a garantizar los recursos necesarios para la promoción, protección y restitución de los derechos de niños, niñas y adolescente y sus familias.",
+ "tema": "Expresando pesar por la muerte de la niña Aralí Vivas de la ciudad de Binkmann, Dpto. San Justo, instando a las autoridades nacionales y provinciales a garantizar los recursos necesarios para la promoción, protección y restitución de los derechos de niños, niñas y adolescente y sus familias.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41861/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Bría y Briner, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) en detalle sobre diversos aspectos referidos al funcionamiento del Hospital Eva Perón de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) en detalle sobre diversos aspectos referidos al funcionamiento del Hospital Eva Perón de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

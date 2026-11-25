@@ -2,6 +2,7 @@
  "numero": "45604/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Acuña, Llamosas y Grich, declarando de Interés Legislativo la imposición del nombre “Barta Perassi” al centro educativo de nivel medio para adultos CEIJA Nº 12, a desarrollarse el 20 de marzo en el marco de la Semana de la Memoria por la Verdad y la Justicia.",
+ "tema": "Declarando de Interés Legislativo la imposición del nombre “Barta Perassi” al centro educativo de nivel medio para adultos CEIJA Nº 12, a desarrollarse el 20 de marzo en el marco de la Semana de la Memoria por la Verdad y la Justicia.",
  "autores": [
   "Acuña, Karen Belen",
   "Grich, Ariel Denis",
@@ -20,7 +21,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

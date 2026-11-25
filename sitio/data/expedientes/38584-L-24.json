@@ -1,0 +1,125 @@
+{
+ "numero": "38584/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Szpanin, incorporando el artículo 11 bis a la Ley N° 5040, -Régimen de la actividad náutica-, estableciendo la obligatoriedad de uso del chaleco salvavidas para cada tripulante de todo tipo de embarcación, a motor o a vela, que se ubique dentro de los límites de la línea de ribera de los ríos y espejos de agua de la provincia.",
+ "tema": "Incorporando el artículo 11 bis a la Ley N° 5040, -Régimen de la actividad náutica-, estableciendo la obligatoriedad de uso del chaleco salvavidas para cada tripulante de todo tipo de embarcación, a motor o a vela, que se ubique dentro de los límites de la línea de ribera de los ríos y espejos de agua de la provincia.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Deportes",
+  "Seguridad",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-02-14",
+  "ultimo_movimiento": {
+   "fecha": "2024-11-22",
+   "texto": "Se comunicó al Poder Ejecutivo"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-22",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-11-22"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11005",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=IN7WlcOywqo="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38584%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "47422/N/26",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Ferrero, solicitando licencia en su cargo desde el 24 de agosto hasta el 24 de septiembre de 2026, conforme al art. 15 del R.I.",
+ "tema": "Nota remitida por la Legisladora Ferrero, solicitando licencia en su cargo desde el 24 de agosto hasta el 24 de septiembre de 2026, conforme al art. 15 del R.I.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

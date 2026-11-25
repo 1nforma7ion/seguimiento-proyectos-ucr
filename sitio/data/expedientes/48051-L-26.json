@@ -2,6 +2,7 @@
  "numero": "48051/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Bría, creando el Programa Provincial de Gestión Segura de Medicamentos Domiciliarios.",
+ "tema": "Creando el Programa Provincial de Gestión Segura de Medicamentos Domiciliarios.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

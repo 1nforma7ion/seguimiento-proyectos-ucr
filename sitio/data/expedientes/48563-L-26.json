@@ -2,6 +2,7 @@
  "numero": "48563/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Bisotto y Contrera, estableciendo la colocación obligatoria de un cartel con información clara sobre la Línea gratuita 144 en todos los baños de mujeres de establecimientos públicos y privados.",
+ "tema": "Estableciendo la colocación obligatoria de un cartel con información clara sobre la Línea gratuita 144 en todos los baños de mujeres de establecimientos públicos y privados.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-11-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-04"
+  "caduca_el": "2027-11-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

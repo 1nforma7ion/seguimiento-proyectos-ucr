@@ -2,6 +2,7 @@
  "numero": "46334/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando a Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a la refuncionalización del Centro Integral de Formación e Inserción Laboral “Salvador Décimo Cámpoli” de la ciudad de Córdoba.",
+ "tema": "Solicitando a Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a la refuncionalización del Centro Integral de Formación e Inserción Laboral “Salvador Décimo Cámpoli” de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

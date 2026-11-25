@@ -2,6 +2,7 @@
  "numero": "45381/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Luna y Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el estado de funcionamiento del tomógrafo del Hospital Aurelio Crespo de la ciudad de Cruz del Eje.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el estado de funcionamiento del tomógrafo del Hospital Aurelio Crespo de la ciudad de Cruz del Eje.",
  "autores": [
   "Luna, Fernando Javier",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-02-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

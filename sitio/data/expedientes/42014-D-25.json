@@ -2,6 +2,7 @@
  "numero": "42014/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 208º aniversario de la localidad de Villa Concepción del Tío, Dpto. San Justo, a celebrarse el día 27 de marzo.",
+ "tema": "Adhiriendo al 208º aniversario de la localidad de Villa Concepción del Tío, Dpto. San Justo, a celebrarse el día 27 de marzo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-03-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

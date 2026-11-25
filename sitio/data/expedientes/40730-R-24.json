@@ -2,6 +2,7 @@
  "numero": "40730/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Hernández Maqueda, Nostrala, Ferrero, Echevarría, Rossi, Gvozdenovich, Sala, Botta y Tamis, disponiendo una Consulta Popular para que los vecinos de la ciudad de La Calera y de los circuitos electorales 14 Q y 11 L de la ciudad de Córdoba, respondan si la empresa Caminos de las Sierras S.A debe cobrar peaje en las casillas emplazadas en al Avenida Ejército Argentino al 9150.",
+ "tema": "Disponiendo una Consulta Popular para que los vecinos de la ciudad de La Calera y de los circuitos electorales 14 Q y 11 L de la ciudad de Córdoba, respondan si la empresa Caminos de las Sierras S.A debe cobrar peaje en las casillas emplazadas en al Avenida Ejército Argentino al 9150.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Hernandez Maqueda, Gregorio",
@@ -28,7 +29,8 @@
    "fecha": "2025-10-16",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,106 @@
+{
+ "numero": "43323/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Szpanin, instituyendo el 25 de julio de cada año como Día provincial de prevención del ahogamiento y promoción de las prácticas seguras en ambientes acuáticos.",
+ "tema": "Instituyendo el 25 de julio de cada año como Día provincial de prevención del ahogamiento y promoción de las prácticas seguras en ambientes acuáticos.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Seguridad",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-07-23",
+  "ultimo_movimiento": {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2025-07-23",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 13 del Período 147"
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-23",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 13 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-07-23"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=43323%2FL%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

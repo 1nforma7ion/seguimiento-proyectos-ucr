@@ -2,6 +2,7 @@
  "numero": "43311/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, declarando Área Protegida de Interés Arqueológico, Histórico, Cultural y Natural al Sitio Sagrado Camchira, ubicado en el paraje Morteros del Chavascate de la localidad de Villa Cerro Azul, así como a la Reserva Hídrica Natural de dicha localidad.",
+ "tema": "Declarando Área Protegida de Interés Arqueológico, Histórico, Cultural y Natural al Sitio Sagrado Camchira, ubicado en el paraje Morteros del Chavascate de la localidad de Villa Cerro Azul, así como a la Reserva Hídrica Natural de dicha localidad.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

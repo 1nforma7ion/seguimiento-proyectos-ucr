@@ -2,6 +2,7 @@
  "numero": "43355/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso y el Bloque UCR, expresando preocupación por el despido de 120 trabajadores de la empresa Petroquimica S.A. de la ciudad de Río Tercero.",
+ "tema": "Expresando preocupación por el despido de 120 trabajadores de la empresa Petroquimica S.A. de la ciudad de Río Tercero.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

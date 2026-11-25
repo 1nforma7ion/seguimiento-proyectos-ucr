@@ -2,6 +2,7 @@
  "numero": "48688/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, expresando beneplácito a la “Jornada de Actualización, Reflexión y Debate sobre Derecho Procesal Administrativo”, a desarrollarse el día 12 de noviembre en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito a la “Jornada de Actualización, Reflexión y Debate sobre Derecho Procesal Administrativo”, a desarrollarse el día 12 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

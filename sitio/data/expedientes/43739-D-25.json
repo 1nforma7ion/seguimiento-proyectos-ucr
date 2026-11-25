@@ -2,6 +2,7 @@
  "numero": "43739/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Acevedo, expresando beneplácito por el 80º aniversario del instituto Sor María Antonia de Paz y Figueroa de barrio Yofre Norte de la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por el 80º aniversario del instituto Sor María Antonia de Paz y Figueroa de barrio Yofre Norte de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Acevedo, Maria Del Rosario"
@@ -19,7 +20,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

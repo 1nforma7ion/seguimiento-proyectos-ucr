@@ -1,0 +1,99 @@
+{
+ "numero": "39191/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, declarando de Interés Legislativo el 3° Coloquio Internacional \"La desinformación científica como problema público transnacional: tensiones constitutivas, actores y expectativas”, a desarrollarse del 5 al 7 de junio en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo el 3° Coloquio Internacional \"La desinformación científica como problema público transnacional: tensiones constitutivas, actores y expectativas”, a desarrollarse del 5 al 7 de junio en la ciudad de Córdoba.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Educación"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 28005",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=uSqt8W4gNz4="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39191%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

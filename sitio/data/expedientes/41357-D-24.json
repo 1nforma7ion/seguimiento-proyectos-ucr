@@ -2,6 +2,7 @@
  "numero": "41357/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Stella Peralta, Suárez, Acevedo, Navarro Alegre, Acuña, Knipscheer, Carignano, Contrera y Valiente, expresando beneplácito al programa de ciclismo adaptado Rueda Conmigo, en el marco del Día Internacional de las Personas con Discapacidad conmemorado el pasado 3 de diciembre.",
+ "tema": "Expresando beneplácito al programa de ciclismo adaptado Rueda Conmigo, en el marco del Día Internacional de las Personas con Discapacidad conmemorado el pasado 3 de diciembre.",
  "autores": [
   "Peralta, Stella Maris",
   "Suarez, Carmen Esther",
@@ -26,7 +27,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

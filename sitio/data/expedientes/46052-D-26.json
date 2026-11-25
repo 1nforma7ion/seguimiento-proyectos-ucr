@@ -2,6 +2,7 @@
  "numero": "46052/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo la 8° Jornada Nacional de Reciclaje-Encuentro Técnico sobre Poliolefinas de origen postconsumo y postindustrial, a desarrollarse el 21 de mayo en la ciudad de Córdoba.",
+ "tema": "Reconociendo la 8° Jornada Nacional de Reciclaje-Encuentro Técnico sobre Poliolefinas de origen postconsumo y postindustrial, a desarrollarse el 21 de mayo en la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

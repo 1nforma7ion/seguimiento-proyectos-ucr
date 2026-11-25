@@ -2,6 +2,7 @@
  "numero": "46323/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Carignano, reconociendo a Sandra Dajnowski, arquitecta ciega, por su trayectoria profesional y su compromiso con la inclusión y la visibilidad de las personas con discapacidad.",
+ "tema": "Reconociendo a Sandra Dajnowski, arquitecta ciega, por su trayectoria profesional y su compromiso con la inclusión y la visibilidad de las personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

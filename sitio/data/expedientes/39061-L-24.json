@@ -2,6 +2,7 @@
  "numero": "39061/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Echevarría, Hernández Maqueda, Rossi, Ferrero, Nostrala, Botta y Gvozdenovich, ordenando el cese del cobro de peaje en las casillas ubicadas en el límite entre las ciudades de Córdoba y La Calera, garantizando la continuidad laboral del personal, excepto el jerárquico.",
+ "tema": "Ordenando el cese del cobro de peaje en las casillas ubicadas en el límite entre las ciudades de Córdoba y La Calera, garantizando la continuidad laboral del personal, excepto el jerárquico.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Echevarria, Luciana Gabriela",
@@ -27,7 +28,8 @@
    "fecha": "2024-10-02",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

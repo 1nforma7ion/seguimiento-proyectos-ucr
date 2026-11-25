@@ -2,6 +2,7 @@
  "numero": "41473/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano, Valiente y Contrera, reconociendo a la Fundación Por Igual Más, creada en 2014 con la finalidad de promover la inclusión social de personas con discapacidad.",
+ "tema": "Reconociendo a la Fundación Por Igual Más, creada en 2014 con la finalidad de promover la inclusión social de personas con discapacidad.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Valiente, Lucas German",
@@ -20,7 +21,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

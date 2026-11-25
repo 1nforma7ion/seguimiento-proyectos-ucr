@@ -1,0 +1,157 @@
+{
+ "numero": "40348/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Agrelo, Molina, Saliba y Gispert, estableciendo un Régimen Provincial de Transparencia Fiscal al Consumidor a fin de que los contribuyentes conozcan el importe pagado en cada concepto.",
+ "tema": "Estableciendo un Régimen Provincial de Transparencia Fiscal al Consumidor a fin de que los contribuyentes conozcan el importe pagado en cada concepto.",
+ "autores": [
+  "Agrelo, Rodrigo Maria",
+  "Molina, Victor Eduardo",
+  "Saliba, Oscar Elias Mario",
+  "Gispert, Walter Oscar"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2024-09-18",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2026-12-11",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": "2025-09-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  },
+  {
+   "fecha": "2025-12-11",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 22 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-11"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40348%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

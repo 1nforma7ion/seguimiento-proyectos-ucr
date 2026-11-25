@@ -2,6 +2,7 @@
  "numero": "47382/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito al V Congreso Provincial de Bromatología y al INOCUA 2026 - Primer Congreso de Bromatología, Inocuidad, Gestión e Innovación Alimentaria de Entre Ríos, a desarrollarse los días 20 y 21 de agosto en la ciudad de Paraná, Pcia. de Entre Ríos.",
+ "tema": "Expresando beneplácito al V Congreso Provincial de Bromatología y al INOCUA 2026 - Primer Congreso de Bromatología, Inocuidad, Gestión e Innovación Alimentaria de Entre Ríos, a desarrollarse los días 20 y 21 de agosto en la ciudad de Paraná, Pcia. de Entre Ríos.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

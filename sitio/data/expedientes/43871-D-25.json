@@ -2,6 +2,7 @@
  "numero": "43871/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, reconociendo a Florencia Álvarez y a Lucas Belbruno, integrantes del Dúo Flor y Lucas, por su presentación en el programa televisivo Buenas Noches Familia.",
+ "tema": "Reconociendo a Florencia Álvarez y a Lucas Belbruno, integrantes del Dúo Flor y Lucas, por su presentación en el programa televisivo Buenas Noches Familia.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

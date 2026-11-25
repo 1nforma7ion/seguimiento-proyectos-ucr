@@ -2,6 +2,7 @@
  "numero": "44031/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Bría, Contrera, Ferrero, Gudiño, Jaimes, Molina, Nicolás, NIgro, Saliba y Szpanin, creando el Programa Provincial de Fortalecimiento Educativo territorial - Coordinaciones Locales de Educación, dejando sin efecto el decreto Nº 66/2024.",
+ "tema": "Creando el Programa Provincial de Fortalecimiento Educativo territorial - Coordinaciones Locales de Educación, dejando sin efecto el decreto Nº 66/2024.",
  "autores": [
   "Austin, Brenda Lis",
   "Bria, Jose Alberto",
@@ -29,7 +30,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

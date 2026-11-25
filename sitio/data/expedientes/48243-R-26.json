@@ -2,6 +2,7 @@
  "numero": "48243/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el proceso licitatorio correspondiente al Expediente N° 0045-026438/2024, Etapas I y II de la obra Mantenimiento Zona 5 - Deptos. San Javier, San Alberto, Pocho, Minas, Cruz del Eje, Ischilín, Tulumba, Sobremonte y Totoral.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el proceso licitatorio correspondiente al Expediente N° 0045-026438/2024, Etapas I y II de la obra Mantenimiento Zona 5 - Deptos. San Javier, San Alberto, Pocho, Minas, Cruz del Eje, Ischilín, Tulumba, Sobremonte y Totoral.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

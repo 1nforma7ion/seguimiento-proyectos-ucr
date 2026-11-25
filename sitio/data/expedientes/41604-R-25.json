@@ -2,6 +2,7 @@
  "numero": "41604/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre las razones de remoción de la cúpula de Fuerza Policial Antinarcotráfico, la designación de nuevos jefes y el plan antinarcotráfico para el año 2025.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre las razones de remoción de la cúpula de Fuerza Policial Antinarcotráfico, la designación de nuevos jefes y el plan antinarcotráfico para el año 2025.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

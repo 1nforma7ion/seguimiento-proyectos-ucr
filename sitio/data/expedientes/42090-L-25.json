@@ -2,6 +2,7 @@
  "numero": "42090/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gvozdenovich y Szpanin, adhiriendo la provincia al Titulo VII de la Ley nacional Nº 27743, Régimen de Transparencia Fiscal al Consumidor.",
+ "tema": "Adhiriendo la provincia al Titulo VII de la Ley nacional Nº 27743, Régimen de Transparencia Fiscal al Consumidor.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Szpanin, Ariela Yanina"
@@ -20,7 +21,8 @@
    "fecha": "2026-03-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39302/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Acevedo, Tévez, Grich, Bruno, Navarro Alegre y Luna, adhiriendo al 3° Encuentro Regional de Jóvenes, a desarrollarse los días 25 y 26 de mayo en la ciudad de Río Cuarto.",
+ "tema": "Adhiriendo al 3° Encuentro Regional de Jóvenes, a desarrollarse los días 25 y 26 de mayo en la ciudad de Río Cuarto.",
  "autores": [
   "Acevedo, Maria Del Rosario",
   "Tevez, Gustavo Alejandro",
@@ -23,7 +24,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

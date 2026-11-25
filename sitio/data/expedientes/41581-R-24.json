@@ -2,6 +2,7 @@
  "numero": "41581/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Grich y Gvozdenovich, solicitando al Sr. Gobernador y al Sr. Ministro de Seguridad se intensifiquen las medidas de seguridad en el Dpto. Rio Cuarto, ante la ola de delincuencia que sufren los habitantes de la región.",
+ "tema": "Solicitando al Sr. Gobernador y al Sr. Ministro de Seguridad se intensifiquen las medidas de seguridad en el Dpto. Rio Cuarto, ante la ola de delincuencia que sufren los habitantes de la región.",
  "autores": [
   "Grich, Ariel Denis",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-12-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

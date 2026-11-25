@@ -2,6 +2,7 @@
  "numero": "46705/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Nigro, Austin, Carignano, Bottasso, Jaimes, Molina, Saliba, Valiente, Nicolás, Briner, Almada, Gloria Pereyra, Rossi, Botta, Agost Carreño, Hernández Maqueda, Bisotto y Grosso, solicitando al Poder Ejecutivo se disponga el servicio de transporte y traslado de personas con discapacidad en el Programa Incluir Salud.",
+ "tema": "Solicitando al Poder Ejecutivo se disponga el servicio de transporte y traslado de personas con discapacidad en el Programa Incluir Salud.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -38,7 +39,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

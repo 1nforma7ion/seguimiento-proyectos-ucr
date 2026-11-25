@@ -2,6 +2,7 @@
  "numero": "42495/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo a la 8ª Semana Mundial de la Seguridad Vial, que se desarrolla del 12 al 18 de mayo, bajo el lema \"Seguridad a pie y en bici\".",
+ "tema": "Adhiriendo a la 8ª Semana Mundial de la Seguridad Vial, que se desarrolla del 12 al 18 de mayo, bajo el lema \"Seguridad a pie y en bici\".",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,99 @@
+{
+ "numero": "45898/D/26",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, reconociendo la trayectoria artística del compositor y director de orquesta Ángel Jorge Pititto, conocido como \"Ángel Mahler\", fallecido en el mes de mayo de 2025 en la Ciudad Autónoma de Buenos Aires.",
+ "tema": "Reconociendo la trayectoria artística del compositor y director de orquesta Ángel Jorge Pititto, conocido como \"Ángel Mahler\", fallecido en el mes de mayo de 2025 en la Ciudad Autónoma de Buenos Aires.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Cultura"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-04-08",
+  "ultimo_movimiento": {
+   "fecha": "2026-04-08",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-04-08",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-04-08",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": "2026-04-08",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 5 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 5 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-04-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 31026",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=l7X66OZbfv0="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45898%2FD%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

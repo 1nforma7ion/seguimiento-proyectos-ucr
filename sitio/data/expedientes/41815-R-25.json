@@ -2,6 +2,7 @@
  "numero": "41815/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Austin, Contrera y Szpanin, citando al Sr. Ministro de Salud para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la gestión y funcionamiento de la Secretaría de Salud Mental.",
+ "tema": "Citando al Sr. Ministro de Salud para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la gestión y funcionamiento de la Secretaría de Salud Mental.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2026-02-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

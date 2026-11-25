@@ -2,6 +2,7 @@
  "numero": "43190/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando la conformación de la Sala Acusadora y la Sala Juzgadora conforme los artículos 114 y 115 de la Constitución provincial.",
+ "tema": "Solicitando la conformación de la Sala Acusadora y la Sala Juzgadora conforme los artículos 114 y 115 de la Constitución provincial.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

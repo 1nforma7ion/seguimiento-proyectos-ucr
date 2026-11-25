@@ -2,6 +2,7 @@
  "numero": "39325/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Gvozdenovich, Nigro, Gudiño, Bisotto, Bottasso, Bría, Nicolás y Molina, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al servicio de consultoría licitado por la EPEC para realizar el cálculo de huella de carbono en la provincia y la propuesta de acciones para una Gestión Integral Sustentable.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al servicio de consultoría licitado por la EPEC para realizar el cálculo de huella de carbono en la provincia y la propuesta de acciones para una Gestión Integral Sustentable.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -27,7 +28,8 @@
    "fecha": "2024-10-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41254/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gispert, Martoccia, Almada, Peirone, Nicolás, Briner y Bría, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre el posible hecho de corrupción de un alto funcionario del Poder Judicial ante un concurso público para ocupar cargos en la Defensoría Oficial, refiriendo medidas administrativas y sancionatorias adoptadas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) detalladamente sobre el posible hecho de corrupción de un alto funcionario del Poder Judicial ante un concurso público para ocupar cargos en la Defensoría Oficial, refiriendo medidas administrativas y sancionatorias adoptadas.",
  "autores": [
   "Gispert, Walter Oscar",
   "Martoccia, Viviana Raquel Del Valle",
@@ -24,7 +25,8 @@
    "fecha": "2025-03-19",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

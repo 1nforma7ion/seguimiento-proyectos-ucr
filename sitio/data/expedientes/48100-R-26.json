@@ -2,6 +2,7 @@
  "numero": "48100/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la Licitación Pública, Expediente Nº 0916-000599/2026, para la obra: Refacción y puesta en valor de las Fuentes de Agua Ornamentales de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la Licitación Pública, Expediente Nº 0916-000599/2026, para la obra: Refacción y puesta en valor de las Fuentes de Agua Ornamentales de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

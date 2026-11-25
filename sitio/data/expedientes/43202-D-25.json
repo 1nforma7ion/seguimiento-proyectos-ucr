@@ -2,6 +2,7 @@
  "numero": "43202/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque UCR, expresando preocupación por las iniciativas en tratamiento en la Honorable Cámara de Diputados de la Nación, de proyectos de desregulación de los colegios profesionales, que afectan el ejercicio de sus funciones y avanzan sobre las competencias no delegadas por la provincia, instando a los Diputados y Senadores por Córdoba a obrar de conformidad a lo dispuesto por la presente Declaración.",
+ "tema": "Expresando preocupación por las iniciativas en tratamiento en la Honorable Cámara de Diputados de la Nación, de proyectos de desregulación de los colegios profesionales, que afectan el ejercicio de sus funciones y avanzan sobre las competencias no delegadas por la provincia, instando a los Diputados y Senadores por Córdoba a obrar de conformidad a lo dispuesto por la presente Declaración.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

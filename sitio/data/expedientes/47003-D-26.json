@@ -2,6 +2,7 @@
  "numero": "47003/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Botta y Carignano, adhiriendo al 120º aniversario del Club Atlético Argentino de la ciudad de Marcos Juárez, a celebrarse el día 9 de julio.",
+ "tema": "Adhiriendo al 120º aniversario del Club Atlético Argentino de la ciudad de Marcos Juárez, a celebrarse el día 9 de julio.",
  "autores": [
   "Botta, Patricia Isabel",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

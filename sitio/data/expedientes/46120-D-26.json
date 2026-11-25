@@ -2,6 +2,7 @@
  "numero": "46120/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Llamosas, Soardo y Grich, declarando de Interés Legislativo las fiestas patronales de la localidad de Santa Catalina-Holmberg, Dpto. Río Cuarto, a celebrarse el 30 de abril en honor a Santa Catalina de Siena.",
+ "tema": "Declarando de Interés Legislativo las fiestas patronales de la localidad de Santa Catalina-Holmberg, Dpto. Río Cuarto, a celebrarse el 30 de abril en honor a Santa Catalina de Siena.",
  "autores": [
   "Llamosas, Juan Manuel",
   "Soardo, Leonor Jorgelina",
@@ -20,7 +21,8 @@
    "fecha": "2026-04-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

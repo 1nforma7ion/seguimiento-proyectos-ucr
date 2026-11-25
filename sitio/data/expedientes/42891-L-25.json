@@ -2,6 +2,7 @@
  "numero": "42891/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Hernández Maqueda, Gudiño, Botta, Nostrala, Peirone, Gispert y Almada, derogando capítulos de la Ley Nº 8123, Código Procesal Penal de la provincia, en lo referido a privilegios constitucionales e investigación jurisdiccional.",
+ "tema": "Derogando capítulos de la Ley Nº 8123, Código Procesal Penal de la provincia, en lo referido a privilegios constitucionales e investigación jurisdiccional.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Gudiño, Daniela Soledad",
@@ -25,7 +26,8 @@
    "fecha": "2026-08-26",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-26"
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

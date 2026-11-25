@@ -1,0 +1,91 @@
+{
+ "numero": "48710/N/26",
+ "tipo": "otros",
+ "extracto": "Nota de la Legisladora Szpanin, solicitando la rehabilitación, en virtud de lo establecido por el art. 111 del R.I., de los proyectos Nros. 38990/L/24 y 40314/L/24.",
+ "tema": "Solicitando la rehabilitación, en virtud de lo establecido por el art. 111 del R.I., de los proyectos Nros. 38990/L/24 y 40314/L/24.",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2026-11-18",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-18",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por acuerdo de los bloques",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Acuerdo De Los Bloques",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=48710%2FN%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "45041/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría, Szpanin y Sala, expresando preocupación por la situación que atraviesa la gestión del Gran Hotel Viena de la localidad de Miramar, Dpto. San Justo, atento a una resolución judicial que pone en peligro su continuidad.",
+ "tema": "Expresando preocupación por la situación que atraviesa la gestión del Gran Hotel Viena de la localidad de Miramar, Dpto. San Justo, atento a una resolución judicial que pone en peligro su continuidad.",
  "autores": [
   "Bria, Jose Alberto",
   "Sala, Ignacio Antonio",
@@ -20,7 +21,8 @@
    "fecha": "2025-12-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

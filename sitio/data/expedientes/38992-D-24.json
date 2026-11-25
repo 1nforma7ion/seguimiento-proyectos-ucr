@@ -2,6 +2,7 @@
  "numero": "38992/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gloria Pereyra, Bisotto, Ferrero, Valiente, Gudiño, Nicolás, Saliba, Briner, Bría, Molina y Contrera, reconociendo el 10° Concurso nacional de Literatura de la Fundación Pro Arte,a desarrollarse el día 8 de abril en la ciudad de Córdoba, en homenaje y en el marco del 150° aniversario del nacimiento de Leopoldo Lugones,",
+ "tema": "Reconociendo el 10° Concurso nacional de Literatura de la Fundación Pro Arte,a desarrollarse el día 8 de abril en la ciudad de Córdoba, en homenaje y en el marco del 150° aniversario del nacimiento de Leopoldo Lugones,",
  "autores": [
   "Almada, Nancy Edith",
   "Pereyra, Carmen Gloria",
@@ -29,7 +30,8 @@
    "fecha": "2024-04-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

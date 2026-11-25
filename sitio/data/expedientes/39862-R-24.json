@@ -2,6 +2,7 @@
  "numero": "39862/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Bottasso, Contrera, Ferrero, Jaimes, Molina, Nicolás y Szpanin, citando al Sr. Ministro de Economía y Gestión Pública, (Art. 101 C.P.) para que informe detalladamente sobre aspectos referidos al aumento del Impuesto sobre los Ingresos Brutos en las categorías del Régimen Simplificado para Pequeños contribuyentes, Monotributo.",
+ "tema": "Citando al Sr. Ministro de Economía y Gestión Pública, (Art. 101 C.P.) para que informe detalladamente sobre aspectos referidos al aumento del Impuesto sobre los Ingresos Brutos en las categorías del Régimen Simplificado para Pequeños contribuyentes, Monotributo.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bottasso, Gustavo Armando",
@@ -25,7 +26,8 @@
    "fecha": "2025-07-30",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

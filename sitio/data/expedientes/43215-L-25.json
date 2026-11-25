@@ -2,6 +2,7 @@
  "numero": "43215/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Peirone y Contrera, creando el Programa PASE, dirigido a promover la inclusión socioeconómica de personas mayores de 60 años, con formación o experiencia calificada, mediante actividades no laborales que favorezcan su autonomía, dignidad y bienestar.",
+ "tema": "Creando el Programa PASE, dirigido a promover la inclusión socioeconómica de personas mayores de 60 años, con formación o experiencia calificada, mediante actividades no laborales que favorezcan su autonomía, dignidad y bienestar.",
  "autores": [
   "Peirone, Juan Pablo",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

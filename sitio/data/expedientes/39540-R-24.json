@@ -2,6 +2,7 @@
  "numero": "39540/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Bría, Contrera, Nigro, Szpanin y Sebastián Peralta, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a talleres y prácticas comunitarias en los hospitales monovalentes, programas de rehabilitación y reinserción social de pacientes afectados en la salud mental.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a talleres y prácticas comunitarias en los hospitales monovalentes, programas de rehabilitación y reinserción social de pacientes afectados en la salud mental.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Bria, Jose Alberto",
@@ -23,7 +24,8 @@
    "fecha": "2025-04-09",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

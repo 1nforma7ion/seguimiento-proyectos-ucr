@@ -2,6 +2,7 @@
  "numero": "41472/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Fernández, Ferrero y Bruno, modificando e incorporando artículos a la Ley Nº 8123, Código Procesal Penal de la Provincia de Córdoba, en lo referente al régimen procesal de las detenciones cautelares y creando, en el ámbito del Ministerio Público Fiscal, el Sistema Interdisciplinario de Gestión de Medidas Alternativas (SIGMA).",
+ "tema": "Modificando e incorporando artículos a la Ley Nº 8123, Código Procesal Penal de la Provincia de Córdoba, en lo referente al régimen procesal de las detenciones cautelares y creando, en el ámbito del Ministerio Público Fiscal, el Sistema Interdisciplinario de Gestión de Medidas Alternativas (SIGMA).",
  "autores": [
   "Fernandez, Nadia Vanesa",
   "Ferrero, Alejandra",
@@ -21,7 +22,8 @@
    "fecha": "2025-12-12",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

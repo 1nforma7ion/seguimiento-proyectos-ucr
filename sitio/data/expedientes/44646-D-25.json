@@ -2,6 +2,7 @@
  "numero": "44646/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Navarro Alegre, Chamorro, Valiente, Acevedo, Bisotto y Almada, expresando beneplácito por el Día Internacional contra la Violencia y el Acoso en la escuela, incluido el Ciberacoso, que se celebra el primer jueves de noviembre de cada año.",
+ "tema": "Expresando beneplácito por el Día Internacional contra la Violencia y el Acoso en la escuela, incluido el Ciberacoso, que se celebra el primer jueves de noviembre de cada año.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -25,7 +26,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

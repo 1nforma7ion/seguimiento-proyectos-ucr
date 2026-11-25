@@ -1,0 +1,211 @@
+{
+ "numero": "39813/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Szpanin, Saliba y Bisotto, incorporando el artículo 81 bis a la Ley N° 10326, Código de Convivencia Ciudadana ,estableciendo sanciones al propietario, poseedor o tenedor que con fines de lucro realice fiestas, bailes o cualquier tipo de espectáculos en los que se compruebe la venta de entradas, el ingreso de personas para el cual no posee autorización, el consumo de alcohol y de estupefacientes u otras sustancias.",
+ "tema": "Incorporando el artículo 81 bis a la Ley N° 10326, Código de Convivencia Ciudadana ,estableciendo sanciones al propietario, poseedor o tenedor que con fines de lucro realice fiestas, bailes o cualquier tipo de espectáculos en los que se compruebe la venta de entradas, el ingreso de personas para el cual no posee autorización, el consumo de alcohol y de estupefacientes u otras sustancias.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Saliba, Oscar Elias Mario",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Legislación General",
+  "Asuntos Constitucionales, Justicia y Acuerdos",
+  "Seguridad"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-29",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2025-07-24",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-07-30",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 14 del Período 147"
+  },
+  {
+   "fecha": "2025-08-25",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se rehabilitó: vuelve a estar en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2025-08-20",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 15 del Período 147"
+  },
+  {
+   "fecha": "2025-12-29",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 25 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho de la Cámara en comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 14 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-07-30"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-08-25"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rehabilitado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 15 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-08-20"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 25 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas Con Despacho Cámara En Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11097",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=kdbwn-ZCkXM="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39813%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

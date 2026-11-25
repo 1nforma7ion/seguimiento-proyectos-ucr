@@ -2,6 +2,7 @@
  "numero": "45499/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los hechos y actuaciones vinculados a la planta de Dioxitek S.A. ubicada en la ciudad de Córdoba, en el marco de las denuncias periodísticas sobre eventos de riesgo no reportados.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos referidos a los hechos y actuaciones vinculados a la planta de Dioxitek S.A. ubicada en la ciudad de Córdoba, en el marco de las denuncias periodísticas sobre eventos de riesgo no reportados.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45093/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría y Gvozdenovich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la construcción de la Ruta Provincial Nº 17, tramo: Balnearia-Intersección Ruta Provincial Nº 13.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a la construcción de la Ruta Provincial Nº 17, tramo: Balnearia-Intersección Ruta Provincial Nº 13.",
  "autores": [
   "Bria, Jose Alberto",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-12-23",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-23"
+  "caduca_el": "2026-12-23",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

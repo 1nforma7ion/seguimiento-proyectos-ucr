@@ -2,6 +2,7 @@
  "numero": "45530/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Bría, Saliba, Jaimes y Romero, adhiriendo al Día Mundial del Síndrome de Down, que se conmemora cada 21 de marzo.",
+ "tema": "Adhiriendo al Día Mundial del Síndrome de Down, que se conmemora cada 21 de marzo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -23,7 +24,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

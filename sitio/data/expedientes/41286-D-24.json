@@ -2,6 +2,7 @@
  "numero": "41286/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Almada, Agrelo, Saliba, Szpanin, Valiente, Knipscheer, Acuña, Bría, Botta, Stella Peralta, Cristina Pereyra, Suárez y Bisotto, adhiriendo al Día Internacional de las Personas con Discapacidad y al Día Nacional de las Personas con Discapacidad, que se conmemoran cada 3 de diciembre.",
+ "tema": "Adhiriendo al Día Internacional de las Personas con Discapacidad y al Día Nacional de las Personas con Discapacidad, que se conmemoran cada 3 de diciembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -32,7 +33,8 @@
    "fecha": "2024-11-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

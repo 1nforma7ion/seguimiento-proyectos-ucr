@@ -1,0 +1,94 @@
+{
+ "numero": "40306/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por el Legislador Luna, declarando de utilidad pública y sujeto a expropiación una fracción de terreno en la comuna de Los Chañaritos, Dpto. Cruz del Eje, destinada a la ampliación del IPEM N° 370, derogando la Ley Nº 10642.",
+ "tema": "Declarando de utilidad pública y sujeto a expropiación una fracción de terreno en la comuna de Los Chañaritos, Dpto. Cruz del Eje, destinada a la ampliación del IPEM N° 370, derogando la Ley Nº 10642.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Educación",
+  "Economia y Presupuesto"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-09-18",
+  "ultimo_movimiento": {
+   "fecha": "2025-09-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": "2024-09-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 14 del Período 146"
+  },
+  {
+   "fecha": "2025-09-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 14 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-09-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-09-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40306%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "43757/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Gvozdenovich, Saliba, Bottasso, Bría, Contrera y Carignano, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la recaudación de la Empresa Servicios y Consultoría SA y CIA de Gestión, Administración y Fiscalización SA.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la recaudación de la Empresa Servicios y Consultoría SA y CIA de Gestión, Administración y Fiscalización SA.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -26,7 +27,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41221/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a las armas no letales Byrnas y si en las localidades que ya han implementado su utilización hubo reducción de delitos.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a las armas no letales Byrnas y si en las localidades que ya han implementado su utilización hubo reducción de delitos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-02-05",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

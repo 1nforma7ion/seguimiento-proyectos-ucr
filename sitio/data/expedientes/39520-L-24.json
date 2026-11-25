@@ -2,6 +2,7 @@
  "numero": "39520/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Carignano, Almada, Gvozdenovich, Szpanin, Bottasso, Bría, Jaimes, Molina, Valiente y Agrelo, modificando la Ley N° 8560, de Tránsito, incorporando términos adecuados para personas con discapacidad, integrando las áreas prioritarias a ser utilizadas por los diferentes usuarios.",
+ "tema": "Modificando la Ley N° 8560, de Tránsito, incorporando términos adecuados para personas con discapacidad, integrando las áreas prioritarias a ser utilizadas por los diferentes usuarios.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -27,7 +28,8 @@
    "fecha": "2025-12-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

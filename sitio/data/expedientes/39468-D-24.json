@@ -2,6 +2,7 @@
  "numero": "39468/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Valiente, expresando beneplácito por la 3° Fiesta de las Pastas Caseras, desarrollada el pasado 1 de junio en la ciudad de Oncativo, Dpto. Río Segundo.",
+ "tema": "Expresando beneplácito por la 3° Fiesta de las Pastas Caseras, desarrollada el pasado 1 de junio en la ciudad de Oncativo, Dpto. Río Segundo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Valiente, Lucas German"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

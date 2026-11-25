@@ -2,6 +2,7 @@
  "numero": "39113/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, instando al Poder Ejecutivo a implementar un sistema que garantice una correcta recepción, diagnóstico y derivación de los aprehendidos, cuidando su integridad física, con motivo de las falencias advertidas ante el fallecimiento del Sr. César Moreno.",
+ "tema": "Instando al Poder Ejecutivo a implementar un sistema que garantice una correcta recepción, diagnóstico y derivación de los aprehendidos, cuidando su integridad física, con motivo de las falencias advertidas ante el fallecimiento del Sr. César Moreno.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

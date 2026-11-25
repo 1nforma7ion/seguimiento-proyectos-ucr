@@ -2,6 +2,7 @@
  "numero": "40986/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Bloque UCR, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre municipios y comunas que hayan adherido a la Ley Nº 10954, de Seguridad Pública y Ciudadana .",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre municipios y comunas que hayan adherido a la Ley Nº 10954, de Seguridad Pública y Ciudadana .",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

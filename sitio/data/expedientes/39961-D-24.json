@@ -2,6 +2,7 @@
  "numero": "39961/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Agrelo, Gvozdenovich, Acevedo, Botta, Nostrala, Hernández Maqueda y Bisotto, repudiando la ceremonia de apertura de los Juegos Olímpicos París 2024, en la cual se parodia la Última Cena de Jesucristo, lo que implica una ofensa a los creyentes cristianos.",
+ "tema": "Repudiando la ceremonia de apertura de los Juegos Olímpicos París 2024, en la cual se parodia la Última Cena de Jesucristo, lo que implica una ofensa a los creyentes cristianos.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Gvozdenovich, Matias Pablo",
@@ -24,7 +25,8 @@
    "fecha": "2025-08-25",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

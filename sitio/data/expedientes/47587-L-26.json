@@ -2,6 +2,7 @@
  "numero": "47587/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna y Contrera, creando el Régimen de Provisión del Boleto Héroes de Malvinas para ser utilizado en el servicio público provincial de transporte de pasajeros interurbano.",
+ "tema": "Creando el Régimen de Provisión del Boleto Héroes de Malvinas para ser utilizado en el servicio público provincial de transporte de pasajeros interurbano.",
  "autores": [
   "Luna, Fernando Javier",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-09-02",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-02"
+  "caduca_el": "2027-09-02",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

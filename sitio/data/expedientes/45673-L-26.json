@@ -2,6 +2,7 @@
  "numero": "45673/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Gispert, Gloria Pereyra, Almada, Jaimes, Szpanin, Nicolás, Bría, Contrera y el Bloque Frente Cívico de Córdoba, modificando la Ley Nº10326, Código de Convivencia Ciudadana, dotándola de herramientas frente a determinadas conductas que, por su reiteración, carácter agresivo y ejecución, afectan la convivencia urbana, la seguridad vial y la tranquilidad de la comunidad.",
+ "tema": "Modificando la Ley Nº10326, Código de Convivencia Ciudadana, dotándola de herramientas frente a determinadas conductas que, por su reiteración, carácter agresivo y ejecución, afectan la convivencia urbana, la seguridad vial y la tranquilidad de la comunidad.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -28,7 +29,8 @@
    "fecha": "2026-03-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-18"
+  "caduca_el": "2027-03-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

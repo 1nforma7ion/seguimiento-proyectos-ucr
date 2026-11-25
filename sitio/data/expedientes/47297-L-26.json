@@ -2,6 +2,7 @@
  "numero": "47297/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Rinaldi, Stella Peralta, Presas, Jaimes, Austin, Mansilla y Chamorro, modificando y derogando artículos de la Ley Nº 11035, Procesal Penal Juvenil, adecuándola a la Ley Nacional Nº 27801, Régimen Penal Juvenil, garantizando un sistema especializado; estableciendo la redacción de un Texto Ordenado.",
+ "tema": "Modificando y derogando artículos de la Ley Nº 11035, Procesal Penal Juvenil, adecuándola a la Ley Nacional Nº 27801, Régimen Penal Juvenil, garantizando un sistema especializado; estableciendo la redacción de un Texto Ordenado.",
  "autores": [
   "Rinaldi, Julieta",
   "Presas, Luciana Maria",
@@ -25,7 +26,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

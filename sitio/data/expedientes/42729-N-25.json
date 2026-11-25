@@ -2,6 +2,7 @@
  "numero": "42729/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por los Legisladores Agrelo, Ferrero y Nostrala, interponiendo Recurso de Reconsideración ante la Resolución dictada por la Presidencia de la Legislatura el pasado 12 de mayo, denegando el pedido de Sesión Especial tramitado mediante Nota Nº 42524/N/25.",
+ "tema": "Nota remitida por los Legisladores Agrelo, Ferrero y Nostrala, interponiendo Recurso de Reconsideración ante la Resolución dictada por la Presidencia de la Legislatura el pasado 12 de mayo, denegando el pedido de Sesión Especial tramitado mediante Nota Nº 42524/N/25.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Ferrero, Alejandra",
@@ -18,7 +19,8 @@
    "fecha": "2025-05-28",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

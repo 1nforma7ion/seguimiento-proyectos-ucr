@@ -2,6 +2,7 @@
  "numero": "39033/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Luna, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Saliba, Bottasso, Bría, Molina y Contrera, solicitando la pavimentación de la Ruta A-175 en los 5 kilómetros previos a la localidad de Alto de los Quebrachos, Dpto. Cruz del Eje.",
+ "tema": "Solicitando la pavimentación de la Ruta A-175 en los 5 kilómetros previos a la localidad de Alto de los Quebrachos, Dpto. Cruz del Eje.",
  "autores": [
   "Luna, Fernando Javier",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

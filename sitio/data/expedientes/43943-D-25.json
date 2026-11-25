@@ -2,6 +2,7 @@
  "numero": "43943/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por el cobro parcializado que percibieron en sus haberes los Bomberos Voluntarios Retirados, relacionado con el Complemento Previsional Solidario.",
+ "tema": "Expresando preocupación por el cobro parcializado que percibieron en sus haberes los Bomberos Voluntarios Retirados, relacionado con el Complemento Previsional Solidario.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

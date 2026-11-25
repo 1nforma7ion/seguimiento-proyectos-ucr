@@ -2,6 +2,7 @@
  "numero": "43864/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, adhiriendo a la Ley Nacional Nº 27794 e incorporando el inciso d) a la Ley Nº 8663, de Régimen de Coparticipación de Impuestos entre la provincia y sus municipalidades y comunas.",
+ "tema": "Adhiriendo a la Ley Nacional Nº 27794 e incorporando el inciso d) a la Ley Nº 8663, de Régimen de Coparticipación de Impuestos entre la provincia y sus municipalidades y comunas.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

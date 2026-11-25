@@ -2,6 +2,7 @@
  "numero": "43305/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero y el Bloque UCR, reconociendo al Dr. Lisandro Otero por su trayectoria científica, de investigación y por su aporte al tratamiento contra el Síndrome Urémico Hemolítico.",
+ "tema": "Reconociendo al Dr. Lisandro Otero por su trayectoria científica, de investigación y por su aporte al tratamiento contra el Síndrome Urémico Hemolítico.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

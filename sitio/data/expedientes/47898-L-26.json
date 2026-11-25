@@ -2,6 +2,7 @@
  "numero": "47898/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Valiente, Jaimes, Szpanin, Austin, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Briner, Bottasso, Bría, Molina, Contrera, Carignano, Navarro Alegre, Agost Carreño, Nostrala, Grosso y Ferrero, creando el Régimen Transitorio de Sostenibilidad Industrial, siendo beneficiarios quienes hayan promovido Procedimiento Preventivo de Crisis de Empresa.",
+ "tema": "Creando el Régimen Transitorio de Sostenibilidad Industrial, siendo beneficiarios quienes hayan promovido Procedimiento Preventivo de Crisis de Empresa.",
  "autores": [
   "Valiente, Lucas German",
   "Jaimes, Mauricio Sebastian",
@@ -41,7 +42,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

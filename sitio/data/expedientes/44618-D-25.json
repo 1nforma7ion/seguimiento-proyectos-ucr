@@ -2,6 +2,7 @@
  "numero": "44618/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 22° Festival Nacional del Humor y la Canción, a desarrollarse el 22 y 23 de noviembre en la ciudad de Brinkmann, Dpto San Justo.",
+ "tema": "Adhiriendo al 22° Festival Nacional del Humor y la Canción, a desarrollarse el 22 y 23 de noviembre en la ciudad de Brinkmann, Dpto San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

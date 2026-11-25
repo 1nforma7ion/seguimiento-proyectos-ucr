@@ -2,6 +2,7 @@
  "numero": "44085/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Saliba, Bría, Molina y Contrera, adhiriendo a la Ley Nacional Nº 27732, Programa de Prevención, Diagnóstico y Tratamiento Integral de la Pubertad Precoz.",
+ "tema": "Adhiriendo a la Ley Nacional Nº 27732, Programa de Prevención, Diagnóstico y Tratamiento Integral de la Pubertad Precoz.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Saliba, Oscar Elias Mario",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

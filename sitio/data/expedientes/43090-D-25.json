@@ -2,6 +2,7 @@
  "numero": "43090/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Szpanin, Contrera y Bisotto, expresando pesar y solidaridad para con las víctimas, sus familiares y la comunidad en general, al cumplirse el 31º aniversario del atentado a la Asociación Mutual Israelita Argentina, perpetrado el 18 de julio de 1994 en la Ciudad Autónoma de Buenos Aires.",
+ "tema": "Expresando pesar y solidaridad para con las víctimas, sus familiares y la comunidad en general, al cumplirse el 31º aniversario del atentado a la Asociación Mutual Israelita Argentina, perpetrado el 18 de julio de 1994 en la Ciudad Autónoma de Buenos Aires.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bisotto, Graciela Maria",
@@ -20,7 +21,8 @@
    "fecha": "2025-07-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

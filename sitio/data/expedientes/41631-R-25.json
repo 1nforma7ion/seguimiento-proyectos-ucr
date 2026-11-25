@@ -2,6 +2,7 @@
  "numero": "41631/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Bottasso y Bría, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a la inversión, plan de obras y puesta en valor de los Centros Integrales para Personas Mayores.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a la inversión, plan de obras y puesta en valor de los Centros Integrales para Personas Mayores.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bottasso, Gustavo Armando",
@@ -20,7 +21,8 @@
    "fecha": "2026-02-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

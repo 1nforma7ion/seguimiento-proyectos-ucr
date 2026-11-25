@@ -2,6 +2,7 @@
  "numero": "40623/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano, Szpanin, Austin, Ferrero, Gvozdenovich, Valiente, Nicolás, Luna, Saliba, Bottasso y Molina, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la Biblioteca Provincial para Discapacitados Visuales de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la Biblioteca Provincial para Discapacitados Visuales de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Szpanin, Ariela Yanina",
@@ -28,7 +29,8 @@
    "fecha": "2024-12-18",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

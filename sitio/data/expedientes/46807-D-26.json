@@ -2,6 +2,7 @@
  "numero": "46807/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Botta, Contrera y Bisotto, reconociendo a la Selección Argentina de Básquet de atletas con síndrome de Down y a la Federación que los nuclea y, especialmente al atleta cordobés Leonardo Seculini y al Director Técnico Lucas Whelan, por la obtención del Campeonato Mundial disputado en Hungría.",
+ "tema": "Reconociendo a la Selección Argentina de Básquet de atletas con síndrome de Down y a la Federación que los nuclea y, especialmente al atleta cordobés Leonardo Seculini y al Director Técnico Lucas Whelan, por la obtención del Campeonato Mundial disputado en Hungría.",
  "autores": [
   "Botta, Patricia Isabel",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2026-06-25",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

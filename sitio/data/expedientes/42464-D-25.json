@@ -2,6 +2,7 @@
  "numero": "42464/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Fernández y Grich, declarando de Interés Legislativo al Congreso Nacional Desarrollo Inteligente: Educación y Tecnología para Regiones Competitivas, a desarrollarse el día 29 de mayo en la ciudad de Río Cuarto.",
+ "tema": "Declarando de Interés Legislativo al Congreso Nacional Desarrollo Inteligente: Educación y Tecnología para Regiones Competitivas, a desarrollarse el día 29 de mayo en la ciudad de Río Cuarto.",
  "autores": [
   "Fernandez, Nadia Vanesa",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

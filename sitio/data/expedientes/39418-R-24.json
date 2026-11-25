@@ -2,6 +2,7 @@
  "numero": "39418/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados a posibles irregularidades en el funcionamiento de Empresas Privadas de Seguridad, durante la gestión anterior.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados a posibles irregularidades en el funcionamiento de Empresas Privadas de Seguridad, durante la gestión anterior.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-29"
+  "caduca_el": "2026-12-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

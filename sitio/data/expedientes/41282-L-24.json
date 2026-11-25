@@ -2,6 +2,7 @@
  "numero": "41282/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Frías, Bría y Tévez, modificando el artículo 3 y el inciso b) del artículo 20 de la Ley N° 4771, de creación del Colegio de Farmacéuticos.",
+ "tema": "Modificando el artículo 3 y el inciso b) del artículo 20 de la Ley N° 4771, de creación del Colegio de Farmacéuticos.",
  "autores": [
   "Frias, Cristian Adrian",
   "Bria, Jose Alberto",
@@ -22,7 +23,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

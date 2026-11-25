@@ -2,6 +2,7 @@
  "numero": "48703/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Internacional de la Eliminación de la Violencia contra la Mujer, a conmemorarse el 25 de noviembre.",
+ "tema": "Adhiriendo al Día Internacional de la Eliminación de la Violencia contra la Mujer, a conmemorarse el 25 de noviembre.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

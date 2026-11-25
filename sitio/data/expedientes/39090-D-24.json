@@ -2,6 +2,7 @@
  "numero": "39090/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ferrero, Gvozdenovich, Bría y Siciliano, reconociendo al Sr. Juan Mendoza, quien obtuvo varios premios internacionales por la producción de queso azul en su fábrica ubicada en la localidad de Toro Pujio, Dpto. San Justo.",
+ "tema": "Reconociendo al Sr. Juan Mendoza, quien obtuvo varios premios internacionales por la producción de queso azul en su fábrica ubicada en la localidad de Toro Pujio, Dpto. San Justo.",
  "autores": [
   "Ferrero, Alejandra",
   "Gvozdenovich, Matias Pablo",
@@ -21,7 +22,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

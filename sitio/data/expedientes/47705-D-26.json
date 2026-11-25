@@ -2,6 +2,7 @@
  "numero": "47705/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Gudiño, adhiriendo a la Semana Olímpica 2026, a desarrollarse del 28 de septiembre al 2 de octubre en el Instituto Superior San Miguel de la ciudad de Córdoba.",
+ "tema": "Adhiriendo a la Semana Olímpica 2026, a desarrollarse del 28 de septiembre al 2 de octubre en el Instituto Superior San Miguel de la ciudad de Córdoba.",
  "autores": [
   "Gudiño, Daniela Soledad"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

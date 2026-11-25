@@ -2,6 +2,7 @@
  "numero": "45182/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, disponiendo que los deudores de cuotas alimentarias quedarán excluidos de los beneficios fiscales otorgados por el Poder Ejecutivo a cualquier tributo provincial, incluyendo bonificaciones, exenciones, descuentos, reducciones, incentivos o cualquier tratamiento preferencial en tributos.",
+ "tema": "Disponiendo que los deudores de cuotas alimentarias quedarán excluidos de los beneficios fiscales otorgados por el Poder Ejecutivo a cualquier tributo provincial, incluyendo bonificaciones, exenciones, descuentos, reducciones, incentivos o cualquier tratamiento preferencial en tributos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

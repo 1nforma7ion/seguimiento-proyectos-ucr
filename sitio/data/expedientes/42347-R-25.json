@@ -2,6 +2,7 @@
  "numero": "42347/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Briner, Bría, Molina, Contrera y Carignano, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados al incendio producido el pasado 18 de abril en la sede central de la APROSS, auditorías realizadas, situación financiera y estado contable.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos relacionados al incendio producido el pasado 18 de abril en la sede central de la APROSS, auditorías realizadas, situación financiera y estado contable.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -34,7 +35,8 @@
    "fecha": "2025-05-13",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

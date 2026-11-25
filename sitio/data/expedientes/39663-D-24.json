@@ -2,6 +2,7 @@
  "numero": "39663/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Jaimes y Contrera, adhiriendo a la 24ª Fiesta de Sabores Serranos, a desarrollarse del 18 al 20 de julio en la ciudad de Santa Rosa de Calamuchita.",
+ "tema": "Adhiriendo a la 24ª Fiesta de Sabores Serranos, a desarrollarse del 18 al 20 de julio en la ciudad de Santa Rosa de Calamuchita.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

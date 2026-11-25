@@ -2,6 +2,7 @@
  "numero": "42437/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a las fiestas patronales de la localidad de Santa Catalina, Dpto. Río Cuarto, a celebrarse el día 30 de abril en honor a Santa Catalina de Siena.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Santa Catalina, Dpto. Río Cuarto, a celebrarse el día 30 de abril en honor a Santa Catalina de Siena.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

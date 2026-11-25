@@ -2,6 +2,7 @@
  "numero": "42604/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Siciliano y Grich, expresando beneplácito por el 16º Festival Sabores y Saberes, en su edición especial en homenaje a \"Tany\" Gremiger, a desarrollarse el día 25 de mayo en la localidad de Las Higueras, Dpto. Río Cuarto.",
+ "tema": "Expresando beneplácito por el 16º Festival Sabores y Saberes, en su edición especial en homenaje a \"Tany\" Gremiger, a desarrollarse el día 25 de mayo en la localidad de Las Higueras, Dpto. Río Cuarto.",
  "autores": [
   "Siciliano, Miguel Angel",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44282/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba y Contrera, creando el Programa de Becas Académicas Universitarias \"José Antonio Balseiro\", bajo la órbita de la Legislatura de Córdoba.",
+ "tema": "Creando el Programa de Becas Académicas Universitarias \"José Antonio Balseiro\", bajo la órbita de la Legislatura de Córdoba.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

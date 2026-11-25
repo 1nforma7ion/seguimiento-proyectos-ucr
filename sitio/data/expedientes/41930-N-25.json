@@ -1,0 +1,91 @@
+{
+ "numero": "41930/N/25",
+ "tipo": "otros",
+ "extracto": "Nota del Legislador Nicolás, solicitando la rehabilitación del Proyecto N° 38624/L/24 conforme el Art. 111 del R.I.",
+ "tema": "Solicitando la rehabilitación del Proyecto N° 38624/L/24 conforme el Art. 111 del R.I.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2025-03-05",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-05",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-03-05",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 3 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-03-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 3 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-05"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41930%2FN%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

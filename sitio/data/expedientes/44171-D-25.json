@@ -2,6 +2,7 @@
  "numero": "44171/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Gudiño, expresando beneplácito por el 50º aniversario del jardín de infantes Alfredo Jorge Cersósimo de la localidad de La Tordilla, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por el 50º aniversario del jardín de infantes Alfredo Jorge Cersósimo de la localidad de La Tordilla, Dpto. San Justo.",
  "autores": [
   "Gudiño, Daniela Soledad"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

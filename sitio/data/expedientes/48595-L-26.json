@@ -2,6 +2,7 @@
  "numero": "48595/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Sebastián Peralta, Rossi y Contrera, garantizando la atención personal y telefónica humana en los servicios de atención al cliente de empresas públicas provinciales a personas mayores de 75 años.",
+ "tema": "Garantizando la atención personal y telefónica humana en los servicios de atención al cliente de empresas públicas provinciales a personas mayores de 75 años.",
  "autores": [
   "Peralta, Sebastián Amadeo",
   "Rossi, Dante Valentin",
@@ -21,7 +22,8 @@
    "fecha": "2026-11-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-04"
+  "caduca_el": "2027-11-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

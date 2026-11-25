@@ -2,6 +2,7 @@
  "numero": "38792/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Bloques UCR, Frente Cívico de Córdoba, Construyendo Córdoba y Coalición Cívica ARI, modificando el artículo 23 del Reglamento Interno de la Legislatura en lo referido a que las sesiones ordinarias deben realizarse de manera semanal obligatoriamente.",
+ "tema": "Modificando el artículo 23 del Reglamento Interno de la Legislatura en lo referido a que las sesiones ordinarias deben realizarse de manera semanal obligatoriamente.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque UCR",
@@ -22,7 +23,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

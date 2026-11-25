@@ -2,6 +2,7 @@
  "numero": "47866/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agost Carreño y Carignano, instruyendo a los Senadores (art. 104 inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba a no acompañar disposiciones del Presupuesto Nacional 2027 que impliquen regresión de derechos, prestaciones y coberturas para personas con discapacidad.",
+ "tema": "Instruyendo a los Senadores (art. 104 inc. 5 de la C.P.) e instando a los Diputados Nacionales por Córdoba a no acompañar disposiciones del Presupuesto Nacional 2027 que impliquen regresión de derechos, prestaciones y coberturas para personas con discapacidad.",
  "autores": [
   "Agost Carreño, Oscar",
   "Carignano, Carlos Atilio"
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

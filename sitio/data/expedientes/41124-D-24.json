@@ -2,6 +2,7 @@
  "numero": "41124/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, adhiriendo a la 11ª Marcha por el Derecho a la Salud Mental, a realizarse el 29 de noviembre en la ciudad de Córdoba bajo la consigna “Cuidar lo público, fortalecer la comunidad, defender la dignidad”.",
+ "tema": "Adhiriendo a la 11ª Marcha por el Derecho a la Salud Mental, a realizarse el 29 de noviembre en la ciudad de Córdoba bajo la consigna “Cuidar lo público, fortalecer la comunidad, defender la dignidad”.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

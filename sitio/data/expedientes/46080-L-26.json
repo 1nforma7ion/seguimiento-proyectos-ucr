@@ -2,6 +2,7 @@
  "numero": "46080/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, ampliando el alcance temporal del Boleto Educativo Cordobés (BEC) a doce meses del año calendario.",
+ "tema": "Ampliando el alcance temporal del Boleto Educativo Cordobés (BEC) a doce meses del año calendario.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

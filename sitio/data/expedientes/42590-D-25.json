@@ -2,6 +2,7 @@
  "numero": "42590/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo al Día Internacional de la Convivencia en Paz, que se conmemora cada 16 de mayo con el objetivo de promover el respeto, la solidaridad y la tolerancia.",
+ "tema": "Adhiriendo al Día Internacional de la Convivencia en Paz, que se conmemora cada 16 de mayo con el objetivo de promover el respeto, la solidaridad y la tolerancia.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

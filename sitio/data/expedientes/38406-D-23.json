@@ -1,0 +1,101 @@
+{
+ "numero": "38406/D/23",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Bruno y Navarro Alegre, adhiriendo al 100° aniversario de la capilla Santa Rosa de Lima, de la localidad de Ausonia, Dpto. Gral. San Martín, a conmemorarse el día 23 de diciembre.",
+ "tema": "Adhiriendo al 100° aniversario de la capilla Santa Rosa de Lima, de la localidad de Ausonia, Dpto. Gral. San Martín, a conmemorarse el día 23 de diciembre.",
+ "autores": [
+  "Nigro, Alfredo Mariano",
+  "Bruno, Karina Gabriela",
+  "Navarro Alegre, Veronica Fatima"
+ ],
+ "comisiones": [
+  "Asuntos Institucionales, Municipales y Comunales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2023-12-13",
+  "ultimo_movimiento": {
+   "fecha": "2023-12-13",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2023-12-13"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2023-12-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 39 del Período 145"
+  },
+  {
+   "fecha": "2023-12-13",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 39 del Período 145"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 39 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 39 del Período 145",
+   "periodo": 145,
+   "fecha": "2023-12-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27762",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Ug-XzUD8-to="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38406%2FD%2F23",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

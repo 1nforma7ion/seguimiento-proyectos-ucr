@@ -2,6 +2,7 @@
  "numero": "39810/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Bloque Frente Cívico de Córdoba, creando el Programa de Lucha contra la Ludopatía online.",
+ "tema": "Creando el Programa de Lucha contra la Ludopatía online.",
  "autores": [
   "Bloque FRENTE CIVICO DE CORDOBA",
   "Hernandez Maqueda, Gregorio",
@@ -25,7 +26,8 @@
    "fecha": "2024-10-23",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

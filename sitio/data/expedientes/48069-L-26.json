@@ -2,6 +2,7 @@
  "numero": "48069/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Soardo, Llamosas, Busso, Grich y Saliba, declarando fiesta provincial a la \"Fiesta El Peñón de Malena\", que se celebra en la localidad de Malena, Dpto. Río Cuarto.",
+ "tema": "Declarando fiesta provincial a la \"Fiesta El Peñón de Malena\", que se celebra en la localidad de Malena, Dpto. Río Cuarto.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Llamosas, Juan Manuel",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

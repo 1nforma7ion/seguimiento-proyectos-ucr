@@ -2,6 +2,7 @@
  "numero": "47346/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soado, adhiriendo a la 52ª Expo Agroindustrial y Ganadera de Vicuña Mackenna, a desarrollarse del 14 al 16 de agosto en la localidad homónima del Dpto. Río Cuarto.",
+ "tema": "Adhiriendo a la 52ª Expo Agroindustrial y Ganadera de Vicuña Mackenna, a desarrollarse del 14 al 16 de agosto en la localidad homónima del Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

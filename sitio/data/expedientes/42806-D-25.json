@@ -2,6 +2,7 @@
  "numero": "42806/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Gispert, Botta, Peirone, Nigro, Contrera y Bisotto, expresando beneplácito por el 15º aniversario de la plataforma cultural Bitácora de Vuelo, a conmemorarse el día 10 de junio.",
+ "tema": "Expresando beneplácito por el 15º aniversario de la plataforma cultural Bitácora de Vuelo, a conmemorarse el día 10 de junio.",
  "autores": [
   "Almada, Nancy Edith",
   "Gispert, Walter Oscar",
@@ -24,7 +25,8 @@
    "fecha": "2025-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43937/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Almada y Bisotto, expresando beneplácito por el Día Nacional de las Personas Sordas, que se conmemora cada 19 de septiembre.",
+ "tema": "Expresando beneplácito por el Día Nacional de las Personas Sordas, que se conmemora cada 19 de septiembre.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Almada, Nancy Edith",
@@ -20,7 +21,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

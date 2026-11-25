@@ -2,6 +2,7 @@
  "numero": "45486/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grich, Ferrero y Carignano, autorizando a municipios y comunas a otorgar permisos de uso, a título precario y oneroso, sobre tierras fiscales ubicadas fuera de la superficie reservada para las banquinas de rutas y caminos integrantes de la red vial provincial, con destino a actividades productivas compatibles.",
+ "tema": "Autorizando a municipios y comunas a otorgar permisos de uso, a título precario y oneroso, sobre tierras fiscales ubicadas fuera de la superficie reservada para las banquinas de rutas y caminos integrantes de la red vial provincial, con destino a actividades productivas compatibles.",
  "autores": [
   "Grich, Ariel Denis",
   "Ferrero, Alejandra",
@@ -21,7 +22,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

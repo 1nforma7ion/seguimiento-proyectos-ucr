@@ -2,6 +2,7 @@
  "numero": "41837/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, adhiriendo al 25º Festival de Música Popular y Feria de Artesanías, a desarrollarse los días 22 y 23 de febrero en la localidad de Camilo Aldao, Dpto. Marcos Juárez.",
+ "tema": "Adhiriendo al 25º Festival de Música Popular y Feria de Artesanías, a desarrollarse los días 22 y 23 de febrero en la localidad de Camilo Aldao, Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

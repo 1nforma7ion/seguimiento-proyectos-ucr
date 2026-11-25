@@ -2,6 +2,7 @@
  "numero": "39060/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Saliba, Valiente, Szpanin, Nigro, Jaimes, Bisotto, Ferrero, Gvozdenovich, Gudiño, Nicolás, Luna, Briner, Bottasso, Bría y Contrera, autorizando la ejecución de la obra \"Pavimentación, Demarcación horizontal y señalización vertical” de la Ruta provincial N° 10, en el tramo que une las localidades de Jovita y Pincén, Dpto. General Roca.",
+ "tema": "Autorizando la ejecución de la obra \"Pavimentación, Demarcación horizontal y señalización vertical” de la Ruta provincial N° 10, en el tramo que une las localidades de Jovita y Pincén, Dpto. General Roca.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Valiente, Lucas German",
@@ -34,7 +35,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

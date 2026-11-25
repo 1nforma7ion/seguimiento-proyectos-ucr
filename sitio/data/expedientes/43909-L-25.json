@@ -2,6 +2,7 @@
  "numero": "43909/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Peirone y Contrera, estableciendo un régimen integral de prevención, protección, asistencia y sanción frente a las agresiones físicas, verbales, simbólicas, digitales o de cualquier otra índole dirigidas contra el personal del sistema de salud, con enfoque de derechos humanos, perspectiva de género y abordaje preventivo integral.",
+ "tema": "Estableciendo un régimen integral de prevención, protección, asistencia y sanción frente a las agresiones físicas, verbales, simbólicas, digitales o de cualquier otra índole dirigidas contra el personal del sistema de salud, con enfoque de derechos humanos, perspectiva de género y abordaje preventivo integral.",
  "autores": [
   "Peirone, Juan Pablo",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

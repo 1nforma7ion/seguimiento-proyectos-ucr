@@ -2,6 +2,7 @@
  "numero": "44185/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, reconociendo al Teniente Coronel de Infantería VGM Jorge Rodolfo Svendsen, héroe de la Guerra de Malvinas, oriundo de la ciudad de Río Cuarto, quien se distinguió como piloto de helicóptero del Ejército Argentino.",
+ "tema": "Reconociendo al Teniente Coronel de Infantería VGM Jorge Rodolfo Svendsen, héroe de la Guerra de Malvinas, oriundo de la ciudad de Río Cuarto, quien se distinguió como piloto de helicóptero del Ejército Argentino.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

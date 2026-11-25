@@ -2,6 +2,7 @@
  "numero": "42395/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría y Bottasso, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre cantidad de médicos neonatólogos, detallando su distribución geográfica, así como la escala salarial para los que ejercen en el sector público y si existe esa información sobre el sector privado.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre cantidad de médicos neonatólogos, detallando su distribución geográfica, así como la escala salarial para los que ejercen en el sector público y si existe esa información sobre el sector privado.",
  "autores": [
   "Bria, Jose Alberto",
   "Bottasso, Gustavo Armando"
@@ -19,7 +20,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45070/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Grich solicitando licencia desde el 23 de diciembre de 2025 al 23 de enero de 2026, conforme el art. 15 del R.I. .",
+ "tema": "Nota remitida por el Legislador Grich solicitando licencia desde el 23 de diciembre de 2025 al 23 de enero de 2026, conforme el art. 15 del R.I. .",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-12-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

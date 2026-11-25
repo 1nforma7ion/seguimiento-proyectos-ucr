@@ -2,6 +2,7 @@
  "numero": "40858/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, disponiendo para todo establecimiento escolar de nivel inicial y medio, la obligatoriedad de la entrega anual de material de entrenamiento y educativo al comienzo de cada ciclo escolar para el desarrollo de la materia Educación Física.",
+ "tema": "Disponiendo para todo establecimiento escolar de nivel inicial y medio, la obligatoriedad de la entrega anual de material de entrenamiento y educativo al comienzo de cada ciclo escolar para el desarrollo de la materia Educación Física.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2025-10-30",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

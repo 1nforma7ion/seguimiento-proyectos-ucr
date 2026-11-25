@@ -2,6 +2,7 @@
  "numero": "41806/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por el involucramiento del Ejecutivo Nacional al lanzamiento de la criptomoneda $LIBRA, abogando por el rápido esclarecimiento de lo sucedido y la determinación de los responsables de este hecho.",
+ "tema": "Expresando preocupación por el involucramiento del Ejecutivo Nacional al lanzamiento de la criptomoneda $LIBRA, abogando por el rápido esclarecimiento de lo sucedido y la determinación de los responsables de este hecho.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

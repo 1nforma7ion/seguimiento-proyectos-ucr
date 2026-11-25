@@ -1,0 +1,87 @@
+{
+ "numero": "38544/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Saliba, expresando beneplácito por la realización de la 64° Fiesta Provincial del Trigo, desarrollada el pasado 3 de febrero en la localidad de Villa Huidobro, Dpto. Gral. Roca.",
+ "tema": "Expresando beneplácito por la realización de la 64° Fiesta Provincial del Trigo, desarrollada el pasado 3 de febrero en la localidad de Villa Huidobro, Dpto. Gral. Roca.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Agricultura, Ganadería y Recursos Renovables"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-02-14",
+  "ultimo_movimiento": {
+   "fecha": "2024-02-14",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-02-14"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  },
+  {
+   "fecha": "2024-02-14",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 1 del Período 146"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 1 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-02-14"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 27804",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=3iNTKCSbDkA="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=38544%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

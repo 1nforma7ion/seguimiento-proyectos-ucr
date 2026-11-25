@@ -2,6 +2,7 @@
  "numero": "39620/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Acevedo, Briner, Lorenzo, Contrera, Ovejeros, Frías, Stella Peralta, Bría, Peirone y Botta, declarando de Interés Legislativo la Semana Provincial de Prevención del Consumo de Drogas, a desarrollarse del 24 de junio al 1 de julio en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo la Semana Provincial de Prevención del Consumo de Drogas, a desarrollarse del 24 de junio al 1 de julio en la ciudad de Córdoba.",
  "autores": [
   "Acevedo, Maria Del Rosario",
   "Briner, Carlos Edgardo",
@@ -27,7 +28,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

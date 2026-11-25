@@ -2,6 +2,7 @@
  "numero": "43962/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, reconociendo a la Sociedad Rural de la ciudad de Hernando, Dpto. Tercero Arriba en el marco de su 50° aniversario.",
+ "tema": "Reconociendo a la Sociedad Rural de la ciudad de Hernando, Dpto. Tercero Arriba en el marco de su 50° aniversario.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

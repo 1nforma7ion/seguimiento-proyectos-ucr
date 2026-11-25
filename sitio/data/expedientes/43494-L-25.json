@@ -2,6 +2,7 @@
  "numero": "43494/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Botta, Bottasso, Martoccia, Szpanin, Nigro, Saliba, Valiente y Almada, modificando la Ley N° 8560 -Código de Tránsito de la Provincia -, para disponer el uso de dispositivos lumínicos intermitentes en vehículos afectados a servicios de emergencia, seguridad o auxilio, con el objeto de armonizar la seguridad vial con los derechos sensoriales de las personas.",
+ "tema": "Modificando la Ley N° 8560 -Código de Tránsito de la Provincia -, para disponer el uso de dispositivos lumínicos intermitentes en vehículos afectados a servicios de emergencia, seguridad o auxilio, con el objeto de armonizar la seguridad vial con los derechos sensoriales de las personas.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Botta, Patricia Isabel",
@@ -28,7 +29,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

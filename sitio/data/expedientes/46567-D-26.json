@@ -2,6 +2,7 @@
  "numero": "46567/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Grich, reconociendo a la Asociación Civil de Bochas de Coronel Moldes por el rol vital en su comunidad.",
+ "tema": "Reconociendo a la Asociación Civil de Bochas de Coronel Moldes por el rol vital en su comunidad.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-10",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-10"
  },
  "desconocidos": [],
  "linea_tiempo": [

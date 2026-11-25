@@ -2,6 +2,7 @@
  "numero": "40963/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Bottasso y Bría, reconociendo a las jóvenes cordobesas que obtuvieron el Premio al Impacto Social, con la presentación de la herramienta llamada Flame Fighters.",
+ "tema": "Reconociendo a las jóvenes cordobesas que obtuvieron el Premio al Impacto Social, con la presentación de la herramienta llamada Flame Fighters.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -21,7 +22,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

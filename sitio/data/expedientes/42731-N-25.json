@@ -2,6 +2,7 @@
  "numero": "42731/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Gvozdenovich, adhiriendo a la Sesión Especial convocada por Decreto de la Presidencia de la Legislatura, con fecha 23 de mayo, conforme el art. 26 del R.I., a efectos fijar la posición institucional respecto de la reimposición de los derechos de exportación aplicados a la producción agropecuaria.",
+ "tema": "Nota remitida por el Legislador Gvozdenovich, adhiriendo a la Sesión Especial convocada por Decreto de la Presidencia de la Legislatura, con fecha 23 de mayo, conforme el art. 26 del R.I., a efectos fijar la posición institucional respecto de la reimposición de los derechos de exportación aplicados a la producción agropecuaria.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-05-28",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -1,0 +1,87 @@
+{
+ "numero": "47465/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Nicolás, solicitando al Poder Ejecutivo informe (art.102 C.P.) sobre aspectos referidos a contrataciones publicitarias realizadas a distintas empresas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art.102 C.P.) sobre aspectos referidos a contrataciones publicitarias realizadas a distintas empresas.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [
+  "Transporte y Comunicaciones"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-08-26",
+  "ultimo_movimiento": {
+   "fecha": "2026-08-26",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-08-26",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  },
+  {
+   "fecha": "2026-08-26",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 14 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 14 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-08-26"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Transporte y Comunicaciones · 18",
+   "url": null
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=47465%2FR%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

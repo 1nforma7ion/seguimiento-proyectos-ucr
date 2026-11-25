@@ -2,6 +2,7 @@
  "numero": "42297/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Saliba, Contrera, Carignano y Bisotto reconociendo a los alumnos de 4º año de la escuela PRoA de la ciudad de Huinca Renancó, Dpto. General Roca, por la creación de un bastón inteligente destinado a mejorar la calidad de vida de las personas no videntes.",
+ "tema": "Proyecto de Declaración, iniciado por los Legisladores Saliba, Contrera, Carignano y Bisotto reconociendo a los alumnos de 4º año de la escuela PRoA de la ciudad de Huinca Renancó, Dpto. General Roca, por la creación de un bastón inteligente destinado a mejorar la calidad de vida de las personas no videntes.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2025-04-14",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-14"
  },
  "desconocidos": [],
  "linea_tiempo": [

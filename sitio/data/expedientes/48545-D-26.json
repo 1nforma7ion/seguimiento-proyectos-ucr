@@ -2,6 +2,7 @@
  "numero": "48545/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Agüero y la totalidad de los miembros de la Cámara, expresando pesar y repudiando el femicidio de la docente correntina Nanci Estela Godoy, acompañamiento a sus familiares, colegas y comunidad educativa.",
+ "tema": "Expresando pesar y repudiando el femicidio de la docente correntina Nanci Estela Godoy, acompañamiento a sus familiares, colegas y comunidad educativa.",
  "autores": [
   "Aguero, Noelia Beatriz",
   "Bloque HACEMOS UNIDOS POR CORDOBA",
@@ -29,7 +30,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46324/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Nigro, Austin, Carignano, Bottasso, Gvozdenovich, Molina, Valiente y Nicolás, rindiendo homenaje a Edelmiro Cruz Bustos Benavides, militante radical secuestrado en la última dictadura militar, cuyos restos fueron hallados e identificados en el ex centro clandestino de detención La Perla.",
+ "tema": "Rindiendo homenaje a Edelmiro Cruz Bustos Benavides, militante radical secuestrado en la última dictadura militar, cuyos restos fueron hallados e identificados en el ex centro clandestino de detención La Perla.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -27,7 +28,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

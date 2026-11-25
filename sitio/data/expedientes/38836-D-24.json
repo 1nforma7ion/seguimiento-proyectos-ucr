@@ -2,6 +2,7 @@
  "numero": "38836/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Bloques UCR, Coalición Cívica ARI y los Legisladores Gispert, Gloria Pereyra y Rossi, manifestando desagrado por la actitud de la Sra. Vicegobernadora de la provincia, por cercenar la libertad de expresión en el debate de la sesión próximo pasada a los Legisladores de la oposición.",
+ "tema": "Manifestando desagrado por la actitud de la Sra. Vicegobernadora de la provincia, por cercenar la libertad de expresión en el debate de la sesión próximo pasada a los Legisladores de la oposición.",
  "autores": [
   "Bloque UCR",
   "Gispert, Walter Oscar",
@@ -32,7 +33,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

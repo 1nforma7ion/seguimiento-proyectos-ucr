@@ -1,0 +1,105 @@
+{
+ "numero": "40976/R/24",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Saliba, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los incrementos tarifarios de la energía eléctrica autorizados por el ERSeP en 2024 y respecto a detalles de la contratación de un consultor independiente para la prestación de servicios de asistencia técnica para la determinación de las tarifas de las Cooperativas concesionarias del servicio público de distribución de energía eléctrica.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los incrementos tarifarios de la energía eléctrica autorizados por el ERSeP en 2024 y respecto a detalles de la contratación de un consultor independiente para la prestación de servicios de asistencia técnica para la determinación de las tarifas de las Cooperativas concesionarias del servicio público de distribución de energía eléctrica.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "rechazado",
+  "sobre_tablas": false,
+  "ingreso": "2024-11-13",
+  "ultimo_movimiento": {
+   "fecha": "2025-02-05",
+   "texto": "No fue aprobado (rechazado)"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-05"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": "2024-11-13",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 18 del Período 146"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "Se debatió en el recinto",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  },
+  {
+   "fecha": "2025-02-05",
+   "texto": "No fue aprobado (rechazado)",
+   "detalle": "Sesión Ordinaria 1 del Período 147"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 18 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-11-13"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Debatido en Camara",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Rechazado",
+   "sesion": "Sesión Ordinaria 1 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-02-05"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40976%2FR%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

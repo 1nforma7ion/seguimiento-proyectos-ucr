@@ -2,6 +2,7 @@
  "numero": "39751/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ferrero y Nigro, modificando el Art. 58 de la Ley Nº 8024, de Régimen General de Jubilaciones, Pensiones y Retiros, estableciendo que es compatible el goce de jubilación o retiro con la pensión, y el goce de dos pensiones, cuando éstas deriven de servicios prestados por dos personas o de actividades distintas que permitan beneficios jubilatorios compatibles y, en caso de acumulación en una persona de más de un beneficio, no se aplicará aporte solidario alguno.",
+ "tema": "Modificando el Art. 58 de la Ley Nº 8024, de Régimen General de Jubilaciones, Pensiones y Retiros, estableciendo que es compatible el goce de jubilación o retiro con la pensión, y el goce de dos pensiones, cuando éstas deriven de servicios prestados por dos personas o de actividades distintas que permitan beneficios jubilatorios compatibles y, en caso de acumulación en una persona de más de un beneficio, no se aplicará aporte solidario alguno.",
  "autores": [
   "Ferrero, Alejandra",
   "Nigro, Alfredo Mariano"
@@ -20,7 +21,8 @@
    "fecha": "2024-12-18",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

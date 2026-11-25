@@ -2,6 +2,7 @@
  "numero": "48474/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Ferrero, Szpanin, Nigro, Austin, Gvozdenovich, Nicolás, Saliba, Bría y Contrera, repudiando la condena de tres años de prisión de ejecución condicional impuesta al ex Legislador provincial Oscar González por la tragedia de las Altas Cumbres.",
+ "tema": "Repudiando la condena de tres años de prisión de ejecución condicional impuesta al ex Legislador provincial Oscar González por la tragedia de las Altas Cumbres.",
  "autores": [
   "Ferrero, Alejandra",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

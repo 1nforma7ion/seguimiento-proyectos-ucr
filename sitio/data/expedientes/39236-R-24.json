@@ -2,6 +2,7 @@
  "numero": "39236/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Gvozdenovich, Ferrero, Nigro, Carignano, Briner, Gudiño, Bisotto, Bottasso, Bría y Jaimes, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al cierre de cursos o divisiones en diferentes IPEM de la provincia en el año en curso, y si tiene previstos próximos cierres.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al cierre de cursos o divisiones en diferentes IPEM de la provincia en el año en curso, y si tiene previstos próximos cierres.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2024-07-24",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

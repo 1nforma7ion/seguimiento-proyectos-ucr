@@ -2,6 +2,7 @@
  "numero": "41227/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Bría y Quaglino, adhiriendo al 184º aniversario de la Batalla de Quebracho Herrado, a conmemorarse el día 28 de noviembre.",
+ "tema": "Adhiriendo al 184º aniversario de la Batalla de Quebracho Herrado, a conmemorarse el día 28 de noviembre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2024-11-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

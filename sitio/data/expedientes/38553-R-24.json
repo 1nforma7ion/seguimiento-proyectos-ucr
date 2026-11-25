@@ -2,6 +2,7 @@
  "numero": "38553/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Austin, Saliba, Briner, Bottasso, Bría, Contreras, Carignano, Nicolás, Szpanin y Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre intervenciones cardiovasculares realizadas en el período 2019/2023 en los hospitales públicos provinciales, y respecto de la lista de espera para el año en curso.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre intervenciones cardiovasculares realizadas en el período 2019/2023 en los hospitales públicos provinciales, y respecto de la lista de espera para el año en curso.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Austin, Brenda Lis",
@@ -28,7 +29,8 @@
    "fecha": "2024-06-19",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "38618/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Bisotto, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Bría, Molina, Contrera, Carignano y Szpanin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a la cobertura que brinda el sistema de salud pública de la provincia a pacientes que padecen de lupus, síndrome antifosfolípido (SAF) y otras enfermedades reumáticas.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a la cobertura que brinda el sistema de salud pública de la provincia a pacientes que padecen de lupus, síndrome antifosfolípido (SAF) y otras enfermedades reumáticas.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -31,7 +32,8 @@
    "fecha": "2024-12-18",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

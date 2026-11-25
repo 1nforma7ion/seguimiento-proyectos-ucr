@@ -2,6 +2,7 @@
  "numero": "48726/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo disponga la reparación edilicia y otras obras de infraestructura en el IPET Nº 251 - Guarnición Aérea Córdoba, de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo disponga la reparación edilicia y otras obras de infraestructura en el IPET Nº 251 - Guarnición Aérea Córdoba, de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

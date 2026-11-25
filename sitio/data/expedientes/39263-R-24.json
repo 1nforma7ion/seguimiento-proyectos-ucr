@@ -2,6 +2,7 @@
  "numero": "39263/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Carignano, Gvozdenovich, Szpanin, Ferrero, Nigro, Briner, Luna, Bisotto, Bría, Valiente, Jaimes, Nicolás, Saliba y Molina, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la situación de los niños con discapacidad matriculados en establecimientos escolares provinciales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la situación de los niños con discapacidad matriculados en establecimientos escolares provinciales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -33,7 +34,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

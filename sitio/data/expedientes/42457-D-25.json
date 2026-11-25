@@ -2,6 +2,7 @@
  "numero": "42457/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, repudiando la información publicada e instando a que se rectifique, en la Página Oficial del Ministerio de Justicia y Derechos Humanos, respecto de la fecha de inauguración del Complejo Carcelario Nº 1 Rvdo. Francisco Luchesse, Bouwer.",
+ "tema": "Repudiando la información publicada e instando a que se rectifique, en la Página Oficial del Ministerio de Justicia y Derechos Humanos, respecto de la fecha de inauguración del Complejo Carcelario Nº 1 Rvdo. Francisco Luchesse, Bouwer.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

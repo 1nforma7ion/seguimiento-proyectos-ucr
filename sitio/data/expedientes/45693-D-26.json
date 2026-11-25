@@ -2,6 +2,7 @@
  "numero": "45693/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, reconociendo a las ingenieras biomédicas Luciana Rocio Bussi y María Luz Rivoira por el desarrollo de la \"Plataforma IoT\" para monitoreo de semáforos solares.",
+ "tema": "Reconociendo a las ingenieras biomédicas Luciana Rocio Bussi y María Luz Rivoira por el desarrollo de la \"Plataforma IoT\" para monitoreo de semáforos solares.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-03-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45984/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, Llamosas y Grich, reconociendo la labor educativa, social y productiva desarrollada por el IPEA N° 1 “Ingeniero Agrónomo Luciano Almirón”, de la localidad de Malena, Dpto. Río Cuarto.",
+ "tema": "Reconociendo la labor educativa, social y productiva desarrollada por el IPEA N° 1 “Ingeniero Agrónomo Luciano Almirón”, de la localidad de Malena, Dpto. Río Cuarto.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

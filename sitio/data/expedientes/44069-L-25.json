@@ -2,6 +2,7 @@
  "numero": "44069/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Carignano, Contrera, Ferrero, Gudiño, Jaimes, Luna, Molina, Nicolás, Nigro, Peirone, Saliba, Szpanin, Sebastián Peralta, Martoccia, Stella Peralta, Romero, Heredia, Alesandri, Almada y Bría, creando el Régimen de Atención y Asistencia Integral del Lupus y otras enfermedades reumáticas.",
+ "tema": "Creando el Régimen de Atención y Asistencia Integral del Lupus y otras enfermedades reumáticas.",
  "autores": [
   "Austin, Brenda Lis",
   "Carignano, Carlos Atilio",
@@ -39,7 +40,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48232/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Llamosas, Soardo y Grich, adhiriendo a la 24a Muestra Estudiantil de Teatro, en el marco conmemorativo del 50º aniversario del CEIJA Nº 19 “Intendente Francisco Josué Brarda” de la localidad de Alcira Gigena; Dpto. Río Cuarto,",
+ "tema": "Adhiriendo a la 24a Muestra Estudiantil de Teatro, en el marco conmemorativo del 50º aniversario del CEIJA Nº 19 “Intendente Francisco Josué Brarda” de la localidad de Alcira Gigena; Dpto. Río Cuarto,",
  "autores": [
   "Llamosas, Juan Manuel",
   "Soardo, Leonor Jorgelina",
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

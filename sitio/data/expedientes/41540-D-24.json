@@ -1,0 +1,93 @@
+{
+ "numero": "41540/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Nicolás, rechazando la incorporación de un cargo fijo en el suministro nacional eléctrico para todas las provincias para el desarrollo de una obra para el AMBA e instando al Poder Ejecutivo que elimine de la facturación mensual que hace la Epec, todo cargo que no corresponda al consumo realizado por cada usuario conforme Resolución 267/2024, de la Secretaría de Industria y Comercio del Ministerio de Economía de la Nación.",
+ "tema": "Rechazando la incorporación de un cargo fijo en el suministro nacional eléctrico para todas las provincias para el desarrollo de una obra para el AMBA e instando al Poder Ejecutivo que elimine de la facturación mensual que hace la Epec, todo cargo que no corresponda al consumo realizado por cada usuario conforme Resolución 267/2024, de la Secretaría de Industria y Comercio del Ministerio de Economía de la Nación.",
+ "autores": [
+  "Nicolas, Miguel Osvaldo"
+ ],
+ "comisiones": [
+  "Infraestructura y Servicios Públicos"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-12-18",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": "2025-12-18",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-12-18"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41540%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

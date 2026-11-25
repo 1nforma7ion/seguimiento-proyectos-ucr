@@ -1,0 +1,127 @@
+{
+ "numero": "41497/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Acuña, Almada, Jaimes, Molina, Rossi y el Bloque Hacemos Unidos por Córdoba, estableciendo la gestión, promoción, acceso y creación de museos en la provincia, con el objeto de proteger, preservar y conservar el patrimonio material e inmaterial de nuestro acervo cultural.",
+ "tema": "Estableciendo la gestión, promoción, acceso y creación de museos en la provincia, con el objeto de proteger, preservar y conservar el patrimonio material e inmaterial de nuestro acervo cultural.",
+ "autores": [
+  "Acuña, Karen Belen",
+  "Almada, Nancy Edith",
+  "Bloque HACEMOS UNIDOS POR CORDOBA",
+  "Jaimes, Mauricio Sebastian",
+  "Molina, Victor Eduardo",
+  "Rossi, Dante Valentin"
+ ],
+ "comisiones": [
+  "Cultura",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-12-18",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-12-18",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": "2024-12-18",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 22 del Período 146"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 22 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-12-18"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Cultura · 14",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho Compatibilizado (10/1/2025)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11065",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=Tu6GBeIx-cs="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=41497%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

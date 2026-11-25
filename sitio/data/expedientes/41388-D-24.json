@@ -2,6 +2,7 @@
  "numero": "41388/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría, Tévez y Quaglino, expresando beneplácito por el 33° Torneo Amistad de Oro de Fútbol Infantil, que se desarrolla del 7 al 16 de diciembre en la ciudad de Brinkmann, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por el 33° Torneo Amistad de Oro de Fútbol Infantil, que se desarrolla del 7 al 16 de diciembre en la ciudad de Brinkmann, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto",
   "Tevez, Gustavo Alejandro",
@@ -20,7 +21,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41217/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Austin y Jurich, instituyendo el emplazamiento de un Banco Rojo, con el objetivo de contribuir a la sensibilización y reflexión en la sociedad sobre los femicidios.",
+ "tema": "Instituyendo el emplazamiento de un Banco Rojo, con el objetivo de contribuir a la sensibilización y reflexión en la sociedad sobre los femicidios.",
  "autores": [
   "Austin, Brenda Lis",
   "Jurich, Silvina Dolores"
@@ -20,7 +21,8 @@
    "fecha": "2025-11-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

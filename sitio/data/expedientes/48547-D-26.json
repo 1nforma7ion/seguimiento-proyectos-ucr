@@ -2,6 +2,7 @@
  "numero": "48547/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Blangino, Presas, Ceballos, Romero y Bottasso, reconociendo a Holodomor de 1932-1933 como genocidio perpetrado contra el pueblo ucraniano, por el régimen estalinista de la entonces Unión Soviética.",
+ "tema": "Reconociendo a Holodomor de 1932-1933 como genocidio perpetrado contra el pueblo ucraniano, por el régimen estalinista de la entonces Unión Soviética.",
  "autores": [
   "Blangino, Juan Jose",
   "Presas, Luciana Maria",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

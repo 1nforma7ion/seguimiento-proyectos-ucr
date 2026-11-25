@@ -2,6 +2,7 @@
  "numero": "40841/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Bloques UCR y Frente Cívico de Córdoba, adhiriendo la provincia al Régimen de Incentivo para Grandes Inversiones (RIGI) previsto en el Título VII de la Ley N° 27742 y su marco regulatorio.",
+ "tema": "Adhiriendo la provincia al Régimen de Incentivo para Grandes Inversiones (RIGI) previsto en el Título VII de la Ley N° 27742 y su marco regulatorio.",
  "autores": [
   "Bloque UCR",
   "Bloque FRENTE CIVICO DE CORDOBA"
@@ -20,7 +21,8 @@
    "fecha": "2024-10-16",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

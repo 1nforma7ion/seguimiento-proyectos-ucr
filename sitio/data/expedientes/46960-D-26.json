@@ -2,6 +2,7 @@
  "numero": "46960/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bria y Tévez, expresando beneplácito por el 25 aniversario del emprendimiento de entretenimiento familiar Las Tipas y la inauguración de un nuevo complejo en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por el 25 aniversario del emprendimiento de entretenimiento familiar Las Tipas y la inauguración de un nuevo complejo en la ciudad de Córdoba.",
  "autores": [
   "Bria, Jose Alberto",
   "Tevez, Gustavo Alejandro"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

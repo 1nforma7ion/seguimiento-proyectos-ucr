@@ -2,6 +2,7 @@
  "numero": "43814/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Szpanin, Contrera, Martoccia y Botta, creando el Programa de Prevención y Abordaje Integral de la Violencia Digital en Ámbitos Educativos.",
+ "tema": "Creando el Programa de Prevención y Abordaje Integral de la Violencia Digital en Ámbitos Educativos.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes",
@@ -24,7 +25,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

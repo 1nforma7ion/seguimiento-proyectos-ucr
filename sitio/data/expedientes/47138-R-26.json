@@ -2,6 +2,7 @@
  "numero": "47138/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Ferrero, Nigro, y Bría, solicitando la comparecencia de la Sra. ex Ministra de Desarrollo Social y Promoción del Empleo, para que informe sobre criterios de determinación de beneficiarios del Subprograma \"Emergencias Sociales y Naturales\".",
+ "tema": "Solicitando la comparecencia de la Sra. ex Ministra de Desarrollo Social y Promoción del Empleo, para que informe sobre criterios de determinación de beneficiarios del Subprograma \"Emergencias Sociales y Naturales\".",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -22,7 +23,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

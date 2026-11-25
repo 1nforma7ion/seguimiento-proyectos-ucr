@@ -2,6 +2,7 @@
  "numero": "41512/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, eliminando el Capítulo 4º de la Ley Nº 8835, Carta del Ciudadano, de creación del Ente Regulador de Servicios Públicos (ERSeP) artículos 22 al 33, derogando todas las leyes, decretos y disposiciones relacionadas con el Ente Regulador de Servicios Públicos.",
+ "tema": "Eliminando el Capítulo 4º de la Ley Nº 8835, Carta del Ciudadano, de creación del Ente Regulador de Servicios Públicos (ERSeP) artículos 22 al 33, derogando todas las leyes, decretos y disposiciones relacionadas con el Ente Regulador de Servicios Públicos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2025-12-27",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

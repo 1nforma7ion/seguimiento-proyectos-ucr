@@ -2,6 +2,7 @@
  "numero": "39008/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Bruno, Torres Lima, Presas, Gloria Pereyra, Acevedo, Ceballos Recalde, Rébora, Gudiño, Jaimes, Acuña, Blangino, Chamorro, Russo, Tévez y Rossi, declarando al Rally Cordobés como parte integrante del patrimonio cultural intangible e inmaterial de la provincia, en los términos de la Ley N° 9729.",
+ "tema": "Declarando al Rally Cordobés como parte integrante del patrimonio cultural intangible e inmaterial de la provincia, en los términos de la Ley N° 9729.",
  "autores": [
   "Bruno, Karina Gabriela",
   "Torres Lima, Facundo",
@@ -34,7 +35,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

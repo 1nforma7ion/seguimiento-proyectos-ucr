@@ -2,6 +2,7 @@
  "numero": "46192/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Brizuela, Limia, Lorenzo, Chamorro, Contrera y Ceballos Recalde, adhiriendo a la Ley Nacional Nº 27159, de Muerte Súbita, disponiendo la capacitación obligatoria de Técnicas de Reanimación Cardiopulmonar y Primeros Auxilios a todos los integrantes de la Administración Pública Provincial.",
+ "tema": "Adhiriendo a la Ley Nacional Nº 27159, de Muerte Súbita, disponiendo la capacitación obligatoria de Técnicas de Reanimación Cardiopulmonar y Primeros Auxilios a todos los integrantes de la Administración Pública Provincial.",
  "autores": [
   "Brizuela, Maria Noelia",
   "Chamorro, Matias Ezequiel",
@@ -24,7 +25,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

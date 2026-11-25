@@ -2,6 +2,7 @@
  "numero": "44023/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Nigro, Austin, Carignano, Gudiño, Rossi, Martoccia, Gvozdenovich, Jaimes, Saliba, Nicolás, Molina, Botta, Echevarría, Sebastián Peralta, Juez, Almada, Gispert, Peirone, Bría, Bottasso y Hernández Maqueda, estableciendo y regulando la titularización de docentes de apoyo a la inclusión (DAI) en el sistema educativo provincial.",
+ "tema": "Estableciendo y regulando la titularización de docentes de apoyo a la inclusión (DAI) en el sistema educativo provincial.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -42,7 +43,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

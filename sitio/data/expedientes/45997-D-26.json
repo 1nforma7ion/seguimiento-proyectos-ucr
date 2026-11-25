@@ -2,6 +2,7 @@
  "numero": "45997/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Eslava, Lorenzo, Flores, Galo, Limia, Torres Lima, Ceballos Recalde, Busso, Nicolás, Szpanin, Gvozdenovich, Jaimes, Contrera, Bría, Sosa, Heredia, Russo, Alesandri, Rébora y Bottasso, expresando preocupación por el posible cierre del Hipódromo Córdoba.",
+ "tema": "Expresando preocupación por el posible cierre del Hipódromo Córdoba.",
  "autores": [
   "Eslava, Marcelo Alejandro Jose",
   "Lorenzo, Carlos Mariano",
@@ -37,7 +38,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

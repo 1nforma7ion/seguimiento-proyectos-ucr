@@ -2,6 +2,7 @@
  "numero": "38535/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Ferrero, Molina, Gvozdenovich, Luna, Botasso, Carignano, Valiente, Nicolás y Agrelo, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) respecto al número de funcionarios, agentes y empleados del sector público que han realizado la capacitación obligatoria y actualizada sobre el trato adecuado a personas con discapacidad, establecido en el artículo 3 de la Ley N° 10728.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) respecto al número de funcionarios, agentes y empleados del sector público que han realizado la capacitación obligatoria y actualizada sobre el trato adecuado a personas con discapacidad, establecido en el artículo 3 de la Ley N° 10728.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -29,7 +30,8 @@
    "fecha": "2024-08-07",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

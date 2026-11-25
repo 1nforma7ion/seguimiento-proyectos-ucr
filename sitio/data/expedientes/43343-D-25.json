@@ -2,6 +2,7 @@
  "numero": "43343/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Almada y Contrera, reconociendo la 10° muestra colectiva de arte y diseño Expo Arte 2025, por su aporte al quehacer cultural de la provincia.",
+ "tema": "Reconociendo la 10° muestra colectiva de arte y diseño Expo Arte 2025, por su aporte al quehacer cultural de la provincia.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

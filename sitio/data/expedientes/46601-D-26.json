@@ -2,6 +2,7 @@
  "numero": "46601/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Szpanin y Contrera, expresando beneplácito por el III Encuentro Internacional de Mujeres Notarias y Líderes de América, a desarrollarse el 13 y 14 de agosto en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por el III Encuentro Internacional de Mujeres Notarias y Líderes de América, a desarrollarse el 13 y 14 de agosto en la ciudad de Córdoba.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-10",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-10"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46950/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Soardo, Llamosas y Grich, adhiriendo al 98° aniversario de la fundación de la localidad de San Basilio, Dpto. Río Cuarto, a celebrarse el día 23 de agosto.",
+ "tema": "Adhiriendo al 98° aniversario de la fundación de la localidad de San Basilio, Dpto. Río Cuarto, a celebrarse el día 23 de agosto.",
  "autores": [
   "Soardo, Leonor Jorgelina",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41457/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, reconociendo al escritor y profesor Esteban Cichello Hübner por su destacada trayectoria de vida, verdadero ejemplo de superación personal.",
+ "tema": "Reconociendo al escritor y profesor Esteban Cichello Hübner por su destacada trayectoria de vida, verdadero ejemplo de superación personal.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

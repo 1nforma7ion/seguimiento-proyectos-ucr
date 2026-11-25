@@ -2,6 +2,7 @@
  "numero": "43122/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Colonia Marina, Dpto. San Justo, a celebrarse el día 18 de julio en honor a Santa Marina.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Colonia Marina, Dpto. San Justo, a celebrarse el día 18 de julio en honor a Santa Marina.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

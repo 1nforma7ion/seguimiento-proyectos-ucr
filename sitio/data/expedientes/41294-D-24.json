@@ -2,6 +2,7 @@
  "numero": "41294/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Suárez, Jurich, Russo, Acuña, Contrera, Acevedo, Tévez, Stella Peralta y Cristina Pereyra, expresando beneplácito por el Día Internacional de la Mujer Emprendedora, que se conmemora cada 19 de noviembre.",
+ "tema": "Expresando beneplácito por el Día Internacional de la Mujer Emprendedora, que se conmemora cada 19 de noviembre.",
  "autores": [
   "Suarez, Carmen Esther",
   "Acevedo, Maria Del Rosario",
@@ -26,7 +27,8 @@
    "fecha": "2024-11-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

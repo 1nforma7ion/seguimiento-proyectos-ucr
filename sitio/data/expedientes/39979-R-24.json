@@ -2,6 +2,7 @@
  "numero": "39979/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bottasso, solicitando se designen los legisladores que conformarán el Consejo Consultivo, conforme el Art. 13 de la Ley N° 10721, de Promoción y Desarrollo para la Producción y Consumo de Biocombustibles y Bioenergía.",
+ "tema": "Solicitando se designen los legisladores que conformarán el Consejo Consultivo, conforme el Art. 13 de la Ley N° 10721, de Promoción y Desarrollo para la Producción y Consumo de Biocombustibles y Bioenergía.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

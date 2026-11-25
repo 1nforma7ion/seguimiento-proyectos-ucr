@@ -2,6 +2,7 @@
  "numero": "47564/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legislador Tévez,Gudiño y Bría, adhiriendo al 113° aniversario de la localidad de Toro Pujio, Dpto. San Justo, a celebrarse el día 29 de septiembre.",
+ "tema": "Adhiriendo al 113° aniversario de la localidad de Toro Pujio, Dpto. San Justo, a celebrarse el día 29 de septiembre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Gudiño, Daniela Soledad",
@@ -20,7 +21,8 @@
    "fecha": "2026-09-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

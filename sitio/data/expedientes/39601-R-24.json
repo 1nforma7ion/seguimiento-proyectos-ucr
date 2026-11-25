@@ -2,6 +2,7 @@
  "numero": "39601/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo arbitre los medios para entregar una ayuda económica a la comuna de Chalacea, Dpto. Río Primero, para la reparación de las oficinas y su mobiliario, debido al incendio del pasado 8 de diciembre que provocó severos daños en la estructura edilicia, comprometiendo su normal funcionamiento.",
+ "tema": "Solicitando al Poder Ejecutivo arbitre los medios para entregar una ayuda económica a la comuna de Chalacea, Dpto. Río Primero, para la reparación de las oficinas y su mobiliario, debido al incendio del pasado 8 de diciembre que provocó severos daños en la estructura edilicia, comprometiendo su normal funcionamiento.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-06-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43766/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Almada y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a proyectos y protocolos de revinculación de niños, niñas y adolescentes bajo medida excepcional.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a proyectos y protocolos de revinculación de niños, niñas y adolescentes bajo medida excepcional.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-03",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

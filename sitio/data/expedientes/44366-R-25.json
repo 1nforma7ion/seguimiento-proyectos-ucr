@@ -2,6 +2,7 @@
  "numero": "44366/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Ferrero y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la implementación, controles, prevención y resultados del régimen de juego en línea, regulado por las Leyes Nros. 10.793 y 10.986 y normas complementarias.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre la implementación, controles, prevención y resultados del régimen de juego en línea, regulado por las Leyes Nros. 10.793 y 10.986 y normas complementarias.",
  "autores": [
   "Ferrero, Alejandra",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

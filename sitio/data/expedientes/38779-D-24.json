@@ -2,6 +2,7 @@
  "numero": "38779/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, declarando de Interés Legislativo la 60° Fiesta Nacional de la Alfalfa, a desarrollarse el día 16 de marzo en la localidad de San Basilio, Dpto. Río Cuarto.",
+ "tema": "Declarando de Interés Legislativo la 60° Fiesta Nacional de la Alfalfa, a desarrollarse el día 16 de marzo en la localidad de San Basilio, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-03-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

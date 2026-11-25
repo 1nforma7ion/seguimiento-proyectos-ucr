@@ -2,6 +2,7 @@
  "numero": "43469/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, expresando preocupación por la muerte de Brenda Torres e instando a las autoridades provinciales a establecer mas controles y realizar una profunda investigación de los ingresos de drogas a la Provincia.",
+ "tema": "Expresando preocupación por la muerte de Brenda Torres e instando a las autoridades provinciales a establecer mas controles y realizar una profunda investigación de los ingresos de drogas a la Provincia.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

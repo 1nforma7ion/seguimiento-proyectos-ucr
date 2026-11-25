@@ -2,6 +2,7 @@
  "numero": "39758/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución iniciado por los Legisladores Gispert, Gloria Pereyra, Bría y Hernández Maqueda, citando a sesión del pleno de la Legislatura para tratar la designación del Defensor del Pueblo.",
+ "tema": "Citando a sesión del pleno de la Legislatura para tratar la designación del Defensor del Pueblo.",
  "autores": [
   "Gispert, Walter Oscar",
   "Pereyra, Carmen Gloria",
@@ -21,7 +22,8 @@
    "fecha": "2025-07-24",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

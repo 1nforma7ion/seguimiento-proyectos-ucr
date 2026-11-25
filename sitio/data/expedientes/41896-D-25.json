@@ -2,6 +2,7 @@
  "numero": "41896/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Grich y Contrera, expresando preocupación por la falta de control por parte de la Policía de la provincia y de Tránsito de la municipalidad de Córdoba, ante el trágico accidente ocurrido en la ruta E53, el pasado 20 de febrero .",
+ "tema": "Expresando preocupación por la falta de control por parte de la Policía de la provincia y de Tránsito de la municipalidad de Córdoba, ante el trágico accidente ocurrido en la ruta E53, el pasado 20 de febrero .",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -22,7 +23,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

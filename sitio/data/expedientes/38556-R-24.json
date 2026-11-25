@@ -2,6 +2,7 @@
  "numero": "38556/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Austin, Gvozdenovich, Nicolás, Saliba, Briner, Bría, Carignano, Ferrero y Szpanin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la disponibilidad de insumos médicos, prótesis y medicamentos destinados a los hospitales provinciales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos a la disponibilidad de insumos médicos, prótesis y medicamentos destinados a los hospitales provinciales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Austin, Brenda Lis",
@@ -27,7 +28,8 @@
    "fecha": "2025-02-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

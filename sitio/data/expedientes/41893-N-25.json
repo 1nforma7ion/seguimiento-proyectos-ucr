@@ -2,6 +2,7 @@
  "numero": "41893/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Gvozdenovich, solicitando al Sr. Secretario de Comisiones (Art. 61 R.I.) reemplace a la Legisladora Graciela Bisotto, por no pertenecer más al Bloque UCR, de la Comisión de Infraestructura y Servicios Públicos por la Legisladora Inés Contrera.",
+ "tema": "Nota remitida por el Legislador Gvozdenovich, solicitando al Sr. Secretario de Comisiones (Art. 61 R.I.) reemplace a la Legisladora Graciela Bisotto, por no pertenecer más al Bloque UCR, de la Comisión de Infraestructura y Servicios Públicos por la Legisladora Inés Contrera.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

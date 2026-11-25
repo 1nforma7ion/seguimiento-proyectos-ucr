@@ -2,6 +2,7 @@
  "numero": "39591/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Carignano, Gvozdenovich, Bisotto, Almada, Bottasso y Frías, modificando el inc. 1 del artículo 12 de la Ley N° 9277,-creación de la Apross-, otorgando atención especial a la persona con discapacidad permanente o semipermanente.",
+ "tema": "Modificando el inc. 1 del artículo 12 de la Ley N° 9277,-creación de la Apross-, otorgando atención especial a la persona con discapacidad permanente o semipermanente.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -26,7 +27,8 @@
    "fecha": "2024-11-22",
    "texto": "Se comunicó al Poder Ejecutivo"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

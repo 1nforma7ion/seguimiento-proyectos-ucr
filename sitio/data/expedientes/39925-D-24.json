@@ -2,6 +2,7 @@
  "numero": "39925/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 50º aniversario del Museo Regional Morteros \"Ángel Francisco Molli\", que se celebra el día 17 de agosto en la ciudad homónima del Dpto. San Justo.",
+ "tema": "Adhiriendo al 50º aniversario del Museo Regional Morteros \"Ángel Francisco Molli\", que se celebra el día 17 de agosto en la ciudad homónima del Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

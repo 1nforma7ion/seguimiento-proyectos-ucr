@@ -2,6 +2,7 @@
  "numero": "40363/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a los incendios forestales , especialmente el desatado en la Reserva Natural de la Defensa La Calera, y respecto del funcionamiento del ETAC.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a los incendios forestales , especialmente el desatado en la Reserva Natural de la Defensa La Calera, y respecto del funcionamiento del ETAC.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

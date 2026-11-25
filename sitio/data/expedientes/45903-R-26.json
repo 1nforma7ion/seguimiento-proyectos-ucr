@@ -2,6 +2,7 @@
  "numero": "45903/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Ferrero, Nigro, Carignano, Bottasso, Saliba y Nicolás, solicitando al Poder Ejecutivo informe (art. 102 C.P.) lo ocurrido en el Ipem Nº 11 - Alberto Cognini de barrio José Ignacio Díaz III Sección de la ciudad de Córdoba, en que un alumno habría ingresado con una réplica de arma de fuego y otro con un objeto punzante.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) lo ocurrido en el Ipem Nº 11 - Alberto Cognini de barrio José Ignacio Díaz III Sección de la ciudad de Córdoba, en que un alumno habría ingresado con una réplica de arma de fuego y otro con un objeto punzante.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Ferrero, Alejandra",
@@ -25,7 +26,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

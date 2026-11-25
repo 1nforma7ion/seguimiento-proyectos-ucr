@@ -2,6 +2,7 @@
  "numero": "38988/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Austin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Briner, Bría y Molina, citando al Sr. Ministro de Salud para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la epidemia de dengue, el cumplimiento de la Ley Nº 9666 y su modificatoria Ley Nº 10338.",
+ "tema": "Citando al Sr. Ministro de Salud para que informe (Art. 101 C.P.) sobre diversos aspectos referidos a la epidemia de dengue, el cumplimiento de la Ley Nº 9666 y su modificatoria Ley Nº 10338.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Austin, Brenda Lis",
@@ -26,7 +27,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

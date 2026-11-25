@@ -2,6 +2,7 @@
  "numero": "46979/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la ciudad de Morteros, Dpto. San Justo, a celebrarse el día 15 de agosto en honor a la Virgen Nuestra Señora de la Asunción.",
+ "tema": "Adhiriendo a las fiestas patronales de la ciudad de Morteros, Dpto. San Justo, a celebrarse el día 15 de agosto en honor a la Virgen Nuestra Señora de la Asunción.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

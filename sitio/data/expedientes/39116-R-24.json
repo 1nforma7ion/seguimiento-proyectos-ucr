@@ -2,6 +2,7 @@
  "numero": "39116/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gudiño, Austin, Bisotto, Bría, Contrera, Ferrero, Molina, Nicolás, Nigro, Saliba, Szpanin, Carignano, Gvozdenovich, Almada, Gispert y Gloria Pereyra, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre el protocolo que debe cumplir el personal policial que tome contacto en la vía pública con personas que presenten trastornos bipolares con episodios de esquizofrenia, requiriendo el informe de gestión del Tribunal de Conducta de la Fuerza de Seguridad desde el año 2022.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre el protocolo que debe cumplir el personal policial que tome contacto en la vía pública con personas que presenten trastornos bipolares con episodios de esquizofrenia, requiriendo el informe de gestión del Tribunal de Conducta de la Fuerza de Seguridad desde el año 2022.",
  "autores": [
   "Gudiño, Daniela Soledad",
   "Austin, Brenda Lis",
@@ -34,7 +35,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46171/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Gvozdenovich y Szpanin, reconociendo la visita a nuestra provincia del Presidente del Rotary International, Dr. Francesco Arezzo.",
+ "tema": "Reconociendo la visita a nuestra provincia del Presidente del Rotary International, Dr. Francesco Arezzo.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

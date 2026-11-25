@@ -2,6 +2,7 @@
  "numero": "46218/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Nigro y Austin, modificando la Ley Nº 8123, Código Procesal Penal de la provincia, en lo referido a Querellante Particular.",
+ "tema": "Modificando la Ley Nº 8123, Código Procesal Penal de la provincia, en lo referido a Querellante Particular.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Austin, Brenda Lis"
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

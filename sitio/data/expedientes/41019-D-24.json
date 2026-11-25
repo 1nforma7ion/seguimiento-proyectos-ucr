@@ -2,6 +2,7 @@
  "numero": "41019/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 21° Festival Nacional del Humor y la Canción, a desarrollarse los días 16 y 17 de noviembre en la ciudad de Brinkmann, Dpto. San Justo.",
+ "tema": "Adhiriendo al 21° Festival Nacional del Humor y la Canción, a desarrollarse los días 16 y 17 de noviembre en la ciudad de Brinkmann, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

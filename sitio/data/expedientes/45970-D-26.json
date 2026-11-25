@@ -2,6 +2,7 @@
  "numero": "45970/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Contrera, Botta, Molina, Gispert, Peirone, Bisotto y Bría, expresando beneplácito por la publicación del libro \"Mi camino\" de la cordobesa María Alejandra Racca Maruggit.",
+ "tema": "Expresando beneplácito por la publicación del libro \"Mi camino\" de la cordobesa María Alejandra Racca Maruggit.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -25,7 +26,8 @@
    "fecha": "2026-04-08",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-08"
  },
  "desconocidos": [],
  "linea_tiempo": [

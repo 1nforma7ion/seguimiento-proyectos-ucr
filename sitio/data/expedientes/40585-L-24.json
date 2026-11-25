@@ -2,6 +2,7 @@
  "numero": "40585/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Galo y Austin, modificando la Ley N° 6964, de Áreas Naturales de la provincia, teniendo como objetivo prevenir alteraciones de sus ambientes, la explotación comercial, la caza o cualquier otro tipo de acción que las ponga en riesgo.",
+ "tema": "Modificando la Ley N° 6964, de Áreas Naturales de la provincia, teniendo como objetivo prevenir alteraciones de sus ambientes, la explotación comercial, la caza o cualquier otro tipo de acción que las ponga en riesgo.",
  "autores": [
   "Galo, Abraham",
   "Austin, Brenda Lis"
@@ -20,7 +21,8 @@
    "fecha": "2024-11-22",
    "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39051/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Gvozdenovich, Briner, Bisotto, Bottasso, Bría, Carignano, Ferrero, Grich, Gudiño, Jaimes, Molina, Nicolás, Nigro, Szpanin, Valiente y Saliba, solicitando al Poder Ejecutivo que instruya al Sr. Ministro de Seguridad, para que establezca una dependencia del tipo de Unidad del Cuerpo de Vigilancia Especial en barrio Yofre Sur de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo que instruya al Sr. Ministro de Seguridad, para que establezca una dependencia del tipo de Unidad del Cuerpo de Vigilancia Especial en barrio Yofre Sur de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -34,7 +35,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

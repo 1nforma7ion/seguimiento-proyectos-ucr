@@ -2,6 +2,7 @@
  "numero": "46837/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Jaimes, Szpanin, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Briner, Bría, Molina, Contrera, Carignano, Gispert, Almada, Peirone, Agost Carreño, Sala y Rossi, estableciendo el cese de la intervención y la normalización de funcionamiento de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba.",
+ "tema": "Estableciendo el cese de la intervención y la normalización de funcionamiento de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -39,7 +40,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

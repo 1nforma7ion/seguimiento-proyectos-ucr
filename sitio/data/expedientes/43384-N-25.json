@@ -2,6 +2,7 @@
  "numero": "43384/N/25",
  "tipo": "otros",
  "extracto": "Nota remitida por la Legisladora Ferrero, solicitando la rehabilitación de los Proyectos Nros 39537/L/24, 39416/L/24, 39458/L/24, 39204/R/24, 39113/R/24, 39111/L/24 y 38973/R/24, conforme el art. 111 del RI.",
+ "tema": "Nota remitida por la Legisladora Ferrero, solicitando la rehabilitación de los Proyectos Nros 39537/L/24, 39416/L/24, 39458/L/24, 39204/R/24, 39113/R/24, 39111/L/24 y 38973/R/24, conforme el art. 111 del RI.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-07-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

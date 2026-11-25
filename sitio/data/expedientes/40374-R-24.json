@@ -2,6 +2,7 @@
  "numero": "40374/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Luna, Bottasso, Szpanin, Austin, Gvozdenovich, Nigro, Nicolás, Saliba y Molina, solicitando a la Secretaría de Transporte la regularización urgente del Programa Boleto Educativo Gratuito.",
+ "tema": "Solicitando a la Secretaría de Transporte la regularización urgente del Programa Boleto Educativo Gratuito.",
  "autores": [
   "Luna, Fernando Javier",
   "Bottasso, Gustavo Armando",
@@ -26,7 +27,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

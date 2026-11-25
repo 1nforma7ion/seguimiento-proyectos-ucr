@@ -2,6 +2,7 @@
  "numero": "40121/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Saliba, Bottasso, Bría, Molina, Contrera y Carignano, expresando preocupación por las demoras en la causa “Neonatal”, al cumplirse dos años de las muertes y ataques a numerosos recién nacidos, estando imputados una enfermera y toda la cadena de autoridad sanitaria incluido al ex Ministro de Salud.",
+ "tema": "Expresando preocupación por las demoras en la causa “Neonatal”, al cumplirse dos años de las muertes y ataques a numerosos recién nacidos, estando imputados una enfermera y toda la cadena de autoridad sanitaria incluido al ex Ministro de Salud.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -30,7 +31,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

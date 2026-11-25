@@ -2,6 +2,7 @@
  "numero": "47405/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, declarando de Interés Legislativo al 1º Congreso Internacional RIOS 2026, Red Iberoamericana de Organizaciones de Salud Menta, a desarrollarse el día 23 de octubre en modalidad virtual.",
+ "tema": "Declarando de Interés Legislativo al 1º Congreso Internacional RIOS 2026, Red Iberoamericana de Organizaciones de Salud Menta, a desarrollarse el día 23 de octubre en modalidad virtual.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42789/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Valiente, Austin, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Gudiño, Nicolás, Luna, Saliba, Grich, Bottasso, Bría, Molina, Contrera, Carignano, Gispert, Martoccia, Gloria Pereyra, Almada, Botta, Bisotto y Rossi, instando al Poder Ejecutivo a crear una unidad judicial móvil en la ciudad de Villa del Rosario.",
+ "tema": "Instando al Poder Ejecutivo a crear una unidad judicial móvil en la ciudad de Villa del Rosario.",
  "autores": [
   "Valiente, Lucas German",
   "Austin, Brenda Lis",
@@ -41,7 +42,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

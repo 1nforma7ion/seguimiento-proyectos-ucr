@@ -2,6 +2,7 @@
  "numero": "42553/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Szpanin y el Bloque UCR, instando al Poder Ejecutivo a modificar los procedimientos técnicos administrativos de provisión de energía de grandes consumidores, destinados a los establecimientos hoteleros de la provincia, estableciendo periodización cuatrimestral de actualización.",
+ "tema": "Instando al Poder Ejecutivo a modificar los procedimientos técnicos administrativos de provisión de energía de grandes consumidores, destinados a los establecimientos hoteleros de la provincia, estableciendo periodización cuatrimestral de actualización.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-13",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

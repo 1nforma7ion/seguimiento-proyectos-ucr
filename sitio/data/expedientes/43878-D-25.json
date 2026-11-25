@@ -2,6 +2,7 @@
  "numero": "43878/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de declaración, iniciado por la Legisladora Ferrero, adhiriendo al Campeonato Cordobés de Judo, a desarrollarse los días 26 y 27 de septiembre en la ciudad de Río Cuarto.",
+ "tema": "Adhiriendo al Campeonato Cordobés de Judo, a desarrollarse los días 26 y 27 de septiembre en la ciudad de Río Cuarto.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

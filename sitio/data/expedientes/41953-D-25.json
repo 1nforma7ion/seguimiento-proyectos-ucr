@@ -2,6 +2,7 @@
  "numero": "41953/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich y Bisotto, adhiriendo a la 61° Fiesta Nacional de la Alfalfa, a celebrarse el día 15 de marzo en la localidad de San Basilio, Dpto. Río Cuarto.",
+ "tema": "Adhiriendo a la 61° Fiesta Nacional de la Alfalfa, a celebrarse el día 15 de marzo en la localidad de San Basilio, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Bisotto, Graciela Maria"
@@ -19,7 +20,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44121/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Gvozdenovich, Almada y Bloque UCR, disponiendo una reducción del 50% en servicios de energía eléctrica y agua, así como en el Impuesto sobre los Ingresos Brutos, en los meses de temporada baja, a sectores turísticos y gastronómicos contemplados en la Ley Nº 10881.",
+ "tema": "Disponiendo una reducción del 50% en servicios de energía eléctrica y agua, así como en el Impuesto sobre los Ingresos Brutos, en los meses de temporada baja, a sectores turísticos y gastronómicos contemplados en la Ley Nº 10881.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -36,7 +37,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

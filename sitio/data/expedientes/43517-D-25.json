@@ -2,6 +2,7 @@
  "numero": "43517/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano y Almada, reconociendo a la Dra. Alicia del Valle Simbron, por su libro \"Creando redes - Reflexiones Bioéticas en Discapacidad Pediátrica\".",
+ "tema": "Reconociendo a la Dra. Alicia del Valle Simbron, por su libro \"Creando redes - Reflexiones Bioéticas en Discapacidad Pediátrica\".",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -20,7 +21,8 @@
    "fecha": "2025-08-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

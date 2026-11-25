@@ -2,6 +2,7 @@
  "numero": "44245/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Jaimes, Nostrala, Szpanin, Gudiño, Nicolás, Saliba y Molina, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre destino, objeto, costos de tickets, viáticos, hospedajes y gastos de viajes de miembros de la Defensoría de los Derechos de Niñas, Niños y Adolescentes en virtud del ejercicio de su cargo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre destino, objeto, costos de tickets, viáticos, hospedajes y gastos de viajes de miembros de la Defensoría de los Derechos de Niñas, Niños y Adolescentes en virtud del ejercicio de su cargo.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Nostrala, Walter Norberto",
@@ -24,7 +25,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

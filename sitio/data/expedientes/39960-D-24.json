@@ -2,6 +2,7 @@
  "numero": "39960/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Agrelo, Hernández Maqueda, Botta, Ferrero, Nostrala y Peirone, expresando preocupación por la situación política que atraviesa Venezuela y condenando toda acción por parte del gobierno que preside Nicolás Maduro.",
+ "tema": "Expresando preocupación por la situación política que atraviesa Venezuela y condenando toda acción por parte del gobierno que preside Nicolás Maduro.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Hernandez Maqueda, Gregorio",
@@ -23,7 +24,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

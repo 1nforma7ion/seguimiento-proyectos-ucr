@@ -2,6 +2,7 @@
  "numero": "40636/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Jaimes, Gvozdenovich, Nicolás, Saliba, Contrera y Carignano y Bloque UCR, reconociendo el 41° aniversario del retorno a la democracia en nuestro país, a conmemorarse el día 30 de octubre.",
+ "tema": "Reconociendo el 41° aniversario del retorno a la democracia en nuestro país, a conmemorarse el día 30 de octubre.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Jaimes, Mauricio Sebastian",
@@ -35,7 +36,8 @@
    "fecha": "2024-10-02",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

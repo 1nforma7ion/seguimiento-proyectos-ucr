@@ -2,6 +2,7 @@
  "numero": "43208/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Programa de Asistencia a las Víctimas de Violencia Narco Barrial, PAVIVIN, con el objeto de contener, proteger y asistir a personas víctimas de amenazas, coacciones o ataques por redes de narcotráfico.",
+ "tema": "Creando el Programa de Asistencia a las Víctimas de Violencia Narco Barrial, PAVIVIN, con el objeto de contener, proteger y asistir a personas víctimas de amenazas, coacciones o ataques por redes de narcotráfico.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

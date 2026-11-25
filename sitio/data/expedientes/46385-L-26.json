@@ -2,6 +2,7 @@
  "numero": "46385/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Grosso, Peirone, Gispert, Jaimes, Contrera y Lorenzo, creando el Sistema Integral de Consumo Consciente y Manejo Responsable, implementando acciones preventivas en el expendio, comercialización y consumo de bebidas alcohólicas.",
+ "tema": "Creando el Sistema Integral de Consumo Consciente y Manejo Responsable, implementando acciones preventivas en el expendio, comercialización y consumo de bebidas alcohólicas.",
  "autores": [
   "Almada, Nancy Edith",
   "Grosso, Gerardo Jose",
@@ -25,7 +26,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46503/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soardo, expresando beneplácito por la realización de la 5º Jornada Anual de \"Mackenna Educa 2026\", a desarrollarse el 2 de junio en la ciudad de Vicuña Mackenna, Dpto. Río Cuarto.",
+ "tema": "Expresando beneplácito por la realización de la 5º Jornada Anual de \"Mackenna Educa 2026\", a desarrollarse el 2 de junio en la ciudad de Vicuña Mackenna, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

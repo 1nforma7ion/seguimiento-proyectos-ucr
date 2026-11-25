@@ -2,6 +2,7 @@
  "numero": "46519/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas y Soardo, expresando beneplácito por la participación del Coro Ángel Mario Spotto, de la localidad de Adelia María, Dpto. Río Cuarto, en un encuentro artístico a desarrollarse el 28 de junio en la ciudad de Río de Janeiro, Brasil.",
+ "tema": "Expresando beneplácito por la participación del Coro Ángel Mario Spotto, de la localidad de Adelia María, Dpto. Río Cuarto, en un encuentro artístico a desarrollarse el 28 de junio en la ciudad de Río de Janeiro, Brasil.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

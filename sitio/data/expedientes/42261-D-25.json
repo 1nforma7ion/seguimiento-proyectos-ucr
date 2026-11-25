@@ -2,6 +2,7 @@
  "numero": "42261/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Briner, Bruno y Navarro Alegre, adhiriendo al 30º aniversario de la Universidad Nacional de Villa María, a celebrarse el día 19 de abril.",
+ "tema": "Adhiriendo al 30º aniversario de la Universidad Nacional de Villa María, a celebrarse el día 19 de abril.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Briner, Carlos Edgardo",
@@ -21,7 +22,8 @@
    "fecha": "2025-04-09",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

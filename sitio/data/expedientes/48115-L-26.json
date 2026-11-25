@@ -2,6 +2,7 @@
  "numero": "48115/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna, Contrera y Carignano, creando el Programa Provincial de Construcción y Adecuación de Sanitarios Adaptados para Personas con Movilidad Reducida, modificando la Ley Nº 10793, de Juego en Línea, en lo referido a afectación de recursos.",
+ "tema": "Creando el Programa Provincial de Construcción y Adecuación de Sanitarios Adaptados para Personas con Movilidad Reducida, modificando la Ley Nº 10793, de Juego en Línea, en lo referido a afectación de recursos.",
  "autores": [
   "Luna, Fernando Javier",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47761/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 138º aniversario de la localidad de Tránsito, Dpto. San Justo, a celebrarse el día 23 de octubre.",
+ "tema": "Adhiriendo al 138º aniversario de la localidad de Tránsito, Dpto. San Justo, a celebrarse el día 23 de octubre.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

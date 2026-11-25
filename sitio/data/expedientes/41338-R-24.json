@@ -2,6 +2,7 @@
  "numero": "41338/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Szpanin, Nigro, Carignano, Bottasso, Valiente y Nicolás, solicitando al Poder Ejecutivo que facilite el acceso al Certificado Único de Discapacidad CUD, proponiendo el uso de plataformas digitales, garantizando el acceso equitativo a las prestaciones en todo el territorio provincial.",
+ "tema": "Solicitando al Poder Ejecutivo que facilite el acceso al Certificado Único de Discapacidad CUD, proponiendo el uso de plataformas digitales, garantizando el acceso equitativo a las prestaciones en todo el territorio provincial.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -24,7 +25,8 @@
    "fecha": "2025-12-12",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

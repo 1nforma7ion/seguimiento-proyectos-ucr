@@ -2,6 +2,7 @@
  "numero": "42866/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, expresando preocupación por el estado de abandono de la educación en nuestra provincia, tanto a nivel humano como edilicio.",
+ "tema": "Expresando preocupación por el estado de abandono de la educación en nuestra provincia, tanto a nivel humano como edilicio.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

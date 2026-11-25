@@ -2,6 +2,7 @@
  "numero": "44332/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, modificando la Ley Nº 8802, Consejo de la Magistratura, en los referido a la conformación y duración de mandatos.",
+ "tema": "Modificando la Ley Nº 8802, Consejo de la Magistratura, en los referido a la conformación y duración de mandatos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

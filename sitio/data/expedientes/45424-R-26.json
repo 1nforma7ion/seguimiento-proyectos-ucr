@@ -2,6 +2,7 @@
  "numero": "45424/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Juez y Lorenzo, solicitando al Poder Ejecutivo que regularice la situación catastral y dominial de las viviendas ubicadas en el denominado Barrio Nuestro Hogar II de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo que regularice la situación catastral y dominial de las viviendas ubicadas en el denominado Barrio Nuestro Hogar II de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Juez, Daniel Alejandro",
@@ -20,7 +21,8 @@
    "fecha": "2026-02-19",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43565/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Nicolás, Molina y Contrera, expresando beneplácito por la inscripción de la Comunidad Indígena Comechingón - Sanavirón Cerro Colorado, en el Registro de Comunidades de Pueblos Indígenas de la provincia.",
+ "tema": "Expresando beneplácito por la inscripción de la Comunidad Indígena Comechingón - Sanavirón Cerro Colorado, en el Registro de Comunidades de Pueblos Indígenas de la provincia.",
  "autores": [
   "Austin, Brenda Lis",
   "Nicolas, Miguel Osvaldo",
@@ -21,7 +22,8 @@
    "fecha": "2025-08-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "44650/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por el 60º aniversario del museo histórico, galería de arte y biblioteca estudiantil Perito Francisco P. Moreno de la ciudad de Hernando, Dpto. tercero Arriba, a celebrarse el día 11 de noviembre.",
+ "tema": "Expresando beneplácito por el 60º aniversario del museo histórico, galería de arte y biblioteca estudiantil Perito Francisco P. Moreno de la ciudad de Hernando, Dpto. tercero Arriba, a celebrarse el día 11 de noviembre.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

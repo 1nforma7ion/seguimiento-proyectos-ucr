@@ -2,6 +2,7 @@
  "numero": "42377/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, implementando una línea especial de créditos, articulada con el Banco de Córdoba SA, destinada a las personas damnificadas o estafadas por la empresa constructora y desarrollista Márquez y Asociados para que puedan finalizar la construcción de sus viviendas.",
+ "tema": "Implementando una línea especial de créditos, articulada con el Banco de Córdoba SA, destinada a las personas damnificadas o estafadas por la empresa constructora y desarrollista Márquez y Asociados para que puedan finalizar la construcción de sus viviendas.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

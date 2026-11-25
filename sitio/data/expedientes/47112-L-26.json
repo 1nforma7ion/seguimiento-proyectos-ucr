@@ -2,6 +2,7 @@
  "numero": "47112/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Carignano, Bría, Saliba, Nigro y Luna, incorporando el art. 28 bis a la Ley Nº 8669, del Transporte Público de Pasajeros, disponiendo la colocación de pictogramas de accesibilidad en las unidades y espacios vinculados al transporte público.",
+ "tema": "Incorporando el art. 28 bis a la Ley Nº 8669, del Transporte Público de Pasajeros, disponiendo la colocación de pictogramas de accesibilidad en las unidades y espacios vinculados al transporte público.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -25,7 +26,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

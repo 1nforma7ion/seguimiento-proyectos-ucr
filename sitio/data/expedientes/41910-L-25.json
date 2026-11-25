@@ -2,6 +2,7 @@
  "numero": "41910/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Ovejeros, Szpanin, Contrera y Bisotto, implementando el uso del logotipo \"Símbolo Internacional de Accesibilidad Universal\" en los espacios públicos, privados de acceso público y en los servicios de transporte de todo el territorio provincial.",
+ "tema": "Implementando el uso del logotipo \"Símbolo Internacional de Accesibilidad Universal\" en los espacios públicos, privados de acceso público y en los servicios de transporte de todo el territorio provincial.",
  "autores": [
   "Ovejeros, Pablo Cesar",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

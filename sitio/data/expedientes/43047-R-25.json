@@ -2,6 +2,7 @@
  "numero": "43047/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Ferrero y Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el cierre de la escuela primaria Juan María Gutiérrez del paraje Campo Baudilio, Dpto. San Justo.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el cierre de la escuela primaria Juan María Gutiérrez del paraje Campo Baudilio, Dpto. San Justo.",
  "autores": [
   "Ferrero, Alejandra",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

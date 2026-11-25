@@ -2,6 +2,7 @@
  "numero": "39467/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Gvozdenovich, expresando beneplácito por la 4° ronda del Campeonato Mundial de W2RC, que se desarrolla del 1 al 7 de junio en las provincias de Córdoba, San Juan y La Rioja.",
+ "tema": "Expresando beneplácito por la 4° ronda del Campeonato Mundial de W2RC, que se desarrolla del 1 al 7 de junio en las provincias de Córdoba, San Juan y La Rioja.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

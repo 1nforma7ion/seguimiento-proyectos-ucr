@@ -1,0 +1,84 @@
+{
+ "numero": "45174/L/25",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por las Legisladoras Busso, Rinaldi y Szpanin, incorporando artículos a la Ley Nº 10326, Código de Convivencia Ciudadana, referidos a fortalecer el abordaje institucional en situaciones de acoso escolar o bullying en el ámbito educativo.",
+ "tema": "Incorporando artículos a la Ley Nº 10326, Código de Convivencia Ciudadana, referidos a fortalecer el abordaje institucional en situaciones de acoso escolar o bullying en el ámbito educativo.",
+ "autores": [
+  "Busso, Maria Victoria",
+  "Rinaldi, Julieta",
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Educación",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 2,
+  "etapa_nombre": "En estudio en comisión",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2026-02-04",
+  "ultimo_movimiento": {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión"
+  },
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  },
+  {
+   "fecha": "2026-02-04",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 1 del Período 148"
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 1 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-02-04"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45174%2FL%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "47769/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Freyre, Dpto. San Justo, a celebrarse el día 7 de octubre en honor a Nuestra Señora del Rosario.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Freyre, Dpto. San Justo, a celebrarse el día 7 de octubre en honor a Nuestra Señora del Rosario.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

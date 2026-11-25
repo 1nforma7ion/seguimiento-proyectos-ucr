@@ -2,6 +2,7 @@
  "numero": "48042/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Briner, adhiriendo a la XXIII Fiesta Nacional de la Pelota de Fútbol, a desarrollarse los días 21 y 22 de noviembre en la ciudad de Bell Ville, Dpto. Unión.",
+ "tema": "Adhiriendo a la XXIII Fiesta Nacional de la Pelota de Fútbol, a desarrollarse los días 21 y 22 de noviembre en la ciudad de Bell Ville, Dpto. Unión.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

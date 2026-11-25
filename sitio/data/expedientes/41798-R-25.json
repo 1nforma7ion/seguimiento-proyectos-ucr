@@ -2,6 +2,7 @@
  "numero": "41798/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por iniciado la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a la prevención de los incendios forestales, tales como cantidad de cámaras de alta tecnología instaladas para detectarlos, capacitaciones, programas de educación ambiental, así como el presupuesto asignado y ejecutado a la fecha del Programa 764.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre aspectos referidos a la prevención de los incendios forestales, tales como cantidad de cámaras de alta tecnología instaladas para detectarlos, capacitaciones, programas de educación ambiental, así como el presupuesto asignado y ejecutado a la fecha del Programa 764.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-10-29",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

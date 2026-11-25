@@ -2,6 +2,7 @@
  "numero": "48454/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Chamorro, Llamosas, Lorenzo, Contrera, Grich y Aguero, declarando de Interés Legislativo la realización del juicio por delitos de lesa humanidad denominado Causa Gutiérrez/Di Santo, ante el Tribunal Oral en lo Criminal Federal Nº 1 de Córdoba.",
+ "tema": "Declarando de Interés Legislativo la realización del juicio por delitos de lesa humanidad denominado Causa Gutiérrez/Di Santo, ante el Tribunal Oral en lo Criminal Federal Nº 1 de Córdoba.",
  "autores": [
   "Chamorro, Matias Ezequiel",
   "Llamosas, Juan Manuel",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

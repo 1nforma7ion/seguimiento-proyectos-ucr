@@ -2,6 +2,7 @@
  "numero": "45046/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a la 7ª Fiesta de la Empanada, a desarrollarse el 10 de enero de 2026 en la localidad de Seeber, Dpto. San Justo.",
+ "tema": "Adhiriendo a la 7ª Fiesta de la Empanada, a desarrollarse el 10 de enero de 2026 en la localidad de Seeber, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-12-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

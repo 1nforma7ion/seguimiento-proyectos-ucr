@@ -2,6 +2,7 @@
  "numero": "40268/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito por el dictado del Programa de la Misión sobre Gestión de Residuos en Marcos Juárez y Camilo Aldao, a desarrollarse los días 12 y 13 de septiembre.",
+ "tema": "Expresando beneplácito por el dictado del Programa de la Misión sobre Gestión de Residuos en Marcos Juárez y Camilo Aldao, a desarrollarse los días 12 y 13 de septiembre.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47883/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los convenios de la Lotería de Córdoba con las empresas Emprendimientos Edén S.A. y Citybus Córdoba para la promoción de productos y servicios turísticos a través de su Red Oficial de Agencias.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos referidos a los convenios de la Lotería de Córdoba con las empresas Emprendimientos Edén S.A. y Citybus Córdoba para la promoción de productos y servicios turísticos a través de su Red Oficial de Agencias.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

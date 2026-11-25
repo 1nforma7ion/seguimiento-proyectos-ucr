@@ -2,6 +2,7 @@
  "numero": "38676/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bisotto, Gloria Pereyra, Peirone, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Bottasso, Molina, Contrera, Carignano, Rossi y Hernández Maqueda, solicitando al Poder Ejecutivo informe (Art102 C.P.) sobre la lista de materiales educativos que deben aportar los padres o tutores de los alumnos para el desarrollo de las actividades 2024.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art102 C.P.) sobre la lista de materiales educativos que deben aportar los padres o tutores de los alumnos para el desarrollo de las actividades 2024.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Pereyra, Carmen Gloria",
@@ -34,7 +35,8 @@
    "fecha": "2024-08-07",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

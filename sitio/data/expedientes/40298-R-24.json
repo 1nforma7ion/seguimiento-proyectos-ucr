@@ -2,6 +2,7 @@
  "numero": "40298/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Bloque de la UCR, solicitando la comparecencia del Sr. Gobernador y del Sr. Ministro de Seguridad (Art. 101 C.P.) para que informen detalladamente sobre la detención de altos mandos de la Policía de la Provincia.",
+ "tema": "Solicitando la comparecencia del Sr. Gobernador y del Sr. Ministro de Seguridad (Art. 101 C.P.) para que informen detalladamente sobre la detención de altos mandos de la Policía de la Provincia.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-04",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "46772/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Szpanin, Nigro, Carignano, Contrera, Bottasso, Bría y Molina, regulando el mecenazgo y el patrocinio cultural en el ámbito de la provincia de Córdoba.",
+ "tema": "Regulando el mecenazgo y el patrocinio cultural en el ámbito de la provincia de Córdoba.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Nigro, Alfredo Mariano",
@@ -25,7 +26,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

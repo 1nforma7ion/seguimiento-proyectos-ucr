@@ -2,6 +2,7 @@
  "numero": "40672/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin y Grich, expresando beneplácito por el título Woman Candidate Master, obtenido por la ajedrecista Oriana Tobares en el Torneo IRPT SUB 2400 de la Federación Internacional de Ajedrez, disputado en la ciudad de Rosario.",
+ "tema": "Expresando beneplácito por el título Woman Candidate Master, obtenido por la ajedrecista Oriana Tobares en el Torneo IRPT SUB 2400 de la Federación Internacional de Ajedrez, disputado en la ciudad de Rosario.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

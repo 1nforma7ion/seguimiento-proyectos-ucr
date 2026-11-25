@@ -2,6 +2,7 @@
  "numero": "38616/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Jaimes, Bisotto, Austin, Gvozdenovich, Nigro, Gudiño, Bría, Molina, Contrera, Carignano y Szpanin, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los auspicios y contratos que la provincia tiene con espectáculos públicos y deportivos desde el año 2023 hasta la fecha.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre los auspicios y contratos que la provincia tiene con espectáculos públicos y deportivos desde el año 2023 hasta la fecha.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -29,7 +30,8 @@
    "fecha": "2025-02-28",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

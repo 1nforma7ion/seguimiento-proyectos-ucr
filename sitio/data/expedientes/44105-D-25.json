@@ -2,6 +2,7 @@
  "numero": "44105/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Bría y Acevedo, adhiriendo a las fiestas patronales de la ciudad de San Francisco, Dpto. San Justo, a celebrarse el día 4 de octubre en honor a San Francisco de Asís.",
+ "tema": "Adhiriendo a las fiestas patronales de la ciudad de San Francisco, Dpto. San Justo, a celebrarse el día 4 de octubre en honor a San Francisco de Asís.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Acevedo, Maria Del Rosario",
@@ -20,7 +21,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

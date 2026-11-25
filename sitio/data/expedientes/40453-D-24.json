@@ -2,6 +2,7 @@
  "numero": "40453/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gvozdenovich y Nigro, preocupación ante la falta de precisiones respecto al mantenimiento de las fuentes laborales en las empresas del Estado con sede en la provincia, ante las privatizaciones promovidas por el Gobierno Nacional.",
+ "tema": "Proyecto de Declaración, iniciado por los Legisladores Gvozdenovich y Nigro, preocupación ante la falta de precisiones respecto al mantenimiento de las fuentes laborales en las empresas del Estado con sede en la provincia, ante las privatizaciones promovidas por el Gobierno Nacional.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Nigro, Alfredo Mariano"
@@ -19,7 +20,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

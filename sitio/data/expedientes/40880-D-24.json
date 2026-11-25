@@ -2,6 +2,7 @@
  "numero": "40880/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Briner, Bría y Contrera, rechazando el aumento concedido por el Gobierno de la provincia a los peajes de la Red de Acceso a Córdoba, RAC.",
+ "tema": "Rechazando el aumento concedido por el Gobierno de la provincia a los peajes de la Red de Acceso a Córdoba, RAC.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -26,7 +27,8 @@
    "fecha": "2025-10-30",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

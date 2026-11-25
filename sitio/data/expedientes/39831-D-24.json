@@ -2,6 +2,7 @@
  "numero": "39831/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito a la labor de la Asociación Pro-Ayuda al Departamento de Oncohematología del Hospital de Clínicas de Córdoba (Apradoc).",
+ "tema": "Expresando beneplácito a la labor de la Asociación Pro-Ayuda al Departamento de Oncohematología del Hospital de Clínicas de Córdoba (Apradoc).",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-07-24",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

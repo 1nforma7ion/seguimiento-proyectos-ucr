@@ -2,6 +2,7 @@
  "numero": "44723/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Bloque UCR, solicitando al Poder Ejecutivo que gestione la inscripción del Centro Cultural UNC, ubicado en calle Obispo Trejo 314 de la ciudad de Córdoba, como parte de la Manzana Jesuítica, en el Conjunto Jesuítico de la provincia, declarado Patrimonio de la Humanidad por UNESCO.",
+ "tema": "Solicitando al Poder Ejecutivo que gestione la inscripción del Centro Cultural UNC, ubicado en calle Obispo Trejo 314 de la ciudad de Córdoba, como parte de la Manzana Jesuítica, en el Conjunto Jesuítico de la provincia, declarado Patrimonio de la Humanidad por UNESCO.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-19",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

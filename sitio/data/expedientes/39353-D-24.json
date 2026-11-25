@@ -2,6 +2,7 @@
  "numero": "39353/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Briner, Bisotto, Szpanin, Gvozdenovich, Nigro, Luna, Saliba, Bría, Molina, Contrera y Carignano, solicitando al Poder Ejecutivo solucione la situación edilicia, de infraestructura y equipamiento del Hospital municipal Santa Elisa, de la localidad de Viamonte, Dpto. Unión.",
+ "tema": "Solicitando al Poder Ejecutivo solucione la situación edilicia, de infraestructura y equipamiento del Hospital municipal Santa Elisa, de la localidad de Viamonte, Dpto. Unión.",
  "autores": [
   "Briner, Carlos Edgardo",
   "Bisotto, Graciela Maria",
@@ -28,7 +29,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

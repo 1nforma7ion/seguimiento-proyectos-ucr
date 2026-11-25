@@ -2,6 +2,7 @@
  "numero": "45888/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás,Szpanin, Saliba, Briner, Bría y Contrera, expresando preocupación por el incumplimiento del Gobierno de Córdoba de las Leyes Nros. 8803, de Derecho al Acceso al Conocimiento de los Actos del Estado, y 10835, de Administración Financiera y Control del Sector Público No Financiero de la Provincia.",
+ "tema": "Expresando preocupación por el incumplimiento del Gobierno de Córdoba de las Leyes Nros. 8803, de Derecho al Acceso al Conocimiento de los Actos del Estado, y 10835, de Administración Financiera y Control del Sector Público No Financiero de la Provincia.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -23,7 +24,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

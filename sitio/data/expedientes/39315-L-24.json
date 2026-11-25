@@ -2,6 +2,7 @@
  "numero": "39315/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Chamorro, Siciliano, Quaglino, Valiente, Szpanin y Bottasso, instituyendo el 17 de junio de cada año como el Día Provincial de la Seguridad Eléctrica, en conmemoración de la aprobación de la Ley Nº 10281, de Seguridad Eléctrica.",
+ "tema": "Instituyendo el 17 de junio de cada año como el Día Provincial de la Seguridad Eléctrica, en conmemoración de la aprobación de la Ley Nº 10281, de Seguridad Eléctrica.",
  "autores": [
   "Chamorro, Matias Ezequiel",
   "Siciliano, Miguel Angel",
@@ -24,7 +25,8 @@
    "fecha": "2024-06-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

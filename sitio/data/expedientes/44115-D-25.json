@@ -2,6 +2,7 @@
  "numero": "44115/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Acuña, Contrera, Gispert y Peirone, reconociendo la labor de la Asociación de Museos de la provincia en la promoción, coordinación, fortalecimiento, difusión y cooperación institucional del patrimonio cultural tangible e intangible.",
+ "tema": "Reconociendo la labor de la Asociación de Museos de la provincia en la promoción, coordinación, fortalecimiento, difusión y cooperación institucional del patrimonio cultural tangible e intangible.",
  "autores": [
   "Almada, Nancy Edith",
   "Acuña, Karen Belen",
@@ -22,7 +23,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

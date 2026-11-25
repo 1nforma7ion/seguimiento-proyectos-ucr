@@ -2,6 +2,7 @@
  "numero": "44451/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, reconociendo a la escuela municipal de Música de la ciudad de Hernando, Dpto. Tercero Arriba, en el marco de su 10° aniversario.",
+ "tema": "Reconociendo a la escuela municipal de Música de la ciudad de Hernando, Dpto. Tercero Arriba, en el marco de su 10° aniversario.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

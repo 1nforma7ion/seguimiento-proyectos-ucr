@@ -2,6 +2,7 @@
  "numero": "43692/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Knipscheer, Echevarría, Gvozdenovich y Austin, instruyendo a los Senadores (art. 104, inc. 5 C.P.) e instando a los Diputados Nacionales por Córdoba para que conforme sus atribuciones constitucionales, promuevan el debate de los proyectos referidos al Sistema Nacional de Ciencia, Tecnología e Innovación.",
+ "tema": "Instruyendo a los Senadores (art. 104, inc. 5 C.P.) e instando a los Diputados Nacionales por Córdoba para que conforme sus atribuciones constitucionales, promuevan el debate de los proyectos referidos al Sistema Nacional de Ciencia, Tecnología e Innovación.",
  "autores": [
   "Knipscheer Reyna, Carlos Bernardo",
   "Echevarria, Luciana Gabriela",
@@ -21,7 +22,8 @@
    "fecha": "2025-08-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39590/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Gvozdenovich, Carignano, Valiente, Bottasso y Almada, modificando los artículos 1°, 2°, 3° y 4° y el título a la Ley N° 8944. -de Promoción y protección integral de los derechos de las niñas, niños y adolescentes-, que quedará redactado: Eximición del pago de peaje en el territorio provincial a personas con discapacidad y sus transportistas.",
+ "tema": "Modificando los artículos 1°, 2°, 3° y 4° y el título a la Ley N° 8944. -de Promoción y protección integral de los derechos de las niñas, niños y adolescentes-, que quedará redactado: Eximición del pago de peaje en el territorio provincial a personas con discapacidad y sus transportistas.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -26,7 +27,8 @@
    "fecha": "2026-06-18",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

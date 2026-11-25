@@ -2,6 +2,7 @@
  "numero": "38699/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Bloques Pro, Construyendo Córdoba, UCR, Coalición Cívica ARI, Frente Cívico de Córdoba, MST en el FITU, Encuentro Vecinal Córdoba, La Libertad Avanza, Creo en Córdoba y los Legisladores Frías y Ceballos Recalde, creando el Programa de Prevención del Cáncer de Piel y estableciendo Solmáforos que miden el pronóstico de índice solar UV en espacios libres en el ámbito de la provincia.",
+ "tema": "Creando el Programa de Prevención del Cáncer de Piel y estableciendo Solmáforos que miden el pronóstico de índice solar UV en espacios libres en el ámbito de la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Jaimes, Mauricio Sebastian",
@@ -54,7 +55,8 @@
    "fecha": "2026-03-05",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

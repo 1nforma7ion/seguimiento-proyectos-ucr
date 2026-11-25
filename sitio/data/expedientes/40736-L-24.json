@@ -2,6 +2,7 @@
  "numero": "40736/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Gvozdenovich, Carignano, Bottasso, Bría, Jaimes, Saliba, Valiente, Almada, Agrelo y Botta, sustituyendo, modificando, incorporando y derogando artículos de la Ley Nº 9775, que garantiza a toda persona con discapacidad a la asistencia de un perro guía y el derecho a acceder junto con él a cualquier lugar público o privado de acceso público.",
+ "tema": "Sustituyendo, modificando, incorporando y derogando artículos de la Ley Nº 9775, que garantiza a toda persona con discapacidad a la asistencia de un perro guía y el derecho a acceder junto con él a cualquier lugar público o privado de acceso público.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -30,7 +31,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

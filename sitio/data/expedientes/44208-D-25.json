@@ -1,0 +1,99 @@
+{
+ "numero": "44208/D/25",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Luna, adhiriendo al Festival 70/30, a desarrollarse el 18 de octubre en la ciudad de Cruz del Eje en homenaje a la bebida icónica de nuestra provincia, el fernet con coca.",
+ "tema": "Adhiriendo al Festival 70/30, a desarrollarse el 18 de octubre en la ciudad de Cruz del Eje en homenaje a la bebida icónica de nuestra provincia, el fernet con coca.",
+ "autores": [
+  "Luna, Fernando Javier"
+ ],
+ "comisiones": [
+  "Promoción y Desarrollo de las Economías Regionales"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2025-10-01",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por Art. 109 del Reglamento",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": "2025-10-01",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 17 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 109 RI",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 17 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-10-01"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 30371",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=vp56bP88gks="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44208%2FD%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

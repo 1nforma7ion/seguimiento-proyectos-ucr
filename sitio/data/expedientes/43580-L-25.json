@@ -2,6 +2,7 @@
  "numero": "43580/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Szpanin, Ferrero, Nicolás, Molina y Contrera, estableciendo la obligatoriedad de implementar un sistema de información sonora para los usuarios, en el interior de todas las unidades del servicio público de transporte automotor de pasajeros.",
+ "tema": "Estableciendo la obligatoriedad de implementar un sistema de información sonora para los usuarios, en el interior de todas las unidades del servicio público de transporte automotor de pasajeros.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

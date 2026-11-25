@@ -2,6 +2,7 @@
  "numero": "42605/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso y Grich, reconociendo los 40 años de trayectoria del director coral Ariel Nicolás Rodríguez.",
+ "tema": "Reconociendo los 40 años de trayectoria del director coral Ariel Nicolás Rodríguez.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

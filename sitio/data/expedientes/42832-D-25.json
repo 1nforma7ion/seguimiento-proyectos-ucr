@@ -2,6 +2,7 @@
  "numero": "42832/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque Construyendo Córdoba y los Legisladores Bría y Knipscheer, expresando solidaridad con los trabajadores del hospital de pediatría Prof. Dr. Juan P. Garrahan de CABA, atento a la crítica situación que atraviesa la institución.",
+ "tema": "Expresando solidaridad con los trabajadores del hospital de pediatría Prof. Dr. Juan P. Garrahan de CABA, atento a la crítica situación que atraviesa la institución.",
  "autores": [
   "Rossi, Dante Valentin",
   "Peralta, Sebastián Amadeo",
@@ -21,7 +22,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

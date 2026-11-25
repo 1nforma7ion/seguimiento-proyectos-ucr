@@ -2,6 +2,7 @@
  "numero": "39238/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Gispert, Szpanin, Contrera y Botta, instando al Poder Ejecutivo a finalizar la construcción de las Escuelas ProA en las localidades de Villa Dolores, Mina Clavero, San Pedro, Unquillo, Villa del Totoral, La Falda, Arroyito, Huinca Renancó, Vicuña Mackenna y La Carlota, solicitando además información sobre los planes de ejecución de las obras previstas.",
+ "tema": "Instando al Poder Ejecutivo a finalizar la construcción de las Escuelas ProA en las localidades de Villa Dolores, Mina Clavero, San Pedro, Unquillo, Villa del Totoral, La Falda, Arroyito, Huinca Renancó, Vicuña Mackenna y La Carlota, solicitando además información sobre los planes de ejecución de las obras previstas.",
  "autores": [
   "Austin, Brenda Lis",
   "Gispert, Walter Oscar",
@@ -23,7 +24,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39151/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, expresando beneplácito por el 50º aniversario del jardín de infantes Almirante G. Brown de barrio Yofre Sur de la ciudad de Córdoba, conmemorado el pasado mes de abril.",
+ "tema": "Expresando beneplácito por el 50º aniversario del jardín de infantes Almirante G. Brown de barrio Yofre Sur de la ciudad de Córdoba, conmemorado el pasado mes de abril.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

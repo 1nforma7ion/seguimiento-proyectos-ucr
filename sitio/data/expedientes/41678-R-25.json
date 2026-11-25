@@ -2,6 +2,7 @@
  "numero": "41678/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Contrera y Bría. solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados al corte de energía eléctrica del pasado 3 de febrero, respecto de inversiones en mantenimiento, sistemas de monitoreo y estrategias de la EPEC para el uso eficiente y prevención de estas contingencias.",
+ "tema": "Proyecto de Resolución, iniciado por los Legisladores Szpanin, Contrera y Bría. solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos vinculados al corte de energía eléctrica del pasado 3 de febrero, respecto de inversiones en mantenimiento, sistemas de monitoreo y estrategias de la EPEC para el uso eficiente y prevención de estas contingencias.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2026-02-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

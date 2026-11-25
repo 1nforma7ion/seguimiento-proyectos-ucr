@@ -2,6 +2,7 @@
  "numero": "40708/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Saliba y Bría, expresando beneplácito por el 119° aniversario de la localidad de Jovita, Dpto. General Roca, a celebrarse el día 28 de octubre.",
+ "tema": "Expresando beneplácito por el 119° aniversario de la localidad de Jovita, Dpto. General Roca, a celebrarse el día 28 de octubre.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-10-16",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

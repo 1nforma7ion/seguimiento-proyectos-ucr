@@ -2,6 +2,7 @@
  "numero": "39610/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin, y todos los Legisladores de la Cámara, reconociendo al grupo musical Chébere, que marcó una huella imborrable en la historia del cuarteto de Córdoba, en el marco de su 50° aniversario que se celebra el día 19 de junio.",
+ "tema": "Reconociendo al grupo musical Chébere, que marcó una huella imborrable en la historia del cuarteto de Córdoba, en el marco de su 50° aniversario que se celebra el día 19 de junio.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Acevedo, Maria Del Rosario",
@@ -62,7 +63,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

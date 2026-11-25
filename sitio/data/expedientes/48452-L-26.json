@@ -2,6 +2,7 @@
  "numero": "48452/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Szpanin, Ferrero, Nigro, Nicolás, Luna, Saliba, Bottasso, Bría y Contrera, modificando las Leyes Nros. 8102 y 8234, estableciendo el Régimen de Integridad del Padrón Electoral en el ámbito municipal y comunal.",
+ "tema": "Modificando las Leyes Nros. 8102 y 8234, estableciendo el Régimen de Integridad del Padrón Electoral en el ámbito municipal y comunal.",
  "autores": [
   "Austin, Brenda Lis",
   "Szpanin, Ariela Yanina",
@@ -28,7 +29,8 @@
    "fecha": "2026-10-29",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-29"
+  "caduca_el": "2027-10-29",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

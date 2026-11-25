@@ -2,6 +2,7 @@
  "numero": "43464/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bría y Tévez, adhiriendo al 25° aniversario del IPEM N° 425 Dr. José Manuel de la Sota de la ciudad de Morteros, Dpto. San Justo.",
+ "tema": "Adhiriendo al 25° aniversario del IPEM N° 425 Dr. José Manuel de la Sota de la ciudad de Morteros, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto",
   "Tevez, Gustavo Alejandro"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

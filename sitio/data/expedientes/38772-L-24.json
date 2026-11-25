@@ -2,6 +2,7 @@
  "numero": "38772/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Bloques Frente Cívico de Córdoba, UCR, Coalición Cívica ARI y Construyendo Córdoba, derogando la Ley N° 10930, aprobando como Ley Orgánica del Tribunal de Cuentas el texto de la Ley N° 7630.",
+ "tema": "Derogando la Ley N° 10930, aprobando como Ley Orgánica del Tribunal de Cuentas el texto de la Ley N° 7630.",
  "autores": [
   "Bloque FRENTE CIVICO DE CORDOBA",
   "Bloque UCR",
@@ -23,7 +24,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

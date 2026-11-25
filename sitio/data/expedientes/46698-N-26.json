@@ -2,6 +2,7 @@
  "numero": "46698/N/26",
  "tipo": "otros",
  "extracto": "Nota de la Legisladora Contrera, solicitando al rehabilitación (art. 111 R.I.) del expediente N° 42955/L/25.",
+ "tema": "Solicitando al rehabilitación (art. 111 R.I.) del expediente N° 42955/L/25.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2026-06-25",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-25"
  },
  "desconocidos": [],
  "linea_tiempo": [

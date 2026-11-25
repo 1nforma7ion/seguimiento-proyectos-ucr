@@ -2,6 +2,7 @@
  "numero": "43106/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Peirone y Contrera, estableciendo la obligatoriedad de incluir el nombre de los medicamentos en sus envases en sistema Braille, garantizando la autonomía y seguridad para las personas con discapacidad visual.",
+ "tema": "Estableciendo la obligatoriedad de incluir el nombre de los medicamentos en sus envases en sistema Braille, garantizando la autonomía y seguridad para las personas con discapacidad visual.",
  "autores": [
   "Peirone, Juan Pablo",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

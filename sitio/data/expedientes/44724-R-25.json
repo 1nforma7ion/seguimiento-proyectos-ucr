@@ -2,6 +2,7 @@
  "numero": "44724/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Jaimes, Ferrero, Gvozdenovich, Saliba y Bría, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados con el operativo realizado por la Policía en un hotel alojamiento de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos relacionados con el operativo realizado por la Policía en un hotel alojamiento de la ciudad de Córdoba.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -23,7 +24,8 @@
    "fecha": "2026-05-05",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

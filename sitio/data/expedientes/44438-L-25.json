@@ -2,6 +2,7 @@
  "numero": "44438/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Carignano, Gvozdenovich, Szpanin, Ferrero, Nicolás, Luna y Grich, disponiendo la accesibilidad e inclusión digital a personas mayores para la gestión de trámites bancarios, de salud, de ciudadano digital y previsional en la provincia.",
+ "tema": "Disponiendo la accesibilidad e inclusión digital a personas mayores para la gestión de trámites bancarios, de salud, de ciudadano digital y previsional en la provincia.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo",
@@ -26,7 +27,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

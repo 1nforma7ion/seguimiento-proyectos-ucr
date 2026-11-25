@@ -2,6 +2,7 @@
  "numero": "45028/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Botta, Contrera, Bisotto y Szpanin, expresando beneplácito por la colección de libros Relatos de la Niñez, de autoría de Analía Ortíz, editados en escritura convencional y sistema Braile.",
+ "tema": "Expresando beneplácito por la colección de libros Relatos de la Niñez, de autoría de Analía Ortíz, editados en escritura convencional y sistema Braile.",
  "autores": [
   "Botta, Patricia Isabel",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2025-12-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

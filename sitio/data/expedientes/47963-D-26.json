@@ -2,6 +2,7 @@
  "numero": "47963/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, declarando de Interés Legislativo la XXXII Reunión Argentina de Ecología y el II Congreso de la Red Latinoamericana de Ecología, a desarrollarse del 3 al 8 de octubre de 2027 en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo la XXXII Reunión Argentina de Ecología y el II Congreso de la Red Latinoamericana de Ecología, a desarrollarse del 3 al 8 de octubre de 2027 en la ciudad de Córdoba.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

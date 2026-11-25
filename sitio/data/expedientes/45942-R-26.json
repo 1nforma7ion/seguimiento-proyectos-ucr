@@ -2,6 +2,7 @@
  "numero": "45942/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo arbitre los medios necesarios para solucionar la problemática en el ingreso del estabelecimiento escolar CEII “Profesora Luz Vieira Méndez” de B° Ampliación Pueyrredón de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo arbitre los medios necesarios para solucionar la problemática en el ingreso del estabelecimiento escolar CEII “Profesora Luz Vieira Méndez” de B° Ampliación Pueyrredón de la ciudad de Córdoba.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-08"
+  "caduca_el": "2027-04-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

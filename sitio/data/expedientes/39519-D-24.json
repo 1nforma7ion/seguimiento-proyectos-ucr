@@ -2,6 +2,7 @@
  "numero": "39519/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin y el Bloque UCR, expresando beneplácito por el Día de la Música Popular de Cuartetos, que se celebra cada 4 de junio en recuerdo del debut del Cuarteto Leo y en memoria de Manolo Cánovas.",
+ "tema": "Expresando beneplácito por el Día de la Música Popular de Cuartetos, que se celebra cada 4 de junio en recuerdo del debut del Cuarteto Leo y en memoria de Manolo Cánovas.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

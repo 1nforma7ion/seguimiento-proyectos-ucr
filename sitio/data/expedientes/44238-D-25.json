@@ -2,6 +2,7 @@
  "numero": "44238/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Eslava y el Bloque UCR, reconociendo las figuras de los doctores Raúl Alfonsín, Eduardo Angeloz y Ramón Mestre, quiénes fueron electos Presidente de la Nación, Gobernador de la provincia e Intendente de la ciudad de Córdoba, respectivamente, en el 42º aniversario del retorno a la democracia a conmemorarse el 30 de octubre.",
+ "tema": "Reconociendo las figuras de los doctores Raúl Alfonsín, Eduardo Angeloz y Ramón Mestre, quiénes fueron electos Presidente de la Nación, Gobernador de la provincia e Intendente de la ciudad de Córdoba, respectivamente, en el 42º aniversario del retorno a la democracia a conmemorarse el 30 de octubre.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2025-10-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

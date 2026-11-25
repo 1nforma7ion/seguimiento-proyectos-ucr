@@ -2,6 +2,7 @@
  "numero": "46617/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, modificando la Ley Nº 8835, Carta del Ciudadano, eliminando el ERSep, derogando las leyes Nros. 10433, 10545, 5350 - T.O. de la Ley Nº 6658 y 10618; y el Decreto Nº 750/2019, todas relacionadas con el Ente Regulador de Servicios Públicos.",
+ "tema": "Modificando la Ley Nº 8835, Carta del Ciudadano, eliminando el ERSep, derogando las leyes Nros. 10433, 10545, 5350 - T.O. de la Ley Nº 6658 y 10618; y el Decreto Nº 750/2019, todas relacionadas con el Ente Regulador de Servicios Públicos.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

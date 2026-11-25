@@ -2,6 +2,7 @@
  "numero": "39377/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de declaración, iniciado por la Legisladora Ferrero, declarando de Interés Legislativo la jornada de capacitación \"Uso responsable del gas en el hogar\", a desarrollarse el día 6 de junio en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo la jornada de capacitación \"Uso responsable del gas en el hogar\", a desarrollarse el día 6 de junio en la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

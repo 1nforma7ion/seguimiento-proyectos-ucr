@@ -2,6 +2,7 @@
  "numero": "43727/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, expresando beneplácito por el 97º aniversario de la localidad de San Basilio, Dpto. Río Cuarto, celebrado el pasado 24 de agosto.",
+ "tema": "Expresando beneplácito por el 97º aniversario de la localidad de San Basilio, Dpto. Río Cuarto, celebrado el pasado 24 de agosto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

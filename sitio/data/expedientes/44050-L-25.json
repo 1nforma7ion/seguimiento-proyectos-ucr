@@ -2,6 +2,7 @@
  "numero": "44050/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Contrera y Carignano, estableciendo la enseñanza del Himno Nacional Argentino en Lengua de Señas Argentina en los tres niveles del sistema educativo, de gestión estatal y privada.",
+ "tema": "Estableciendo la enseñanza del Himno Nacional Argentino en Lengua de Señas Argentina en los tres niveles del sistema educativo, de gestión estatal y privada.",
  "autores": [
   "Botta, Patricia Isabel",
   "Contrera, Ines Mercedes",
@@ -22,7 +23,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45515/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Torres Lima y Contrera, expresando beneplácito por el 121º aniversario de Rotary International, celebrado el pasado 23 de febrero.",
+ "tema": "Expresando beneplácito por el 121º aniversario de Rotary International, celebrado el pasado 23 de febrero.",
  "autores": [
   "Torres Lima, Facundo",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

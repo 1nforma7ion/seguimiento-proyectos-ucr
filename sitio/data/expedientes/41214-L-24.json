@@ -2,6 +2,7 @@
  "numero": "41214/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Quaglino, Blangino, Martoccia, Knipscheer y los Bloques UCR, Construyendo Córdoba y Juntos por el Interior, denominando Gobernador Justo Páez Molina al mirador panorámico ubicado sobre Ruta Nº 34, a un 1 km de localidad de Las Jarillas, Dpto. Punilla.",
+ "tema": "Denominando Gobernador Justo Páez Molina al mirador panorámico ubicado sobre Ruta Nº 34, a un 1 km de localidad de Las Jarillas, Dpto. Punilla.",
  "autores": [
   "Quaglino, Ileana",
   "Bloque UCR",
@@ -26,7 +27,8 @@
    "fecha": "2024-12-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

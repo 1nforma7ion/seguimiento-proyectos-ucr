@@ -2,6 +2,7 @@
  "numero": "38826/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Jaimes, Gispert, Gloria Pereyra, Almada, Peirone, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Nicolás, Luna, Saliba, Briner, Bottasso, Bría, Molina, Contrera, Carignano, y Hernández Maqueda, estableciendo la obligatoriedad de la capacitación en Lengua de Señas Argentinas a todos los agentes que integran las fuerzas de seguridad de la provincia.",
+ "tema": "Estableciendo la obligatoriedad de la capacitación en Lengua de Señas Argentinas a todos los agentes que integran las fuerzas de seguridad de la provincia.",
  "autores": [
   "Jaimes, Mauricio Sebastian",
   "Gispert, Walter Oscar",
@@ -41,7 +42,8 @@
    "fecha": "2026-07-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

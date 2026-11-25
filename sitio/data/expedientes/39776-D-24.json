@@ -1,0 +1,113 @@
+{
+ "numero": "39776/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Valiente y Bisotto, declarando de Interés Legislativo al Luarprofeno, medicamento en fase de investigación como terapia antiinflamatoria elaborado por Laboratorios Química Luar de la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo al Luarprofeno, medicamento en fase de investigación como terapia antiinflamatoria elaborado por Laboratorios Química Luar de la ciudad de Córdoba.",
+ "autores": [
+  "Szpanin, Ariela Yanina",
+  "Valiente, Lucas German",
+  "Bisotto, Graciela Maria"
+ ],
+ "comisiones": [
+  "Salud"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2024-07-24",
+  "ultimo_movimiento": {
+   "fecha": "2025-03-19",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2024-07-24",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 10 del Período 146"
+  },
+  {
+   "fecha": "2025-03-19",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 4 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas: se votó el mismo día, sin pasar por comisión",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 10 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-07-24"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 4 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-03-19"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre Tablas",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 29312",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=ivwoXh4Gx7Q="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39776%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

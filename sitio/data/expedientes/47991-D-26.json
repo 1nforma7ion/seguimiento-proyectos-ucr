@@ -2,6 +2,7 @@
  "numero": "47991/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Carignano, expresando beneplácito por la 7° Jornada de Inclusión/Integración \"Paradigma del Nuevo Siglo\", realizada del 19 al 21 de septiembre en la ciudad de Capilla del Monte, Dpto. Punilla.",
+ "tema": "Expresando beneplácito por la 7° Jornada de Inclusión/Integración \"Paradigma del Nuevo Siglo\", realizada del 19 al 21 de septiembre en la ciudad de Capilla del Monte, Dpto. Punilla.",
  "autores": [
   "Carignano, Carlos Atilio"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

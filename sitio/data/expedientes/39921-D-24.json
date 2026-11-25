@@ -2,6 +2,7 @@
  "numero": "39921/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Austin, Ferrero, Gvozdenovich, Nigro, Valiente, Gudiño, Saliba, Bottasso, Bría, Molina, Contrera y Carignano, rechazando la falta de transparencia del proceso electoral de la República Bolivariana de Venezuela del pasado 28 de julio, abogando que los organismos internacionales intercedan para examinar de manera imparcial y legítima el resultado de la elección.",
+ "tema": "Rechazando la falta de transparencia del proceso electoral de la República Bolivariana de Venezuela del pasado 28 de julio, abogando que los organismos internacionales intercedan para examinar de manera imparcial y legítima el resultado de la elección.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -32,7 +33,8 @@
    "fecha": "2024-08-07",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-08-07"
  },
  "desconocidos": [],
  "linea_tiempo": [

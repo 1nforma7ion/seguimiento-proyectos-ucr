@@ -2,6 +2,7 @@
  "numero": "43362/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, expresando preocupación por la disolución del Instituto Nacional del Cáncer dispuesta por el Decreto N° 459/2025 y la derogación de la Ley nacional N° 27285.",
+ "tema": "Expresando preocupación por la disolución del Instituto Nacional del Cáncer dispuesta por el Decreto N° 459/2025 y la derogación de la Ley nacional N° 27285.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

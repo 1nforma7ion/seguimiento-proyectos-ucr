@@ -2,6 +2,7 @@
  "numero": "43429/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera y Quaglino,, adhiriendo a la Semana Mundial de la Lactancia Materna, a desarrollarse del 1 al 7 de agosto.",
+ "tema": "Adhiriendo a la Semana Mundial de la Lactancia Materna, a desarrollarse del 1 al 7 de agosto.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Quaglino, Ileana"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

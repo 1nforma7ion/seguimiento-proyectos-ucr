@@ -2,6 +2,7 @@
  "numero": "46197/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, expresando beneplácito al programa radial ConCiencia Vial por la obtención del Premio Binacional Río de los Pájaros 2026.",
+ "tema": "Expresando beneplácito al programa radial ConCiencia Vial por la obtención del Premio Binacional Río de los Pájaros 2026.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41242/N/24",
  "tipo": "otros",
  "extracto": "Nota remitida por el Legislador Gvozdenovich, informando que en el día de la fecha no asistirá a la reunión de Labor Parlamentaria, por lo que en representación de su Bloque participará la Legisladora Ferrero.",
+ "tema": "Nota remitida por el Legislador Gvozdenovich, informando que en el día de la fecha no asistirá a la reunión de Labor Parlamentaria, por lo que en representación de su Bloque participará la Legisladora Ferrero.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2024-11-20",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

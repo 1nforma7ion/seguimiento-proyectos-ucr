@@ -2,6 +2,7 @@
  "numero": "47429/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, expresando beneplácito por la presentación del libro \"Amparo y Administración\", de autoría del Dr. Patricio Sammartino, a desarrollarse en una jornada académica el día 27 de agosto en la Facultad de Derecho de la UNC de la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la presentación del libro \"Amparo y Administración\", de autoría del Dr. Patricio Sammartino, a desarrollarse en una jornada académica el día 27 de agosto en la Facultad de Derecho de la UNC de la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-08-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "45637/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nigro, Valiente, Nicolás, Ferrero, Contrera, Bottasso, Bría, Jaimes, Carignano, Molina y Szpanin, solicitando al Poder Ejecutivo que envie a la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, la totalidad de los fondos transferidos por la Nación en el marco de los Convenios de Financiamiento.",
+ "tema": "Solicitando al Poder Ejecutivo que envie a la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, la totalidad de los fondos transferidos por la Nación en el marco de los Convenios de Financiamiento.",
  "autores": [
   "Austin, Brenda Lis",
   "Nigro, Alfredo Mariano",
@@ -29,7 +30,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

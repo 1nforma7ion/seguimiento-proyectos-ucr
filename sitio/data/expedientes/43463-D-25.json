@@ -2,6 +2,7 @@
  "numero": "43463/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, expresando beneplácito por la presentación del libro \"El fino arte de crear monstruos\", escrito por Silvana Vogt, oriunda de la ciudad de Morteros, Dpto. San Justo.",
+ "tema": "Expresando beneplácito por la presentación del libro \"El fino arte de crear monstruos\", escrito por Silvana Vogt, oriunda de la ciudad de Morteros, Dpto. San Justo.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-07-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

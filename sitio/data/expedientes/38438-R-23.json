@@ -2,6 +2,7 @@
  "numero": "38438/R/23",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bisotto, Jaimes, Austin, Nigro Nicolás, Luna, Saliba, Bría, Contrera, Carignano, Rossi y Szpanin, solicitando al Poder Ejecutivo que arregle la Ruta provincial N° 4, entre las ciudades de La Carlota y Laboulaye.",
+ "tema": "Solicitando al Poder Ejecutivo que arregle la Ruta provincial N° 4, entre las ciudades de La Carlota y Laboulaye.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Jaimes, Mauricio Sebastian",
@@ -29,7 +30,8 @@
    "fecha": "2024-12-20",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

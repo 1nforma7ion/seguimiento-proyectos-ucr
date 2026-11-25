@@ -2,6 +2,7 @@
  "numero": "44578/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Russo, Lencinas, Botta y Carignano, expresando beneplácito por el Día del Empleado Bancario, que se celebra el 6 de noviembre de cada año.",
+ "tema": "Expresando beneplácito por el Día del Empleado Bancario, que se celebra el 6 de noviembre de cada año.",
  "autores": [
   "Russo, Antonio Edgardo",
   "Botta, Patricia Isabel",
@@ -21,7 +22,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

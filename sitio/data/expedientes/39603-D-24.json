@@ -2,6 +2,7 @@
  "numero": "39603/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Nigro, adhiriendo a la 4° Fiesta del Chacinado Casero, a desarrollarse el día 29 de junio en la localidad de Arroyo Cabral, Dpto. Gral. San Martín.",
+ "tema": "Adhiriendo a la 4° Fiesta del Chacinado Casero, a desarrollarse el día 29 de junio en la localidad de Arroyo Cabral, Dpto. Gral. San Martín.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Nigro, Alfredo Mariano"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

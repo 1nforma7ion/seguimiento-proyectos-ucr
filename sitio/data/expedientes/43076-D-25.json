@@ -2,6 +2,7 @@
  "numero": "43076/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Austin, Carignano, Nicolás y el Bloque UCR, expresando pesar por el fallecimiento de Apolonia “Chita” Bonansea, una de creadoras del sistema educativo municipal de la ciudad de Córdoba en el año 1983.",
+ "tema": "Expresando pesar por el fallecimiento de Apolonia “Chita” Bonansea, una de creadoras del sistema educativo municipal de la ciudad de Córdoba en el año 1983.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Austin, Brenda Lis",
@@ -22,7 +23,8 @@
    "fecha": "2025-06-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42319/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Bría, instando al Poder Ejecutivo a incrementar los aportes del Fondo de Financiamiento Descentralizado en Salud destinados al Hospital Municipal de la ciudad de La Falda y a otros nosocomios de la provincia.",
+ "tema": "Instando al Poder Ejecutivo a incrementar los aportes del Fondo de Financiamiento Descentralizado en Salud destinados al Hospital Municipal de la ciudad de La Falda y a otros nosocomios de la provincia.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-04-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

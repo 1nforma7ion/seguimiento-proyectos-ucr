@@ -2,6 +2,7 @@
  "numero": "45395/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Jaimes y Szpanin, solicitando al Poder Ejecutivo informe (art. 102 C.P.) diversos aspectos referidos a los dispositivos técnicos instalados para la detección temprana y el combate de incendios forestales en áreas serranas, boscosas y de interfase urbano-forestal.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) diversos aspectos referidos a los dispositivos técnicos instalados para la detección temprana y el combate de incendios forestales en áreas serranas, boscosas y de interfase urbano-forestal.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Jaimes, Mauricio Sebastian",
@@ -20,7 +21,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-19"
+  "caduca_el": "2027-02-19",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

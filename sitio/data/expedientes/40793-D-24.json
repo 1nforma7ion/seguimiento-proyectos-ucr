@@ -1,0 +1,93 @@
+{
+ "numero": "40793/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Molina, reconociendo en carácter de Reparación Histórica al Dr, José Santos Ortiz, primer Gobernador de la provincia de San Luis, asesinado junto a Juan Facundo Quiroga y su comitiva el 16 de febrero de 1835; a través de la construcción de un mástil, de las mismas características de los existentes, en el monumento erigido a las víctimas de la masacre de Barranca Yaco.",
+ "tema": "Reconociendo en carácter de Reparación Histórica al Dr, José Santos Ortiz, primer Gobernador de la provincia de San Luis, asesinado junto a Juan Facundo Quiroga y su comitiva el 16 de febrero de 1835; a través de la construcción de un mástil, de las mismas características de los existentes, en el monumento erigido a las víctimas de la masacre de Barranca Yaco.",
+ "autores": [
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-10-16",
+  "ultimo_movimiento": {
+   "fecha": "2025-10-16",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-16"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2024-10-16",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 16 del Período 146"
+  },
+  {
+   "fecha": "2025-10-16",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 16 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-16"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-10-16"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=40793%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

@@ -2,6 +2,7 @@
  "numero": "44232/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Bría, Briner, Ferrero, Saliba y Contrera, estableciendo la obligatoriedad para todos los hospitales, clínicas y maternidades públicas y privadas de la provincia, de brindar, previo al alta postparto, una capacitación básica en técnicas de reanimación cardiopulmonar, maniobras de desobstrucción de la vía aérea y pautas integrales de prevención de muerte súbita del lactante, a las personas responsables del cuidado del recién nacido.",
+ "tema": "Estableciendo la obligatoriedad para todos los hospitales, clínicas y maternidades públicas y privadas de la provincia, de brindar, previo al alta postparto, una capacitación básica en técnicas de reanimación cardiopulmonar, maniobras de desobstrucción de la vía aérea y pautas integrales de prevención de muerte súbita del lactante, a las personas responsables del cuidado del recién nacido.",
  "autores": [
   "Austin, Brenda Lis",
   "Bria, Jose Alberto",
@@ -24,7 +25,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

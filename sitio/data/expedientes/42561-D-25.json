@@ -2,6 +2,7 @@
  "numero": "42561/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, apoyando el reclamo salarial de los trabajadores del Poder Judicial, instando a las autoridades a conformar una mesa de diálogo.",
+ "tema": "Apoyando el reclamo salarial de los trabajadores del Poder Judicial, instando a las autoridades a conformar una mesa de diálogo.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-05-13",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

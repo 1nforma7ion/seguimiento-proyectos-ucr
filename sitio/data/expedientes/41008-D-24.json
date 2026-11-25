@@ -2,6 +2,7 @@
  "numero": "41008/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Contrera, Szpanin, Martoccia y el Bloque Frente Cívico de Córdoba, rechazando la autorización de enajenación de propiedades señalizadas como Sitios de la Memoria, como por ejemplo La Perla Chica o La Perla Vieja, en virtud de lo dispuesto por el Decreto Nº 950/2024 del Ejecutivo Nacional.",
+ "tema": "Rechazando la autorización de enajenación de propiedades señalizadas como Sitios de la Memoria, como por ejemplo La Perla Chica o La Perla Vieja, en virtud de lo dispuesto por el Decreto Nº 950/2024 del Ejecutivo Nacional.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

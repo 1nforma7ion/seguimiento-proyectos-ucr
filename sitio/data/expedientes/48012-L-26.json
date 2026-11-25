@@ -2,6 +2,7 @@
  "numero": "48012/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin, modificando la Ley Nº 9396, de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, en lo referido a la designación del Defensor.",
+ "tema": "Modificando la Ley Nº 9396, de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, en lo referido a la designación del Defensor.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-10-07",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-10-07"
+  "caduca_el": "2027-10-07",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

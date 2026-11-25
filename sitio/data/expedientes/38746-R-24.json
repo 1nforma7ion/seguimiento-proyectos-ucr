@@ -2,6 +2,7 @@
  "numero": "38746/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Gvozdenovich, Ferrero, Bottasso, Gudiño, Austin, Nicolás, Valiente, Luna, Molina, Jaimes, Bisotto, Saliba, Nigro, Szpanin, Grich, Briner y Contrera, solicitando al Poder Ejecutivo la reparación y puesta en condiciones de la Ruta provincial N° 17, en el tramo que une la intersección de calles Urquiza y Mar Chiquita de la localidad de Balnearia hasta el cruce con la Ruta provincial N° 3.",
+ "tema": "Solicitando al Poder Ejecutivo la reparación y puesta en condiciones de la Ruta provincial N° 17, en el tramo que une la intersección de calles Urquiza y Mar Chiquita de la localidad de Balnearia hasta el cruce con la Ruta provincial N° 3.",
  "autores": [
   "Bria, Jose Alberto",
   "Gvozdenovich, Matias Pablo",
@@ -35,7 +36,8 @@
    "fecha": "2025-03-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

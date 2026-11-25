@@ -2,6 +2,7 @@
  "numero": "43294/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Carignano, Ovejeros, Botta y Sala, expresando beneplácito por el encuentro de la tercera división de la Liga Nacional de Básquet Adaptado, desarrollado del 18 al 20 de julio en la ciudad de Alta Gracia, Dpto. Santa María.",
+ "tema": "Expresando beneplácito por el encuentro de la tercera división de la Liga Nacional de Básquet Adaptado, desarrollado del 18 al 20 de julio en la ciudad de Alta Gracia, Dpto. Santa María.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Carignano, Carlos Atilio",
@@ -22,7 +23,8 @@
    "fecha": "2025-07-23",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

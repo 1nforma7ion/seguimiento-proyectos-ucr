@@ -2,6 +2,7 @@
  "numero": "39211/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Gvozdenovich y Briner, expresando beneplácito por la V Conferencia del Distrito 4851 de Rotary International, desarrollada del 10 al 12 de mayo en la ciudad de La Falda, Dpto. Punilla.",
+ "tema": "Expresando beneplácito por la V Conferencia del Distrito 4851 de Rotary International, desarrollada del 10 al 12 de mayo en la ciudad de La Falda, Dpto. Punilla.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo",
@@ -20,7 +21,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

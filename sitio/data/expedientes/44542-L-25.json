@@ -2,6 +2,7 @@
  "numero": "44542/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Botta, Peirone, Bría y el Bloque PRO, creando equipos interdisciplinarios de cuidados emocionales para niñas, niños y adolescentes en procesos pre-quirúrgicos, estudios invasivos y consentimiento informado, dentro de los centros de salud de gestión pública y privada.",
+ "tema": "Creando equipos interdisciplinarios de cuidados emocionales para niñas, niños y adolescentes en procesos pre-quirúrgicos, estudios invasivos y consentimiento informado, dentro de los centros de salud de gestión pública y privada.",
  "autores": [
   "Botta, Patricia Isabel",
   "Bria, Jose Alberto",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

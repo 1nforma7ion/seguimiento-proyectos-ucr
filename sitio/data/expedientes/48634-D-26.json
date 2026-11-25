@@ -2,6 +2,7 @@
  "numero": "48634/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro y Brinner, expresando su beneplácito por la conmemoración del Centenario de la Escuela Primaria Rural \"Julio Argentino Roca\", ubicada en el Paraje Monte de los Lazos, Zona Rural de Villa María, Dpto. General San Martín, celebrado el 3 de noviembre.",
+ "tema": "Expresando su beneplácito por la conmemoración del Centenario de la Escuela Primaria Rural \"Julio Argentino Roca\", ubicada en el Paraje Monte de los Lazos, Zona Rural de Villa María, Dpto. General San Martín, celebrado el 3 de noviembre.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Briner, Carlos Edgardo"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-04"
+  "caduca_el": "2027-11-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

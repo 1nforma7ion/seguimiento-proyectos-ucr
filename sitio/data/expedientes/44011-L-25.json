@@ -2,6 +2,7 @@
  "numero": "44011/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Contrera, Gispert y Peirone, modificando la Ley Nº 10955, de autorización a la APROSS a establecer un aporte solidario regular y constituir un fondo complementario a cargo de los afiliados y beneficiarios, derogando su creación.",
+ "tema": "Modificando la Ley Nº 10955, de autorización a la APROSS a establecer un aporte solidario regular y constituir un fondo complementario a cargo de los afiliados y beneficiarios, derogando su creación.",
  "autores": [
   "Almada, Nancy Edith",
   "Contrera, Ines Mercedes",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

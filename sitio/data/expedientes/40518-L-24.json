@@ -2,6 +2,7 @@
  "numero": "40518/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando la flota de aeronaves hidrantes para la lucha contra incendios forestales y de pastizales.",
+ "tema": "Creando la flota de aeronaves hidrantes para la lucha contra incendios forestales y de pastizales.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2025-10-02",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-02"
  },
  "desconocidos": [],
  "linea_tiempo": [

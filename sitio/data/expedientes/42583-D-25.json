@@ -2,6 +2,7 @@
  "numero": "42583/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por las Legisladoras Quaglino y Contrera, reconociendo al arquitecto Josep María Llop Torné, por su destacada trayectoria profesional.",
+ "tema": "Reconociendo al arquitecto Josep María Llop Torné, por su destacada trayectoria profesional.",
  "autores": [
   "Quaglino, Ileana",
   "Contrera, Ines Mercedes"
@@ -19,7 +20,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

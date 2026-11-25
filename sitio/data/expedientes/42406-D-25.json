@@ -2,6 +2,7 @@
  "numero": "42406/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 115º aniversario de la localidad de Altos de Chipión, Dpto. San Justo, a conmemorarse el día 6 de mayo y cuyo acto oficial se desarrollará el día 9 de mayo.",
+ "tema": "Adhiriendo al 115º aniversario de la localidad de Altos de Chipión, Dpto. San Justo, a conmemorarse el día 6 de mayo y cuyo acto oficial se desarrollará el día 9 de mayo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

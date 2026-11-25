@@ -1,0 +1,151 @@
+{
+ "numero": "39007/L/24",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por la Legisladora Szpanin, instituyendo el segundo sábado del mes de mayo de cada año, como el \"Día del Síndrome Cornelia de Lange\".",
+ "tema": "Instituyendo el segundo sábado del mes de mayo de cada año, como el \"Día del Síndrome Cornelia de Lange\".",
+ "autores": [
+  "Szpanin, Ariela Yanina"
+ ],
+ "comisiones": [
+  "Salud",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": false,
+  "ingreso": "2024-04-17",
+  "ultimo_movimiento": {
+   "fecha": "2024-10-23",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-02"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-04-17",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 5 del Período 146"
+  },
+  {
+   "fecha": "2024-10-02",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 15 del Período 146"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató con despacho de comisión",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-23",
+   "texto": "Se comunicó al Poder Ejecutivo",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-10-23",
+   "texto": "La ley se promulgó y se publicó en el Boletín Oficial",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 5 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-04-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 15 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-10-02"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Normal con Despacho Comisión",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Notificado Al Poder Ejecutivo",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-10-23"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Ley Sancionada, Promulgada Y Publicada En B.O",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2024-10-23"
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 10",
+   "url": null
+  },
+  {
+   "seccion": "Actas",
+   "nombre": "Salud · 11",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (9/18/2024)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 10988",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=8XaWo-9ayBI="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39007%2FL%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

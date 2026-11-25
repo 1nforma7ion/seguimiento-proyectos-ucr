@@ -2,6 +2,7 @@
  "numero": "42110/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Ferrero, Nostrala, Gvozdenovich y Botta, instruyendo a los Senadores Nacionales por Córdoba (art. 104 inc.5 C.P. ) para que impulsen el debate del Proyectos de Ley que regule cuestiones vinculadas a las apuestas virtuales.",
+ "tema": "Instruyendo a los Senadores Nacionales por Córdoba (art. 104 inc.5 C.P. ) para que impulsen el debate del Proyectos de Ley que regule cuestiones vinculadas a las apuestas virtuales.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Ferrero, Alejandra",
@@ -22,7 +23,8 @@
    "fecha": "2025-03-19",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

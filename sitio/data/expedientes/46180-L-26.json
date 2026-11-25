@@ -2,6 +2,7 @@
  "numero": "46180/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Grich, Contrera y Bottasso, estableciendo un régimen de responsabilidad, prevención, capacitación, contención y reparación frente a conductas de intimidación o amenaza en instituciones educativas.",
+ "tema": "Estableciendo un régimen de responsabilidad, prevención, capacitación, contención y reparación frente a conductas de intimidación o amenaza en instituciones educativas.",
  "autores": [
   "Grich, Ariel Denis",
   "Contrera, Ines Mercedes",
@@ -21,7 +22,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "40692/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bría, Briner y Peirone, instando al Poder Ejecutivo a garantizar la transparencia y una eficiente comunicación en la campaña de vacunación contra el dengue.",
+ "tema": "Instando al Poder Ejecutivo a garantizar la transparencia y una eficiente comunicación en la campaña de vacunación contra el dengue.",
  "autores": [
   "Bria, Jose Alberto",
   "Briner, Carlos Edgardo",
@@ -20,7 +21,8 @@
    "fecha": "2025-10-16",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-16"
  },
  "desconocidos": [],
  "linea_tiempo": [

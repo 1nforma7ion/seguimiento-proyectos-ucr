@@ -2,6 +2,7 @@
  "numero": "43441/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Botta, Contrera, Tamis, Sala, Szpanin, Bisotto y Austin, expresando pesar por el fallecimiento, el pasado 28 de julio, de la boxeadora Alejandra Oliveras.",
+ "tema": "Expresando pesar por el fallecimiento, el pasado 28 de julio, de la boxeadora Alejandra Oliveras.",
  "autores": [
   "Botta, Patricia Isabel",
   "Contrera, Ines Mercedes",
@@ -24,7 +25,8 @@
    "fecha": "2025-07-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

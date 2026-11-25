@@ -1,0 +1,106 @@
+{
+ "numero": "46397/R/26",
+ "tipo": "resolucion",
+ "extracto": "Proyecto de Resolución, iniciado por el Legislador Saliba, solicitando al Poder Ejecutivo informe (art. 102 C.P.) respecto del funcionamiento general, cronograma y partidas presupuestarias del Programa \"Más Leche, Más Proteínas\".",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) respecto del funcionamiento general, cronograma y partidas presupuestarias del Programa \"Más Leche, Más Proteínas\".",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [
+  "Economia y Presupuesto",
+  "Desarrollo Social"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
+  "sobre_tablas": false,
+  "ingreso": "2026-05-28",
+  "ultimo_movimiento": {
+   "fecha": "2026-10-29",
+   "texto": "Se archivó"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-05-28",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 8 del Período 148"
+  },
+  {
+   "fecha": "2026-10-29",
+   "texto": "Se archivó",
+   "detalle": "Sesión Ordinaria 18 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató por acuerdo de los bloques",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 8 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-05-28"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado",
+   "sesion": "Sesión Ordinaria 18 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-10-29"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Por Acuerdo De Los Bloques",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46397%2FR%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

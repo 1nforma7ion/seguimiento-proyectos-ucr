@@ -2,6 +2,7 @@
  "numero": "41961/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, adhiriendo al 100° aniversario del Club Independiente de la ciudad de Hernando, Dpto. Tercero Arriba, a celebrase el día 15 de marzo.",
+ "tema": "Adhiriendo al 100° aniversario del Club Independiente de la ciudad de Hernando, Dpto. Tercero Arriba, a celebrase el día 15 de marzo.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

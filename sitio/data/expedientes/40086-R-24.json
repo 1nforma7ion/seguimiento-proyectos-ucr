@@ -2,6 +2,7 @@
  "numero": "40086/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Gvozdenovich, Nigro, Briner, Bottasso, Molina y Contrera, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la denuncia realizada por un particular contra la Policía Caminera, el pasado 28 de julio en la ciudad de La Carlota, Dpto. Juárez Celman.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre la denuncia realizada por un particular contra la Policía Caminera, el pasado 28 de julio en la ciudad de La Carlota, Dpto. Juárez Celman.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2025-08-21",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-21"
  },
  "desconocidos": [],
  "linea_tiempo": [

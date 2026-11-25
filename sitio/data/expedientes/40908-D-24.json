@@ -2,6 +2,7 @@
  "numero": "40908/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Almada, Szpanin, Bría, Briner, Knipscheer y los Bloques Frente Cívico de Córdoba y Encuentro Vecinal Córdoba, reconociendo la trayectoria del Dr. Sfaello Zenón Milciades, quien dedicó su vida al estudio de la Neurología.",
+ "tema": "Reconociendo la trayectoria del Dr. Sfaello Zenón Milciades, quien dedicó su vida al estudio de la Neurología.",
  "autores": [
   "Almada, Nancy Edith",
   "Szpanin, Ariela Yanina",
@@ -24,7 +25,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

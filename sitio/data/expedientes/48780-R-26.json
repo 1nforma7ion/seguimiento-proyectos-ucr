@@ -2,6 +2,7 @@
  "numero": "48780/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de resolución, iniciado por la Legisladora Austin, solicitando al Poder Ejecutivo informe, a través de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, sobre los efectos de la aplicación de la denominada Ley de Equidad, aprobada por esta Legislatura a fines de 2025.",
+ "tema": "Solicitando al Poder Ejecutivo informe, a través de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba, sobre los efectos de la aplicación de la denominada Ley de Equidad, aprobada por esta Legislatura a fines de 2025.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

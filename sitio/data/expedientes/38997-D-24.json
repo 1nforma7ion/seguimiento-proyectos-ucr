@@ -2,6 +2,7 @@
  "numero": "38997/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bría, reconociendo al pugilista cordobés Martín Ezequiel Bulacio, por la obtención del título de campeón latino del Consejo Mundial de Boxeo en la categoría semipesada.",
+ "tema": "Reconociendo al pugilista cordobés Martín Ezequiel Bulacio, por la obtención del título de campeón latino del Consejo Mundial de Boxeo en la categoría semipesada.",
  "autores": [
   "Bria, Jose Alberto"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

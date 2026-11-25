@@ -2,6 +2,7 @@
  "numero": "42989/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Hernández Maqueda, Ferrero, Agrelo, Bisotto, Gvozdenovich y Nostrala, expresando beneplácito por la confirmación del fallo judicial que condena a la expresidenta Cristina Fernández de Kirchner a prisión e inhabilitación perpetua para ejercer cargos públicos.",
+ "tema": "Expresando beneplácito por la confirmación del fallo judicial que condena a la expresidenta Cristina Fernández de Kirchner a prisión e inhabilitación perpetua para ejercer cargos públicos.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Ferrero, Alejandra",
@@ -23,7 +24,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

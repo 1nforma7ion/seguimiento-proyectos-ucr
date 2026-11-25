@@ -2,6 +2,7 @@
  "numero": "46290/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo a las fiestas patronales de la localidad de Porteña, Dpto. San Justo, a celebrarse el 15 de mayo en honor a San Isidro Labrador.",
+ "tema": "Adhiriendo a las fiestas patronales de la localidad de Porteña, Dpto. San Justo, a celebrarse el 15 de mayo en honor a San Isidro Labrador.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

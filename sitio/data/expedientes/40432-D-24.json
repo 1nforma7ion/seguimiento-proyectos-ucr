@@ -2,6 +2,7 @@
  "numero": "40432/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, beneplácito por la realización de la XIV Semana por los Derechos de las Juventudes, Encuentro Regional Córdoba - Carlos Paz Transformar lo (im)posible, a desarrollarse el día 20 de septiembre en el Espacio para la Memoria La Perla.",
+ "tema": "Proyecto de Declaración, iniciado por la Legisladora Austin, beneplácito por la realización de la XIV Semana por los Derechos de las Juventudes, Encuentro Regional Córdoba - Carlos Paz Transformar lo (im)posible, a desarrollarse el día 20 de septiembre en el Espacio para la Memoria La Perla.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-09-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

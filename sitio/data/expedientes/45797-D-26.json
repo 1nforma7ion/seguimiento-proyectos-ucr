@@ -2,6 +2,7 @@
  "numero": "45797/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Russo y Bría, expresando preocupación ante la notificación efectiva del Estado Nacional de retirar a la República Argentina de la Organización Mundial de la Salud.",
+ "tema": "Expresando preocupación ante la notificación efectiva del Estado Nacional de retirar a la República Argentina de la Organización Mundial de la Salud.",
  "autores": [
   "Russo, Antonio Edgardo",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

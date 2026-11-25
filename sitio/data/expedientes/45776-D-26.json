@@ -2,6 +2,7 @@
  "numero": "45776/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Contrera, Quaglino y Bría, reconociendo al Colegio de Arquitectos de la provincia de Córdoba, en el marco de su 40º aniversario.",
+ "tema": "Reconociendo al Colegio de Arquitectos de la provincia de Córdoba, en el marco de su 40º aniversario.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes",
@@ -20,7 +21,8 @@
    "fecha": "2026-03-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

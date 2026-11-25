@@ -2,6 +2,7 @@
  "numero": "44006/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, expresando preocupación por el retraso en la designación de jueces de paz que cumplimentaron sus procesos de designación, así como en la demora que muchos que esperan ser evaluados.",
+ "tema": "Expresando preocupación por el retraso en la designación de jueces de paz que cumplimentaron sus procesos de designación, así como en la demora que muchos que esperan ser evaluados.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

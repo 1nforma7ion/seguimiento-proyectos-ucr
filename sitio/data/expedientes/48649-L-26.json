@@ -2,6 +2,7 @@
  "numero": "48649/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Bría, Molina, Jaimes, Nigro, Bottasso, Gvozdenovich y Saliba, regulando la actividad de los alojamientos turísticos temporarios, complementando la Ley Provinicial Nº 6483, y su Decreto Reglamentario.",
+ "tema": "Regulando la actividad de los alojamientos turísticos temporarios, complementando la Ley Provinicial Nº 6483, y su Decreto Reglamentario.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto",
@@ -26,7 +27,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

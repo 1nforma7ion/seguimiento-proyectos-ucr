@@ -2,6 +2,7 @@
  "numero": "41921/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Szpanin, expresando beneplácito por la decisión de las autoridades de la Agencia Nacional de Discapacidad, ANDIS, al haber reconocido el error y manifestar que se modificará el Anexo I de la Resolución N° 187/25.",
+ "tema": "Expresando beneplácito por la decisión de las autoridades de la Agencia Nacional de Discapacidad, ANDIS, al haber reconocido el error y manifestar que se modificará el Anexo I de la Resolución N° 187/25.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina"
@@ -19,7 +20,8 @@
    "fecha": "2026-03-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

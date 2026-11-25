@@ -2,6 +2,7 @@
  "numero": "41433/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Limia y Bría, adhiriendo a la Fiesta Provincial de la Avicultura, a desarrollarse del 17 al 19 de enero de 2025 en la localidad de Santa María de Punilla.",
+ "tema": "Adhiriendo a la Fiesta Provincial de la Avicultura, a desarrollarse del 17 al 19 de enero de 2025 en la localidad de Santa María de Punilla.",
  "autores": [
   "Limia, Luis Leonardo",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2024-12-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-12-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

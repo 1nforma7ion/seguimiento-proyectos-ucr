@@ -2,6 +2,7 @@
  "numero": "48652/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Bottasso, expresando beneplácito por la participación de Independiente Deportivo Social Club de la ciudad de Oliva, Dpto. Tercero Arriba, en la Liga Sudamericana de Básquetbol 2026.",
+ "tema": "Expresando beneplácito por la participación de Independiente Deportivo Social Club de la ciudad de Oliva, Dpto. Tercero Arriba, en la Liga Sudamericana de Básquetbol 2026.",
  "autores": [
   "Bottasso, Gustavo Armando"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

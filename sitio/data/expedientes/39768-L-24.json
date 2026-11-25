@@ -2,6 +2,7 @@
  "numero": "39768/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Almada, Ferrero, Grich, Carignano, Luna, Bisotto, Bottasso, Valiente, Saliba, Molina, Gispert, Gvozdenovich, Bría y Agrelo, modificando la Ley Nº 9571, Código Electoral de la provincia, en lo referido a derechos de participación de personas con discapacidad en los procesos electorales.",
+ "tema": "Modificando la Ley Nº 9571, Código Electoral de la provincia, en lo referido a derechos de participación de personas con discapacidad en los procesos electorales.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -34,7 +35,8 @@
    "fecha": "2026-07-23",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-23"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42850/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Rinaldi, Torres Lima y Siciliano, Austin, Ferrero, Nicolás, Busso, Saliba, Nigro, Knipscheer, Martoccia y Fernández, adhiriendo al centenario del Colegio de Abogados de Córdoba, a celebrarse el 28 de agosto.",
+ "tema": "Adhiriendo al centenario del Colegio de Abogados de Córdoba, a celebrarse el 28 de agosto.",
  "autores": [
   "Rinaldi, Julieta",
   "Torres Lima, Facundo",
@@ -29,7 +30,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

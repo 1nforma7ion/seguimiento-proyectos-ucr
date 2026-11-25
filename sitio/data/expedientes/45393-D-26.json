@@ -2,6 +2,7 @@
  "numero": "45393/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Presas, Stella Peralta, Acevedo, Blangino, Bría, Bisotto, Navarro Alegre, Mansilla Frías y Suárez, declarando de Interés Legislativo el Día Internacional del Cáncer Infantil, que se conmemora cada 15 de febrero.",
+ "tema": "Declarando de Interés Legislativo el Día Internacional del Cáncer Infantil, que se conmemora cada 15 de febrero.",
  "autores": [
   "Presas, Luciana Maria",
   "Peralta, Stella Maris",
@@ -27,7 +28,8 @@
    "fecha": "2026-02-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

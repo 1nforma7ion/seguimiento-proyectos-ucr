@@ -2,6 +2,7 @@
  "numero": "44683/N/25",
  "tipo": "otros",
  "extracto": "Nota de la Legisladora Contrera, solicitando la rehabilitación de los Proyectos Nros. 41035/R/24 y 41047/R/24, conforme el art. 111 del R.I.",
+ "tema": "Solicitando la rehabilitación de los Proyectos Nros. 41035/R/24 y 41047/R/24, conforme el art. 111 del R.I.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-11-12",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

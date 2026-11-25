@@ -2,6 +2,7 @@
  "numero": "42078/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Gispert, Martoccia, Gloria Pereyra, Almada, Peirone, Szpanin, Ferrero, Valiente, Nicolás, Grich, Contrera y Bisotto, reconociendo a la atleta Luana Aime Altamirano, destacada deportista de patín artístico, por representar al país en la competencia internacional World Skate.",
+ "tema": "Reconociendo a la atleta Luana Aime Altamirano, destacada deportista de patín artístico, por representar al país en la competencia internacional World Skate.",
  "autores": [
   "Gispert, Walter Oscar",
   "Martoccia, Viviana Raquel Del Valle",
@@ -29,7 +30,8 @@
    "fecha": "2025-03-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

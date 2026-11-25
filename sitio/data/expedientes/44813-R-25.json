@@ -2,6 +2,7 @@
  "numero": "44813/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Grich, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados al funcionamiento de la Junta de Evaluación de Discapacidad de la ciudad de Río Cuarto y la cobertura del servicio en el sur provincial.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre diversos aspectos vinculados al funcionamiento de la Junta de Evaluación de Discapacidad de la ciudad de Río Cuarto y la cobertura del servicio en el sur provincial.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-03",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2026-12-03"
+  "caduca_el": "2026-12-03",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39795/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich y Nicolás, rindiendo homenaje al Capitán Franco Sottile, oriundo de la ciudad de Río Cuarto, integrante de la Fuerza Aérea Argentina, por sus servicios a la patria en misiones internacionales de Chipre, Haití e Israel, expresando pesar por su fallecimiento.",
+ "tema": "Rindiendo homenaje al Capitán Franco Sottile, oriundo de la ciudad de Río Cuarto, integrante de la Fuerza Aérea Argentina, por sus servicios a la patria en misiones internacionales de Chipre, Haití e Israel, expresando pesar por su fallecimiento.",
  "autores": [
   "Grich, Ariel Denis",
   "Nicolas, Miguel Osvaldo"
@@ -19,7 +20,8 @@
    "fecha": "2024-07-24",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-07-24"
  },
  "desconocidos": [],
  "linea_tiempo": [

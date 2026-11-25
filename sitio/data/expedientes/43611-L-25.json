@@ -2,6 +2,7 @@
  "numero": "43611/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Quaglino, Acuña, Ovejeros, Austin, Botta, Szpanin, Gispert, Briner, Stella Peralta, Figueroa, Chamorro, Soardo y Agüero, designando a la ciudad de Córdoba como Capital Provincial del Estudiante Universitario.",
+ "tema": "Designando a la ciudad de Córdoba como Capital Provincial del Estudiante Universitario.",
  "autores": [
   "Quaglino, Ileana",
   "Acuña, Karen Belen",
@@ -31,7 +32,8 @@
    "fecha": "2026-08-20",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

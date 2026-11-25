@@ -2,6 +2,7 @@
  "numero": "39049/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Hernández Maqueda, Peirone, Almada, Botta y Briner, modificando la Ley Nº 7741, Defensoría del Pueblo de la provincia.",
+ "tema": "Modificando la Ley Nº 7741, Defensoría del Pueblo de la provincia.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Peirone, Juan Pablo",
@@ -23,7 +24,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

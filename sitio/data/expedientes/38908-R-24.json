@@ -2,6 +2,7 @@
  "numero": "38908/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bisotto, Gispert, Gloria Pereyra, Peirone, Jaimes, Szpanin, Ferrero, Gvozdenovich, Nigro, Nicolás, Luna, Saliba, Bottasso, Bría, Molina, Contrera, Carignano, Hernández Maqueda, Rossi y Peralta, citando al Sr. Presidente del Directorio de la Apross para que informe sobre diversos aspectos referidos al FOSAET, a la estructura de costos de coseguros, a la demanda de medicamentos para enfermedades crónicas y oncológicas ,la capacidad de respuesta a los usuarios y respecto del Fondo de Enfermedades Catastróficas.",
+ "tema": "Citando al Sr. Presidente del Directorio de la Apross para que informe sobre diversos aspectos referidos al FOSAET, a la estructura de costos de coseguros, a la demanda de medicamentos para enfermedades crónicas y oncológicas ,la capacidad de respuesta a los usuarios y respecto del Fondo de Enfermedades Catastróficas.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Gispert, Walter Oscar",
@@ -37,7 +38,8 @@
    "fecha": "2025-04-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

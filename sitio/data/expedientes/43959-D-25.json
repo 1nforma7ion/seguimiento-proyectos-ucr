@@ -2,6 +2,7 @@
  "numero": "43959/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Szpanin, Austin, Nigro, Saliba y Molina, rechazando el Decreto Nº 647/2025 que dispone el veto del Presidente de la Nación a la Ley Nº 27757, de Financiamiento Universitario.",
+ "tema": "Rechazando el Decreto Nº 647/2025 que dispone el veto del Presidente de la Nación a la Ley Nº 27757, de Financiamiento Universitario.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -23,7 +24,8 @@
    "fecha": "2026-10-01",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47938/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Llamosas, Busso, Soardo y Saliba, adhiriendo a la 27ª Fiesta Provincial del Camino Rural, a desarrollarse el día 17 de octubre en la localidad de Tosquita, Dpto. Río Cuarto.",
+ "tema": "Adhiriendo a la 27ª Fiesta Provincial del Camino Rural, a desarrollarse el día 17 de octubre en la localidad de Tosquita, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis",
   "Llamosas, Juan Manuel",
@@ -22,7 +23,8 @@
    "fecha": "2026-09-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

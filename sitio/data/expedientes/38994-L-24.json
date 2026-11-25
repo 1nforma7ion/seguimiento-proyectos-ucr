@@ -2,6 +2,7 @@
  "numero": "38994/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Ferrero, Szpanin, Bisotto, Gudiño, Botta y Gloria Pereyra, estableciendo paridad de género en el Poder Judicial y el Consejo de la Magistratura, modificando las Leyes Nros. 8435 -Orgánica del Poder Judicial-, 8802 - Consejo de la Magistratura-, 7826 -Orgánica del Ministerio Público Fiscal- y 10915 - Ministerio Público de la Defensa-.",
+ "tema": "Estableciendo paridad de género en el Poder Judicial y el Consejo de la Magistratura, modificando las Leyes Nros. 8435 -Orgánica del Poder Judicial-, 8802 - Consejo de la Magistratura-, 7826 -Orgánica del Ministerio Público Fiscal- y 10915 - Ministerio Público de la Defensa-.",
  "autores": [
   "Austin, Brenda Lis",
   "Ferrero, Alejandra",
@@ -25,7 +26,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

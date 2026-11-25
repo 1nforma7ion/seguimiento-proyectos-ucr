@@ -2,6 +2,7 @@
  "numero": "48719/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, prohibiendo la publicidad, promoción, patrocinio y/o sponsoreo de plataformas, sitios web, aplicaciones y empresas dedicadas a los juegos de azar y apuestas online en clubes, asociaciones, establecimientos educativos e instituciones deportivas.",
+ "tema": "Prohibiendo la publicidad, promoción, patrocinio y/o sponsoreo de plataformas, sitios web, aplicaciones y empresas dedicadas a los juegos de azar y apuestas online en clubes, asociaciones, establecimientos educativos e instituciones deportivas.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

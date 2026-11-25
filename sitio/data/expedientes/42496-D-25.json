@@ -2,6 +2,7 @@
  "numero": "42496/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo a la Semana Mundial del Parto Respetado que, bajo el lema \"Doulas liderando con el corazón\", se desarrolla del 13 al 19 de mayo.",
+ "tema": "Adhiriendo a la Semana Mundial del Parto Respetado que, bajo el lema \"Doulas liderando con el corazón\", se desarrolla del 13 al 19 de mayo.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-05-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

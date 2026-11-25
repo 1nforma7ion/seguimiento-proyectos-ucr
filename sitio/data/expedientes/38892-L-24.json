@@ -2,6 +2,7 @@
  "numero": "38892/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Gvozdenovich, aprobando la Licencia de Conducir Digital, que será complementaria y réplica de la física, modificando el inc. a) del artículo 40 de la Ley N° 8560, T.O. 9169, creando el Registro provincial de Licencias de Conducir Digital .",
+ "tema": "Aprobando la Licencia de Conducir Digital, que será complementaria y réplica de la física, modificando el inc. a) del artículo 40 de la Ley N° 8560, T.O. 9169, creando el Registro provincial de Licencias de Conducir Digital .",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

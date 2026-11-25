@@ -2,6 +2,7 @@
  "numero": "39518/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contreras y Gvozdenovich, solicitando el Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a los protocolos de seguridad o mantenimiento de conexiones de gas natural en las escuelas de gestión pública de la provincia.",
+ "tema": "Solicitando el Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados a los protocolos de seguridad o mantenimiento de conexiones de gas natural en las escuelas de gestión pública de la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-19",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

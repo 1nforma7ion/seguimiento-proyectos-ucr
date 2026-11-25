@@ -2,6 +2,7 @@
  "numero": "45213/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera, Szpanin, Bisotto y Knipscheer, reconociendo a la abogada cordobesa Galia Kademian por el Premio Internacional otorgado en el Palacio de la Paz de La Haya, Países Bajos, en diciembre de 2025 en el marco del Premio Carnegie de la Paz Juvenil.",
+ "tema": "Reconociendo a la abogada cordobesa Galia Kademian por el Premio Internacional otorgado en el Palacio de la Paz de La Haya, Países Bajos, en diciembre de 2025 en el marco del Premio Carnegie de la Paz Juvenil.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -21,7 +22,8 @@
    "fecha": "2026-02-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-02-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

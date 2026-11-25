@@ -2,6 +2,7 @@
  "numero": "45613/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Ferrero, Nigro, Austin. Carignano, Bottasso, Gvozdenovich, Bría, Molina, Saliba, Valiente, Nicolás y Szpanin, estableciendo el uso y colocación obligatoria de Sistemas Aumentativos y Alternativos de Comunicación en los establecimientos educativos de los distintos niveles y modalidades de gestión.",
+ "tema": "Estableciendo el uso y colocación obligatoria de Sistemas Aumentativos y Alternativos de Comunicación en los establecimientos educativos de los distintos niveles y modalidades de gestión.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Ferrero, Alejandra",
@@ -32,7 +33,8 @@
    "fecha": "2026-03-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-03-05"
+  "caduca_el": "2027-03-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

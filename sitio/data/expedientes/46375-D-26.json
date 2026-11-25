@@ -2,6 +2,7 @@
  "numero": "46375/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Presas y Bría, adhiriendo al Cross Running Ansenuza 2026, a desarrollarse el 14 de junio en la ciudad de Morteros, Dpto. San Justo.",
+ "tema": "Adhiriendo al Cross Running Ansenuza 2026, a desarrollarse el 14 de junio en la ciudad de Morteros, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-28",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

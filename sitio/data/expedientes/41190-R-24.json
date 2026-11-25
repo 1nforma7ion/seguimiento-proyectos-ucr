@@ -2,6 +2,7 @@
  "numero": "41190/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Sr. Gobernador de la provincia que utilice la Inteligencia Artificial - IA, para solucionar los problemas de inseguridad, salud y educación, reduciendo el gasto en Agencias, Ministerios y Gastos Reservados, incrementando los salarios de los trabajadores estatales.",
+ "tema": "Solicitando al Sr. Gobernador de la provincia que utilice la Inteligencia Artificial - IA, para solucionar los problemas de inseguridad, salud y educación, reduciendo el gasto en Agencias, Ministerios y Gastos Reservados, incrementando los salarios de los trabajadores estatales.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-20",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

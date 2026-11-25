@@ -2,6 +2,7 @@
  "numero": "40940/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Austin, Contrera, Szpanin, Nigro, Luna, Nicolás y Saliba, estableciendo el Protocolo de Protección y Detección de Abuso Sexual contra Niñas, Niños y Adolescentes en aquellos ámbitos donde desarrollan sus actividades.",
+ "tema": "Estableciendo el Protocolo de Protección y Detección de Abuso Sexual contra Niñas, Niños y Adolescentes en aquellos ámbitos donde desarrollan sus actividades.",
  "autores": [
   "Austin, Brenda Lis",
   "Contrera, Ines Mercedes",
@@ -26,7 +27,8 @@
    "fecha": "2026-05-28",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-28"
+  "caduca_el": "2027-05-28",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

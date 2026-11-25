@@ -2,6 +2,7 @@
  "numero": "44965/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Frías, Fernández, Acuña y Contrera, declarando Mes de la Vacunación en todo el territorio provincial a agosto de cada año, en concordancia con la Ley Nacional Nº 27491, de Control de Enfermedades Prevenibles por Vacunación.",
+ "tema": "Declarando Mes de la Vacunación en todo el territorio provincial a agosto de cada año, en concordancia con la Ley Nacional Nº 27491, de Control de Enfermedades Prevenibles por Vacunación.",
  "autores": [
   "Frias, Cristian Adrian",
   "Acuña, Karen Belen",
@@ -22,7 +23,8 @@
    "fecha": "2025-12-29",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

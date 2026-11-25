@@ -2,6 +2,7 @@
  "numero": "44068/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Ferrero, Gvozdenovich, Nigro, Molina, Contrera y Carignano, reconociendo la 34a Distinción Ugarit, desarrollada el pasado 26 de septiembre en el Club Sirio Libanés de Buenos Aires, siendo distinguidos miembros cordobeses de la comunidad.",
+ "tema": "Reconociendo la 34a Distinción Ugarit, desarrollada el pasado 26 de septiembre en el Club Sirio Libanés de Buenos Aires, siendo distinguidos miembros cordobeses de la comunidad.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -25,7 +26,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

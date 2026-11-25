@@ -2,6 +2,7 @@
  "numero": "42363/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bisotto, Bruno, Grich, Nigro, Valiente, Tévez, Navarro Alegre y Bottasso, declarando de Interés Provincial la construcción de la Ruta Nacional Nº 158 en el tramo que une las ciudades de Río Cuarto y San Francisco, atento a la necesidad manifestada por los sectores de la sociedad usuarios del sector.",
+ "tema": "Declarando de Interés Provincial la construcción de la Ruta Nacional Nº 158 en el tramo que une las ciudades de Río Cuarto y San Francisco, atento a la necesidad manifestada por los sectores de la sociedad usuarios del sector.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Bruno, Karina Gabriela",
@@ -25,7 +26,8 @@
    "fecha": "2025-04-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "48788/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Molina, expresando beneplácito por el homenaje póstumo a Delbes Antonio Tonini, artista plástico, músico, historiador y gestor cultural de la ciudad de Morteros, desarrollado el pasado 13 de noviembre a través de la muestra retrospectiva sobre su vida y obra.",
+ "tema": "Expresando beneplácito por el homenaje póstumo a Delbes Antonio Tonini, artista plástico, músico, historiador y gestor cultural de la ciudad de Morteros, desarrollado el pasado 13 de noviembre a través de la muestra retrospectiva sobre su vida y obra.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

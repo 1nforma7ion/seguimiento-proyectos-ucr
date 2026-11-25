@@ -2,6 +2,7 @@
  "numero": "47862/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Luna, creando, en el ámbito de la Secretaría General de la Gobernación, el “Programa de Incentivo a la Educación Permanente de Jóvenes y Adultos”.",
+ "tema": "Creando, en el ámbito de la Secretaría General de la Gobernación, el “Programa de Incentivo a la Educación Permanente de Jóvenes y Adultos”.",
  "autores": [
   "Luna, Fernando Javier",
   "Austin, Brenda Lis"
@@ -21,7 +22,8 @@
    "fecha": "2026-09-22",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-22"
+  "caduca_el": "2027-09-22",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

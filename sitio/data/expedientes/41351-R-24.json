@@ -2,6 +2,7 @@
  "numero": "41351/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Briner, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al funcionamiento de la Escuela Superior de Bellas Artes Fernando Fader de la ciudad de Bell Ville.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos referidos al funcionamiento de la Escuela Superior de Bellas Artes Fernando Fader de la ciudad de Bell Ville.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-20",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

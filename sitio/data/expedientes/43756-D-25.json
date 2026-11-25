@@ -2,6 +2,7 @@
  "numero": "43756/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo al 150º aniversario de la localidad de Chaján, Dpto. Río Cuarto, a celebrarse el 22 de octubre.",
+ "tema": "Adhiriendo al 150º aniversario de la localidad de Chaján, Dpto. Río Cuarto, a celebrarse el 22 de octubre.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-09-03",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

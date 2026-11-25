@@ -2,6 +2,7 @@
  "numero": "42280/N/25",
  "tipo": "otros",
  "extracto": "Nota de la Legisladora Ferrero, solicitando licencia del 9 de abril al 11 de abril de 2025 por razones personales, conforme el art. 15 del R.I.",
+ "tema": "Solicitando licencia del 9 de abril al 11 de abril de 2025 por razones personales, conforme el art. 15 del R.I.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -16,7 +17,8 @@
    "fecha": "2025-04-09",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

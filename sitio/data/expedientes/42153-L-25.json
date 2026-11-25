@@ -2,6 +2,7 @@
  "numero": "42153/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Nigro, Bría, Jaimes y Nicolás, Incluyendo en el plan de estudios de todos los niveles educativos la educación emocional como parte del desarrollo integral de los estudiantes.",
+ "tema": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Nigro, Bría, Jaimes y Nicolás, Incluyendo en el plan de estudios de todos los niveles educativos la educación emocional como parte del desarrollo integral de los estudiantes.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -24,7 +25,8 @@
    "fecha": "2026-05-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-05-05"
+  "caduca_el": "2027-05-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

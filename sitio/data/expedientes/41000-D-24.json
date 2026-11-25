@@ -2,6 +2,7 @@
  "numero": "41000/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Szpanin, Carignano, Contrera, Gvozdenovich y Knipscheer, reconociendo al Prof. Guillermo Di Giusto, a su equipo y a la escuela de tenis Sin Límites, en el marco del 20° aniversario de su fundación.",
+ "tema": "Reconociendo al Prof. Guillermo Di Giusto, a su equipo y a la escuela de tenis Sin Límites, en el marco del 20° aniversario de su fundación.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Carignano, Carlos Atilio",
@@ -22,7 +23,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

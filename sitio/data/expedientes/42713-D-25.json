@@ -2,6 +2,7 @@
  "numero": "42713/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Gvozdenovich, Nigro, Saliba, Grich, Bría y Contreras, rechazando la suba del servicio de Aguas Cordobesas en la ciudad de Córdoba.",
+ "tema": "Rechazando la suba del servicio de Aguas Cordobesas en la ciudad de Córdoba.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -26,7 +27,8 @@
    "fecha": "2026-05-28",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

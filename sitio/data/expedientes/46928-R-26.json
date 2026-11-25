@@ -2,6 +2,7 @@
  "numero": "46928/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Jaimes y Nigro, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos vinculados a las trayectorias no escolarizadas desarrolladas en la provincia.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre aspectos vinculados a las trayectorias no escolarizadas desarrolladas en la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Jaimes, Mauricio Sebastian",
@@ -21,7 +22,8 @@
    "fecha": "2026-07-08",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-07-08"
+  "caduca_el": "2027-07-08",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

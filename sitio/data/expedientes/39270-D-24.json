@@ -1,0 +1,93 @@
+{
+ "numero": "39270/D/24",
+ "tipo": "declaracion",
+ "extracto": "Proyecto de Declaración, iniciado por el Legislador Molina, requiriendo al Poder Ejecutivo la urgente pavimentación del Camino Secundario S435 que une la localidad de Santa Catalina, Dpto Totoral, con la Intersección Ruta E66.",
+ "tema": "Requiriendo al Poder Ejecutivo la urgente pavimentación del Camino Secundario S435 que une la localidad de Santa Catalina, Dpto Totoral, con la Intersección Ruta E66.",
+ "autores": [
+  "Molina, Victor Eduardo"
+ ],
+ "comisiones": [
+  "Obras Públicas y Vivienda"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "caduco",
+  "sobre_tablas": false,
+  "ingreso": "2024-05-22",
+  "ultimo_movimiento": {
+   "fecha": "2025-05-22",
+   "texto": "Caducó: pasaron 12 meses sin tratarse"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": null,
+   "texto": "Se presentó el proyecto",
+   "detalle": null
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2024-05-22",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 6 del Período 146"
+  },
+  {
+   "fecha": "2025-05-22",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 6 del Período 146",
+   "periodo": 146,
+   "fecha": "2024-05-22"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-05-22"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=39270%2FD%2F24",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

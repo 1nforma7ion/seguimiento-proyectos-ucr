@@ -2,6 +2,7 @@
  "numero": "42941/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez y Bría, adhiriendo al 2º Encuentro de Mujeres Piemontesas, a desarrollarse el día 14 de junio en la ciudad de Brinkmann, Dpto. San Justo.",
+ "tema": "Adhiriendo al 2º Encuentro de Mujeres Piemontesas, a desarrollarse el día 14 de junio en la ciudad de Brinkmann, Dpto. San Justo.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Bria, Jose Alberto"
@@ -19,7 +20,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "47133/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Szpanin, Jaimes, Austin, Gvozdenovich, Nigro, Valiente, Nicolás, Saliba, Bottasso y Contrera, Luna, Grich, Briner, Bría, Molina y Ferrero, estableciendo el régimen de extinción de dominio de bienes de origen ilícito o vinculados con delitos, creando el Registro Provincial de Bienes Recuperados del Delito.",
+ "tema": "Estableciendo el régimen de extinción de dominio de bienes de origen ilícito o vinculados con delitos, creando el Registro Provincial de Bienes Recuperados del Delito.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Jaimes, Mauricio Sebastian",
@@ -35,7 +36,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

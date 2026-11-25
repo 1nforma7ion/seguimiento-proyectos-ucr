@@ -2,6 +2,7 @@
  "numero": "42027/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, expresando beneplácito por el 1º Encuentro Científico de Cardio Oncología en la Mujer \"Hacia una mirada profunda e integral\", a desarrollarse en la ciudad de Córdoba el día 20 de marzo en el marco del Día Internacional de la Mujer.",
+ "tema": "Expresando beneplácito por el 1º Encuentro Científico de Cardio Oncología en la Mujer \"Hacia una mirada profunda e integral\", a desarrollarse en la ciudad de Córdoba el día 20 de marzo en el marco del Día Internacional de la Mujer.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-03-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

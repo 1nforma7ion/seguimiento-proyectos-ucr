@@ -2,6 +2,7 @@
  "numero": "44020/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Gvozdenovich, expresando beneplácito por la conferencia “Del deporte, a la vida: Éxito y Fracaso” que brindará el psicólogo de la AFA, Lic. Juan Manuel Brindisi, en la localidad de Camilo Aldao, Dpto. Marcos Juárez.",
+ "tema": "Expresando beneplácito por la conferencia “Del deporte, a la vida: Éxito y Fracaso” que brindará el psicólogo de la AFA, Lic. Juan Manuel Brindisi, en la localidad de Camilo Aldao, Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2025-10-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-10-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

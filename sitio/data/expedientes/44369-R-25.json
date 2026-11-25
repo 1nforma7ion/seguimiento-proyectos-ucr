@@ -2,6 +2,7 @@
  "numero": "44369/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Contrera, solicitando al Poder Ejecutivo que instale una unidad policial en el inmueble que linda con el edificio de la escuela primaria de gestión pública Cornelio Saavedra en la Autopista Córdoba-Pilar Km 699.",
+ "tema": "Solicitando al Poder Ejecutivo que instale una unidad policial en el inmueble que linda con el edificio de la escuela primaria de gestión pública Cornelio Saavedra en la Autopista Córdoba-Pilar Km 699.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

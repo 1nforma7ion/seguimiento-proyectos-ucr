@@ -2,6 +2,7 @@
  "numero": "40218/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Jaimes, Szpanin, Gvozdenovich, Nicolás, Saliba, Bría, Molina, Contrera y Carignano, adhiriendo a la 66ª Fiesta del Estudiante de la ciudad de Hernando, Dpto. Tercero Arriba.",
+ "tema": "Adhiriendo a la 66ª Fiesta del Estudiante de la ciudad de Hernando, Dpto. Tercero Arriba.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Jaimes, Mauricio Sebastian",
@@ -27,7 +28,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "42840/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Contrera, Molina, Peirone y Carignano, instando al Directorio de la APROSS a incluir en el nomenclador de prestaciones la cobertura de pañales descartables para adultos mayores y personas con discapacidad.",
+ "tema": "Instando al Directorio de la APROSS a incluir en el nomenclador de prestaciones la cobertura de pañales descartables para adultos mayores y personas con discapacidad.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Molina, Victor Eduardo",
@@ -21,7 +22,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

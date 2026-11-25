@@ -2,6 +2,7 @@
  "numero": "42196/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Agrelo, Gvozdenovich, Martoccia, Ferrero, Nostrala y Contrera, solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el avance de la obra de la nueva U.C.A. ubicada en el Complejo Carcelario de la localidad de Bouwer y sobre diversos aspectos referidos al C.R.P.P.A. a instalarse en la ex Comisaría de la Seccional 13 de la ciudad de Córdoba.",
+ "tema": "Solicitando al Poder Ejecutivo informe (art. 102 C.P.) sobre el avance de la obra de la nueva U.C.A. ubicada en el Complejo Carcelario de la localidad de Bouwer y sobre diversos aspectos referidos al C.R.P.P.A. a instalarse en la ex Comisaría de la Seccional 13 de la ciudad de Córdoba.",
  "autores": [
   "Agrelo, Rodrigo Maria",
   "Gvozdenovich, Matias Pablo",
@@ -23,7 +24,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

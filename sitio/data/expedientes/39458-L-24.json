@@ -2,6 +2,7 @@
  "numero": "39458/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Bloques UCR, Frente Cívico de Córdoba, PRO, Mejor Futuro y Construyendo Córdoba, estableciendo la Ficha Limpia para dirigentes sociales que administren recursos públicos.",
+ "tema": "Estableciendo la Ficha Limpia para dirigentes sociales que administren recursos públicos.",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque UCR",
@@ -24,7 +25,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

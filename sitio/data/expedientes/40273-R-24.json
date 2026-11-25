@@ -2,6 +2,7 @@
  "numero": "40273/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Nigro, Molina y Contrera, solicitando el tratamiento de manera urgente de los proyectos de Ley Nros. 39458/L/24 y 39624/L/24, de Ficha Limpia, mediante los cuales se dispone garantizar la transparencia y la integridad en la administración de recursos del Estado y en la representación pública.",
+ "tema": "Solicitando el tratamiento de manera urgente de los proyectos de Ley Nros. 39458/L/24 y 39624/L/24, de Ficha Limpia, mediante los cuales se dispone garantizar la transparencia y la integridad en la administración de recursos del Estado y en la representación pública.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -23,7 +24,8 @@
    "fecha": "2025-09-04",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

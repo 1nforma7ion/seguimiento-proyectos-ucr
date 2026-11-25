@@ -2,6 +2,7 @@
  "numero": "40377/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Szpanin y Grich, solicitando al Poder Ejecutivo la incorporación de una partida presupuestaria para el mejoramiento del tramo que une los caminos rurales S-280, S-237, la Ruta Nacional Nº 8, la localidad de San Ambrosio y la Ruta Provincial Nº 24, en el Presupuesto 2025.",
+ "tema": "Solicitando al Poder Ejecutivo la incorporación de una partida presupuestaria para el mejoramiento del tramo que une los caminos rurales S-280, S-237, la Ruta Nacional Nº 8, la localidad de San Ambrosio y la Ruta Provincial Nº 24, en el Presupuesto 2025.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Grich, Ariel Denis"
@@ -20,7 +21,8 @@
    "fecha": "2025-09-18",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-09-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

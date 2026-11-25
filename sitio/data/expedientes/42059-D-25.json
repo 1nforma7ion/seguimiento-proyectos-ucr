@@ -2,6 +2,7 @@
  "numero": "42059/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Szpanin y el Bloque UCR, expresando beneplácito por el 121º aniversario del diario La Voz del Interior, conmemorado el pasado 15 de marzo.",
+ "tema": "Expresando beneplácito por el 121º aniversario del diario La Voz del Interior, conmemorado el pasado 15 de marzo.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2025-03-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

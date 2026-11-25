@@ -2,6 +2,7 @@
  "numero": "42436/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Hernández Maqueda, Ferrero, Gvozdenovich, Nostrala, Gloria Pereyra, Almada, Botta y Sala, creando una Comisión Especial Investigadora sobre la APROSS para analizar las estafas que ha sufrido y el incendio que afectó su sede central el pasado 18 de abril.",
+ "tema": "Creando una Comisión Especial Investigadora sobre la APROSS para analizar las estafas que ha sufrido y el incendio que afectó su sede central el pasado 18 de abril.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Ferrero, Alejandra",
@@ -25,7 +26,8 @@
    "fecha": "2025-05-13",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

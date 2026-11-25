@@ -2,6 +2,7 @@
  "numero": "42955/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Bría, Gvozdenovich, Saliba, Peirone, Jurich, Nigro, Martoccia, C. Pereyra, Rinaldi, Russo, Suárez, Ferrero y Aguero, modificando la Ley N° 7706, que regula el ejercicio de la Podología en la provincia.",
+ "tema": "Modificando la Ley N° 7706, que regula el ejercicio de la Podología en la provincia.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Bria, Jose Alberto",
@@ -33,7 +34,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

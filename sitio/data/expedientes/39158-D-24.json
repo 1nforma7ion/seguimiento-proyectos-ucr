@@ -2,6 +2,7 @@
  "numero": "39158/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Hernández Maqueda, Siciliano, Nostrala, Gvozdenovich, Botta, Rossi, Ferrero, Echevarría, Agrelo, Bruno y Bisotto, expresando beneplácito y reconocimiento por el centenario de la Federación de Básquetbol de la provincia de Córdoba.",
+ "tema": "Expresando beneplácito y reconocimiento por el centenario de la Federación de Básquetbol de la provincia de Córdoba.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Siciliano, Miguel Angel",
@@ -28,7 +29,8 @@
    "fecha": "2024-11-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

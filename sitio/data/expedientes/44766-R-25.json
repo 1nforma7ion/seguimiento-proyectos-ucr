@@ -2,6 +2,7 @@
  "numero": "44766/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich y Carignano, solicitando al Sr. Gobernador disponga la urgente construcción de la Rotonda de Acceso Este en el ingreso a la provincia desde la localidad de Cruz Alta, Dpto. Marcos Juárez, por Ruta Provincial Nº 6.",
+ "tema": "Solicitando al Sr. Gobernador disponga la urgente construcción de la Rotonda de Acceso Este en el ingreso a la provincia desde la localidad de Cruz Alta, Dpto. Marcos Juárez, por Ruta Provincial Nº 6.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Carignano, Carlos Atilio"
@@ -10,16 +11,17 @@
   "Infraestructura y Servicios Públicos"
  ],
  "estado": {
-  "etapa": 2,
-  "etapa_nombre": "En estudio en comisión",
-  "resultado": null,
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "archivado",
   "sobre_tablas": false,
   "ingreso": "2025-11-19",
   "ultimo_movimiento": {
-   "fecha": "2025-11-19",
-   "texto": "Pasó a estudio en comisión"
+   "fecha": "2026-11-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": "2026-11-19"
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-19"
  },
  "desconocidos": [],
  "linea_tiempo": [
@@ -42,6 +44,16 @@
    "fecha": "2025-11-19",
    "texto": "Pasó a estudio en comisión",
    "detalle": "Sesión Ordinaria 20 del Período 147"
+  },
+  {
+   "fecha": "2026-11-19",
+   "texto": "Caducó: pasaron 12 meses sin tratarse",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-11-19",
+   "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)",
+   "detalle": null
   }
  ],
  "eventos_crudos": [
@@ -72,9 +84,23 @@
    "sesion": "Sesión Ordinaria 20 del Período 147",
    "periodo": 147,
    "fecha": "2025-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Caducado",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-19"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Archivado por Art 111",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2026-11-19"
   }
  ],
  "documentos": [],
  "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=44766%2FR%2F25",
- "recolectado": "2026-11-24T14:23:06.892381-03:00"
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
 }

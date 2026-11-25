@@ -2,6 +2,7 @@
  "numero": "39392/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Rossi, Sebastián Peralta, Botta, Briner, Nigro, Bisotto, Gispert, Jaimes y Gloria Pereyra, derogando la Resolución N° 0044/24 de la Dirección de la Apross, que creó el FOSAET, con el objetivo de atender erogaciones relativas a enfermedades emergentes, tratamientos prolongados, prácticas y tecnologías innovadoras requeridas por afiliados y beneficiarios de la obra social.",
+ "tema": "Derogando la Resolución N° 0044/24 de la Dirección de la Apross, que creó el FOSAET, con el objetivo de atender erogaciones relativas a enfermedades emergentes, tratamientos prolongados, prácticas y tecnologías innovadoras requeridas por afiliados y beneficiarios de la obra social.",
  "autores": [
   "Rossi, Dante Valentin",
   "Peralta, Sebastián Amadeo",
@@ -27,7 +28,8 @@
    "fecha": "2025-06-05",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

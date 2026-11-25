@@ -2,6 +2,7 @@
  "numero": "45212/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nicolás, Jaimes, Szpanin, Gvozdenovich, Nigro, Bría y Contrera, rechazando las reformas a la Ley de Jubilaciones y la criminalización y censura de la protesta aplicadas contra los gremios estatales.",
+ "tema": "Rechazando las reformas a la Ley de Jubilaciones y la criminalización y censura de la protesta aplicadas contra los gremios estatales.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Jaimes, Mauricio Sebastian",
@@ -24,7 +25,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

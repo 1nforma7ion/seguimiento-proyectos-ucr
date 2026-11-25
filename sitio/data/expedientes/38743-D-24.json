@@ -2,6 +2,7 @@
  "numero": "38743/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Austin, expresando beneplácito por la realización del 1º Congreso Nacional de Lupus para Pacientes y Allegados, desarrollado los días 1 y 2 de marzo en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la realización del 1º Congreso Nacional de Lupus para Pacientes y Allegados, desarrollado los días 1 y 2 de marzo en la ciudad de Córdoba.",
  "autores": [
   "Austin, Brenda Lis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-03-13",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-03-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

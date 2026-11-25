@@ -2,6 +2,7 @@
  "numero": "40987/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Bloque UCR, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre cuestiones relativas a la gestión de cada municipio y comuna del Fondo para la Descentralización del Mantenimiento de Edificios Escolares Provinciales.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre cuestiones relativas a la gestión de cada municipio y comuna del Fondo para la Descentralización del Mantenimiento de Edificios Escolares Provinciales.",
  "autores": [
   "Saliba, Oscar Elias Mario",
   "Bloque UCR"
@@ -19,7 +20,8 @@
    "fecha": "2025-04-30",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

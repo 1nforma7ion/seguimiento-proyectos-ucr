@@ -2,6 +2,7 @@
  "numero": "46126/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Grich, Soardo y Llamosas, adhiriendo al 50º aniversario del CENMA Nº 61 de la localidad de Alcira Gigena, Dpto. Río Cuarto, a celebrarse el 19 de mayo.",
+ "tema": "Adhiriendo al 50º aniversario del CENMA Nº 61 de la localidad de Alcira Gigena, Dpto. Río Cuarto, a celebrarse el 19 de mayo.",
  "autores": [
   "Grich, Ariel Denis",
   "Soardo, Leonor Jorgelina",
@@ -20,7 +21,8 @@
    "fecha": "2026-05-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

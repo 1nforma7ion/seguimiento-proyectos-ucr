@@ -2,6 +2,7 @@
  "numero": "44722/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, expresando beneplácito por la trayectoria de Mitsuo Inoue Shihan, maestro japonés de karate, miembro del Consejo de Maestros de la Japan Karate Association (JKA), adhiriendo al Torneo Internacional de Clubes - Copa Inoue a desarrollarse el 23 de noviembre en la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la trayectoria de Mitsuo Inoue Shihan, maestro japonés de karate, miembro del Consejo de Maestros de la Japan Karate Association (JKA), adhiriendo al Torneo Internacional de Clubes - Copa Inoue a desarrollarse el 23 de noviembre en la ciudad de Córdoba.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "43133/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Carignano y Austin, declarando de Interés Legislativo la 1° Conferencia Climática Internacional, a desarrollarse del 1 al 3 de julio en la ciudad de Córdoba.",
+ "tema": "Declarando de Interés Legislativo la 1° Conferencia Climática Internacional, a desarrollarse del 1 al 3 de julio en la ciudad de Córdoba.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Austin, Brenda Lis"
@@ -19,7 +20,8 @@
    "fecha": "2025-07-01",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-07-01"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "41084/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Nicolás, Szpanin, Ferrero, Gvozdenovich, Saliba, Briner, Bottasso, Molina, Contrera, Gispert y Nigro, expresando preocupación por las denuncias formuladas por la Asociación Gremial de Empleados Judiciales de la provincia sobre supuestas irregularidades en un concurso para cubrir cargos de Auxiliares de Defensores Públicos Penales en Tribunales II, solicitando el urgente esclarecimiento del caso.",
+ "tema": "Expresando preocupación por las denuncias formuladas por la Asociación Gremial de Empleados Judiciales de la provincia sobre supuestas irregularidades en un concurso para cubrir cargos de Auxiliares de Defensores Públicos Penales en Tribunales II, solicitando el urgente esclarecimiento del caso.",
  "autores": [
   "Nicolas, Miguel Osvaldo",
   "Szpanin, Ariela Yanina",
@@ -28,7 +29,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

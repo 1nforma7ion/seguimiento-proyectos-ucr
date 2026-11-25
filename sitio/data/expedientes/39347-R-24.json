@@ -2,6 +2,7 @@
  "numero": "39347/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Bottasso, Bisotto, Peirone, Valiente, Nigro, Jaimes, Szpanin, Ferrero, Gvozdenovich, Gudiño, Nicolás, Saliba, Grich, Briner, Bría, Molina, Contrera, Carignano, Nostrala, Hernández Maqueda, Navarro Alegre, Bruno y Tamis, requiriendo a los Diputados e instruyendo a los Senadores Nacionales por Córdoba para que gestionen el relanzamiento del proyecto de la Autovía 158 que une las ciudades de San Francisco y Río Cuarto.",
+ "tema": "Requiriendo a los Diputados e instruyendo a los Senadores Nacionales por Córdoba para que gestionen el relanzamiento del proyecto de la Autovía 158 que une las ciudades de San Francisco y Río Cuarto.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Bisotto, Graciela Maria",
@@ -41,7 +42,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

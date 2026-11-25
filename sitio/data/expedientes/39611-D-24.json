@@ -2,6 +2,7 @@
  "numero": "39611/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Gvozdenovich, adhiriendo al 25° aniversario de la escuela especial Norberto Daniel Abdo, de la localidad de Arias, Dpto. Marcos Juárez, a celebrarse el día 24 de junio.",
+ "tema": "Adhiriendo al 25° aniversario de la escuela especial Norberto Daniel Abdo, de la localidad de Arias, Dpto. Marcos Juárez, a celebrarse el día 24 de junio.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

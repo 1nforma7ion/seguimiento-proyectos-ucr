@@ -2,6 +2,7 @@
  "numero": "42200/R/25",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por las Legisladoras Szpanin y Contrera, solicitando al Poder Ejecutivo que dote de baterías de baños en la Plaza Federal, ubicada el Km 29 de la Ruta E55, en la comuna de San Roque, Dpto. Punilla.",
+ "tema": "Solicitando al Poder Ejecutivo que dote de baterías de baños en la Plaza Federal, ubicada el Km 29 de la Ruta E55, en la comuna de San Roque, Dpto. Punilla.",
  "autores": [
   "Szpanin, Ariela Yanina",
   "Contrera, Ines Mercedes"
@@ -20,7 +21,8 @@
    "fecha": "2026-04-09",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-09"
  },
  "desconocidos": [],
  "linea_tiempo": [

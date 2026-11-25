@@ -2,6 +2,7 @@
  "numero": "39593/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Contrera, adhiriendo a la realización de un Patio criollo durante la tradicional Fiesta del 9 de Julio, a desarrollarse en la localidad de La Granja, Dpto. Colón.",
+ "tema": "Adhiriendo a la realización de un Patio criollo durante la tradicional Fiesta del 9 de Julio, a desarrollarse en la localidad de La Granja, Dpto. Colón.",
  "autores": [
   "Contrera, Ines Mercedes"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-06-19",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-19"
  },
  "desconocidos": [],
  "linea_tiempo": [

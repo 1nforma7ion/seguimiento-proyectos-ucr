@@ -2,6 +2,7 @@
  "numero": "47714/N/26",
  "tipo": "otros",
  "extracto": "Nota de la Legisladora -en uso de licencia por Resolución Nº 4298/26- Alejandra Ferrero, informando el cese de la misma desde el día 7 de septiembre.",
+ "tema": "Informando el cese de la misma desde el día 7 de septiembre.",
  "autores": [],
  "comisiones": [],
  "estado": {
@@ -14,7 +15,8 @@
    "fecha": "2026-09-22",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-09-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

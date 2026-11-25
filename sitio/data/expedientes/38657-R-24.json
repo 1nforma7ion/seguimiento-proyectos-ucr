@@ -2,6 +2,7 @@
  "numero": "38657/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Austin, Jaimes, Bisotto, Szpanin, Ferrero, Gvozdenovich, Nigro, Nicolás, Luna, Briner, Bottasso, Bría, Molina, Contrera, Carignano, Nostrala, Gisper, Martoccia, Gloria Pereyra, Almada, Peirone, Hernández Maqueda, Sala y Rossi, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al Programa Auxiliares Escolares PAICOR.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos aspectos relacionados al Programa Auxiliares Escolares PAICOR.",
  "autores": [
   "Austin, Brenda Lis",
   "Jaimes, Mauricio Sebastian",
@@ -43,7 +44,8 @@
    "fecha": "2025-02-28",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-28"
  },
  "desconocidos": [],
  "linea_tiempo": [

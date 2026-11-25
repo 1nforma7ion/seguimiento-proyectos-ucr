@@ -2,6 +2,7 @@
  "numero": "39110/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Carignano y Gvozdenovich, solicitando al Ministerio de Obras Públicas y Financiamiento la reparación integral del camino de acceso a la escuela Victoria Ocampo, de la localidad de Villa Elisa, Dpto. Marcos Juárez.",
+ "tema": "Solicitando al Ministerio de Obras Públicas y Financiamiento la reparación integral del camino de acceso a la escuela Victoria Ocampo, de la localidad de Villa Elisa, Dpto. Marcos Juárez.",
  "autores": [
   "Carignano, Carlos Atilio",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2024-04-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

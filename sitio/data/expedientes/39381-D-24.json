@@ -2,6 +2,7 @@
  "numero": "39381/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Austin, Bisotto, Szpanin, Nigro, Saliba y Contrera, expresando beneplácito por las elecciones realizadas en la Universidad Nacional de Córdoba los días 15 y 16 de mayo, renovando la integración de los órganos de gobierno de los Consejos Directivos de cada una de las facultades y del Consejo Superior, designado nuevos representantes en los Centros de Estudiantes.",
+ "tema": "Expresando beneplácito por las elecciones realizadas en la Universidad Nacional de Córdoba los días 15 y 16 de mayo, renovando la integración de los órganos de gobierno de los Consejos Directivos de cada una de las facultades y del Consejo Superior, designado nuevos representantes en los Centros de Estudiantes.",
  "autores": [
   "Austin, Brenda Lis",
   "Bisotto, Graciela Maria",
@@ -23,7 +24,8 @@
    "fecha": "2024-05-22",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

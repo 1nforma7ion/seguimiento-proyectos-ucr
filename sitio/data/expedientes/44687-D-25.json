@@ -2,6 +2,7 @@
  "numero": "44687/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Acevedo, Blangino y los Bloque Hacemos Unidos por Córdoba y UCR, adhiriendo al 90º aniversario de la Democracia y la Soberanía Popular, a conmemorarse el 17 de noviembre en la localidad de Plaza de Mercedes, Dpto. Río Primero.",
+ "tema": "Adhiriendo al 90º aniversario de la Democracia y la Soberanía Popular, a conmemorarse el 17 de noviembre en la localidad de Plaza de Mercedes, Dpto. Río Primero.",
  "autores": [
   "Acevedo, Maria Del Rosario",
   "Blangino, Juan Jose",
@@ -21,7 +22,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

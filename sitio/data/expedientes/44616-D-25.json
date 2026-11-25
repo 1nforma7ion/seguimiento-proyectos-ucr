@@ -2,6 +2,7 @@
  "numero": "44616/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tévez, Acevedo, Jurich, Bría y Bisotto, adhiriendo al Día mundial de la Diabetes, que se conmemora el 14 de noviembre de cada año.",
+ "tema": "Adhiriendo al Día mundial de la Diabetes, que se conmemora el 14 de noviembre de cada año.",
  "autores": [
   "Tevez, Gustavo Alejandro",
   "Acevedo, Maria Del Rosario",
@@ -22,7 +23,8 @@
    "fecha": "2025-11-12",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-12"
  },
  "desconocidos": [],
  "linea_tiempo": [

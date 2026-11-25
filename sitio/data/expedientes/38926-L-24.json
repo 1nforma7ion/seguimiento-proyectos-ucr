@@ -2,6 +2,7 @@
  "numero": "38926/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Bloques Frente Cívico de Córdoba, UCR y Construyendo Córdoba, adhiriendo la provincia a la Ley nacional Nº 27425, modificatoria de la Ley nacional Nº 24449, de Tránsito, sustituyendo el artículo 47 en lo referido a la utilización de luces bajas o diurnas,",
+ "tema": "Adhiriendo la provincia a la Ley nacional Nº 27425, modificatoria de la Ley nacional Nº 24449, de Tránsito, sustituyendo el artículo 47 en lo referido a la utilización de luces bajas o diurnas,",
  "autores": [
   "Ferrero, Alejandra",
   "Bloque FRENTE CIVICO DE CORDOBA",
@@ -23,7 +24,8 @@
    "fecha": "2026-02-04",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-02-04"
+  "caduca_el": "2027-02-04",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

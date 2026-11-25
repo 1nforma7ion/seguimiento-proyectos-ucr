@@ -1,0 +1,124 @@
+{
+ "numero": "46904/L/26",
+ "tipo": "ley",
+ "extracto": "Proyecto de Ley, iniciado por los Legisladores Chamorro, Alesandri y Jaimes, declarando Monumento Histórico Provincial e incorporando al Patrimonio Cultural de la Provincia a la Capilla Inmaculada Concepción, de la localidad de Los Reartes, Dpto. Calamuchita.",
+ "tema": "Declarando Monumento Histórico Provincial e incorporando al Patrimonio Cultural de la Provincia a la Capilla Inmaculada Concepción, de la localidad de Los Reartes, Dpto. Calamuchita.",
+ "autores": [
+  "Chamorro, Matias Ezequiel",
+  "Alesandri, Carlos Federico",
+  "Jaimes, Mauricio Sebastian"
+ ],
+ "comisiones": [
+  "Cultura",
+  "Legislación General"
+ ],
+ "estado": {
+  "etapa": 4,
+  "etapa_nombre": "Resultado",
+  "resultado": "aprobado",
+  "sobre_tablas": true,
+  "ingreso": "2026-07-08",
+  "ultimo_movimiento": {
+   "fecha": "2026-11-18",
+   "texto": "Fue aprobado"
+  },
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": "2026-07-08",
+   "texto": "Pasó a estudio en comisión",
+   "detalle": "Sesión Ordinaria 11 del Período 148"
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "Fue aprobado",
+   "detalle": "Sesión Ordinaria 20 del Período 148"
+  },
+  {
+   "fecha": null,
+   "texto": "Se trató sobre tablas, con despacho",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "En Comisión",
+   "sesion": "Sesión Ordinaria 11 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-07-08"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Aprobado",
+   "sesion": "Sesión Ordinaria 20 del Período 148",
+   "periodo": 148,
+   "fecha": "2026-11-18"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Sobre tabla con despacho",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  }
+ ],
+ "documentos": [
+  {
+   "seccion": "Actas",
+   "nombre": "Cultura · 18",
+   "url": null
+  },
+  {
+   "seccion": "Despachos",
+   "nombre": "Despacho de Comisión (11/18/2026)",
+   "url": null
+  },
+  {
+   "seccion": "Texto aprobado",
+   "nombre": "Texto aprobado N° 11164",
+   "url": "https://gld.legislaturacba.gob.ar/Handlers/PDF.ashx?id=heucPI4yK4U="
+  }
+ ],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=46904%2FL%2F26",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

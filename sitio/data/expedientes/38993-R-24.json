@@ -2,6 +2,7 @@
  "numero": "38993/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre el organigrama completo del Ministerio de Salud, detallando las funciones que desempeña cada área designada.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre el organigrama completo del Ministerio de Salud, detallando las funciones que desempeña cada área designada.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-04-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

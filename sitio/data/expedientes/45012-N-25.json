@@ -1,0 +1,79 @@
+{
+ "numero": "45012/N/25",
+ "tipo": "otros",
+ "extracto": "Nota remitida por el Legislador Saliba, solicitando la rehabilitación del Proyecto N° 41145/L/24 conforme el art. 111 del R.I.",
+ "tema": "Nota remitida por el Legislador Saliba, solicitando la rehabilitación del Proyecto N° 41145/L/24 conforme el art. 111 del R.I.",
+ "autores": [
+  "Saliba, Oscar Elias Mario"
+ ],
+ "comisiones": [],
+ "estado": {
+  "etapa": 1,
+  "etapa_nombre": "Presentado",
+  "resultado": null,
+  "sobre_tablas": false,
+  "ingreso": "2025-12-17",
+  "ultimo_movimiento": {
+   "fecha": "2025-12-17",
+   "texto": "Quedó reservado en Secretaría Legislativa"
+  },
+  "caduca_el": null,
+  "fecha_resultado": null
+ },
+ "desconocidos": [],
+ "linea_tiempo": [
+  {
+   "fecha": "2025-12-17",
+   "texto": "Se presentó el proyecto",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": null,
+   "texto": "Sigue el trámite normal",
+   "detalle": null
+  },
+  {
+   "fecha": "2025-12-17",
+   "texto": "Se informó en la sesión (tomó estado parlamentario)",
+   "detalle": "Sesión Ordinaria 23 del Período 147"
+  },
+  {
+   "fecha": "2025-12-17",
+   "texto": "Quedó reservado en Secretaría Legislativa",
+   "detalle": null
+  }
+ ],
+ "eventos_crudos": [
+  {
+   "tipo": "Estado",
+   "valor": "Ingresado",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Situación",
+   "valor": "Art 110 (tramite normal)",
+   "sesion": null,
+   "periodo": null,
+   "fecha": null
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Estado Parlamentario",
+   "sesion": "Sesión Ordinaria 23 del Período 147",
+   "periodo": 147,
+   "fecha": "2025-12-17"
+  },
+  {
+   "tipo": "Estado",
+   "valor": "Reservado en Secretaría Legislativa",
+   "sesion": null,
+   "periodo": null,
+   "fecha": "2025-12-17"
+  }
+ ],
+ "documentos": [],
+ "url_portal": "https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=45012%2FN%2F25",
+ "recolectado": "2026-11-24T19:49:00.829158-03:00"
+}

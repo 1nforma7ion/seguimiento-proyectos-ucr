@@ -2,6 +2,7 @@
  "numero": "41598/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Blangino, Rinaldi, Suárez, Rossi, Knipscheer, Gudiño, Busso, Bruno, Szpanin y Chamorro, prohibiendo la comercialización, exhibición, tenencia, manipulación, uso particular, fabricación, depósito, transporte sin autorización oficial, distribución y venta al público o en la vía pública de los artificios pirotécnicos, modificando en tal sentido la Ley 10326, Código de Convivencia Ciudadana.",
+ "tema": "Prohibiendo la comercialización, exhibición, tenencia, manipulación, uso particular, fabricación, depósito, transporte sin autorización oficial, distribución y venta al público o en la vía pública de los artificios pirotécnicos, modificando en tal sentido la Ley 10326, Código de Convivencia Ciudadana.",
  "autores": [
   "Blangino, Juan Jose",
   "Rinaldi, Julieta",
@@ -29,7 +30,8 @@
    "fecha": "2026-09-02",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-09-02"
+  "caduca_el": "2027-09-02",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

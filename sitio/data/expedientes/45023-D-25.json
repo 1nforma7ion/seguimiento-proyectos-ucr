@@ -2,6 +2,7 @@
  "numero": "45023/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Grich, adhiriendo a la 63º Fiesta Provincial del Turismo, a desarrollarse del 9 al 17 de enero de 2026 en la localidad de Achiras, Dpto. Río Cuarto.",
+ "tema": "Adhiriendo a la 63º Fiesta Provincial del Turismo, a desarrollarse del 9 al 17 de enero de 2026 en la localidad de Achiras, Dpto. Río Cuarto.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-12-17",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-12-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

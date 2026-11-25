@@ -2,6 +2,7 @@
  "numero": "42195/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Almada, Contrera, Carignano, Jaimes, Ovejeros y los Bloques Frente Cívico de Córdoba, UCR y Mejor Futuro, estableciendo el Régimen de Familias de Acogimiento para Niños, Niñas y Adolescentes, y creando el Registro Provincial de Familias de Acogimiento.",
+ "tema": "Estableciendo el Régimen de Familias de Acogimiento para Niños, Niñas y Adolescentes, y creando el Registro Provincial de Familias de Acogimiento.",
  "autores": [
   "Almada, Nancy Edith",
   "Carignano, Carlos Atilio",
@@ -26,7 +27,8 @@
    "fecha": "2026-04-20",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-04-20"
+  "caduca_el": "2027-04-20",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

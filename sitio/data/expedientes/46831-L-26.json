@@ -2,6 +2,7 @@
  "numero": "46831/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Briner, estableciendo un nuevo Régimen Departamental Provincial, de conformidad con el artículo 104 inciso 7.- de la Constitución Provincial.",
+ "tema": "Estableciendo un nuevo Régimen Departamental Provincial, de conformidad con el artículo 104 inciso 7.- de la Constitución Provincial.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-06-25",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-25"
+  "caduca_el": "2027-06-25",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

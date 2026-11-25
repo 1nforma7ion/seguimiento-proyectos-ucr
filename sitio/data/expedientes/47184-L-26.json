@@ -2,6 +2,7 @@
  "numero": "47184/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Agost Carreño, Bosotto y Carignano, creando el Sistema Provincial de Relevamiento, Prevención y Gestión de Riesgos Viales en Rutas Nacionales.",
+ "tema": "Creando el Sistema Provincial de Relevamiento, Prevención y Gestión de Riesgos Viales en Rutas Nacionales.",
  "autores": [
   "Agost Carreño, Oscar",
   "Bisotto, Graciela Maria",
@@ -21,7 +22,8 @@
    "fecha": "2026-08-05",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-08-05"
+  "caduca_el": "2027-08-05",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

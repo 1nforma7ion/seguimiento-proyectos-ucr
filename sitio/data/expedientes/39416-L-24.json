@@ -2,6 +2,7 @@
  "numero": "39416/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Ferrero, creando el Boleto Gratuito de Transporte Urbano para Voluntarios registrados que colaboran con organizaciones no gubernamentales (ONG) de la provincia.",
+ "tema": "Creando el Boleto Gratuito de Transporte Urbano para Voluntarios registrados que colaboran con organizaciones no gubernamentales (ONG) de la provincia.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -20,7 +21,8 @@
    "fecha": "2026-07-30",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-07-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

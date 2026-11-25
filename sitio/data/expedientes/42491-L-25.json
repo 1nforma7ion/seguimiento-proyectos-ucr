@@ -2,6 +2,7 @@
  "numero": "42491/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por el Legislador Grich, modificando las leyes Nros. 8231, 9120, 9728 ,10227 y 10731, Sistema de Control Disciplinario de las Fuerzas de Seguridad Pública y Ciudadana de la provincia.",
+ "tema": "Modificando las leyes Nros. 8231, 9120, 9728 ,10227 y 10731, Sistema de Control Disciplinario de las Fuerzas de Seguridad Pública y Ciudadana de la provincia.",
  "autores": [
   "Grich, Ariel Denis"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2026-05-13",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-05-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

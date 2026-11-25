@@ -2,6 +2,7 @@
  "numero": "40179/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de resolución, iniciado por el Legislador Gvozdenovich, solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos relacionados a los costos de la celebración del Día de las Infancias, que realizó el gobierno de Córdoba el pasado 25 de agosto.",
+ "tema": "Solicitando al Poder Ejecutivo informe (Art. 102 C.P.) sobre diversos relacionados a los costos de la celebración del Día de las Infancias, que realizó el gobierno de Córdoba el pasado 25 de agosto.",
  "autores": [
   "Gvozdenovich, Matias Pablo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-11-13",
    "texto": "Se archivó"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

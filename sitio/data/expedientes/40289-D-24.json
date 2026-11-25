@@ -2,6 +2,7 @@
  "numero": "40289/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Nigro, Bruno, Navarro Alegre y Gvozdenovich, adhiriendo a la 9ª Fiesta Provincial del Queso Parrillero de la localidad de Arroyo Algodón, Dpto. General San Martín, a desarrollarse el día 21 de septiembre.",
+ "tema": "Adhiriendo a la 9ª Fiesta Provincial del Queso Parrillero de la localidad de Arroyo Algodón, Dpto. General San Martín, a desarrollarse el día 21 de septiembre.",
  "autores": [
   "Nigro, Alfredo Mariano",
   "Bruno, Karina Gabriela",
@@ -21,7 +22,8 @@
    "fecha": "2024-09-04",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-09-04"
  },
  "desconocidos": [],
  "linea_tiempo": [

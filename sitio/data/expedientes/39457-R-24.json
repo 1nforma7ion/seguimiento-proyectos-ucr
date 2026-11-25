@@ -2,6 +2,7 @@
  "numero": "39457/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Gvozdenovich, Briner, Bría y Peirone, instando al Sr. Gobernador como jefe de las fuerzas públicas que disponga la obligatoriedad en toda guardia médica de los hospitales del servicio de vigilancia y control por parte de la Policía, de manera permanente.",
+ "tema": "Instando al Sr. Gobernador como jefe de las fuerzas públicas que disponga la obligatoriedad en toda guardia médica de los hospitales del servicio de vigilancia y control por parte de la Policía, de manera permanente.",
  "autores": [
   "Gvozdenovich, Matias Pablo",
   "Briner, Carlos Edgardo",
@@ -21,7 +22,8 @@
    "fecha": "2026-10-29",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-10-29"
  },
  "desconocidos": [],
  "linea_tiempo": [

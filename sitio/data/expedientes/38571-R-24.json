@@ -2,6 +2,7 @@
  "numero": "38571/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por los Legisladores Grich, Gvozdenovich, Szpanin, Nigro, Carignano, Contrera, Bisotto, Molina y Saliba, solicitando a la Apross que deje sin efecto la Resolución N° 0008/23 que suspende la incorporación de las afiliaciones voluntarias.",
+ "tema": "Solicitando a la Apross que deje sin efecto la Resolución N° 0008/23 que suspende la incorporación de las afiliaciones voluntarias.",
  "autores": [
   "Grich, Ariel Denis",
   "Gvozdenovich, Matias Pablo",
@@ -26,7 +27,8 @@
    "fecha": "2025-02-17",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-02-17"
  },
  "desconocidos": [],
  "linea_tiempo": [

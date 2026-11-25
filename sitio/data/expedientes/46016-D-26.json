@@ -2,6 +2,7 @@
  "numero": "46016/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bottasso, Contrera, Bria, Carignano, Briner, Bisotto, Lorenzo y Hernandez Maqueda, reconociendo a las 21° Jornadas Internacionales e Interdisciplinarias de la Asociación Argentina de Odontología y Discapacidad, a desarrollarse del 7 al 9 de mayo en la ciudad de Río Ceballos, Dpto. Colón.",
+ "tema": "Reconociendo a las 21° Jornadas Internacionales e Interdisciplinarias de la Asociación Argentina de Odontología y Discapacidad, a desarrollarse del 7 al 9 de mayo en la ciudad de Río Ceballos, Dpto. Colón.",
  "autores": [
   "Bottasso, Gustavo Armando",
   "Contrera, Ines Mercedes",
@@ -25,7 +26,8 @@
    "fecha": "2026-04-20",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-04-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

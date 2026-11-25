@@ -2,6 +2,7 @@
  "numero": "38887/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Luna, Gispert, Jaimes, Szpanin, Austin, Gvozdenovich, Gudiño, Nicolás, Saliba, Briner, Bottasso, Bría, Contrera y Carignano, creando una Unidad Judicial perteneciente a la Séptima Circunscripción Judicial con asiento en la localidad de Villa de Soto, Dpto. Cruz del Eje,",
+ "tema": "Creando una Unidad Judicial perteneciente a la Séptima Circunscripción Judicial con asiento en la localidad de Villa de Soto, Dpto. Cruz del Eje,",
  "autores": [
   "Luna, Fernando Javier",
   "Gispert, Walter Oscar",
@@ -32,7 +33,8 @@
    "fecha": "2025-04-03",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-04-03"
  },
  "desconocidos": [],
  "linea_tiempo": [

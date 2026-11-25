@@ -2,6 +2,7 @@
  "numero": "41250/C/24",
  "tipo": "otros",
  "extracto": "Cuestión de Privilegio planteada por la Legisladora Ferrero contra el Legislador Torres Lima.",
+ "tema": "Cuestión de Privilegio planteada por la Legisladora Ferrero contra el Legislador Torres Lima.",
  "autores": [],
  "comisiones": [
   "Asuntos Constitucionales, Justicia y Acuerdos"
@@ -16,7 +17,8 @@
    "fecha": "2025-11-13",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-11-13"
  },
  "desconocidos": [],
  "linea_tiempo": [

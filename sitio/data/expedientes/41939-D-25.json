@@ -2,6 +2,7 @@
  "numero": "41939/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Hernández Maqueda, Nostrala, Ferrero, Siciliano y Bisotto, expresando beneplácito por la inauguración de la nueva Iglesia Parroquial de Nuestra Señora del Valle, conocida como La Cripta, sita en el barrio Villa Belgrano de la ciudad de Córdoba.",
+ "tema": "Expresando beneplácito por la inauguración de la nueva Iglesia Parroquial de Nuestra Señora del Valle, conocida como La Cripta, sita en el barrio Villa Belgrano de la ciudad de Córdoba.",
  "autores": [
   "Hernandez Maqueda, Gregorio",
   "Nostrala, Walter Norberto",
@@ -22,7 +23,8 @@
    "fecha": "2025-03-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

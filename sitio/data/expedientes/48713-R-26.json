@@ -2,6 +2,7 @@
  "numero": "48713/R/26",
  "tipo": "resolucion",
  "extracto": "Proyecto de resolución, iniciado por la Legisladora Ferrero, solicitando al Poder Ejecutivo informe (ART. 102 C.P.) sobre las contrataciones de empresas consultoras y encuestadoras desde el 1 de enero de 2026 hasta la fecha, incluyendo a Delfos S.A., Julio Francisco Aurelio S.A. (Aresco) y Carlos Sicchar.",
+ "tema": "Solicitando al Poder Ejecutivo informe (ART. 102 C.P.) sobre las contrataciones de empresas consultoras y encuestadoras desde el 1 de enero de 2026 hasta la fecha, incluyendo a Delfos S.A., Julio Francisco Aurelio S.A. (Aresco) y Carlos Sicchar.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-11-18"
+  "caduca_el": "2027-11-18",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

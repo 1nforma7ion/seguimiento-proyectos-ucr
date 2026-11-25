@@ -2,6 +2,7 @@
  "numero": "39472/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Contrera y Grich, expresando beneplácito por la 70° Expo Otoño, desarrollada del 28 de mayo al 2 de junio en la ciudad de Río Cuarto.",
+ "tema": "Expresando beneplácito por la 70° Expo Otoño, desarrollada del 28 de mayo al 2 de junio en la ciudad de Río Cuarto.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Grich, Ariel Denis"
@@ -19,7 +20,8 @@
    "fecha": "2024-06-05",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-06-05"
  },
  "desconocidos": [],
  "linea_tiempo": [

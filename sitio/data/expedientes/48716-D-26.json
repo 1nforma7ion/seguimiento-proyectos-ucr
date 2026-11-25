@@ -2,6 +2,7 @@
  "numero": "48716/D/26",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Bloque de la UCR, reconociendo la labor solidaria y comunitaria del Proyecto Esperanza, de barrio Bella Vista de la ciudad de Córdoba, conformando un grupo de costureras de la Casa del Joven que confeccionan ajuares para recién nacidos.",
+ "tema": "Reconociendo la labor solidaria y comunitaria del Proyecto Esperanza, de barrio Bella Vista de la ciudad de Córdoba, conformando un grupo de costureras de la Casa del Joven que confeccionan ajuares para recién nacidos.",
  "autores": [
   "Bloque UCR"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2026-11-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-11-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

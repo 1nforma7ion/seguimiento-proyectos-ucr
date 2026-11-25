@@ -2,6 +2,7 @@
  "numero": "46615/L/26",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por las Legisladoras Ferrero y Contrera, prohibiendo la instalación, habilitación, explotación, funcionamiento o permanencia de juegos, máquinas o dispositivos con mecanismos de azar, recompensa aleatoria o sistemas de premios similares a máquinas tragamonedas, destinados o accesibles a niños, niñas y adolescentes.",
+ "tema": "Prohibiendo la instalación, habilitación, explotación, funcionamiento o permanencia de juegos, máquinas o dispositivos con mecanismos de azar, recompensa aleatoria o sistemas de premios similares a máquinas tragamonedas, destinados o accesibles a niños, niñas y adolescentes.",
  "autores": [
   "Ferrero, Alejandra",
   "Contrera, Ines Mercedes"
@@ -21,7 +22,8 @@
    "fecha": "2026-06-10",
    "texto": "Pasó a estudio en comisión"
   },
-  "caduca_el": "2027-06-10"
+  "caduca_el": "2027-06-10",
+  "fecha_resultado": null
  },
  "desconocidos": [],
  "linea_tiempo": [

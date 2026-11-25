@@ -2,6 +2,7 @@
  "numero": "43048/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Tamis, Gispert, Bottasso, Peirone y el Bloque PRO, expresando beneplácito por el Campamento Astronómico Espacial, a desarrollarse los días 26 y 27 de junio en la ciudad de Oliva, Dpto. Tercero Arriba.",
+ "tema": "Expresando beneplácito por el Campamento Astronómico Espacial, a desarrollarse los días 26 y 27 de junio en la ciudad de Oliva, Dpto. Tercero Arriba.",
  "autores": [
   "Tamis, Oscar Humberto",
   "Gispert, Walter Oscar",
@@ -23,7 +24,8 @@
    "fecha": "2025-06-18",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-18"
  },
  "desconocidos": [],
  "linea_tiempo": [

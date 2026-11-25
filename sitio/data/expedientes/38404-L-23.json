@@ -2,6 +2,7 @@
  "numero": "38404/L/23",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por la Legisladora Austin y los Bloques UCR, Frente Cívico de Córdoba, PRO, Construyendo Córdoba y Coalición Cívica ARI, incorporando el artículo 49 bis a la Ley N° 9571, Código Electoral Provincial, y el artículo 11 bis a la Ley N° 9572, Régimen jurídico de los particos políticos, referidos a la ficha limpia.",
+ "tema": "Incorporando el artículo 49 bis a la Ley N° 9571, Código Electoral Provincial, y el artículo 11 bis a la Ley N° 9572, Régimen jurídico de los particos políticos, referidos a la ficha limpia.",
  "autores": [
   "Austin, Brenda Lis",
   "Almada, Nancy Edith",
@@ -50,7 +51,8 @@
    "fecha": "2023-12-20",
    "texto": "No fue aprobado (rechazado)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2023-12-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

@@ -2,6 +2,7 @@
  "numero": "39929/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por el Legislador Briner, solicitando al Poder Ejecutivo incorpore al plan de obras públicas del ejercicio 2025 la construcción de un enlace intercambiador o intersección controlada en el km 449 de la Ruta Nacional N° 8 con la Ruta provincial N° 3, de acceso a las localidades de Colonia Bremen, Colonia Bismarck y Wenceslao Escalante.",
+ "tema": "Solicitando al Poder Ejecutivo incorpore al plan de obras públicas del ejercicio 2025 la construcción de un enlace intercambiador o intersección controlada en el km 449 de la Ruta Nacional N° 8 con la Ruta provincial N° 3, de acceso a las localidades de Colonia Bremen, Colonia Bismarck y Wenceslao Escalante.",
  "autores": [
   "Briner, Carlos Edgardo"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2025-08-25",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-08-20"
  },
  "desconocidos": [],
  "linea_tiempo": [

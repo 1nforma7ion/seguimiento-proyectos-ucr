@@ -2,6 +2,7 @@
  "numero": "41253/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por la Legisladora Ferrero, reconociendo a Radio Estación 102.5 FM de la ciudad de San Francisco, Dpto. San Justo, por haber cumplido su 25º aniversario el pasado 10 de abril.",
+ "tema": "Reconociendo a Radio Estación 102.5 FM de la ciudad de San Francisco, Dpto. San Justo, por haber cumplido su 25º aniversario el pasado 10 de abril.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -18,7 +19,8 @@
    "fecha": "2024-11-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [

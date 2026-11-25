@@ -2,6 +2,7 @@
  "numero": "42880/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Luna, Grich, Molina, Valiente y Carignano, expresando preocupación ante el posible cierre de varias agencias de extensión del Instituto Nacional de Tecnología Agropecuaria - INTA, causando despidos de empleados y becarios.",
+ "tema": "Expresando preocupación ante el posible cierre de varias agencias de extensión del Instituto Nacional de Tecnología Agropecuaria - INTA, causando despidos de empleados y becarios.",
  "autores": [
   "Luna, Fernando Javier",
   "Grich, Ariel Denis",
@@ -22,7 +23,8 @@
    "fecha": "2025-06-11",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

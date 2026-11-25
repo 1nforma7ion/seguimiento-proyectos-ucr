@@ -2,6 +2,7 @@
  "numero": "39219/L/24",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Rossi, Sebastián Peralta, Ferrero, Gvozdenovich, Saliba, Bría, Molina, Bisotto, Gispert y Botta. convocando al 1° Congreso Pedagógico de la provincia de Córdoba, cuya finalidad es el análisis, estudio y generación de lineamientos sobre reformas estructurales en la política educativa, que deberá garantizar el ejercicio efectivo y pleno del derecho a la educación.",
+ "tema": "Que deberá garantizar el ejercicio efectivo y pleno del derecho a la educación.",
  "autores": [
   "Rossi, Dante Valentin",
   "Peralta, Sebastián Amadeo",
@@ -28,7 +29,8 @@
    "fecha": "2025-05-22",
    "texto": "Caducó: pasaron 12 meses sin tratarse"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-05-22"
  },
  "desconocidos": [],
  "linea_tiempo": [

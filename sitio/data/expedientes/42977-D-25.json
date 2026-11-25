@@ -2,6 +2,7 @@
  "numero": "42977/D/25",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Bisotto y Gvozdenovich, expresando beneplácito por la confirmación de la condena a Cristina Fernández de Kirchner efectuada por la Corte Suprema de Justicia de la Nación en la causa Vialidad.",
+ "tema": "Expresando beneplácito por la confirmación de la condena a Cristina Fernández de Kirchner efectuada por la Corte Suprema de Justicia de la Nación en la causa Vialidad.",
  "autores": [
   "Bisotto, Graciela Maria",
   "Gvozdenovich, Matias Pablo"
@@ -19,7 +20,8 @@
    "fecha": "2026-06-11",
    "texto": "Se archivó (Art. 111: caducó y no se rehabilitó)"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2026-06-11"
  },
  "desconocidos": [],
  "linea_tiempo": [

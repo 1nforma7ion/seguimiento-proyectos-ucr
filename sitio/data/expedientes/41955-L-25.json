@@ -2,6 +2,7 @@
  "numero": "41955/L/25",
  "tipo": "ley",
  "extracto": "Proyecto de Ley, iniciado por los Legisladores Contrera, Szpanin, Ovejeros y toda la Cámara, estableciendo la realización de una jornada de “Educación en Derechos Humanos y en Democracia”, en todos los niveles de los establecimientos educativos, de gestión pública y privada.",
+ "tema": "Estableciendo la realización de una jornada de “Educación en Derechos Humanos y en Democracia”, en todos los niveles de los establecimientos educativos, de gestión pública y privada.",
  "autores": [
   "Contrera, Ines Mercedes",
   "Szpanin, Ariela Yanina",
@@ -84,7 +85,8 @@
    "fecha": "2025-03-26",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2025-03-26"
  },
  "desconocidos": [],
  "linea_tiempo": [

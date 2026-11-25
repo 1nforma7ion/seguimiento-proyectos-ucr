@@ -2,6 +2,7 @@
  "numero": "39749/R/24",
  "tipo": "resolucion",
  "extracto": "Proyecto de Resolución, iniciado por la Legisladora Ferrero, instando al Ministerio Público Fiscal que disponga el bloqueo e impedimento de acceso a diversas páginas web o dominios, así como sus direcciones IP asociadas, que violan la normativa vigente en materia de regulación del juego y permiten apostar al margen de la ley.",
+ "tema": "Instando al Ministerio Público Fiscal que disponga el bloqueo e impedimento de acceso a diversas páginas web o dominios, así como sus direcciones IP asociadas, que violan la normativa vigente en materia de regulación del juego y permiten apostar al margen de la ley.",
  "autores": [
   "Ferrero, Alejandra"
  ],
@@ -19,7 +20,8 @@
    "fecha": "2024-10-30",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-10-30"
  },
  "desconocidos": [],
  "linea_tiempo": [

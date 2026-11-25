@@ -2,6 +2,7 @@
  "numero": "41303/D/24",
  "tipo": "declaracion",
  "extracto": "Proyecto de Declaración, iniciado por los Legisladores Chamorro, Carignano y Suarez, reconociendo al Coro Grande “El Illia” de la ciudad de Río IV por su trabajo de contención de los adultos mayores a través del canto coral en movimiento, en el marco del 10° aniversario de su creación.",
+ "tema": "Reconociendo al Coro Grande “El Illia” de la ciudad de Río IV por su trabajo de contención de los adultos mayores a través del canto coral en movimiento, en el marco del 10° aniversario de su creación.",
  "autores": [
   "Chamorro, Matias Ezequiel",
   "Carignano, Carlos Atilio",
@@ -20,7 +21,8 @@
    "fecha": "2024-11-27",
    "texto": "Fue aprobado"
   },
-  "caduca_el": null
+  "caduca_el": null,
+  "fecha_resultado": "2024-11-27"
  },
  "desconocidos": [],
  "linea_tiempo": [
