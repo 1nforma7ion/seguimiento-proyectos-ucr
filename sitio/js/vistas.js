@@ -119,7 +119,7 @@ export function indicadores(r, activa) {
     `<button type="button" class="ind ${rojo && n ? "rojo" : ""}" data-tarjeta="${clave}" aria-pressed="${activa === clave}">
       <span class="n">${n}</span><span class="t">${texto}</span></button>`;
   return `<div class="indicadores" role="group" aria-label="Filtrar por situación">
-    ${b("novedades", r.novedades, "con novedades esta semana")}
+    ${b("novedades", r.novedades, "con movimiento en los últimos 7 días")}
     ${b("porCaducar", r.porCaducar, `caducan en los próximos ${r.dias} días`, true)}
     ${b("enComision", r.enComision, "en estudio en comisión")}
     ${b("aprobados", r.aprobadosAnio, "aprobados este año")}
@@ -127,7 +127,7 @@ export function indicadores(r, activa) {
 }
 
 const NOMBRE_TARJETA = {
-  novedades: "con novedades en los últimos 7 días",
+  novedades: "con movimiento en los últimos 7 días",
   porCaducar: "que caducan pronto, los que vencen antes primero",
   enComision: "en estudio en comisión",
   aprobados: "aprobados este año",
@@ -198,27 +198,34 @@ export function bandaLegislador(leg, total) {
   </div></div>`;
 }
 
-export function paraAtender(caducan, novedades, expPorNumero, hoy) {
+export function paraAtender(caducan, novedades, expPorNumero, hoy, abierto = false) {
   if (!caducan.length && !novedades.length) return "";
   const alerta = (e) => `<a class="alerta" href="#/exp/${esc(idArchivo(e.numero))}">
       <div class="cuenta"><b>${diasHasta(e.estado.caduca_el, hoy)}</b><small>días</small></div>
       <div><div class="tt">${esc(e.titulo)}</div><div class="mm">${TIPO_TEXTO[e.tipo]} · ${esc(e.numero)}${e.comisiones?.[0] ? ` · ${esc(e.comisiones[0])}` : ""}</div></div></a>`;
   const nov = (n) => {
     const e = expPorNumero[n.numero];
-    return `<a class="nov" href="#/exp/${esc(idArchivo(n.numero))}"><span class="qq">${esc(fechaRelativa(n.fecha, hoy).replace(/^./, (c) => c.toUpperCase()))} · ${esc(n.texto)}</span>
+    // Se muestra la fecha real del movimiento en el portal, para que se entienda qué pasó y cuándo.
+    return `<a class="nov" href="#/exp/${esc(idArchivo(n.numero))}"><span class="qq">${esc(fecha(n.fecha, { weekday: "long", day: "numeric", month: "long" }).replace(/^./, (c) => c.toUpperCase()))} · ${esc(n.texto)}</span>
       <span class="tt">${esc(e?.titulo ?? n.numero)}</span></a>`;
   };
-  return `<section class="seccion" aria-labelledby="t-atender"><div class="titulo-sec"><h2 id="t-atender">Para atender</h2></div>
+  const chip = (n, texto, color) => `<span class="chip-at"><span class="punto" style="background:var(--${color})"></span><b>${n}</b> ${texto}</span>`;
+  return `<details class="desp-atender seccion" data-atender${abierto ? " open" : ""}>
+    <summary>
+      <span class="desp-tit">Para atender</span>
+      <span class="desp-chips">${chip(caducan.length, caducan.length === 1 ? "caduca pronto" : "caducan pronto", "rojo")}${chip(novedades.length, novedades.length === 1 ? "tuvo movimiento en los últimos 7 días" : "tuvieron movimiento en los últimos 7 días", "azul")}</span>
+      <span class="desp-accion" aria-hidden="true"><span class="ver">Ver detalle</span><span class="ocultar">Ocultar</span></span>
+    </summary>
     <div class="atender">
       <div class="caja"><div class="caja-cab"><span class="punto" style="background:var(--rojo)"></span>Caducan pronto si no se tratan</div>
         ${caducan.length ? caducan.slice(0, 5).map(alerta).join("") : '<p class="nada">Ningún proyecto caduca en los próximos 60 días.</p>'}
         ${caducan.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="porCaducar">Ver los ${caducan.length}</button></div>` : ""}
       </div>
-      <div class="caja"><div class="caja-cab"><span class="punto" style="background:var(--azul)"></span>Novedades de la semana</div>
-        ${novedades.length ? novedades.slice(0, 5).map(nov).join("") : '<p class="nada">Esta semana no hubo movimientos.</p>'}
-        ${novedades.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="novedades">Ver las ${novedades.length}</button></div>` : ""}
+      <div class="caja"><div class="caja-cab"><span class="punto" style="background:var(--azul)"></span>Movimientos de los últimos 7 días</div>
+        ${novedades.length ? novedades.slice(0, 5).map(nov).join("") : '<p class="nada">En los últimos 7 días no hubo movimientos en el portal.</p>'}
+        ${novedades.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="novedades">Ver los ${novedades.length}</button></div>` : ""}
       </div>
-    </div></section>`;
+    </div></details>`;
 }
 
 export function tablaBloque(filas) {

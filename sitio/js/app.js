@@ -13,6 +13,9 @@ let textoElegir = "";
 
 const hoyAR = () => new Intl.DateTimeFormat("en-CA", { timeZone: "America/Argentina/Cordoba" }).format(new Date());
 const guardar = (slug) => { try { localStorage.setItem("leg", slug); } catch { /* almacenamiento bloqueado */ } };
+// "Para atender" arranca cerrado; si alguien lo abre, queda abierto en sus próximas visitas.
+const atenderAbierto = () => { try { return localStorage.getItem("atender") === "1"; } catch { return false; } };
+const guardarAtender = (v) => { try { localStorage.setItem("atender", v ? "1" : "0"); } catch { /* almacenamiento bloqueado */ } };
 const guardado = () => { try { return localStorage.getItem("leg"); } catch { return null; } };
 
 async function cargarJSON(ruta, defecto) {
@@ -78,9 +81,10 @@ function pantallaLista({ arriba, numeros, propio = null, conSelectores = false }
     visibles = vista.tarjeta === "porCaducar" ? proximosACaducar(visibles, hoy, aj) : ordenarPor(visibles, vista.orden, datos.novedades, hoy);
     const numerosBase = new Set(base.map((e) => e.numero));
     const atender = V.paraAtender(proximosACaducar(base, hoy, aj),
-      novedadesRecientes(datos.novedades.filter((n) => numerosBase.has(n.numero)), hoy), porNumero, hoy);
+      novedadesRecientes(datos.novedades.filter((n) => numerosBase.has(n.numero)), hoy), porNumero, hoy, atenderAbierto());
     document.getElementById("indicadores").innerHTML = V.indicadores(r, vista.tarjeta);
     document.getElementById("atender").innerHTML = atender;
+    document.querySelector("[data-atender]")?.addEventListener("toggle", (ev) => guardarAtender(ev.target.open));
     document.getElementById("zona-lista").innerHTML = V.herramientas(vista, base, visibles.length, datos.glosario)
       + V.lista(visibles, ctx, vista.limite);
   };

@@ -2,7 +2,7 @@ import json
 from datetime import date, datetime, timedelta, timezone
 
 from conftest import RAIZ
-from recolector.almacen import (Expediente, agregar_novedades, cargar_expediente, construir_indice, rederivar,
+from recolector.almacen import (Expediente, cargar_expediente, construir_indice, construir_novedades, rederivar,
                                 escribir_estado, guardar_expediente, id_archivo, recortar)
 from recolector.config import cargar_config
 from recolector.parse import Evento, Ruta
@@ -57,10 +57,27 @@ def test_cargar_expediente(tmp_path):
     assert cargar_expediente(tmp_path, "48498/L/26")["numero"] == "48498/L/26"
 
 
-def test_novedades_poda_30_dias(tmp_path):
-    agregar_novedades(tmp_path, "1/L/26", ["vieja"], HOY - timedelta(days=31), 30)
-    agregar_novedades(tmp_path, "2/L/26", ["nueva"], HOY, 30)
-    assert leer(tmp_path / "novedades.json") == [{"numero": "2/L/26", "fecha": "2026-11-24", "texto": "nueva"}]
+def test_novedades_usan_la_fecha_real_del_movimiento(tmp_path):
+    # Un proyecto que el sistema encuentra hoy, pero cuyos movimientos fueron hace semanas,
+    # aparece con la fecha de cada movimiento, no con la de hoy.
+    guardar_expediente(tmp_path, exp("1/L/26", [
+        Evento("Estado", "Ingresado", "S", 148, date(2026, 10, 1)),
+        Evento("Estado", "En Comisión", "S", 148, date(2026, 11, 18)),
+    ]), M)
+    guardar_expediente(tmp_path, exp("2/L/24", [Evento("Estado", "Ingresado", "S", 146, date(2024, 5, 1))]), M)
+    construir_novedades(tmp_path, HOY, 30)
+    assert leer(tmp_path / "novedades.json") == [
+        {"numero": "1/L/26", "fecha": "2026-11-18", "texto": "Pasó a estudio en comisión"},
+    ]
+
+
+def test_novedades_ignoran_pasos_sin_contenido(tmp_path):
+    guardar_expediente(tmp_path, exp("1/L/26", [
+        Evento("Estado", "Ingresado", "S", 148, date(2026, 11, 20)),
+        Evento("Situación", "Art 110 (tramite normal)", "S", 148, date(2026, 11, 20)),
+    ]), M)
+    construir_novedades(tmp_path, HOY, 30)
+    assert [n["texto"] for n in leer(tmp_path / "novedades.json")] == ["Se presentó el proyecto"]
 
 
 def test_indice_expediente_en_dos_legisladores(tmp_path):

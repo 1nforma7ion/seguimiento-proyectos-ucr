@@ -115,12 +115,30 @@ def guardar_expediente(dir_datos: Path, exp: Expediente, mapeo: dict) -> list[st
             if (c["tipo"], c["valor"], c["fecha"]) not in vistos]
 
 
-def agregar_novedades(dir_datos: Path, numero: str, textos: list[str], hoy: date, dias: int) -> None:
-    ruta = Path(dir_datos) / "novedades.json"
+# Pasos del recorrido que no cuentan como novedad porque no cambian nada para quien sigue el proyecto.
+SIN_NOVEDAD = {"Sigue el trámite normal"}
+
+
+def construir_novedades(dir_datos: Path, hoy: date, dias: int) -> list[dict]:
+    """Arma novedades.json con los movimientos de los últimos `dias` días, con su fecha real.
+
+    Se recalcula entera en cada corrida a partir de los expedientes guardados: así la fecha de una
+    novedad es siempre la del movimiento en el portal, y no el día en que el sistema la encontró.
+    """
     limite = (hoy - timedelta(days=dias)).isoformat()
-    novedades = [n for n in _leer(ruta, []) if n["fecha"] >= limite]
-    novedades += [{"numero": numero, "fecha": hoy.isoformat(), "texto": t} for t in textos]
-    _escribir(ruta, novedades)
+    novedades = []
+    for archivo in sorted((Path(dir_datos) / "expedientes").glob("*.json")):
+        d = _leer(archivo)
+        vistos = set()
+        for paso in d.get("linea_tiempo", []):
+            fecha, texto = paso.get("fecha"), paso.get("texto")
+            if not fecha or fecha < limite or fecha > hoy.isoformat() or texto in SIN_NOVEDAD or (fecha, texto) in vistos:
+                continue
+            vistos.add((fecha, texto))
+            novedades.append({"numero": d["numero"], "fecha": fecha, "texto": texto})
+    novedades.sort(key=lambda n: (n["fecha"], n["numero"]), reverse=True)
+    _escribir(Path(dir_datos) / "novedades.json", novedades)
+    return novedades
 
 
 def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: dict, ahora: datetime,

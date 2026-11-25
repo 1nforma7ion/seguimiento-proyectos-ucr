@@ -12,5 +12,6 @@
   "resolucion": {"termino": "Proyecto de resolución", "texto": "Una decisión de la Legislatura. Muchas veces es un pedido de informes al Poder Ejecutivo."},
   "declaracion": {"termino": "Proyecto de declaración", "texto": "Expresa la opinión de la Legislatura sobre un tema: beneplácito, adhesión, repudio o preocupación. No obliga a nadie."},
   "nota": {"termino": "Nota", "texto": "Un pedido formal que presenta un legislador o legisladora: por ejemplo, rehabilitar un proyecto caducado, pedir licencia o cambiar integrantes de una comisión."},
+  "novedad": {"termino": "Novedad", "texto": "Un movimiento del proyecto en el portal (por ejemplo, pasó a comisión, tuvo despacho o se aprobó) con fecha dentro de los últimos 7 días. Siempre se muestra la fecha real del movimiento."},
   "pedido-informes": {"termino": "Pedido de informes", "texto": "Un proyecto de resolución que le pide al Poder Ejecutivo datos o explicaciones sobre algún tema (Art. 102 de la Constitución)."}
 }

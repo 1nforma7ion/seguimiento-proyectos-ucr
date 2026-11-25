@@ -98,6 +98,21 @@ main:focus { outline: none; }
 
 /* Para atender */
 .atender { display: grid; grid-template-columns: 1.15fr 1fr; gap: 20px; }
+.desp-atender { border: 1px solid var(--borde); border-radius: var(--radio); background: var(--fondo); }
+.desp-atender > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 10px 20px; flex-wrap: wrap; padding: 14px 18px; }
+.desp-atender > summary::-webkit-details-marker { display: none; }
+.desp-atender > summary:hover { background: var(--hover); }
+.desp-tit { font-weight: 700; font-size: 16px; }
+.desp-chips { display: flex; gap: 8px 18px; flex-wrap: wrap; font-size: 14px; color: var(--texto-2); }
+.chip-at { display: inline-flex; align-items: center; gap: 6px; }
+.chip-at b { color: var(--tinta); }
+.desp-accion { margin-left: auto; font-size: 13px; font-weight: 700; color: var(--azul); display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.desp-accion::after { content: ""; width: 7px; height: 7px; border: solid currentColor; border-width: 0 2px 2px 0; transform: rotate(45deg) translateY(-2px); }
+.desp-atender[open] .desp-accion::after { transform: rotate(-135deg) translateY(-2px); }
+.desp-atender .ocultar, .desp-atender[open] .ver { display: none; }
+.desp-atender[open] .ocultar { display: inline; }
+.desp-atender[open] > summary { border-bottom: 1px solid var(--borde); }
+.desp-atender > .atender { padding: 18px; }
 .caja { border: 1px solid var(--borde); border-radius: var(--radio); background: var(--fondo); }
 .caja-cab { padding: 12px 16px; border-bottom: 1px solid var(--borde); font-weight: 700; font-size: 14px; display: flex; gap: 8px; align-items: center; }
 .caja-pie { padding: 10px 16px; border-top: 1px solid var(--borde); }

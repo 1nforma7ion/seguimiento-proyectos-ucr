@@ -76,16 +76,8 @@ def _resumen_github(texto: str) -> None:
 
 def _guardar(dir_datos, cfg, hoy, numero, extracto, autores, ruta, comisiones, ahora) -> list[str]:
     exp = almacen.Expediente(numero, extracto, autores, comisiones, ruta, ahora)
-    textos = almacen.guardar_expediente(dir_datos, exp, cfg.etapas)
+    almacen.guardar_expediente(dir_datos, exp, cfg.etapas)
     guardado = almacen.cargar_expediente(dir_datos, numero)
-    dias = cfg.ajustes["dias_novedades"]
-    if textos == [almacen.NUEVO]:
-        # Un proyecto viejo que se carga por primera vez no es una novedad.
-        ingreso = guardado["estado"].get("ingreso")
-        if not ingreso or date.fromisoformat(ingreso) < hoy - timedelta(days=dias):
-            textos = []
-    if textos:
-        almacen.agregar_novedades(dir_datos, numero, textos, hoy, dias)
     return guardado.get("desconocidos", [])
 
 
@@ -213,6 +205,7 @@ def correr(raiz: Path, portal, hoy: date, ahora: datetime, solo: str | None = No
                      "se reintenta en la próxima corrida" for slug, dias in sorted(pendientes.items()) for d in dias]
     advertencias += [f"Estado desconocido en el portal: {v}" for v in sorted(desconocidos)]
     almacen.construir_indice(dir_datos, cfg.legisladores, cfg.ajustes, ahora)
+    almacen.construir_novedades(dir_datos, hoy, cfg.ajustes["dias_novedades"])
     # Los datos cuentan como "al día" solo si la corrida terminó bien y ya están todos los legisladores.
     almacen.escribir_estado(dir_datos, ok, advertencias, ahora, al_dia=ok and not faltan)
     _resumen_github(("✅ Actualización completa" if ok else "❌ La actualización no terminó")

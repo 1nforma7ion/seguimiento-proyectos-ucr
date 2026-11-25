@@ -150,7 +150,8 @@ def test_correr_guarda_nuevo_y_novedad(raiz, falso):
     assert correr(raiz, solo="ferrero") == 0
     idx = leer(raiz, "indice.json")
     assert idx["expedientes"]["48498/L/26"]["autores_bloque"] == ["ferrero"]
-    assert leer(raiz, "novedades.json")[0]["texto"] == "Nuevo proyecto en seguimiento"
+    # La novedad lleva la fecha real del movimiento (29/10), no la del día en que se encontró.
+    assert {"numero": "48498/L/26", "fecha": "2026-10-29", "texto": "Pasó a estudio en comisión"} in leer(raiz, "novedades.json")
     assert leer(raiz, "estado.json")["ok"] is True
 
 
@@ -302,7 +303,7 @@ def test_carga_inicial_no_llena_novedades(raiz, falso):
     falso.rutas["1/L/24"] = ruta_en_comision(date(2024, 5, 1))
     falso.rutas["2/L/26"] = ruta_en_comision(MARTES - timedelta(days=3))
     correr(raiz, solo="ferrero")
-    assert [n["numero"] for n in leer(raiz, "novedades.json")] == ["2/L/26"]
+    assert {n["numero"] for n in leer(raiz, "novedades.json")} == {"2/L/26"}
 
 
 def test_correr_actualiza_datos_viejos_sin_consultarlos(raiz, falso):
