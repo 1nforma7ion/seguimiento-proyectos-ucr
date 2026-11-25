@@ -151,7 +151,7 @@ def test_correr_guarda_nuevo_y_novedad(raiz, falso):
     idx = leer(raiz, "indice.json")
     assert idx["expedientes"]["48498/L/26"]["autores_bloque"] == ["ferrero"]
     # La novedad lleva la fecha real del movimiento (29/10), no la del día en que se encontró.
-    assert {"numero": "48498/L/26", "fecha": "2026-10-29", "texto": "Pasó a estudio en comisión"} in leer(raiz, "novedades.json")
+    assert ("2026-10-29", "Pasó a comisión") in {(n["fecha"], n["corto"]) for n in leer(raiz, "novedades.json") if n["numero"] == "48498/L/26"}
     assert leer(raiz, "estado.json")["ok"] is True
 
 

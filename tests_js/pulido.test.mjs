@@ -35,3 +35,27 @@ test("buscarEnTodo ordena de más nuevo a más viejo e ignora textos muy cortos"
   assert.deepEqual(buscarEnTodo(xs, "a", LEGS), []);
   assert.deepEqual(buscarEnTodo(xs, "  ", LEGS), []);
 });
+
+import { agruparNovedades, conNovedad, novedadesRecientes } from "../sitio/js/logica.js";
+
+const HOY = "2026-11-25";
+const n = (numero, fecha, corto, clase, orden = 0) => ({ numero, fecha, texto: corto, corto, clase, orden });
+
+test("una sola novedad por proyecto: la más relevante de la semana", () => {
+  const nov = [
+    n("1", "2026-11-19", "Caducó", "mala", 3), n("1", "2026-11-19", "Se archivó", "mala", 4),   // mismo día: gana la posterior
+    n("2", "2026-11-18", "Se presentó", "tramite", 0), n("2", "2026-11-18", "Aprobado", "buena", 2),
+    n("2", "2026-11-20", "Comunicado al Ejecutivo", "tramite", 3),                              // más nueva pero de rutina
+    n("3", "2026-11-01", "Aprobado", "buena", 1),                                                // fuera de la semana
+  ];
+  const m = conNovedad(nov, HOY);
+  assert.equal(m.get("1").corto, "Se archivó");
+  assert.equal(m.get("2").corto, "Aprobado");
+  assert.equal(m.has("3"), false);
+  assert.deepEqual(novedadesRecientes(nov, HOY).map((x) => x.numero), ["1", "2"]);
+});
+
+test("agruparNovedades separa buenas, malas y trámite", () => {
+  const g = agruparNovedades([n("1", HOY, "Aprobado", "buena"), n("2", HOY, "Caducó", "mala"), n("3", HOY, "Pasó a comisión", "tramite"), n("4", HOY, "x")]);
+  assert.deepEqual([g.buenas.length, g.malas.length, g.tramite.length], [1, 1, 2]);
+});

@@ -1,6 +1,6 @@
 // Arma el HTML de cada pantalla. Todo texto que viene de los datos pasa por esc().
 import {
-  agruparPorAnio, conNovedad, conteos, diasHasta, esAutorDelBloque, fechaRelativa, resumenCoautores,
+  agruparNovedades, agruparPorAnio, conteos, diasHasta, esAutorDelBloque, fechaRelativa, resumenCoautores,
 } from "./logica.js";
 
 export const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
@@ -91,13 +91,19 @@ function coautores(e, ctx) {
   return `<div class="avatares">${caras}<span>${esc(texto.charAt(0).toUpperCase() + texto.slice(1))}</span></div>`;
 }
 
+// Etiqueta que dice qué pasó y cuándo: "● Aprobado el 18/11".
+function etiquetaNovedad(n) {
+  const dia = n.fecha ? ` el ${fecha(n.fecha, { day: "numeric", month: "numeric" })}` : "";
+  return `<span class="nuevo ${esc(n.clase ?? "tramite")}">● ${esc(n.corto ?? "Novedad")}${dia}</span>`;
+}
+
 export function filaProyecto(e, ctx) {
-  const nov = ctx.nov.has(e.numero);
+  const nov = ctx.nov.get(e.numero);
   const um = e.estado.ultimo_movimiento;
   const comision = e.comisiones?.[0];
   return `<li class="proyecto"><a href="#/exp/${esc(idArchivo(e.numero))}">
     <div>
-      <div class="meta">${etiquetaTipo(e.tipo)}<span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}${nov ? '<span class="nuevo">● Novedad</span>' : ""}</div>
+      <div class="meta">${etiquetaTipo(e.tipo)}<span>${esc(e.numero)}</span>${comision ? `<span>${esc(comision)}</span>` : ""}${nov ? etiquetaNovedad(nov) : ""}</div>
       <div class="titulo">${esc(e.titulo)}</div>
       ${um ? `<div class="ultimo">${esc(um.texto)}, ${esc(fechaRelativa(um.fecha, ctx.hoy))}</div>` : ""}
     </div>
@@ -205,10 +211,17 @@ export function paraAtender(caducan, novedades, expPorNumero, hoy, abierto = fal
       <div><div class="tt">${esc(e.titulo)}</div><div class="mm">${TIPO_TEXTO[e.tipo]} · ${esc(e.numero)}${e.comisiones?.[0] ? ` · ${esc(e.comisiones[0])}` : ""}</div></div></a>`;
   const nov = (n) => {
     const e = expPorNumero[n.numero];
-    // Se muestra la fecha real del movimiento en el portal, para que se entienda qué pasó y cuándo.
-    return `<a class="nov" href="#/exp/${esc(idArchivo(n.numero))}"><span class="qq">${esc(fecha(n.fecha, { weekday: "long", day: "numeric", month: "long" }).replace(/^./, (c) => c.toUpperCase()))} · ${esc(n.texto)}</span>
+    const cuando = fecha(n.fecha, { weekday: "long", day: "numeric", month: "long" });
+    return `<a class="nov ${esc(n.clase ?? "tramite")}" href="#/exp/${esc(idArchivo(n.numero))}"><span class="qq">${esc(n.corto ?? n.texto)} · ${esc(cuando)}</span>
       <span class="tt">${esc(e?.titulo ?? n.numero)}</span></a>`;
   };
+  const g = agruparNovedades(novedades);
+  const grupo = (lista, titulo, clase) => lista.length
+    ? `<div class="grupo-nov ${clase}"><div class="grupo-tit">${titulo} <span>${lista.length}</span></div>${lista.slice(0, 5).map(nov).join("")}
+        ${lista.length > 5 ? `<p class="grupo-mas">y ${lista.length - 5} más</p>` : ""}</div>` : "";
+  const rutina = g.tramite.length
+    ? `<details class="rutina"><summary>${g.buenas.length || g.malas.length ? "Además, " : ""}${plural(g.tramite.length, "proyecto tuvo", "proyectos tuvieron")} trámite de rutina (se presentaron, pasaron a comisión…)</summary>
+        ${g.tramite.slice(0, 8).map(nov).join("")}${g.tramite.length > 8 ? `<p class="grupo-mas">y ${g.tramite.length - 8} más</p>` : ""}</details>` : "";
   const chip = (n, texto, color) => `<span class="chip-at"><span class="punto" style="background:var(--${color})"></span><b>${n}</b> ${texto}</span>`;
   return `<details class="desp-atender seccion" data-atender${abierto ? " open" : ""}>
     <summary>
@@ -222,8 +235,9 @@ export function paraAtender(caducan, novedades, expPorNumero, hoy, abierto = fal
         ${caducan.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="porCaducar">Ver los ${caducan.length}</button></div>` : ""}
       </div>
       <div class="caja"><div class="caja-cab"><span class="punto" style="background:var(--azul)"></span>Novedades de la semana</div>
-        ${novedades.length ? novedades.slice(0, 5).map(nov).join("") : '<p class="nada">Esta semana no hubo novedades.</p>'}
-        ${novedades.length > 5 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="novedades">Ver los ${novedades.length}</button></div>` : ""}
+        ${novedades.length ? grupo(g.buenas, "Aprobados y avances", "buena") + grupo(g.malas, "Caducaron, se archivaron o no se aprobaron", "mala") + rutina
+          : '<p class="nada">Esta semana no hubo novedades.</p>'}
+        ${novedades.length > 1 ? `<div class="caja-pie"><button type="button" class="enlace" data-tarjeta="novedades">Ver las ${novedades.length} en la lista</button></div>` : ""}
       </div>
     </div></details>`;
 }

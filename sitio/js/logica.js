@@ -31,8 +31,20 @@ export function fechaRelativa(fecha, hoy) {
   return anios === 1 ? "hace 1 año" : `hace ${anios} años`;
 }
 
+// Una novedad buena (se aprobó) o mala (caducó) pesa más que una de trámite (pasó a comisión).
+const PESO = { buena: 2, mala: 2, tramite: 1 };
+const peso = (n) => PESO[n.clase] ?? 1;
+const masRelevante = (a, b) => (peso(a) - peso(b)) || a.fecha.localeCompare(b.fecha) || ((a.orden ?? 0) - (b.orden ?? 0));
+
+// Devuelve, para cada proyecto con movimiento en la semana, su novedad más relevante (Map numero → novedad).
 export function conNovedad(novedades, hoy, dias = 7) {
-  return new Set(novedades.filter((n) => -diasHasta(n.fecha, hoy) <= dias).map((n) => n.numero));
+  const m = new Map();
+  for (const n of novedades) {
+    if (-diasHasta(n.fecha, hoy) > dias || diasHasta(n.fecha, hoy) > 0) continue;
+    const prev = m.get(n.numero);
+    if (!prev || masRelevante(n, prev) > 0) m.set(n.numero, n);
+  }
+  return m;
 }
 
 const enComision = (e) => !e.estado.resultado && (e.estado.etapa === 2 || e.estado.etapa === 3);
@@ -112,13 +124,16 @@ export function proximosACaducar(exps, hoy, aj) {
 }
 
 export function novedadesRecientes(novedades, hoy, dias = 7) {
-  const ultima = new Map();
-  for (const n of novedades) {
-    if (-diasHasta(n.fecha, hoy) > dias) continue;
-    const prev = ultima.get(n.numero);
-    if (!prev || n.fecha >= prev.fecha) ultima.set(n.numero, n);
-  }
-  return [...ultima.values()].sort((a, b) => b.fecha.localeCompare(a.fecha) || a.numero.localeCompare(b.numero));
+  return [...conNovedad(novedades, hoy, dias).values()]
+    .sort((a, b) => masRelevante(b, a) || a.numero.localeCompare(b.numero));
+}
+
+export function agruparNovedades(lista) {
+  return {
+    buenas: lista.filter((n) => n.clase === "buena"),
+    malas: lista.filter((n) => n.clase === "mala"),
+    tramite: lista.filter((n) => n.clase !== "buena" && n.clase !== "mala"),
+  };
 }
 
 export function conteos(exps) {

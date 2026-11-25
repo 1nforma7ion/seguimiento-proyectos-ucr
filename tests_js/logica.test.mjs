@@ -46,7 +46,7 @@ test("diasHasta", () => {
 
 test("conNovedad mira solo los últimos 7 días", () => {
   const s = conNovedad(NOVEDADES, HOY);
-  assert.deepEqual([...s], ["3/D/26"]);
+  assert.deepEqual([...s.keys()], ["3/D/26"]);
 });
 
 test("resumen: por caducar usa 60 días y excluye resueltos; aprobados del año", () => {

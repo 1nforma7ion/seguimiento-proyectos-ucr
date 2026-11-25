@@ -115,27 +115,29 @@ def guardar_expediente(dir_datos: Path, exp: Expediente, mapeo: dict) -> list[st
             if (c["tipo"], c["valor"], c["fecha"]) not in vistos]
 
 
-# Pasos del recorrido que no cuentan como novedad porque no cambian nada para quien sigue el proyecto.
-SIN_NOVEDAD = {"Sigue el trámite normal"}
-
-
-def construir_novedades(dir_datos: Path, hoy: date, dias: int) -> list[dict]:
+def construir_novedades(dir_datos: Path, hoy: date, dias: int, mapeo: dict) -> list[dict]:
     """Arma novedades.json con los movimientos de los últimos `dias` días, con su fecha real.
 
     Se recalcula entera en cada corrida a partir de los expedientes guardados: así la fecha de una
     novedad es siempre la del movimiento en el portal, y no el día en que el sistema la encontró.
+    Cada novedad lleva su clase (buena, mala o tramite) y una etiqueta corta, según config/etapas.json.
+    Las situaciones (cómo se trató) no cuentan: acompañan a un estado que ya es la novedad.
     """
-    limite = (hoy - timedelta(days=dias)).isoformat()
+    limite, tope = (hoy - timedelta(days=dias)).isoformat(), hoy.isoformat()
     novedades = []
     for archivo in sorted((Path(dir_datos) / "expedientes").glob("*.json")):
         d = _leer(archivo)
         vistos = set()
-        for paso in d.get("linea_tiempo", []):
-            fecha, texto = paso.get("fecha"), paso.get("texto")
-            if not fecha or fecha < limite or fecha > hoy.isoformat() or texto in SIN_NOVEDAD or (fecha, texto) in vistos:
+        for orden, ev in enumerate(d.get("eventos_crudos", [])):
+            regla = mapeo["estados"].get(ev["valor"]) if ev["tipo"] == "Estado" else None
+            fecha = ev.get("fecha")
+            if not regla or not regla.get("novedad") or not fecha or not limite <= fecha <= tope:
                 continue
-            vistos.add((fecha, texto))
-            novedades.append({"numero": d["numero"], "fecha": fecha, "texto": texto})
+            if (fecha, regla["texto"]) in vistos:
+                continue
+            vistos.add((fecha, regla["texto"]))
+            novedades.append({"numero": d["numero"], "fecha": fecha, "texto": regla["texto"],
+                              "corto": regla.get("corto", regla["texto"]), "clase": regla["novedad"], "orden": orden})
     novedades.sort(key=lambda n: (n["fecha"], n["numero"]), reverse=True)
     _escribir(Path(dir_datos) / "novedades.json", novedades)
     return novedades

@@ -65,19 +65,25 @@ def test_novedades_usan_la_fecha_real_del_movimiento(tmp_path):
         Evento("Estado", "En Comisión", "S", 148, date(2026, 11, 18)),
     ]), M)
     guardar_expediente(tmp_path, exp("2/L/24", [Evento("Estado", "Ingresado", "S", 146, date(2024, 5, 1))]), M)
-    construir_novedades(tmp_path, HOY, 30)
+    construir_novedades(tmp_path, HOY, 30, M)
     assert leer(tmp_path / "novedades.json") == [
-        {"numero": "1/L/26", "fecha": "2026-11-18", "texto": "Pasó a estudio en comisión"},
+        {"numero": "1/L/26", "fecha": "2026-11-18", "texto": "Pasó a estudio en comisión",
+         "corto": "Pasó a comisión", "clase": "tramite", "orden": 1},
     ]
 
 
-def test_novedades_ignoran_pasos_sin_contenido(tmp_path):
-    guardar_expediente(tmp_path, exp("1/L/26", [
-        Evento("Estado", "Ingresado", "S", 148, date(2026, 11, 20)),
-        Evento("Situación", "Art 110 (tramite normal)", "S", 148, date(2026, 11, 20)),
+def test_novedades_clasifican_y_omiten_situaciones(tmp_path):
+    guardar_expediente(tmp_path, exp("1/D/26", [
+        Evento("Estado", "Ingresado", "S", 148, date(2026, 11, 18)),
+        Evento("Situación", "Sobre Tablas", "S", 148, date(2026, 11, 18)),
+        Evento("Estado", "Aprobado", "S", 148, date(2026, 11, 18)),
     ]), M)
-    construir_novedades(tmp_path, HOY, 30)
-    assert [n["texto"] for n in leer(tmp_path / "novedades.json")] == ["Se presentó el proyecto"]
+    guardar_expediente(tmp_path, exp("2/L/25", [
+        Evento("Estado", "Caducado", "S", 148, date(2026, 11, 19)),
+    ]), M)
+    construir_novedades(tmp_path, HOY, 30, M)
+    nov = {(n["numero"], n["corto"]): n["clase"] for n in leer(tmp_path / "novedades.json")}
+    assert nov == {("1/D/26", "Se presentó"): "tramite", ("1/D/26", "Aprobado"): "buena", ("2/L/25", "Caducó"): "mala"}
 
 
 def test_indice_expediente_en_dos_legisladores(tmp_path):
