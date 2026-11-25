@@ -1,8 +1,11 @@
 {
- "ultima_corrida": "2026-11-24T23:55:42.739597-03:00",
+ "ultima_corrida": "2026-11-25T00:02:31.346206-03:00",
  "ultima_actualizacion_ok": null,
  "ok": false,
  "advertencias": [
-  "La corrida falló: El portal de la Legislatura está fuera de servicio (devuelve su página de error interno)"
+  "La corrida falló: fallaron 3 expedientes seguidos; el portal parece caído",
+  "No se pudo leer el expediente 44815/L/25 (El portal de la Legislatura está fuera de servicio (devuelve su página de error interno))",
+  "No se pudo leer el expediente 44818/R/25 (El portal de la Legislatura está fuera de servicio (devuelve su página de error interno))",
+  "No se pudo leer el expediente 44837/R/25 (El portal de la Legislatura está fuera de servicio (devuelve su página de error interno))"
  ]
 }
