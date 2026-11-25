@@ -170,8 +170,11 @@ def test_indice_n_autores(tmp_path):
     assert idx["expedientes"]["48498/L/26"]["n_autores"] == 3
 
 
-def test_titulo_del_indice_es_el_tema(tmp_path):
+def test_indice_usa_el_titulo_corto_y_guarda_el_tema_para_buscar(tmp_path):
     guardar_expediente(tmp_path, exp(), M)
     idx = construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)
-    assert idx["expedientes"]["48498/L/26"]["titulo"] == "Creando la Comisión…"
-    assert leer(tmp_path / "expedientes" / "48498-L-26.json")["tema"] == "Creando la Comisión…"
+    d = leer(tmp_path / "expedientes" / "48498-L-26.json")
+    assert d["tema"] == "Creando la Comisión…"
+    assert d["titulo"] == "Comisión…"
+    assert idx["expedientes"]["48498/L/26"]["titulo"] == "Comisión…"
+    assert idx["expedientes"]["48498/L/26"]["desc"] == "Creando la Comisión…"

@@ -299,8 +299,8 @@ export function ficha(d, ctx) {
       <div class="miga"><a href="${esc(volver)}">${esc(volverNombre)}</a> › ${esc(d.numero)}</div>
       <div class="meta">${etiquetaTipo(d.tipo)}<span>${esc(d.numero)}</span>
         ${d.estado.ingreso ? `<span>Presentado el ${esc(fecha(d.estado.ingreso))}</span>` : ""}</div>
-      <h1 class="ficha-titulo">${esc(d.tema || d.extracto)}</h1>
-      ${d.tema && d.tema !== d.extracto ? `<p class="extracto-completo">${esc(d.extracto)}</p>` : ""}
+      <h1 class="ficha-titulo">${esc(d.titulo || d.tema || d.extracto)}</h1>
+      ${(d.titulo || d.tema) !== d.extracto ? `<p class="extracto-completo">${esc(d.extracto)}</p>` : ""}
       ${TIPO_BREVE[d.tipo] ? `<p class="tipo-explica"><b>${TIPO_LARGO[d.tipo]}:</b> ${esc(TIPO_BREVE[d.tipo])}</p>` : ""}
       <div class="estado-ficha"><span class="pill ${claseResultado(r)}">● ${esc(nombresEstaciones(e)[e.estado.etapa - 1])}</span>
         ${d.estado.sobre_tablas ? `<span>Se trató sobre tablas ${que(glosario, "sobre-tablas")}</span>` : ""}</div>

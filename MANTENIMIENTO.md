@@ -55,6 +55,14 @@ Si una corrida falla, GitHub te manda un mail. Mientras tanto, el sitio sigue mo
 | **Carga inicial en curso: faltan N legisladores** | Normal en los primeros días: cada corrida avanza. El sitio muestra el aviso de datos desactualizados hasta que termina. |
 | **No se pudo leer el expediente …** | Ese expediente se salteó hoy y se reintenta mañana. Si se repite siempre con el mismo, revisalo en el portal. |
 
+## Títulos de los proyectos
+
+El portal no publica un nombre para cada proyecto, solo la descripción oficial (el extracto). El sitio arma un
+título corto con reglas (`recolector/titulos.py`): convierte el verbo inicial en sustantivo ("Derogando el
+Decreto…" pasa a "Derogación del Decreto…") y corta en la primera idea. La descripción oficial completa se sigue
+mostrando debajo del título en cada proyecto. Si se mejoran las reglas, los títulos se recalculan solos en la
+siguiente actualización.
+
 ## Ajustes
 
 `config/ajustes.json` tiene los valores que se pueden cambiar:

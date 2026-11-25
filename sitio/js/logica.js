@@ -86,7 +86,7 @@ export function filtrar(exps, { pestania = "fondo", tarjeta = null, texto = "", 
     }
     if (comision && !(e.comisiones || []).includes(comision)) return false;
     if (legislador && !(e.autores_bloque || []).includes(legislador)) return false;
-    const pajar = normalizar(`${e.numero} ${e.titulo}`);
+    const pajar = normalizar(`${e.numero} ${e.titulo} ${e.desc ?? ""}`);
     return q.every((p) => pajar.includes(p));
   });
 }
@@ -191,7 +191,7 @@ export function buscarEnTodo(exps, texto, legs) {
   const ingreso = (e) => e.estado.ingreso ?? "";
   return exps
     .filter((e) => {
-      const pajar = normalizar(`${e.numero} ${e.titulo} ${nombres(e)}`);
+      const pajar = normalizar(`${e.numero} ${e.titulo} ${e.desc ?? ""} ${nombres(e)}`);
       return palabras.every((p) => pajar.includes(p));
     })
     .sort((a, b) => {
