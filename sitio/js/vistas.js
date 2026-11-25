@@ -204,15 +204,15 @@ export function bandaLegislador(leg) {
   </div></div>`;
 }
 
-// Selector entre todos los proyectos que firmó y solo los que inició (figura primero entre los autores).
+// Selector entre todos sus proyectos (autor/a o coautor/a) y solo aquellos en los que es autor/a principal.
 export function alcance(soloIniciados, firmados, iniciados) {
   const b = (clave, texto, n, activo) => `<button type="button" data-alcance="${clave}" aria-pressed="${activo}">${texto}<span class="c">${n.toLocaleString("es-AR")}</span></button>`;
   return `<div class="alcance" role="group" aria-label="Qué proyectos mostrar">
-    ${b("firmados", "Todos los que firmó", firmados, !soloIniciados)}${b("iniciados", "Solo los que inició", iniciados, soloIniciados)}
+    ${b("firmados", "Todos sus proyectos", firmados, !soloIniciados)}${b("iniciados", "Como autor/a principal", iniciados, soloIniciados)}
   </div>
   <p class="alcance-ayuda">${soloIniciados
-    ? "Proyectos en los que figura primero entre los autores: es quien los presentó o impulsó."
-    : "Incluye los que inició y aquellos en los que acompañó con su firma."}</p>`;
+    ? "Proyectos en los que es autor/a principal: figura en primer lugar entre los firmantes."
+    : "Incluye los proyectos en los que es autor/a principal y aquellos en los que acompaña como coautor/a."}</p>`;
 }
 
 export function paraAtender(caducan, novedades, expPorNumero, hoy, abierto = false) {

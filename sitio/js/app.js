@@ -103,7 +103,7 @@ function pantallaLista({ arriba, numeros, propio = null, conSelectores = false }
 
   app.innerHTML = `<div class="banda"><div class="cont">${arriba}${propio ? '<div id="alcance"></div>' : ""}<div id="indicadores"></div></div></div>
     <div class="cont"><div id="atender"></div>${conSelectores ? '<div id="tabla-bloque" class="seccion"></div>' : ""}
-      <section class="seccion" aria-labelledby="t-todos"><div class="titulo-sec"><h2 id="t-todos">${propio ? "Todos sus proyectos" : "Proyectos del bloque"}</h2></div>
+      <section class="seccion" aria-labelledby="t-todos"><div class="titulo-sec"><h2 id="t-todos">${propio ? "Proyectos" : "Proyectos del bloque"}</h2></div>
         ${selectores}<div id="zona-lista"></div></section></div>`;
   if (conSelectores) {
     document.getElementById("tabla-bloque").innerHTML = `<div class="titulo-sec"><h2>Por legislador</h2><span class="aux">Tocá un nombre para ver su panel</span></div>`
