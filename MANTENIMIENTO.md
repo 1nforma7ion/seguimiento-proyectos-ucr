@@ -4,7 +4,7 @@ Esta guía explica cómo mantener el sitio de seguimiento de proyectos. Todo se 
 
 ## Cómo funciona
 
-1. Todos los días hábiles a las 7:00, GitHub corre el **recolector**. Es un programa que consulta el portal de la Legislatura, en https://gld.legislaturacba.gob.ar.
+1. Todos los días hábiles alrededor de las 7:17, GitHub corre el **recolector**. Es un programa que consulta el portal de la Legislatura, en https://gld.legislaturacba.gob.ar.
 2. El recolector busca los proyectos de cada legislador del bloque y guarda los datos en la carpeta `sitio/data`.
 3. Después se publica el sitio con los datos nuevos.
 

@@ -2,7 +2,7 @@ name: actualizar
 
 on:
   schedule:
-    - cron: "0 10 * * 1-5"   # 7:00 de Argentina, de lunes a viernes
+    - cron: "17 10 * * 1-5"  # 7:17 de Argentina, de lunes a viernes (fuera de la hora en punto, que GitHub suele saltear)
   workflow_dispatch:
     inputs:
       completo:
