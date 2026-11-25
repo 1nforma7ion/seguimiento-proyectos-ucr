@@ -199,3 +199,8 @@ export function buscarEnTodo(exps, texto, legs) {
       return (exacta(b) - exacta(a)) || ingreso(b).localeCompare(ingreso(a)) || a.numero.localeCompare(b.numero);
     });
 }
+
+// Proyectos que inició el legislador: el portal lo lista primero entre los autores.
+export function iniciadosPor(exps, slug) {
+  return exps.filter((e) => e.principal === slug);
+}

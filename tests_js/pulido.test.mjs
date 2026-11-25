@@ -59,3 +59,10 @@ test("agruparNovedades separa buenas, malas y trámite", () => {
   const g = agruparNovedades([n("1", HOY, "Aprobado", "buena"), n("2", HOY, "Caducó", "mala"), n("3", HOY, "Pasó a comisión", "tramite"), n("4", HOY, "x")]);
   assert.deepEqual([g.buenas.length, g.malas.length, g.tramite.length], [1, 1, 2]);
 });
+
+import { iniciadosPor } from "../sitio/js/logica.js";
+
+test("iniciadosPor deja solo los proyectos que el legislador inició", () => {
+  const xs = [{ numero: "1", principal: "ferrero" }, { numero: "2", principal: "bria" }, { numero: "3", principal: null }];
+  assert.deepEqual(iniciadosPor(xs, "ferrero").map((x) => x.numero), ["1"]);
+});

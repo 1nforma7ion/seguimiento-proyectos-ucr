@@ -99,6 +99,13 @@ main:focus { outline: none; }
 
 /* Para atender */
 .atender { display: grid; grid-template-columns: 1.15fr 1fr; gap: 20px; }
+.alcance { display: inline-flex; margin-top: 22px; border: 1px solid var(--borde-2); border-radius: var(--radio); background: var(--fondo); padding: 3px; gap: 3px; flex-wrap: wrap; }
+.alcance button { all: unset; cursor: pointer; padding: 7px 14px; font-size: 14px; border-radius: 3px; color: var(--texto-2); }
+.alcance button:hover { color: var(--tinta); }
+.alcance button:focus-visible { outline: 2px solid var(--rojo); }
+.alcance button[aria-pressed="true"] { background: var(--rojo); color: #fff; font-weight: 700; }
+.alcance .c { margin-left: 8px; font-size: 12px; opacity: .85; }
+.alcance-ayuda { margin-top: 8px; font-size: 13px; color: var(--texto-3); }
 .desp-atender { border: 1px solid var(--borde); border-radius: var(--radio); background: var(--fondo); }
 .desp-atender > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 10px 20px; flex-wrap: wrap; padding: 14px 18px; }
 .desp-atender > summary::-webkit-details-marker { display: none; }

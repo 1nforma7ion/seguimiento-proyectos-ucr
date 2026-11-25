@@ -152,6 +152,9 @@ def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: d
     for archivo in sorted((Path(dir_datos) / "expedientes").glob("*.json")):
         d = _leer(archivo)
         bloque = sorted(l.slug for l in legisladores if any(l.es_autor(a) for a in d["autores"]))
+        # Quien inició el proyecto: el portal lista primero a esa persona (los "Bloque X" no cuentan).
+        primero = next((a for a in d["autores"] if not a.lower().startswith("bloque")), None)
+        principal = next((l.slug for l in legisladores if primero and l.es_autor(primero)), None)
         if not bloque:
             continue
         expedientes[d["numero"]] = {"tipo": d["tipo"], "titulo": d.get("titulo") or recortar(d.get("tema") or d["extracto"], 140),
@@ -159,6 +162,7 @@ def construir_indice(dir_datos: Path, legisladores: list[Legislador], ajustes: d
                                     "desc": d.get("tema") or d["extracto"],
                                     "autores_bloque": bloque, "comisiones": d["comisiones"],
                                     "n_autores": len(d["autores"]),
+                                    "principal": principal,
                                     "estado": d["estado"]}
         for slug in bloque:
             por_leg[slug].append(d["numero"])

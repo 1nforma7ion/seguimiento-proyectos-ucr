@@ -178,3 +178,11 @@ def test_indice_usa_el_titulo_corto_y_guarda_el_tema_para_buscar(tmp_path):
     assert d["titulo"] == "Comisión…"
     assert idx["expedientes"]["48498/L/26"]["titulo"] == "Comisión…"
     assert idx["expedientes"]["48498/L/26"]["desc"] == "Creando la Comisión…"
+
+
+def test_indice_marca_quien_inicio_el_proyecto(tmp_path):
+    guardar_expediente(tmp_path, exp("1/L/26", autores=("Bloque UCR", "Ferrero, Alejandra", "Bria, Jose Alberto")), M)
+    guardar_expediente(tmp_path, exp("2/L/26", autores=("Juez, Daniel", "Ferrero, Alejandra")), M)
+    idx = construir_indice(tmp_path, CFG.legisladores, CFG.ajustes, AHORA)
+    assert idx["expedientes"]["1/L/26"]["principal"] == "ferrero"
+    assert idx["expedientes"]["2/L/26"]["principal"] is None

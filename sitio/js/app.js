@@ -1,12 +1,12 @@
 // Ruteo por hash, carga de datos y eventos.
 import {
-  buscarEnTodo, conNovedad, estaDesactualizado, filtrar, novedadesRecientes, ordenarPor, porLegislador, proximosACaducar, resumen,
+  buscarEnTodo, conNovedad, iniciadosPor, estaDesactualizado, filtrar, novedadesRecientes, ordenarPor, porLegislador, proximosACaducar, resumen,
 } from "./logica.js";
 import * as V from "./vistas.js";
 
 const app = document.getElementById("app");
 const datos = { indice: null, novedades: [], estado: null, glosario: {} };
-const vista = { pestania: "fondo", tarjeta: null, texto: "", orden: "recientes", comision: "", legislador: "", limite: 30 };
+const vista = { pestania: "fondo", tarjeta: null, texto: "", orden: "recientes", comision: "", legislador: "", limite: 30, soloIniciados: false };
 let ultimaLista = "#/elegir";
 let ultimaListaNombre = "Legisladores";
 let textoElegir = "";
@@ -73,8 +73,12 @@ function pantallaLista({ arriba, numeros, propio = null, conSelectores = false }
   const ctx = { hoy, aj, legs, propio, nov: conNovedad(datos.novedades, hoy) };
 
   const dibujar = () => {
-    const base = todos.filter((e) => (!vista.comision || (e.comisiones || []).includes(vista.comision))
+    const firmados = todos.filter((e) => (!vista.comision || (e.comisiones || []).includes(vista.comision))
       && (!vista.legislador || e.autores_bloque.includes(vista.legislador)));
+    const base = propio && vista.soloIniciados ? iniciadosPor(firmados, propio) : firmados;
+    if (propio) {
+      document.getElementById("alcance").innerHTML = V.alcance(vista.soloIniciados, firmados.length, iniciadosPor(firmados, propio).length);
+    }
     const r = { ...resumen(base, datos.novedades, hoy, aj), dias: aj.dias_por_caducar };
     const filtro = { ...vista, tarjeta: vista.tarjeta ?? (vista.pestania === "caducados" ? "caducados" : null) };
     let visibles = filtrar(base, filtro, datos.novedades, hoy, aj);
@@ -97,7 +101,7 @@ function pantallaLista({ arriba, numeros, propio = null, conSelectores = false }
       <label>Comisión<select class="campo" name="comision">${opt("", "Todas las comisiones", vista.comision)}${comisiones.map((c) => opt(c, c, vista.comision)).join("")}</select></label>
     </div>` : "";
 
-  app.innerHTML = `<div class="banda"><div class="cont">${arriba}<div id="indicadores"></div></div></div>
+  app.innerHTML = `<div class="banda"><div class="cont">${arriba}${propio ? '<div id="alcance"></div>' : ""}<div id="indicadores"></div></div></div>
     <div class="cont"><div id="atender"></div>${conSelectores ? '<div id="tabla-bloque" class="seccion"></div>' : ""}
       <section class="seccion" aria-labelledby="t-todos"><div class="titulo-sec"><h2 id="t-todos">${propio ? "Todos sus proyectos" : "Proyectos del bloque"}</h2></div>
         ${selectores}<div id="zona-lista"></div></section></div>`;
@@ -116,11 +120,12 @@ function pantallaLista({ arriba, numeros, propio = null, conSelectores = false }
       vista.tarjeta = vista.tarjeta === t.dataset.tarjeta ? null : t.dataset.tarjeta;
       if (t.classList.contains("enlace")) vista.tarjeta = t.dataset.tarjeta;
     } else if (t.dataset.pestania) { vista.pestania = t.dataset.pestania; vista.tarjeta = null; }
+    else if (t.dataset.alcance) vista.soloIniciados = t.dataset.alcance === "iniciados";
     else if ("quitar" in t.dataset) vista.tarjeta = null;
     else if ("mas" in t.dataset) vista.limite += 30;
     else return;
     if (!("mas" in t.dataset)) vista.limite = 30;
-    const foco = t.dataset.pestania ? `[data-pestania="${t.dataset.pestania}"]` : t.dataset.tarjeta ? `.ind[data-tarjeta="${t.dataset.tarjeta}"]` : null;
+    const foco = t.dataset.alcance ? `[data-alcance="${t.dataset.alcance}"]` : t.dataset.pestania ? `[data-pestania="${t.dataset.pestania}"]` : t.dataset.tarjeta ? `.ind[data-tarjeta="${t.dataset.tarjeta}"]` : null;
     dibujar();
     if (foco) app.querySelector(foco)?.focus();
     if (t.classList.contains("enlace") && t.dataset.tarjeta) document.getElementById("zona-lista").scrollIntoView({ behavior: "smooth" });
@@ -150,7 +155,7 @@ function pantallaLegislador(slug) {
   if (!leg) return pantallaElegir();
   guardar(slug);
   ultimaListaNombre = leg.nombre;
-  pantallaLista({ arriba: V.bandaLegislador(leg, leg.expedientes.length), numeros: leg.expedientes, propio: slug });
+  pantallaLista({ arriba: V.bandaLegislador(leg), numeros: leg.expedientes, propio: slug });
   document.title = `${leg.nombre} · Seguimiento legislativo`;
 }
 
@@ -229,7 +234,7 @@ async function pantallaExpediente(id) {
 
 // --- ruteo ---------------------------------------------------------------------
 function reiniciarVista() {
-  Object.assign(vista, { pestania: "fondo", tarjeta: null, texto: "", orden: "recientes", comision: "", legislador: "", limite: 30 });
+  Object.assign(vista, { pestania: "fondo", tarjeta: null, texto: "", orden: "recientes", comision: "", legislador: "", limite: 30, soloIniciados: false });
 }
 
 async function rutear() {

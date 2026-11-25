@@ -194,14 +194,25 @@ export function bandaElegir(texto) {
   </div></div>`;
 }
 
-export function bandaLegislador(leg, total) {
+export function bandaLegislador(leg) {
   return `<div class="perfil">${avatar(leg, "xl")}<div>
     ${leg.cargo ? `<span class="etiqueta">${esc(leg.cargo)}</span>` : ""}
     <h1>${esc(leg.nombre)}</h1>
-    <p class="bajada">${total
-      ? `Firmó <b>${plural(total, "proyecto", "proyectos")}</b> en este mandato, como autor/a o coautor/a.`
+    <p class="bajada">${leg.expedientes.length
+      ? "Proyectos de este mandato en los que figura como autor/a o coautor/a."
       : "Todavía no hay proyectos cargados. Si la carga inicial está en curso, van a aparecer en las próximas actualizaciones."}</p>
   </div></div>`;
+}
+
+// Selector entre todos los proyectos que firmó y solo los que inició (figura primero entre los autores).
+export function alcance(soloIniciados, firmados, iniciados) {
+  const b = (clave, texto, n, activo) => `<button type="button" data-alcance="${clave}" aria-pressed="${activo}">${texto}<span class="c">${n.toLocaleString("es-AR")}</span></button>`;
+  return `<div class="alcance" role="group" aria-label="Qué proyectos mostrar">
+    ${b("firmados", "Todos los que firmó", firmados, !soloIniciados)}${b("iniciados", "Solo los que inició", iniciados, soloIniciados)}
+  </div>
+  <p class="alcance-ayuda">${soloIniciados
+    ? "Proyectos en los que figura primero entre los autores: es quien los presentó o impulsó."
+    : "Incluye los que inició y aquellos en los que acompañó con su firma."}</p>`;
 }
 
 export function paraAtender(caducan, novedades, expPorNumero, hoy, abierto = false) {
