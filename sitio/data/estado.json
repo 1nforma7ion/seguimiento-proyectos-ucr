@@ -1,6 +1,11 @@
 {
- "ultima_corrida": "2026-11-26T16:42:06.604664-03:00",
+ "ultima_corrida": "2026-11-27T16:30:31.935393-03:00",
  "ultima_actualizacion_ok": "2026-11-26T16:42:06.604664-03:00",
- "ok": true,
- "advertencias": []
+ "ok": false,
+ "advertencias": [
+  "La corrida falló: fallaron 3 expedientes seguidos; el portal parece caído",
+  "No se pudo leer el expediente 46299/R/26 (El portal de la Legislatura está fuera de servicio (devuelve su página de error interno))",
+  "No se pudo leer el expediente 46300/L/26 (El portal de la Legislatura está fuera de servicio (devuelve su página de error interno))",
+  "No se pudo leer el expediente 46301/L/26 (El portal de la Legislatura está fuera de servicio (devuelve su página de error interno))"
+ ]
 }
